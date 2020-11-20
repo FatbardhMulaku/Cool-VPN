@@ -1,10 +1,10 @@
 .SectionH3{
 	/* padding-top: 100px; */
 	transform: translateY(220px);
-	margin-bottom: -150px;
+	margin-bottom: -200px;
 }
 .SectionH3_text{
-	margin-top: 100px;
+	margin-top: 150px;
 }
 .SectionH3__img1{
 	background-image: url("../../../assets/Home/section3_img1.svg");

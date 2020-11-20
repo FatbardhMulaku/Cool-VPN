@@ -1,7 +1,6 @@
 import React from "react";
 import "./LoginNav.css";
 import { useTranslation } from "react-i18next";
-import { useToggle } from "../../../Hooks/useToggle";
 import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles((theme) => ({
