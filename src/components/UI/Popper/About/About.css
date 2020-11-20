@@ -1,0 +1,25 @@
+/* .about_popper_icon1 {
+  background-image: url("../../../../assets/images/about/Group\ 126.svg");
+}
+.about_popper_icon2 {
+  background-image: url("../../../../assets/images/about/Group\ 129.svg");
+}
+.about_popper_icon3 {
+  background-image: url("../../../../assets/images/about/progress.svg");
+}
+.about_popper_icon4 {
+  background-image: url("../../../../assets/images/about/Group\ 127.svg");
+}
+.about_popper_icon5 {
+  background-image: url("../../../../assets/images/about/sport-team.svg");
+}
+.about_popper_icon6 {
+  background-image: url("../../../../assets/images/about/settings.svg");
+} */
+
+.about_popper_list {
+  justify-content: center;
+}
+.about_popper_container > ul > li {
+  width: 220px;
+}

@@ -1,0 +1,1266 @@
+{
+	"mainMenu": [
+	  {
+		"link": "",
+		"name": "home"
+	  },
+	  {
+		"link": "blog",
+		"name": "blog"
+	  },
+	  {
+		"link": "contact",
+		"name": "Kontakto"
+	  }
+	],
+	"loginBtn": "Hyni",
+	"signupBtn": "Regjistrohu",
+	"login": {
+	  "title": "Mirëse u ktheve",
+	  "inputLabel": "Ju lutemi shkruani emailin dhe fjalëkalimin tuaj",
+	  "emailPlaceholder": "Vendosni adresën tuaj të postës elektronike",
+	  "passwordPlaceholder": "Vendosni fjalëkalimin tuaj",
+	  "forget": "Keni harruar fjalëkalimin ?",
+	  "or": "ose",
+	  "btn": ["Hyni", "Krijo nje llogari", "Hyni me Facebook"]
+	},
+	"signup": {
+	  "inputLabel": "Futni detajet tuaja për t'u bashkuar me ne",
+	  "usernamePlaceholder": "Vendosni emrin tuaj të përdoruesit",
+	  "username": "Emri i përdoruesit",
+	  "emailPlaceholder": "Vendosni adresën tuaj të postës elektronike",
+	  "email": "Adresa e emailit",
+	  "password": "Fjalëkalimi",
+	  "confirmPassword": "Konfirmo fjalëkalimin",
+	  "btn": "Hyni",
+	  "loginInfo": "Posedoni një llogari? "
+	},
+  
+	"learnMoreBtn": "Mëso më shumë",
+	"software": {
+	  "section_1": {
+		"title": "Kompania jonë ndërton produkte dixhitale për suksesin tuaj",
+		"desc": "Kontrolli i cilësisë për të dhënat tuaja duke përfshirë shpërndarjen e gjatësisë së leximit dhe vlerësimin tuaj të uniformitetit. Shkallëzoni biznesin tuaj me shërbimin përbrenda."
+	  },
+	  "section_2": {
+		"title": "Ne jemi kompania më e mirë në Kosovë. gjithnjë ofrojm më shumë sesa pritet.",
+		"list": [
+		  {
+			"title": "10K+",
+			"desc": "projektet e përfunduara"
+		  },
+		  {
+			"title": "275+",
+			"desc": "Ekipi mbështetës i eksportit"
+		  },
+		  {
+			"title": "200+",
+			"desc": "Klientë në të gjithë botën"
+		  }
+		]
+	  },
+	  "section_3": {
+		"title": "Karakteristikat tona",
+		"allServices": [
+		  {
+			"title": "Dizajni Mobile",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Web design",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Cloud",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Branding",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Web Front-end",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Web Back-end",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Desktop",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Serverless",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Quality",
+			"desc": "Kompania jonë ju jep cilësinë më të mirë që keni ndonjëherë."
+		  },
+		  {
+			"title": "Security",
+			"desc": "Ne mbështesim projektet tuaja me kompetencë dhe përvojë."
+		  }
+		]
+	  }
+	},
+	"security": {
+	  "section_1": {
+		"title": "Siguria",
+		"desc": "Ne ofrojmë kontraktim profesional, programim, menaxhim, dizajn ose çfarëdo pune vizuale ose administrimi. Na kontaktoni për më shumë informacion."
+	  },
+	  "section_2": ["Të mbrojtura", "Kodet", "Vërtetimi"],
+	  "section_3": {
+		"title": "Ju jeni siguruar 100% me KosovaOutsource",
+		"desc": "Si një kompani e shkëlqyer, KosovaOutsource ju garanton se jeni të siguruar duke bashkëpunuar me ne"
+	  },
+	  "section_4": {
+		"title": "Rritni biznesin tuaj më shumë me Outsource të Kosovës",
+		"desc": "Këtu është i gjithë ekipi i KosovaOutsource, aplikoni në kompaninë tonë dhe mbase mund të jeni në ekipin tonë. Një kompani softuerësh ne kemi një ekip shumë të shkëlqyeshëm dhe shumë punues."
+	  }
+	},
+	"webServices": {
+	  "section_1": {
+		"title": "Shërbimet e Kompanisë sonë",
+		"desc": "Nëse dëshironi të shihni të gjitha shërbimet tona, ju thjesht duhet të lëvizni poshtë dhe mund t'i shihni të gjitha ato. Faleminderit që vizituat"
+	  },
+	  "section_2": {
+		"title": "Këtu janë të gjitha Shërbimet tona që Kompania jonë ofron.",
+		"allServices": [
+		  {
+			"title": "Mobile design",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Dizajnimi i webfaqes",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Cloud",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Brende",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Web Front-end",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Web Back-end",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Desktop",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  },
+		  {
+			"title": "Serverless",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  }
+		]
+	  },
+	  "section_3": {
+		"title": "A është me të vërtetë KosovaOutsource shumë i rekomanduar për të tjerët dhe cila është arsyeja?",
+		"desc": "Se ne jemi më të mirët dhe më të rekomanduarit konsiderohet nga klientët tanë besnikë, kështu që bashkëpunoni me ne nuk do të pendoheni"
+	  },
+	  "section_4": {
+		"title": "Karakteristikat tona",
+		"allServices": [
+		  {
+			"title": "Cilësia",
+			"desc": "Kompania jonë ju jep cilësinë më të mirë që keni ndonjëherë."
+		  },
+		  {
+			"title": "Security",
+			"desc": "Ne mbështesim projektet tuaja me kompetencë dhe përvojë."
+		  },
+		  {
+			"title": "Network Infrastrucrure",
+			"desc": "Ne do të krijojmë një dizajn të bukur dhe punues për idenë tuaj."
+		  }
+		]
+	  }
+	},
+	"seo": {
+	  "section_1": {
+		"title": "Rritni biznesin tuaj më shumë me ne",
+		"desc": "Ne kemi gjithashtu Analizë të SEO dhe ju mund të rrisni biznesin tuaj me ne."
+	  },
+	  "section_2": {
+		"title": "Le ta bëjmë biznesin tuaj diçka për të treguar",
+		"desc": "Kompania jonë ka qenë e suksesshme me këtë për shumë vite, prandaj ndjehuni të sigurt për këtë gjë"
+	  },
+	  "section3title": "Më poshtë janë disa nga shumë detyra jetësore që janë në thelb të Strategjisë sonë të SEO.",
+	  "section3": [
+		{"img": "SeoS3-img1", "title":"Auditimi i faqes në internet & Vlerësimi i SEO", "txt":"Një analizë kritike nga fillimi nga infrastruktura dhe përmbajtja e dizajnit për të lidhur profilin dhe forcën e markës. "},
+		{"img": "SeoS3-img2", "title":"Auditimi i hollësishëm i lidhjes së pasme", "txt":"Ne shikojmë të GJITHA lidhjet e krijuara për një faqe në internet në mënyrë që të përcaktojmë vlerën e tyre dhe të heqim lidhjet e padëshiruara."},
+		{"img": "SeoS3-img3", "title":"Listimet e Profilit të Biznesit", "txt":"Këto janë direktori me ndikim, të bazuara në industri, të cilat çdo biznes duhet t'i synojë për të fituar tërheqje në SEO lokale."},
+		{"img": "SeoS3-img4", "title":"Analiza e konkurrencës SEO", "txt":"Ne kryejmë një studim shterues të konkurrentëve në mënyrë që të identifikojmë krijimin e lidhjeve të reja dhe mundësitë e marketingut."},
+		{"img": "SeoS3-img5", "title":"Krijimi dhe Marketingu i Përmbajtjes", "txt":"Cilësi e lartë, përmbajtje e optimizuar nga SEO (artikuj, blog, njoftime për shtyp, postime në media sociale dhe postime të ftuar) që përcakton renditjen e Google."},
+		{"img": "SeoS3-img6", "title":"Video / Infografikë", "txt":"Jepni përmbajtjes tuaj një kthesë tërheqëse! Projektuesit dhe redaktuesit tanë të videos krijojnë infografi dhe video promovuese që marrin më shumë konvertime."},
+		{"img": "SeoS3-img7", "title":"Kërkim i gjerë për fjalët kyçe", "txt":"Hapi më i rëndësishëm në SEO, kërkimi ynë i fjalëve kyçe është shterues dhe përqendrohet në 'fjalë kyçe të konvertimit' që sjellin rezultate."},
+		{"img": "SeoS3-img8", "title":"Shërbime për ndërtimin e lidhjeve", "txt":"Ne ndërtojmë lidhje në faqet autoritare që përfundimisht lidhen përsëri me faqen tuaj të internetit, duke shfrytëzuar besueshmërinë e tyre dhe duke përmirësuar SEO."}
+	  ],
+	  "section_4title": "Shikoni Procesin tonë SEO!",
+	  "section_4p": "Më poshtë është një kalendar kohor tipik i një projekti SEO.",
+	  "section_4mid":[
+		{ "img":"Seo4-CssImg1","txt": "1. Fjala kyçe Dokumenti i Kërkimit", "color": "SeoS3-color1"},
+		{ "img":"Seo4-CssImg2","txt": "2. Auditimi i faqes në internet", "color": "SeoS3-color2"},
+		{ "img":"Seo4-CssImg3","txt": "3. Plani i përmbajtjes", "color": "SeoS3-color3"}
+	  ],
+	  "section_4Box":[
+		{"img": "SeoS4-img1","title":"Dokumenti i kërkimit të fjalës kyçe", "txt":"Ne identifikojmë terma të rëndësishëm të fjalëve kyçe që lidhen me industrinë tuaj, shërbimin, rajonin, audiencën e synuar dhe konkurrentët për të optimizuar faqen tuaj të internetit për trafikun dhe renditjen."},
+		{"img": "SeoS4-img2","title":"Kontrolli i faqes në internet", "txt":"Këtu, kryhet një analizë e gjerë që e vë faqen tuaj përmes testeve të shumta, duke identifikuar mangësitë dhe duke përshkruar rezultatet së bashku me rekomandimet."},
+		{"img": "SeoS4-img3","title":"Plani i përmbajtjes", "txt":"Ekipi ynë i ekspertëve të marketingut të përmbajtjes sugjeron tema tërheqëse, të pasura me fjalë kyçe, duke mbajtur parasysh objektivat tuaj të marketingut, zërin e markës dhe tregun e synuar."}
+	  ],
+	  "section_5": "Projektet tona më të fundit"
+	},
+	"faq": {
+	  "faqForm": {
+		"name": "faqet e internetit",
+		"input": "Na bëni një pyetje",
+		"btn": "Dërgo"
+	  },
+	  "questionsHeader": "Lexoni të gjitha pyetjet e bëra më shpesh të KosovaOutsource",
+	  "questions": [
+		{
+		  "question": "Pse KosovaOutsource është kompania më e mirë në Kosovë?",
+		  "answer": "Ne ofrojmë kontraktim profesional, programim, menaxhim, dizajn ose çfarëdo pune vizuale ose administrimi."
+		},
+		{
+		  "question": "A është gjithçka mirë gjithmonë në kompaninë tuaj?",
+		  "answer": "Klientët tanë thonë gjithmonë se Kosova Outsource është kompania më e mirë e programeve kompjuterikë në Kosovë ndonjëherë."
+		},
+		{
+		  "question": "Si mund të aplikoj për një vend pune në KosovaOutsource?",
+		  "answer": "nëse dëshironi të punoni me KosovaOutsource ju lutemi na dërgoni një CV në e-mailin tonë dhe mbase ne mund të punojmë së bashku."
+		},
+		{
+		  "question": "A është KosovaOutsource kompani shumë punëtore?",
+		  "answer": "Si kompani softuerësh kemi një ekip shumë të shkëlqyeshëm dhe punëtor."
+		},
+		{
+		  "question": "Sa vjet përvojë ka kompania juaj?",
+		  "answer": "Ne kemi eksperiencë 10 vjeqare me 10K+ projektet e përfunduara dhe 300+ klientë në të gjithë botën"
+		},
+		{
+		  "question": "Sa orë në ditë KosovaOutsource punon?",
+		  "answer": "Ne si kompani programuese punojmë mesatarisht 8 orë në ditë"
+		}
+	  ]
+	},
+	"footerMenu": [
+	  {
+		"title": "Lidhjet e Shpejta",
+		"items": [
+		  {
+			"link": "/",
+			"name": "home"
+		  },
+		  {
+			"link": "/about",
+			"name": "Rreth nesh"
+		  },
+  
+		  {
+			"link": "/blog",
+			"name": "Blog"
+		  },
+		  {
+			"link": "/contact",
+			"name": "Na kontaktoni"
+		  },
+		  {
+			"link": "/news",
+			"name": "Lajme"
+		  }
+		]
+	  },
+	  {
+		"title": "Shërbimet",
+		"items": [
+		  {
+			"link": "/software-development",
+			"name": "Zhvillimi i softverit"
+		  },
+		  {
+			"link": "/callaboration",
+			"name": "Bashkëpunimi"
+		  },
+		  {
+			"link": "/nerwork-infrastructure",
+			"name": "Infrastruktura e rrjetit"
+		  },
+		  {
+			"link": "/administration",
+			"name": "Administrata"
+		  },
+		  {
+			"link": "/managment-services",
+			"name": "Shërbimet e menaxhimit"
+		  }
+		]
+	  },
+	  {
+		"title": "Qendra e ndihmes",
+		"items": [
+		  {
+			"link": "/team-services",
+			"name": "Ekipi i shërbimeve"
+		  },
+		  {
+			"link": "/privacy-policy",
+			"name": "Politika e privatësisë"
+		  },
+		  {
+			"link": "/security",
+			"name": "Siguria"
+		  },
+		  {
+			"link": "/faq",
+			"name": "Pyetjet e shpeshta"
+		  }
+		]
+	  }
+	],
+	"industriesPopper": {
+	  "name": "industritë",
+	  "industriesMenu": [
+		{ "link": "seo-analysis", "name": "Analiza e SEO" },
+		{ "link": "management", "name": "Menaxhimi" },
+		{ "link": "it-outsourcing", "name": "Kontraktimi i IT" },
+		{ "link": "application", "name": "Aplikacion" },
+		{ "link": "it-consulting", "name": "IT-Konsulencë" },
+		{ "link": "it-support", "name": "Mbështetje IT" },
+		{ "link": "cloud", "name": "Cloud" },
+		{ "link": "data-analytics", "name": "Analiza e të Dhënave" },
+		{ "link": "cybersecurity", "name": "Siguria kibernetike" },
+		{ "link": "image-analysis", "name": "Analiza e imazhit" },
+		{ "link": "webdesign", "name": "Dizajn i web-it" },
+		{ "link": "web-portal-development", "name": "Zhvillimi i Portalit në Ueb" },
+		{ "link": "testing-qa", "name": "Testimi i QA" },
+		{ "link": "ecommerce", "name": "Ecommerce" },
+		{ "link": "web-services", "name": "Shërbime në internet" }
+	  ],
+	  "industriesInfoName": "Kompania",
+	  "industriesInfoMenu": ["Kushtet e Përdorimit", "Privatësia", "Siguria"]
+	},
+	"aboutPopper": {
+	  "name": "Rreth nesh",
+	  "aboutMenu": [
+		{ "link": "Team", "name": "Ekipa" },
+		{ "link": "company", "name": "Agjencia jonë" },
+		{ "link": "career", "name": "Karriera" },
+		{ "link": "Faq", "name": "Pyetjet të shpeshta" },
+		{ "link": "Who we are", "name": "Kush jemi " },
+		{ "link": "What we do", "name": "Çfarë bëjmë ne" }
+	  ]
+	},
+	"caseStudiesPopper": {
+	  "name": "studime të rastit",
+	  "caseStudiesMenu": [
+		{ "link": "portfolio", "name": "Përvoja" },
+		{ "link": "Stories", "name": "Tregime" }
+	  ]
+	},
+	"location": "Ne ofrojmë zgjidhjet më të lira dhe më të mira të burimeve të jashtme në Kosovë. Na kontaktoni për të marrë një vlerësim!",
+	"subscribe": {
+	  "name": "Abonohuni për ofertat e fundit!!"
+	},
+	"alRight": "2020 KosovaOutsource. Të gjitha të drejtat janë të rezervuara",
+  
+	"Home": {
+	  "BanerH1": "Ne jemi Kompania më e mirë programuese në Kosovë.",
+	  "BannerP": "Ne ofrojmë kontraktim profesional, programim, menaxhim, dizajn ose çfarëdo pune vizuale ose administrimi. Na kontaktoni për më shumë informacion",
+	  "BannerA": "Learn More",
+  
+	  "SectionH2title": "Eksploroni atë që ne ofrojmë",
+	  "Section2": [
+		{
+		  "SectionH2_Title": "Dizajn Mobil",
+		  "SectionH2_Info": "Specialistët Mobil tanë të dizajnit UI/UX krijojnë një përvojë të përdoruesit celular të drejtuar nga konvertimi që bën konvertim të lartë dhe mbajtje të përdoruesit."
+		},
+		{
+		  "SectionH2_Title": "Projektim Uebi",
+		  "SectionH2_Info": "Shërbimet e dizajnimit të uebit përfshijnë proceset e ndërfaqes së përdoruesit (UI) dhe përvojës së përdoruesit (UX) të dizajnit të çdo zgjidhjeje të bazuar në ueb."
+		},
+		{
+		  "SectionH2_Title": "Cloud",
+		  "SectionH2_Info": "Shërbimet e menaxhimit të infrastrukturës së Cloud sigurojnë shkallëzim për bizneset. Ku përdoruesit e shumtë mund të ndajnë një infrastrukturë të përbashkët."
+		},
+		{
+		  "SectionH2_Title": "Brende",
+		  "SectionH2_Info": "Ne Brende aplikohen kryesisht në intranet dhe portale, dhe nuk ka të bëjë vetëm me përmirësimin e pamjes dhe ndjesisë së një zgjidhjeje për hir të saj."
+		},
+		{
+		  "SectionH2_Title": "Shërbime në internet",
+		  "SectionH2_Info": "Shërbimet e zhvillimit të uebit nënkuptojnë dizajnimin, ndërtimin, integrimin, shkallëzimin dhe mirëmbajtjen e zgjidhjeve dinamike të programeve që funksionojnë përmes intranetit ose internetit."
+		},
+		{
+		  "SectionH2_Title": "Menaxhimi",
+		  "SectionH2_Info": "Menaxhimi i referohet monitorimit dhe administrimit të sistemeve të teknologjisë së informacionit të një organizate: hardueri, softueri dhe rrjetet."
+		}
+	  ],
+  
+	  "SectionH3": "Teknologjitë që përdor KosovaOutsource",
+	  "SectionH3L": [
+		{ "tlogos": "tlogo logo-java" },
+		{ "tlogos": "tlogo logo-html" },
+		{ "tlogos": "tlogo logo-react" },
+		{ "tlogos": "tlogo logo-wordpress" },
+		{ "tlogos": "tlogo logo-php" },
+		{ "tlogos": "tlogo logo-java" },
+		{ "tlogos": "tlogo logo-html" },
+		{ "tlogos": "tlogo logo-react" },
+		{ "tlogos": "tlogo logo-wordpress" },
+		{ "tlogos": "tlogo logo-php" }
+	  ],
+  
+	  "SectionH4LeftTitle": "Ne mund të jemi ndoshta vetëm një email larg për të punuar së bashku",
+	  "SectionH4LeftP": "nëse dëshironi të punoni me KosovaOutsource ju lutemi na dërgoni një CV në e-mailin tonë dhe ne do të rishikojmë PropTypes të importit nga 'prop-types' dhe mbase mund të punojmë së bashku.",
+	  "SectionH4LeftBtn": "Mëso më shumë",
+	  "SectionH4RightName1": "Leona Zeqiri",
+	  "SectionH4RightTitle1": "Menaxher i Projektit",
+	  "SectionH4RightP1": "Përshëndetje, unë jam menaxher i projektit Lona në KosovaOutsource, mirë që u njoha",
+	  "SectionH4RightName2": "Ilir Osmani",
+	  "SectionH4RightTitle2": "Dizajner i Uebit",
+	  "SectionH4RightP2": "Përshëndetje Unë jam Ilir Osmani dizajner uebi në KosovaOutsource, mirë që u njoha",
+	  "SectionH4RightName3": "Rita Gashi",
+	  "SectionH4RightTitle3": "Zhvilluesi i uebit",
+	  "SectionH4RightP3": "Përshëndetje Unë jam Rita Gashi Zhvilluese e Uebit në KosovaOutsource, mirë që u njoha",
+  
+	  "SectionH5title": "Punimet tona",
+	  "SectionH5Soft": "Softveri",
+	  "SectionH5Deve": "Zhvillimet",
+	  "SectionH5Design": "Projekte UI/UX",
+	  "SectionH5SeeAll": "Shihni të gjitha artikujt",
+	  "SectionH5Tabtitle": "Dizajn i Uebit",
+	  "SectionH5TabBtn": "Shikoni projektin",
+  
+	  "SectionH6T1": "Për atë që jemi krenarë",
+	  "SectionH6P1": "Ne krenohemi që jemi Techonology Native dhe nuk jemi bllokuar në Techonologies të caktuara, në vend të kësaj ofrojmë zgjidhjen më të mirë për klientët tanë. Ne synojmë të ofrojmë një seri fikse shërbimesh me një katalog shërbimesh.",
+	  "SectionH6Btn": "Dergo",
+	  "SectionH6T2": "Ne promovojmë integritetin",
+	  "SectionH6P2": "Ne jemi të pavarur që nxit më tej vlerat tona që interesat e klientëve tanë janë gjithmonë një përparësi. Integriteti dhe përgjegjësia ndaj klientëve tanë dhe na bëri partnerin e zgjedhur në rajon për mijëra klientë vendas dhe ndërkombëtarë."
+	},
+  
+	"Contact": {
+	  "BannerB": "Na kontaktoni",
+	  "SectionB2": "Na merrni ne një prekje",
+	  "Section2": [
+		{
+		  "title": "Telefoni",
+		  "info1":"+3834445400400",
+		  "info2":"+3834445400400",
+		  "to":"tel: +3834445400400"
+		},
+		{
+		  "title": "Email",
+		  "info1": "info@KsOutsource.com",
+		  "info2": "info@KsOutsource.com",
+		  "to": "mailto: info@KsOutsource.com"
+		},
+		{
+		  "title": "Social Media",
+		  "info1":"Pëlqejeni faqen tonë në FB",
+		  "info2": "Na ndiqni në instagram",
+		  "to":"#"
+		}
+	  ]
+	},
+  
+	"Blog": {
+	  "BannerB1h": "Pse KosovaOutsource është kompania më e mirë e programimit në rajon.",
+	  "BannerB1p": "Klientët tanë thonë gjithmonë se Kosova Outsource është kompania më e mirë e programimit në Kosovë ndonjëherë.",
+  
+	  "SectionB2h": "Artikujt kryesor",
+	  "SectionB2": [
+		{
+		  "SectionB2txt": "Pse KosovaOutsource është kompania më e mirë në rajon",
+		  "klasa": "Bb",
+		  "SectionB2btn": "Lexoni"
+		},
+		{
+		  "SectionB2txt": "A është KosovaOutsource kompania më e mire",
+		  "klasa": "Bc",
+		  "SectionB2btn": "Lexoni"
+		},
+		{
+		  "SectionB2txt": "A janë klientë besnikë të KosovaOutsource",
+		  "klasa": "Bd",
+		  "SectionB2btn": "Lexoni"
+		},
+		{
+		  "SectionB2txt": "Si mund të aplikoj për një vend pune në Kosova Outsource",
+		  "klasa": "Be",
+		  "SectionB2btn": "Lexoni"
+		}
+	  ],
+  
+	  "SectionB3h": "Frymëzime",
+	  "SectionB3btn": "Shikoni më shumë",
+	  "SectionB3a": [
+		{
+		  "title": "A është gjithçka mirë në KosovaOutsource?",
+		  "data": "26.08.2020"
+		},
+		{
+		  "title": "KosovaOutsource punon 8 orë në ditë gjithmonë.",
+		  "data": "15.08.2020"
+		},
+		{
+		  "title": "KosovaOutsource u rekomandohet shumë të tjerëve!",
+		  "data": "20.07.2020"
+		}
+	  ],
+	  "SectionB3b": [
+		{
+		  "title": "KosovaOutsource është kompani shumë punëtore.",
+		  "data": "04.06.2020"
+		},
+		{
+		  "title": "Sa vite përvojë ka KosovaOutsource.",
+		  "data": "11.06.2020"
+		}
+	  ],
+  
+	  "SectionCS1h": "Çfarë bëjmë ne",
+	  "SectionCS1p": "Ne ofrojmë kontraktim profesional, programim, menaxhim, dizajn ose çfarëdo pune vizuale ose administrimi. Na kontaktoni për më shumë informacion.",
+	  "SectionCSbtn": "Mëso më shumë",
+	  "SectionCS2h": "Ne bëjmë atë që duam për më mirë.",
+	  "SectionCS2p": "Për të ofruar shërbime cilësore të zhvillimit të softuerit, duhet të zotëroni teknologjinë. Për ta bërë atë të nivelit të lartë, duhet të zotëroni ndërveprimet e njerëzve dhe ta lini ekipin të shkojë përtej.",
+	  "SectionCS3h": "KosovaOutsource drejton me sukses të gjitha llojet e Shërbimeve të TI-së.",
+	  "SectionCS3p": "Këtu është e gjithë ekipi i KosovaOutsource që aplikojnë në kompaninë tonë dhe ndoshta mund të jenë në ekipin tonë. Si kompani softuerësh kemi një ekip shumë të shkëlqyeshëm dhe punëtor."
+	},
+	"About": {
+	  "SectionA1h1": "Rreth Nesh",
+	  "SectionA1title": "Ne bëjmë atë që duam për më mirë.",
+	  "SectionA1":[
+		{"SectionA1p": "Për të ofruar shërbime cilësore të zhvillimit të softuerit, duhet të zotëroni teknologjinë. Për ta bërë atë të nivelit të lartë, duhet të zotëroni ndërveprimet e njerëzve dhe ta lini ekipin tuaj të shkojë përtej"},
+		{"SectionA1p": "ne e kemi bërë atë për shumë vite."}
+	  ],
+
+	  "SectionA2h": "Zgjidhje unike për biznesin tuaj",
+	  "SectionA2": [
+		{
+		  "txt": "Atëherë që ne jemi më të mirët dhe më të rekomanduarit konsiderohet nga klientët tanë besnikë, kështu që bashkëpunoni me ne nuk do të pendoheni."
+		},
+		{
+		  "txt": "Ne jemi të pavarur, të cilat nxisin më tej vlerat tona që interesat e klientëve tanë janë gjithmonë një përparësi."
+		},
+		{
+		  "txt": "Ne krenohemi me faktin se jemi Technology Native dhe nuk jemi bllokuar në disa teknologji në vend."
+		}
+	  ],
+	  "SectionA3h": "Dëshmi",
+	  "SectionA3hh": "Çfarë po thonë klientët tanë për ne",
+	  "SectionA3p": "Ekzistojnë shumë variacione të pasazheve të Lorem ipsum në dispozicion, por shumica kanë pësuar alternime në disa nga nga humori i injektuar.",
+  
+	  "SectionA3": [
+		{
+		  "class1": "SectionA3bImg2",
+		  "class2": "SectionA3b-img2"
+		},
+		{
+		  "class1": "SectionA3bImg3",
+		  "class2": "SectionA3b-img3"
+		},
+		{
+		  "class1": "SectionA3bImg4",
+		  "class2": "SectionA3b-img4"
+		},
+		{
+		  "class1": "SectionA3bImg5",
+		  "class2": "SectionA3b-img5"
+		}
+	  ]
+	},
+	"Team": {
+	  "BannerTh": "Ekipa",
+	  "BannerTp": "Këtu është i gjithë ekipi i KosovaOutsource, aplikoni në kompaninë tonë dhe mbase mund të jeni në ekipin tonë",
+  
+	  "SectionT2": "Ekipi ynë",
+	  "Section2title1": "Drejtori",
+	  "Section2title2": "Sekretar",
+	  "Section2title3": "Menaxher",
+  
+	  "Section4h": "A është ekipi i KosovaOutsource ekip shumë punëtor?",
+	  "Section4p": "Këtu është i gjithë ekipi i KosovaOutsource, aplikoni në kompaninë tonë dhe mbase mund të jeni në ekipin tonë. Si kompani softuerësh kemi një ekip shumë të shkëlqyeshëm dhe punëtor.",
+	  "send": "Dergo"
+	},
+	"Company": {
+	  "Section1h": "KosovaOutsource është kompani shumë serioze me shërbime të shkëlqyera.",
+	  "Section1p": "Ne ofrojmë kontraktim profesional, programim, menaxhim, dizajn ose çfarëdo pune vizuale ose administrimi. Na kontaktoni për më shumë informacion.",
+  
+	  "Section2": "Karakteristikat tona",
+	  "Section2h": "Ne jemi ndërmarrja më e mirë e programeve kompjuterikë në Kosovë",
+	  "Section2p": "Ne ofrojmë kontraktim profesional, programim, menaxhim, dizajn ose çfarëdo pune vizuale ose administrimi. Na kontaktoni për më shumë informacion",
+  
+	  "Section3h": "A është me të vërtetë KosovaOutsource shumë i rekomanduar për të tjerët dhe cila është arsyeja?",
+	  "Section3p": "Se ne jemi më të mirët dhe më të rekomanduarit konsiderohet nga klientët tanë besnikë, kështu që bashkëpunoni me ne nuk do të pendoheni."
+	},
+  
+	"Career": {
+	  "Section1h": "Gjeje rrugën tuaj për punën e ëndrrave.",
+	  "Section1p": "Njihuni me talentin tuaj natyror për ta bërë më të lehtë për ju që të vazhdoni karrierën tuaj në një nivel të lartë.",
+	  "Section1Btn1": "Bashkohuni me ekipin tonë",
+	  "Section1Btn2": "Shihni pozicionet në dispozicion",
+	  "or": "or",
+		
+	  "Section2h4":"Si punon?",
+      "Section2h2":"Hapat drejt bërjes së një zgjedhjeje të duhur në karrierë",
+	  "Section2": [
+		{
+		  "nr": "01",
+		  "c1": "SectionCe2-Box",
+		  "c2": "SectionCe2-Box-l",
+		  "c3": "SectionCe2-Box-r",
+		  "title": "Zbuloni",
+		  "txt": "Merrni vlerësimin tonë të karrierës, Kuptoni veten, filloni me Eksplorimi i Karrierës, i radhitur me ju ndërfaqet në Aplikacionin tonë."
+		},
+		{
+		  "nr": "02",
+		  "c1": "SectionCe2-Box",
+		  "c2": "SectionCe2-Box-l",
+		  "c3": "SectionCe2-Box-r",
+		  "title": "Meso",
+		  "txt": "Vazhdoni të eksploroni historitë dhe projektet tona ekzistuese, të përfshira në karriera të ndryshme gjatë kohëzgjatjes së kohës."
+		},
+		{
+		  "nr": "03",
+		  "c1": "SectionCe2-Box",
+		  "c2": "SectionCe2-Box-l",
+		  "c3": "SectionCe2-Box-r",
+		  "title": "Përvoja",
+		  "txt": "Përmes bisedës tonë Live Pep (Së shpejti), dhe më pas takoni profesionistë të veçantë të karrierës jashtë linje në ngjarjen tonë me emrin dita e karrierës."
+		}
+	  ],
+	  
+	  "Section3h" :"Pozitat e tona të lira",
+      "Section3p" :"Shiko te gjitha",
+	  "Section3": [
+		{
+		  "title": "Projektues i Lartë Grafik",
+		  "apply": "Apliko tani",
+		  "txt": "Ne jemi duke kërkuar një Designer të Lartë Grafik për të krijuar dhe menaxhuar dizajne dixhitale dhe të shtypura për nevojat tona të marketingut."
+		},
+		{
+		  "title": "Web Back-end",
+		  "apply": "Apliko tani",
+		  "txt": "Ne jemi duke kërkuar për një Zhvillues të Uebit Back-End përgjegjës për menaxhimin e shkëmbimit të të dhënave midis serverit dhe përdoruesve."
+		},
+		{
+		  "title": "Web Designer",
+		  "apply": "Apliko tani",
+		  "txt": "Ne jemi duke kërkuar një Web Designer i cili do të jetë përgjegjës për krijimin e faqeve të internetit të shkëlqyera për klientët tanë."
+		},
+		{
+		  "title": "Low-code Developer",
+		  "apply": "Apliko tani",
+		  "txt": "Një sistem me kod të ulët është krijuar për të zvogëluar sasinë e kohës që duhet për kodimin për ekipet e zhvillimit."
+		}
+	  ]
+	},
+	"webdesign": {
+		"section_1": {
+		  "title": "Shërbime për krijimin e faqeve në internet",
+		  "desc": "Shërbimet e dizajnimit të uebit përfshijnë proceset e ndërfaqes së përdoruesit (UI) dhe përvojës së përdoruesit (UX) të dizajnit të çdo zgjidhjeje të bazuar në internet. Në secilin prej projekteve të saj të krijimit të uebit, ScienceSoft ekuilibron me mençuri teknologjinë, estetikën vizuale dhe objektivat e biznesit, duke ju sjellë përvoja në internet me ngarkim të shpejtë, me ndikim dhe konvertim të lartë."
+		},
+		"section_2":{
+		  "title":"Dëshironi një Dizajn Ueb që Fuqizon Biznesin Tuaj?",
+		  "desc":"KosovaOutSource krijon dizajne të gjalla dhe intuitive të uebit që sigurojnë përsosmëri të markës, angazhim dhe kënaqësi të përdoruesit, të gjitha që rezultojnë në një shkallë të lartë konvertimi."
+		},
+		"section_3title":"Pse KosovaOutSource",
+		"section_3":[
+		  {"txt":"8 vjet në dizajnin dixhital."},
+		  {"txt":"Ekipet e dizajnit të UI dhe UX me përvojë disa vjeqare ne praktike."},
+		  {"txt":"Dizajn i përgjegjshëm dhe i drejtuar nga performanca."},
+		  {"txt":"Përqendrohuni te shndërrimet."},
+		  {"txt":"Respektimi i rregullave SEO dhe, nëse kërkohet, i WCAG2."},
+		  {"txt":"Procese të shkathëta të vendosura mirë."}
+		],
+		"section4title":"Përfitimet e Projektimit të Uebit me KosovaOutsource",
+		"section_4":[
+		  {"icon":"WDsection4_icon1", "title":"Dizajn konkurrues ", "txt":"Ne kombinojmë stilin tuaj të markës dhe trendet më të fundit të krijimit të faqes në internet, duke u mbështetur në të dhënat e mbledhura përmes analizave të kompanive rivale, studimeve të tregut dhe kërkimeve të përdoruesve. Kjo qasje na lejon të ofrojmë dizajne unikale dhe mjaft konkurruese që forcojnë identitetin e markës suaj, pasqyrojnë vlerat e markës dhe mbështesin qëllimet tuaja të marketingut."},
+		  {"icon":"WDsection4_icon2", "title":"Përqendrohuni në objektivat e biznesit tuaj", "txt":"Kur punoni për një dizajn të një faqe në internet ose portal, ekipi ynë gjithmonë synon objektivat tuaja specifike të marketingut dhe shërbimit ndaj klientit. Ne vendosim bashkëpunim produktiv me palët e interesit për të kuptuar proceset e biznesit tuaj dhe për të ofruar një model që do të fuqizojë strategjinë tuaj individuale të konvertimit."},
+		  {"icon":"WDsection4_icon3", "title":"Përshtatur për audiencën tuaj të synuar", "txt":"Ne kryejmë një analizë të thellë të pritjeve të përdoruesve tuaj në fillim të projektit. Të dhënat që ne përdorim për përshtatjen e pamjeve tuaja fitohen nga studimet e përdorshmërisë (në rast të një zgjidhjeje në zhvillim në internet) ose auditimi gjithëpërfshirës UX dhe UI (në rast të një zgjidhjeje të zhvilluar tashmë në internet)."}
+		],
+		"section5_title":"Opsionet tona të shërbimit për krijimin e faqeve në internet",
+		"section5_desc":"Ndërsa ofrojmë mundësinë e krijimit të njëhershëm të faqes në internet, ne gjithashtu sugjerojmë shërbime të vazhdueshme të mbështetjes së dizajnit që mundësojnë evolucionin pa ndërprerje të zgjidhjes suaj gjithnjë në rritje të internetit. Duke punuar në bashkëpunim të ngushtë me ekipin tuaj, ne gradualisht prezantojmë përmirësime dhe ndryshime bazuar në sondazhet e rregullta të përdoruesve dhe testimin A / B, duke siguruar kështu përvojë superiore të përdoruesit.",
+		"section_5":[
+		  {"title": "Krijimi i faqes në internet të tregtisë elektronike", "desc": "Dizajn i freskët dhe elegant i tregtisë elektronike për të nxitur vlerën e jetës së klientit në dyqanin tuaj dhe për të lehtësuar shitjen në rritje.", "btn":"Merrni modelin tim të tregtisë elektronike"},
+		  {"title": " Krijimi i faqes në internet / portalit", "desc": "Dizajni në qendër të klientit që bën për kohën më të lartë të banimit dhe një normë më të ulët gabimi të përdoruesit, si dhe rrit angazhimin e përdoruesit.", "btn":"Merrni faqen time te internetit"},
+		  {"title": "Krijimi i faqes në internet / portalit", "desc": "Dizajn specifik i industrisë për të rritur frekuencën e pajtimeve në email, para-regjistrimet për shërbimet e ardhshme dhe kërkesat për kuotë / demo.", "btn":"Merrni modelin tim të tregtisë elektronike"}
+		]
+	},
+	"Management":{
+		"section_1":{
+		  "title":"Monitorimi i Shërbimeve të Menaxhimit të Aplikacioneve, Zgjidhja e Problemeve, Përmirësimi, Optimizimi",
+		  "desc": "Sipas sondazheve të fundit të Ekonomisë Kompjuterike, menaxhimi i aplikacioneve është një nga funksionet më tërheqëse dhe më të përshtatshme të IT për burimet e jashtme. Duke iu përgjigjur nevojave të ndërmarrjeve moderne, ne jemi përqendruar në krijimin e një oferte gjithëpërfshirëse për të mbajtur aplikacionet tuaja relevante, të disponueshme dhe duke funksionuar mirë."
+		},
+		"section_2title":"Shërbimet tona të menaxhimit të aplikacioneve",
+		"section_2desc":"Ne i mbajmë proceset plotësisht të dukshme dhe ju azhurnojmë vazhdimisht për gjendjen aktuale të aplikimeve tuaja, duke siguruar raporte të hollësishme për planet e zbatimit, aktivitetet e kryera dhe masat e paraqitura.",
+		"section_2":[
+		  {"title":"Monitorimi i aplikacioneve dhe menaxhimi i performancës","desc":"Ne mund t'ju ndihmojmë të ruani performancën e duhur të aplikacioneve kritike për ndërmarrjen tuaj. Me aktivitete të plota monitoruese, ekipi ynë në mënyrë proaktive diagnostikon dhe rregullon ngadalësimet dhe dështimet në zhvillim përpara se ato të zbulohen nga përdoruesit përfundimtarë."},
+		  {"title":"Zgjidhja e problemeve të aplikacionit","desc":"Ne zgjidhim problemet që ndodhin në aplikacionet tuaja kritike, në lidhje me sjelljet specifike të gabuara, trajtimin e ngadaltë të kërkesave, gabimet e ekzekutimit, mungesën e komponentit dhe cilësinë e dobët të të dhënave."},
+		  {"title":"Përmirësimet e aplikacioneve","desc":"Ne menaxhojmë kërkesat për ndryshime të vogla dhe më thelbësore të aplikacioneve, si dhe ndihmojmë me lëshimet e versioneve të azhurnuara të aplikacionit."},
+		  {"title":"Optimizimi i aplikacionit","desc":"Ne ju ndihmojmë për të siguruar që aplikacionet tuaja të qëndrojnë aktuale me ndryshimin e nevojave dhe qëllimeve të biznesit. Konsulentët tanë kryejnë një rishikim të hollësishëm të aplikacioneve tuaja dhe proceseve përkatëse të biznesit për të modifikuar aplikacionet (duke prezantuar automatizimin dhe integrimet)."},
+		  {"title":"Shërbimet e menaxhimit dhe trajnimit të ndryshimit","desc":"Për të siguruar një kalim të butë në sistemet e azhurnuara, ne ofrojmë një plan gjithëpërfshirës të menaxhimit të ndryshimit (duke përfshirë mbulimin e plotë të testit, analizën e rrezikut dhe rishikimin pas nisjes), rishikimin dhe shërbimet e trajnimit."},
+		  {"title":"Aplikimi i shërbimeve të trajnimit","desc":"Ne punojmë ngushtë me ekipin tuaj të IT për t'i ndihmuar ata të përgatiten për menaxhimin e aplikacioneve të azhurnuara. Gjithashtu, duke siguruar udhëzime hap pas hapi, trajnime brenda dhe punëtori, ne sigurojmë që përdoruesit tuaj përfundimtarë të ndihen të sigurt."}
+		],
+		"section_3title": "Menaxhimi i Aplikimit Mbështetur nga Shërbimet e Tavolinës së Ndihmës",
+		"section_3desc": "Ne i plotësojmë shërbimet tona të menaxhimit me mbështetjen gjithëpërfshirëse të ndihmës. Tabela e ndihmës përfaqësohet nga një ekip shumëgjuhësh 24/7 me ekspertizën e duhur teknike. Ato bëhen një pikë e vetme hyrëse për të gjitha kërkesat e shërbimit dhe raportet e incidenteve duke lehtësuar dhe modernizuar zgjidhjen e tyre, si dhe duke përmirësuar kënaqësinë e përdoruesve nga:  ",
+		"section_3":[
+		  {"title": "Priorizimi dhe kategorizimi i incidenteve", "desc":"raportuar nga përdoruesit (përmes postës elektronike, telefonit, bisedës, një sistemi të menaxhimit të biletave) ose identifikuar nga sistemet e monitorimit."},
+		  {"title": "Sigurimi i një zgjidhjeje të menjëhershme", "desc":"për çështje të përgjithshme ose të përsëritshme sipas udhëzimeve dhe shkallëzimit të rasteve më komplekse tek ekspertët teknikë."},
+		  {"title": "Informimi i përdoruesve", "desc":"mbi statusin e kërkesave të tyre."},
+		  {"title": "Zgjerimi i një baze njohurish dhe një seksioni FAQ", "desc":"për vetë-ndihmën e përdoruesve."},
+		  {"title": "Mbledhja e reagimeve të përdoruesve", "desc":"për vetë-ndihmën e përdoruesve."}
+		],
+		"section_4":[
+		  {"txt": "Aplikimet Ne Menaxhuar"},
+		  {"txt": "Ne ofrojmë shërbime profesionale të menaxhimit të aplikacioneve për një gamë të gjerë të aplikacioneve:"},
+		  {"txt": "Aplikime të ndërmarrjeve të personalizuara (të shkruara në Java, PHP, .NET, Python, C ++, etj.)."},
+		  {"txt": "Aplikacione të personalizuara të palëve të treta (përfshirë SharePoint, Salesforce, Dynamics 365, Magento)."}
+		],
+		"section_5":[
+		  {"txt": "Merrni Aplikacionet tuaja të Menaxhuara në mënyrë Efikase"},
+		  {"txt": "Le të bashkohemi për të ekzekutuar aplikacionet e biznesit tuaj të shpejtë, me efikasitet dhe me kosto efektive për ju për të rritur kënaqësinë e punonjësve, partnerëve të biznesit dhe klientëve tuaj me procese të qetë biznesi. "},
+		  {"txt":"Na kontaktoni"}
+		],
+		"section_6":{
+		  "Back_endDesc":"Klikoni në teknologji për të mësuar në lidhje me aftësitë tona në të.",
+		  "Back_end":[
+			{"items": "Node.js"}, {"items": "Java"}, {"items": "Python"}, {"items": "C++"}, {"items": "PHP"}, {"items": ".NET"}
+		  ]
+		},
+		"section7_title":"Sfidat që zgjidhim",
+		"section_7":[
+		  {"title":"Zbatim i lartë TCO (kostoja totale e pronësisë)", "desc":"Ne gjithmonë kemi kohë për të vlerësuar dhe analizuar sistemet që ne shërbejmë, bëjmë rekomandime të vlerësimit të inxhinierisë dhe ofrojmë opsionet e mundshme të kursimeve të kostove operacionale. Në varësi të nevojave tuaja aktuale të biznesit dhe strategjisë së TI-së, ne mund të sugjerojmë ri-arkitektimin e aplikacioneve, migrimin, azhurnimin, prezantimin e tubacionit të Dorëzimit të Vazhdueshëm dhe më shumë."},
+		  {"title":"Nevoja për azhurnime të shpejta kundrejt stabilitetit të aplikacionit.", "desc":" Ne me padurim përdorim praktika moderne përfshirë DevOps / Dorëzimin e Vazhdueshëm, kontejnerizimin që lejon ndryshime të vazhdueshme të dhimbjes dhe të efektshme të aplikimit."},
+		  {"title":"Potenciali i pashfrytëzuar.", "desc":" Duke ofruar shërbime të optimizimit të aplikacioneve, ne përpiqemi të zbulojmë potencialin e fshehur të aplikacioneve tuaja për t'i bërë ato të mbështesin biznesin tuaj në maksimum."}
+		]
+	  },
+	  "Cloud":{
+		"section_1": {
+		  "title": "Informatikë në re?",
+		  "desc": "Ta themi thjesht, llogaritja në re është shpërndarja e shërbimeve të llogaritjes - duke përfshirë serverat, hapësirën ruajtëse, bazat e të dhënave, rrjetet, softuerin, analitikën dhe inteligjencën - përmes internetit ('re') për të ofruar risi më të shpejtë, burime fleksibël dhe ekonomi të shkallës. Ju zakonisht paguani vetëm për shërbimet cloud që përdorni, duke ju ndihmuar të ulni kostot tuaja të funksionimit, të drejtoni infrastrukturën tuaj në mënyrë më efikase dhe të shkallëzoni pasi ndryshojnë nevojat e biznesit tuaj. "
+		},
+		"section2_title":"Përfitimet kryesore të informatikës në re për JU!",
+		"section2_desc":"Informatika në re është një zhvendosje e madhe nga mënyra tradicionale që bizneset mendojnë për burimet e IT. Këtu janë shtatë arsyet e zakonshme që organizatat po kthehen në shërbimet e llogaritjes në re:",
+		"section_2":[
+		  {"info": "Kostoja"},{"info": "Shkalla Globale"},{"info": "Shpejtësia"},{"info": "Produktiviteti"},{"info": "Performace"},{"info": "Besueshmëria"},{"info": "Siguria"},{"info": "Re publike"}
+		],
+		"section3_title":"Llojet e llogaritjes në re",
+		"section3_desc":"Jo të gjitha retë janë të njëjta dhe asnjë lloj kompjuteri cloud nuk është i duhuri për të gjithë. Disa modele, lloje dhe shërbime të ndryshme kanë evoluar për të ndihmuar në ofrimin e zgjidhjes së duhur për nevojat tuaja.",
+		"section3_slider":[
+		  {"title":"Cloud Privat", "desc":"Një re private i referohet burimeve kompjuterike cloud të përdorura ekskluzivisht nga një biznes apo organizatë e vetme. Një re private mund të vendoset fizikisht në qendrën e të dhënave të kompanisë në vend. Disa kompani paguajnë gjithashtu ofrues të shërbimeve të palëve të treta për të pritur cloud-in e tyre privat. Një re private është ajo në të cilën shërbimet dhe infrastruktura mirëmbahen në një rrjet privat."},
+		  {"title":"Cloud Privat", "desc":"Një re private i referohet burimeve kompjuterike cloud të përdorura ekskluzivisht nga një biznes apo organizatë e vetme. Një re private mund të vendoset fizikisht në qendrën e të dhënave të kompanisë në vend. Disa kompani paguajnë gjithashtu ofrues të shërbimeve të palëve të treta për të pritur cloud-in e tyre privat. Një re private është ajo në të cilën shërbimet dhe infrastruktura mirëmbahen në një rrjet privat."},
+		  {"title":"Cloud Privat", "desc":"Një re private i referohet burimeve kompjuterike cloud të përdorura ekskluzivisht nga një biznes apo organizatë e vetme. Një re private mund të vendoset fizikisht në qendrën e të dhënave të kompanisë në vend. Disa kompani paguajnë gjithashtu ofrues të shërbimeve të palëve të treta për të pritur cloud-in e tyre privat. Një re private është ajo në të cilën shërbimet dhe infrastruktura mirëmbahen në një rrjet privat."}
+		],
+		"section4_title":"Përdorimet e llogaritjes në re",
+		"section_4":[
+		  {"title":"Krijoni aplikacione cloud-native", "desc":"Ndërtoni, vendosni dhe shkallëzoni shpejt aplikacione — ueb, celular dhe API. Përfitoni nga teknologjitë dhe qasjet e lindura në re, të tilla si kontejnerët, Kubernetes, arkitektura e mikrosherbimeve, komunikimi i drejtuar nga API dhe DevOps.", "klasa":""},
+		  {"title":"Ruani, rezervoni dhe rikuperoni të dhënat", "desc":"Mbroni të dhënat tuaja me më shumë kosto-me efektshmëri - dhe në shkallë masive - duke transferuar të dhënat tuaja në Internet në një sistem të ruajtjes së reve të jashtme, i cili është i arritshëm nga çdo vendndodhje dhe çdo pajisje.", "klasa":"col-lg-5"},
+		  {"title":"Analizoni të dhënat", "desc":"Unifikoni të dhënat tuaja në ekipe, ndarje dhe vendndodhje në re. Pastaj përdorni shërbime cloud, të tilla si mësimi makinerik dhe inteligjenca artificiale, për të zbuluar njohuri për vendime më të informuara.", "klasa":""},
+		  {"title":"Vendos inteligjencën", "desc":"Përdorni modele inteligjente për të ndihmuar angazhimin e klientëve dhe për të siguruar njohuri të vlefshme nga të dhënat e kapura.", "klasa":"col-lg-5"}
+		],
+		"section5_title":"Microsoft dhe cloud computing",
+		"section5_desc":"Microsoft është një ofrues kryesor global i shërbimeve të llogaritjes në re për bizneset e të gjitha madhësive."
+	  },
+	  "IT-Support":{
+		"section_1":{
+		  "title":"Shërbimet e mbështetjes së IT: Rrjedhat e punës të butë të IT Përdoruesit e kënaqur",
+		  "desc":"Mbështetja e IT përfshin procedurat që synojnë të mbajnë rrjedhat e pasigurta të IT dhe të ulin kostot e IT."
+		},
+		"section_2":{
+		  "title":"Çfarë merrni me shërbimet e mbështetjes IT",
+		  "list":[
+			{"title": "Tubacioni i zgjidhjes së incidenteve në shumë nivele: ", "desc":"L1 Një ekip për mbështetjen e përdoruesve. L2. Një ekip mbështetës teknik. L3. Një ekip inxhinierësh softuerësh."},
+			{"title": "Përshkrime të hollësishme të infrastrukturës IT dhe procedurave të funksionimit: ", "desc":"PSV për zgjidhjen e biletave, ndryshimin dhe menaxhimin e incidenteve, rrjedhat e CI / CD. Hartat e rrjetit. Databaza e menaxhimit të konfigurimit."},
+			{"title": "Materiale trajnimi për vetë-shërbim për përdoruesit: ", "desc":"Artikuj mbi bazën e njohurive. Pyetjet e shpeshta. Manualet e përdorimit."},
+			{"title": "Kënaqësia e përdoruesit dhe përmirësimet e adoptimit: ", "desc":"Testimi / monitorimi i UX. Sondazhe dhe studime të përvojave të përdoruesve me planet e përmirësimit të CSAT bazuar në rezultatet e tyre"},
+			{"title": "Vlerësimet e përputhshmërisë rregullatore. ", "desc":"Vlerësimi i mjedisit të IT ndaj PCI DSS, HIPAA, etj. Planet e zbutjes së hendekut të pajtueshmërisë."},
+			{"title": "Raportim i rregullt dhe transparent: ", "desc":"Raportet e nivelit të shërbimit. Raportet e mirëmbajtjes. Raportet e kontrollit shëndetësor."}
+		  ]
+		},
+		"section_3":"Fusha e Komponentëve të IT-së që trajtojmë",
+		"section_3list":[ "Mjetet e sigurisë kibernetike (SIEM, IAM, Firewalls, etj)",
+			"Uebsajtet dhe portalet e uebit", "Aplikacionet, integrimi i aplikacioneve dhe infrastruktura e aplikacioneve", "Rrjetet", "Bazat e të dhënave, depot e të dhënave, liqenet e të dhënave",
+			"Desktop, llaptops, pajisje të lëvizshme; sisteme operative Windows, MAC dhe Linux.", "Shërbime Cloud (laaS, PaaS, SaaS)", "Qendrat e të dhënave në ambiente",
+			"Infrastrukturat e zhvillimit (CI / CD, zhvillimi dhe mjedisi i testimit)"
+		],
+		"section_4":{
+		  "title":"Karakteristikat Konkurruese të Shërbimeve të Mbështetjes së TI-së të KosovaOutSource",
+		  "box":[
+			{"title":"Analiza e fizibilitetit e projekteve për mbështetjen e TI", "desc":"Para se të merrni mbështetjen tuaj të aplikimit ose infrastrukturën, nuk analizoni TCO dhe Roi të aseteve për të mbështetur dhe vlerësuar se nëse do të përdorni këto vlerësime financiare pasi të plotësoni mbështetjen tuaj."},
+			{"title":"Shërbim i orientuar drejt rezultateve dhe raportim transparent", "desc":"Aktivitetet tona të mbështetjes së IT dhe cilësia e shërbimit pasqyrohen në raporte të rregullta me metrika të qarta për pajtueshmëri të rreptë me objektivat e nivelit të shërbimit."},
+			{"title":"Bashkëpunimi afatgjatë", "desc":"Ne besojmë se mbështetja afatgjatë e TI-së është reciprokisht e dobishme për një klient dhe një ofrues të shërbimit, pasi një afat më i gjatë shërbimi do të thotë më pak periudha tranzicioni dhe faza integrimi për klientin dhe rutinat e punës të përshtatura mirë për ekipin mbështetës."}
+		  ]
+		},
+		"section_5":{
+		  "title":"Projektet tona mbështetëse për IT",
+		  "list":[
+			{"title": "Mbështetje për Strukturimin e Kapjes së të Dhënave për një Kompani Softuerësh në MB", "desc":"Sa i përket projektit në vazhdim, inxhinierët mbështetës të KosovaOutsource i kanë ofruar Klientit mbështetje monitoruese dhe multi-nivelesh (L1 - L3). Sa i përket mbështetjes për zgjidhjen L1, ekipi ynë regjistron, jep përparësi dhe përshkallëzon (nëse është e nevojshme) çështjet e raportuara nga përdoruesit përfundimtarë të platformës përmes sistemit të biletave që ofron KosovaOutsource."},
+			{"title": "Mbështetje për Strukturimin e Kapjes së të Dhënave për një Kompani Softuerësh në MB", "desc":"Sa i përket projektit në vazhdim, inxhinierët mbështetës të KosovaOutsource i kanë ofruar Klientit mbështetje monitoruese dhe multi-nivelesh (L1 - L3). Sa i përket mbështetjes për zgjidhjen L1, ekipi ynë regjistron, jep përparësi dhe përshkallëzon (nëse është e nevojshme) çështjet e raportuara nga përdoruesit përfundimtarë të platformës përmes sistemit të biletave që ofron KosovaOutsource."},
+			{"title": "Mbështetje për Strukturimin e Kapjes së të Dhënave për një Kompani Softuerësh në MB", "desc":"Sa i përket projektit në vazhdim, inxhinierët mbështetës të KosovaOutsource i kanë ofruar Klientit mbështetje monitoruese dhe multi-nivelesh (L1 - L3). Sa i përket mbështetjes për zgjidhjen L1, ekipi ynë regjistron, jep përparësi dhe përshkallëzon (nëse është e nevojshme) çështjet e raportuara nga përdoruesit përfundimtarë të platformës përmes sistemit të biletave që ofron KosovaOutsource."}
+		  ]
+		},
+		"section_6":{
+		  "title":"Pse ka rëndësi mbështetja e IT e KosovaOutsource",
+		  "list":[
+			{"desc":"-50%", "info":"Kostot e mbështetjes së IT"},
+			{"desc":"-20%", "info":"kostot e reve"},
+			{"desc":"99.96-99.99%", "info":"disponueshmëria e aplikacionit"},
+			{"desc":"+20-40%", "info":"kënaqësinë e përdoruesit"},
+			{"desc":"-10%", "info":"leshime te aplikacioneve"}
+		  ]
+		}
+	  },
+	  "IT-Outsourcing":{
+		"section_1":{
+		  "title": "Shërbimet e Kontraktimit të IT",
+		  "desc": "Brenda burimeve të jashtme të IT, një shitës merr përgjegjësinë për 30-100% të peisazhit tuaj IT që mbulon fusha të tilla si planifikimi dhe menaxhimi i shërbimit IT, evolucioni i IT dhe shërbimet e menaxhuara të IT."
+		},
+		"section_2":[
+		  {"txt": "A i zbrazin operacionet e IT burimet tuaja?"},
+		  {"txt": "Le ta kthejmë situatën! Nga mbështetja e operacioneve të përditshme te ndihma në transformimin dixhital dhe zbatimin e teknologjisë së re, shërbimet tona të burimeve të jashtme të IT janë një mënyrë me kosto efektive për rritjen e performancës së biznesit. "},
+		  {"txt":"Diskutoni opsionet e mia të jashtme"}
+		],
+		"section_3":{
+		  "title":"Përfitimet e Kontraktimit të Teknologjisë së Informacionit me KosovaOutSourcing",
+		  "list":[
+			{"title":"Plani i përshtatur i çmimeve","desc":"Ne llogarisim planet e bëra me porosi të çmimeve për të përmbushur pritjet tuaja dhe për të rregulluar çmimet nëse kërkesat tuaja ndryshojnë gjatë bashkëpunimit tonë."},
+			{"title":"Transparenca e rezultateve të shërbimit","desc":"Ne i përmbahemi një sistemi të prekshëm KPI që mund të përfshijë rritjen e zvogëlimit të ROI dhe TCO të përbërësve IT. Ne ofrojmë raporte të rregullta mbi punën e kryer, si dhe rezultatet e kontrolleve të sigurisë dhe performancës. Ju gjithashtu keni qasje të vazhdueshme në sistemin tonë të ndjekjes së detyrave dhe bazën e njohurive, ku ne dokumentojmë të gjitha proceset tona."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Projektet e zgjedhura të Kontraktimit të IT",
+		  "list":[
+			{"title" :"Administrimi Linux 24/7 nga Ekipi i DevOps për një Ofrues të Pritjes në SHBA", "desc":"KosovaOutSourcing ka caktuar një ekip prej pesë inxhinierësh DevOps të cilët kanë kompetenca jo vetëm në menaxhimin e konfigurimit por edhe në zhvillim, gjë që nënkupton që ata gjithashtu mund të shkruajnë skripte dhe kod si dhe të optimizojnë konfigurimet e sistemit. "},
+			{"title" :"Administrimi Linux 24/7 nga Ekipi i DevOps për një Ofrues të Pritjes në SHBA", "desc":"KosovaOutSourcing ka caktuar një ekip prej pesë inxhinierësh DevOps të cilët kanë kompetenca jo vetëm në menaxhimin e konfigurimit por edhe në zhvillim, gjë që nënkupton që ata gjithashtu mund të shkruajnë skripte dhe kod si dhe të optimizojnë konfigurimet e sistemit. "},
+			{"title" :"Administrimi Linux 24/7 nga Ekipi i DevOps për një Ofrues të Pritjes në SHBA", "desc":"KosovaOutSourcing ka caktuar një ekip prej pesë inxhinierësh DevOps të cilët kanë kompetenca jo vetëm në menaxhimin e konfigurimit por edhe në zhvillim, gjë që nënkupton që ata gjithashtu mund të shkruajnë skripte dhe kod si dhe të optimizojnë konfigurimet e sistemit. "}
+		  ]
+		},
+		"section_5":{
+		  "title":"Zgjidhni opsionin tuaj të shërbimit",
+		  "list":[
+			{"title": "Kontraktimi i plotë i shërbimit të IT", "desc":"Jepni burim të gjithë peisazhin tuaj të IT, duke përfshirë planifikimin dhe menaxhimin e shërbimit IT, për të arritur një performancë më të madhe të biznesit me IT ROI të rritur me 50-300%.", "btn":"Kontraktoni 100% të IT"},
+			{"title": "Bashkëburim me një ekip të brendshëm IT", "desc":"Delegoni operacionet tuaja ditore të IT dhe ekzekutimin e iniciativave të reja të biznesit që lidhen me IT për të optimizuar IT TCO dhe stabilitetin, dhe përqendrohuni në strategjinë, planifikimin dhe modelimin e IT.", "btn":"Kontraktoni 70-90% të IT"},
+			{"title": "Bashkëburim me shitës të tjerë", "desc":"Forconi ekosistemin tuaj të shitësit të IT me ScienceSoft si një ofrues i shërbimit i menaxhuar për një pjesë të veçantë të mjedisit tuaj IT.", "btn":"Kontraktoni 30-40% të IT"}
+		  ]
+		},
+		"section_6":{
+		  "title":"Si ju ndihmojmë në riformimin e biznesit tuaj me Nënkontraktimin e IT-së",
+		  "list":[
+			{"title":"Optimizimi i cilësisë dhe efikasitetit të kostos së operacioneve IT","desc":"Mbështetje efikase në infrastrukturë. Sigurimi i cilësisë dhe shërbimet e sigurisë kibernetike për të garantuar stabilitetin operacional. Migrimi i aplikacioneve të brendshme në re dhe zhvillimi i aplikacioneve të reja të shkallëzuara të reve."},
+			{"title":"Mbështetja e operacioneve të biznesit ","desc":"Aplikimet e ndërmarrjeve mbështesin dhe evolucionin e qëndrueshëm. Ndihma e përdoruesit dhe përmirësimi i miratimit të sistemit përmes shërbimeve të ndihmës Zhvillimi i softverit të ri. Dorëzimi i shpejtë i funksionit mbështetet nga automatizimi i provës kur është e arsyeshme. Analizat e menaxhuara dhe BI për të mbështetur vendimmarrjen e shpejtë dhe të informuar."},
+			{"title":"Planifikimi dhe zbatimi i iniciativave të transformimit dixhital","desc":"Konsultimi se si të përmirësoni operacionet e biznesit me IT ose t'i transformoni ato dixhitalisht. Krijimi i një udhërrëfyesi IT që e harmonizon atë me iniciativat e reja të biznesit dhe përdor teknologjinë për rezultatet e biznesit në kohën e duhur. Dizajnimi dhe implementimi i zgjidhjeve të reja të bazuara në platformë, të përshtatshme për proceset e përmirësuara të biznesit."}
+		  ]
+		},
+		"section_7":{
+		  "title":"BEJENI TE FUQISHT BIZNESIN TUAJ",
+		  "desc":"Shpenzimet e larta të IT me vlerë të ulët ndikojnë në të gjithë biznesin - përparimi i tij ngadalësohet, dhe biznesi rrezikon të mbetet prapa konkurrentëve më të mirë në 3-5 vjet. Me transformime në kohë, i njëjti peisazh IT mund të bëhet një burim i rritjes së qëndrueshme të biznesit - dhe kjo është ajo që ScienceSoft ndihmon të arrihet brenda shërbimeve të jashtme të IT. Këtu keni disa rezultate si në nivelin e biznesit ashtu edhe në nivelet e TI që mund të prisni.",
+		  "items1_title":"Fitimet në nivelin e biznesit:",
+		  "items1":[
+			{"desc":"+10-200%", "info":"për të ardhurat nga iniciativat e reja të biznesit të bazuara në IT"},{"desc":"+30-200%", "info":"për të procesuar automatizimin"},
+			{"desc":"+15-30%", "info":"te shitjet përmes marketingut dhe automatizimit të shitjeve"},{"desc":"~98%", "info":"të përqëndrohet në aktivitetet kryesore të biznesit për shkak të burimeve të çliruara"}
+		  ],
+		  "items2_title":"Fitimet në nivelin e IT:",
+		  "items2":[
+			{"desc":"x1.5-2.5", "info":"Ulja e kostos së IT"},{"desc":"x1.5-3", "info":"rritja e shpejtësisë së zhvillimit të softverit"},
+			{"desc":"100%", "info":"pajtueshmëria rregullatore e infrastrukturës IT"},{"desc":"~99.99%", "info":"disponueshmëria e aplikacioneve"}
+		  ]
+		}
+	  },
+	  "Application":{
+		"section_1":{
+		  "title":"Shërbimet e Aplikimit End-to-End. Udhëtimi juaj në Transformimin Dixhital dhe TCO të Optimizuar ",
+		  "desc":"Ne kombinojmë mendje inovative dhe njohuri të thelluara të një spektri të gjerë teknologjie me aspiratën për të ofruar zgjidhje për sfidat komplekse të nivelit të ndërmarrjes në një gamë të gjerë industrive, duke përfshirë prodhimin, kujdesin shëndetësor, bankën, shitjen me pakicë, telekomunikacionin, udhëtimin dhe mikpritjen, argëtimin dhe më shumë"
+		},
+		"section_2":{
+		  "title":"Shërbimet e Aplikimit që Ne Ofrojmë",
+		  "desc":"KosovaOutsource ofron grupin e mëposhtëm të shërbimeve të aplikimit për ndërmarrjet e mesme dhe të mëdha:",
+		  "items":[
+			"Zhvillimi i aplikacionit", "Menaxhimi i aplikacionit", "Modernizimi i aplikacionit", "Integrimi i aplikacionit", "Shërbimet e sigurisë së aplikacionit", "Testimi i aplikacionit"
+		  ]
+		},
+		"section_3":{
+		  "title":"Zhvillimi i aplikacionit",
+		  "desc":"Ne dizenjojmë dhe shpërndajmë aplikacione biznesi në internet, celular dhe cloud me kompleksitet të ndryshëm dhe për nevoja të ndryshme. Në proces, ne i kushtojmë vëmendje të veçantë fleksibilitetit, sigurisë, shpejtësisë dhe potencialit të tyre të integrimit.",
+		  "subtitle":"Suksesi i softverit tonë vjen nga:",
+		  "items":[
+			{"title":"Vlera aktuale e biznesit" , "desc":"Ne studiojmë tërësisht të gjitha nevojat kritike të biznesit dhe kontekstin e ardhshëm të aplikimit, bëjmë zgjedhje të përshtatshme të arkitekturës dhe teknologjisë për të ndërtuar zgjidhjen që i përgjigjet kërkesave specifike të biznesit tuaj."},
+			{"title":"Punë e qëndrueshme dhe mbështetje e pakërkuar" , "desc":"Ne shkruajmë kod të bashkuar dhe të lexueshëm për ta mbajtur të lehtë testimin, mirëmbajtjen dhe azhurnimin."},
+			{"title":"Cilësi të lartë dhe lëshime në kohë" , "desc":"Ne kemi zhvilluar një proces të zhvillimit të softuerit të përcaktuar qartë dhe të testuar nga beteja, i cili na lejon të sigurojmë zgjidhje me cilësi të lartë dhe të besueshme brenda afatit të caktuar."},
+			{"title":"Dorëzim i shkathët i veçorive të reja" , "desc":"Ne përdorim praktikat DevOps, Dorëzimin e Vazhdueshëm dhe Integrimin e Vazhdueshëm, testimin e automatizuar dhe mjetet e vendosjes. Kështu, ne sigurojmë shpërndarjen e vazhdueshme të zgjidhjes së lëshueshme (duke zbatuar veçori të reja aq shpesh sa 1-2 herë në javë), pa ngrirjen e sistemit dhe me gabime të reduktuara të kodit."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Menaxhimi i aplikacionit ","desc":"Ne mund të marrim përgjegjësi për menaxhimin e aplikacioneve tuaja duke siguruar rritjen e fleksibilitetit të biznesit dhe kostot e optimizuara të IT. Me praktikat më të fundit të menaxhimit të procesit, ekipi ynë do të mirëmbajë dhe monitorojë serverat tuaj të aplikacioneve dhe bazat e të dhënave duke u kujdesur për performancën e tyre të zgjeruar, qëndrueshmërinë, stabilitetin dhe t'i mbajë ato në sinkron me nevojat aktuale të biznesit.",
+		  "subtitle":"Lista e shërbimeve tona të menaxhimit të aplikacioneve përfshin, por nuk kufizohet në:",
+		  "items":[
+			{"title":"Monitorimi dhe menaxhimi i performancës në distancë i aplikacioneve", "desc":"Ne marrim përsipër diagnostikimin e vazhdueshëm të largët të aplikacioneve tuaja kritike. Ne identifikojmë problemet, ndajmë me ju informacionin e detajuar mbi shkaqet e çështjeve të gjetura dhe ofrojmë rekomandime për përmirësimet e nevojshme. Ne ndjekim performancën e aplikacionit, integritetin e transaksionit, qëndrueshmërinë e të dhënave, tejkalimin e radhës së mesazhit, dështimet e serverit."},
+			{"title":"Mbështetje për aplikacionin në distancë", "desc":"Ne ju ndihmojmë të trajtoni një spektër të gjerë problemesh dhe incidentesh, të menaxhoni modifikime (nga përmirësime të vogla deri te ndryshimet e aplikacioneve) dhe konfigurime dhe t'ju këshillojmë për aktivitete të dobishme për optimizimin e aplikacioneve për të adresuar nevoja të reja në zhvillim."},
+			{"title":"Ndihma jone ", "desc":"Tavolina jonë e ndihmës 24/7 mund të bëhet një pikë e vetme kontakti për përdoruesit e aplikacioneve, agjentët e tryezës së ndihmës do të marrin të gjitha kërkesat e shërbimit përbrenda dhe raportet e incidenteve përmes çdo kanali të preferuar të komunikimit (e-mail, telefon, bisedë, një sistem menaxhimi biletash dhe me shume)"},
+			{"title":"Projektimi dhe implementimi i tubacionit të Dorëzimit të Vazhdueshëm (CD)", "desc":"Ne projektojmë dhe implementojmë tubacionin CD për të lidhur zhvillimin, testimin dhe vendosjen e aplikacionit tuaj dhe automatizimin e tyre. Kjo ju mundëson të përdorni vlera të shumta të DevOps / CD dhe të jepni veçori të reja të aplikacioneve shpejt dhe me efikasitet."}
+		  ]
+		},
+		"section_5":{
+		  "title":"Testimi i aplikimit",
+		  "desc":"Ne kryejmë testime gjithëpërfshirëse manuale dhe automatike (jetike për Dorëzimin e Vazhdueshëm) për çdo fazë të ciklit jetësor të aplikimit (implementimi, vendosja, mbështetja dhe evolucioni) për të identifikuar në kohë rreziqet e mundshme dhe për të verifikuar që zgjidhjet e ndërmarrjes suaj funksionojnë si duhet dhe korrespondojnë me kërkesat e përcaktuara të cilësisë . ",
+		  "subtitle":"Ne sigurojmë kontroll të plotë të aplikimit tuaj me lloje të shumta të testimit, duke përfshirë:",
+		  "icon1":"Testimi funksional", "icon2":"Testimi i Performancës", "icon3":"Testimi i përdorshmërisë", "icon4":"Testimi i integrimit"
+		},
+		"section_6":[
+		  {"txt": "Nivelin lart Programin tuaj të Ndërmarrjes "},
+		  {"txt": "Fuqizoni ndihmën tonë profesionale në zhvillimin e aplikacionit, azhurnoni dhe mbështesni për ta bërë transformimin dixhital të suksesshëm, për të përmirësuar përfitimin e aplikacionit dhe për të ulur kostot e tyre operacionale."},
+		  {"txt":"Na kontaktoni"}
+		]
+	  },
+	  "IT-Consulting":{
+		"section_1":{
+		  "title":"Konsulencë e Teknologjisë së Informacionit",
+		  "desc":"Brenda burimeve të jashtme të IT, një shitës merr përgjegjësinë për 30-100% të peisazhit tuaj IT që mbulon fusha të tilla si planifikimi dhe menaxhimi i shërbimit IT, evolucioni i IT dhe shërbimet e menaxhuara të IT."
+		},
+		"section_2":{
+		  "title":"Qasja e KosovaOutsource ndaj IT Consulting",
+		  "items":[
+			{"title":"Të bësh IT-në e duhur","desc":"Ne nuk prezantojmë teknologji të reja thjesht për ta bërë kompaninë tuaj 'moderne': qëllimi kryesor është që të sjellë rezultate të dukshme të biznesit me IT."},
+			{"title":"Të bësh IT-në e duhur", "desc":"Ne optimizojmë shërbimet e IT për t'i bërë ato më të besueshme dhe me kosto më efektive dhe për të ndihmuar në prezantimin e shpejtë të shërbimeve të reja të IT."}
+		  ]
+		},
+		"section_3":{
+		  "title":"Shërbimet e Konsulencës IT që Ne Ofrojmë",
+		  "items":[
+			{"title":"Konsultimi i strategjisë dixhitale (për CEO) ", "desc":"Ne konsultohemi për ta kthyer IT në një kontribues kryesor në rritjen e performancës së biznesit me: Një strategji biznesi-IT për nxitjen e vlerës. Një plan për optimizimin e ofrimit të shërbimit IT."},
+			{"title":"Këshillim për strategji IT (për CIO)", "desc":"Ne krijojmë një strategji që do të sjellë së bashku një peizazh të larmishëm të IT dhe do ta bëjë atë të funksionojë drejt mbështetjes së proceseve ekzistuese të biznesit dhe nxitjes së iniciativave të reja të biznesit."},
+			{"title":"Zgjidhja e konsulencës ", "desc":"Ne analizojmë nevojat e biznesit tuaj dhe ju ndihmojmë të merrni vendime strategjike për zbatimin e shpejtë dhe të suksesshëm të zgjidhjeve kritike të biznesit."},
+			{"title":"Konsulencë për teknologji ", "desc":"Ne analizojmë gjendjen ekzistuese të zonës së teknologjisë që ju intereson dhe ndihmojmë në evolucionin e saj të qëndrueshëm për ta bërë atë të luajë një rol më të spikatur në rritjen e biznesit tuaj."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Industritë që u shërbejmë ",
+		  "desc":"Ne kemi ekspertizë në 23 fusha, përfshirë përvojën në këshillimin e teknologjisë së informacionit për: ",
+		  "items":[
+			"Shërbime profesionale", "Prodhim", "Shitje me pakicë", "Logjistikë", "Telekomunikacion"
+		  ]
+		},
+		"section_5":{
+		  "title":"Projektet e zgjedhura të Kontraktimit të IT",
+		  "items":[
+			{"title":"Konsulencë IT për Integrimin e Aplikimeve të Ndërmarrjeve për një Korporatë multi-industriale" , "desc":"KosovaOutSourcing ka caktuar një ekip prej pesë inxhinierësh DevOps të cilët kanë kompetenca jo vetëm në menaxhimin e konfigurimit por edhe në zhvillim, gjë që nënkupton që ata gjithashtu mund të shkruajnë skripte dhe kod si dhe të optimizojnë konfigurimet e sistemit. "},
+			{"title":"Konsulencë IT për Integrimin e Aplikimeve të Ndërmarrjeve për një Korporatë multi-industriale" , "desc":"KosovaOutSourcing ka caktuar një ekip prej pesë inxhinierësh DevOps të cilët kanë kompetenca jo vetëm në menaxhimin e konfigurimit por edhe në zhvillim, gjë që nënkupton që ata gjithashtu mund të shkruajnë skripte dhe kod si dhe të optimizojnë konfigurimet e sistemit. "},
+			{"title":"Konsulencë IT për Integrimin e Aplikimeve të Ndërmarrjeve për një Korporatë multi-industriale" , "desc":"KosovaOutSourcing ka caktuar një ekip prej pesë inxhinierësh DevOps të cilët kanë kompetenca jo vetëm në menaxhimin e konfigurimit por edhe në zhvillim, gjë që nënkupton që ata gjithashtu mund të shkruajnë skripte dhe kod si dhe të optimizojnë konfigurimet e sistemit. "}
+		  ]
+		},
+		"section_6":{
+		  "title":"Përfitimet e Konsultimit të IT me KosovaOutSource",
+		  "items":[
+			{"title":"Më shumë sesa thjesht këshilltarë", "desc":"KosovaOutSource është një kompani me shërbim të plotë IT me 700+ punonjës në bord. Ne mund të kombinojmë këshillimin e IT me shërbimet e IT nga fundi në fund: implementimi, mbështetja, shërbimet e menaxhuara."},
+			{"title":"Rezultate të shpejta të shërbimit", "desc":"Ne mbështesim ndryshime në rritje dhe të qëndrueshme për t'ju ndihmuar të merrni rezultatet e para pozitive brenda 2-6 muajve dhe të vazhdoni t'i rritni ato më tej."},
+			{"title":"Optimizimi i IT me kosto efektive", "desc":"Ne aplikojmë përvojën tonë 31-vjeçare në teknologjinë e informacionit për të arritur rezultate thelbësore për biznesin tuaj me një buxhet të arsyeshëm."},
+			{"title":"Qasje e ekuilibruar ndaj ndryshimeve", "desc":"Ne shqyrtojmë ndërvarësinë midis sistemeve tuaja të TI-së dhe analizojmë ndikimin e ndryshimeve të mundshme për secilën platformë, shërbim, aplikim."}
+		  ]
+		}
+	  },
+	  "DataAnalytics":{
+		"section_1":{
+		  "title":"Shërbimet e Analizës së të Dhënave ",
+		  "desc":"Analiza e të dhënave ndihmon bizneset të shndërrojnë të dhënat e tyre të para të biznesit në njohuri vepruese. "
+		},
+		"section_2":[
+		  {"txt": "Të lodhur nga vendimet e bazuara në instikt?"},
+		  {"txt": "Brenda një kohe të arsyeshme, KosovaOutsource do t'ju ndihmojë të mposhtni analizat dhe raportimet e fragmentuara dhe të pasakta duke zbatuar praktikat më të mira të analizave të të dhënave për përmirësimin e cilësisë dhe shpejtësisë së vendimit."},
+		  {"txt":"Konsultohuni tani me ne"}
+		],
+		"section_3":{
+		  "title":"Çfarë merrni me shërbimet e analizës së të dhënave ",
+		  "desc":"Ne jemi gati të zbatojmë praktikat tona më të mira të analizës së të dhënave për të fuqizuar kompanitë me vendimmarrje të informuar në fushat e mëposhtme të biznesit:",
+		  "items":[
+			"Analizat financiare", "Analizat e klientit", "Analizat e marketingut dhe shitjeve", "Shitësit e analizave të zinxhirit të furnizimit", "Analizat e aseteve", "Analizat e dorëzimit të shërbimeve", "Analizat njerëzore"
+		  ],
+		  "desc2":"Që ju të siguroni analiza të plota të të dhënave, KosovaOutsource mbulon komponentët teknikë të mëposhtëm:",
+		  "items2":[
+			"INVERTARI", "MAGAZINIMI I TE DHENAVE", "BIG DATA", "DATA SCIENCE", "VET-SHVRBIMI BI", "VISUALIZIMI I TAT DHNAVE", "LOGISTICS"
+		  ]
+		},
+		"section_4":{
+		  "title":"Pse të zgjidhni KosovaOutsource si ofruesin e shërbimit tuaj të analizave të të dhënave",
+		  "desc":"31 vjet në analizën e të dhënave dhe shkencën e të dhënave. 15 vjet përvojë në dhënien e shërbimeve të magazinës së të dhënave, hartimin dhe zbatimin e zgjidhjeve të inteligjencës së biznesit."
+		},
+		"section_5":{
+		  "title":"Dyshimi se Analizimi i të Dhënave Mund të Zgjidhë Problemet Tuaja të Biznesit?",
+		  "desc":"Ekspertët e KosovaOutsource janë të gatshëm të kryejnë një analizë të situatës dhe të përgatisin një zgjidhje të përshtatur të analizave të të dhënave në përputhje me nevojat tuaja aktuale të biznesit."
+		},
+		"section_6":{
+		  "title":"Zgjidhni opsionin tuaj të shërbimit të analizës së të dhënave",
+		  "items":[
+			{"title":"Analiza e të dhënave si shërbim", "desc":"Me AaaS, ju mund të nxirrni njohuritë e para kuptimplota nga të dhënat tuaja të para në 1 ditë dhe të shmangni kohën dhe barrën e kostos për zhvillimin dhe menaxhimin e një zgjidhje analitike në shkallë të plotë."},
+			{"title":"Zbatimi i analizës së të dhënave", "desc":"KosovaOutsource është e gatshme të ofrojë një zgjidhje efektive në kohë, në përputhje të plotë me objektivat e biznesit tuaj, nëse mendoni të implementoni një zgjidhje për analiza të të dhënave."},
+			{"title":"Mbështetja dhe evolucioni i analizave të të dhënave","desc":"KosovaOutsource është e gatshme të akordojë zgjidhjen tuaj ekzistuese analitike brenda ditëve apo edhe orëve duke analizuar mjedisin analitik siç është."}
+		  ]
+		},
+		"section_7":{
+		  "title":"Pse klientët tanë mendojnë se analiza e të dhënave ia vlen të investohet",
+		  "desc":"Zgjidhjet analitike të personalizuara që ne hartojmë dhe zbatojmë u lejojnë klientëve tanë të arrijnë deri në:",
+		  "items":[
+			{"desc":"100%", "info":"herë më të shpejtë analizimin dhe raportimin e të dhënave"},
+			{"desc":"20%", "info":"rritja e te ardhurave"},
+			{"desc":"80%", "info":"ulja e kostove operacionale"},
+			{"desc":"25%", "info":"zvogëlimi i shkallës së rënies"}
+		  ]
+		}
+	  },
+	  "Cybersecurity":{
+		"section_1":{
+		  "title":"Shërbimet e Sigurisë Kibernetike - Mbroni Aplikimet dhe Rrjetin tuaj",
+		  "desc":"KosovaOutsource ofron një larmi shërbimesh nga këshillimi i sigurisë së informacionit deri te vlerësimi, testimi dhe përmirësimi i mbrojtjes së aplikacioneve dhe rrjeteve për kompanitë që veprojnë në kujdesin shëndetësor, prodhimtarinë, bankën, shitjen me pakicë, telekomunikacionin dhe industri të tjera."
+		},
+		"section_2":{
+		  "title":"Shërbimet e Sigurisë Kibernetike nga KosovaOutsource",
+		  "desc":"Ne u ofrojmë klientëve tanë një larmi shërbimesh të sigurisë kibernetike për: Të zvogëlojmë ndjeshëm numrin e dobësive të sigurisë në aplikacione në internet, celular dhe desktop, si dhe në rrjetet e klientëve tanë. Siguroni pajtueshmërinë e tyre të vazhdueshme me rregulloret dhe standardet e duhura (PCI DSS, GDPR, HIPAA).",
+		  "items":[
+			{"title":"Vlerësimi dhe planifikimi i sigurisë","desc":"Konsultimi i sigurisë së informacionit Testimi i sigurisë së infrastrukturës IT dhe përbërësve të tij Testimi i stresit: imitim i sulmeve DDoS / DoS"},
+			{"title":"Siguria e aplikacionit","desc":"Rishikimi i kodit të sigurisë Menaxhimi i pajisjes mobile dhe menaxhimi i aplikacionit celular Siguria e cloud Siguria e aplikacionit në internet"},
+			{"title":"Mbrojtja e rrjetit","desc":"Mbrojtja SIEM DDoS Firewalls e sigurisë së postës elektronike, IDS / IPS, implementimi i DLP dhe vendosja e mbrojtjes antivirus"}
+		  ]
+		},
+		"section_3":{
+		  "title":"Vlerësimi dhe planifikimi i sigurisë ",
+		  "desc":"KosovaOutsource ofron shërbime të vlerësimit dhe planifikimit të sigurisë në shkallë të plotë për komponentët e infrastrukturës IT: ",
+		  "icon1":"Aplikime mobile në internet, desktop", "icon2":"Shërbimet e Rrjetit", "icon3":"Program kompjuterik i qasjes në distancë", "icon4":"Pajisjet IoT"
+		},
+		"section_4":{
+		  "title":"Siguria e aplikacionit",
+		  "items":[
+			{"title":"Rishikimi i kodit të sigurisë", "desc":"Secila gjuhë programuese ka çuditë e saj që mund të shkaktojnë defekte të sigurisë gjatë fazës së zhvillimit. Ekspertët e sigurisë së Kosovaoutsource zbulojnë boshllëqet ekzistuese para se aplikimet tuaja ‘të shkojnë drejtpërdrejt.’"},
+			{"title":"Menaxhimi i pajisjes mobile dhe menaxhimi i aplikacionit celular", "desc":"Me përhapjen e pajisjeve mobile, aplikacioneve mobile dhe programeve të përdorura brenda rrjeteve të korporatave, ndërmarrjet përballen me nevojën për të menaxhuar dhe siguruar përdorimin e tyre. KosovaOutsource ofron ekspertizën e tyre në zbatimin e politikave të përshtatshme për menaxhimin e pajisjeve dhe zbatimin e masave të kontrollit për instalimin e aplikacioneve të reja për celularë."},
+			{"title":"Siguria e reve", "desc":"KosovaOutsource ndihmon klientët e tyre për të siguruar zgjidhjet e tyre cloud. Duke qenë një partner biznesi Gold Microsoft, ne kemi përvojën e nevojshme për të akorduar komponentë të veçantë të sigurisë, të tilla si Azure Security Center, duke lejuar menaxhimin e sigurisë dhe mbrojtjen e kërcënimeve në ngarkesat e reve."},
+			{"title":"Siguria e aplikacioneve në internet", "desc":"Ekspertët e sigurisë së KosovaOutsource sigurojnë mbrojtjen e duhur të një faqe në internet, një aplikacioni në internet ose shërbimeve të internetit. Ekipi ynë i testimit të sigurisë kryen vlerësimin e cenueshmërisë për të kontrolluar nëse enkriptimi i duhur, vërtetimi dhe masat e tjera të sigurisë janë aplikuar në një aplikacion në internet, një shërbim uebi ose një faqe në internet."}
+		  ]
+		},
+		"section_5":{
+		  "title":"Modelet e Bashkëpunimit",
+		  "desc":"Ne jemi gati t'ju ofrojmë shërbime të sigurisë kibernetike sipas një modeli bashkëpunimi që zgjidhni.",
+		  "items":[
+			{"title":"Shërbime një herë", "desc":"KosovaOutsource ofron shërbime një herë për të vlerësuar, testuar dhe përmirësuar nivelin e mbrojtjes së rrjetit tuaj, aplikacionit ose një përbërësi tjetër të mjedisit IT. Ky model bashkëpunimi mund t'ju ndihmojë të krijoni një mendim për shitësin dhe të vendosni nëse do të bashkëpunoni me ta më pas."},
+			{"title":"Shërbime të menaxhuara", "desc":"Të zgjedhësh për shërbime të specializuara të menaxhuara (vlerësimi i ndjeshmërisë së menaxhuar, siguria e menaxhuar e-mail, siguria e menaxhuar e reve) do të thotë ndërtimi i marrëdhënieve afatgjata me një shitës. Sapo të mbledhim informacionin mbi infrastrukturën tuaj të TI-së gjatë projektit të parë, më pas mund të vlerësojmë."},
+			{"title":"Shërbime një herë", "desc":"Kosovaoutsource ofron shërbime të sigurisë si pjesë e shërbimeve tona gjithëpërfshirëse të menaxhuara për sisteme komplekse të TI-së në një distancë të largët për të siguruar që klientët tanë të qëndrojnë të përparuar teknologjikisht dhe të mbrojtur në të njëjtën kohë. Ne ofrojmë integrimin, mirëmbajtjen dhe sigurimin e sigurisë në LAN dhe VPN, IDS / IPS dhe firewalls, mbrojtje antivirus."}
+		  ]
+		},
+		"section_6":{
+		  "title":"Projektet e zgjedhura",
+		  "items":[
+			{"title":"Implementimi i IBM Security QRadar SIEM për një Bankë Evropiane","desc":"Një histori suksesi për të ndihmuar një bankë me 13.3 miliardë dollarë në totalin e aktiveve monitoron dhe analizon mbi 1.000 ngjarje sigurie në sekondë në të gjithë sistemet e shumë bankave. Ekipi i ScienceSoft i ekspertëve të sigurisë së informacionit zgjeroi kutinë e jashtme."},
+			{"title":"Zbatimi i QLean për QRadar për një bankë kryesore N.A.","desc":"KosovaOutsource zbatoi mjetin e saj të pronarit QRadar QLean për një bankë me 15+ milion klientë dhe një rrjet të gjerë IT."},
+			{"title":"Faza 2 Zbatimi i Sigurt IBM Security QRadar","desc":"Ekipi i KosovaOutsources ndërmori hapat e mëposhtëm për të rregulluar më tej QRadar në mjedisin e rrjetit të Klientit:"}
+		  ]
+		}
+	  },
+	  "Ecommerce":{
+		"section_1":{
+		  "title":"Shërbimet e tregtisë elektronike ","desc":"Duke ofruar një seri gjithëpërfshirëse të shërbimeve të tregtisë elektronike nga këshillimi i biznesit dhe krijimi dhe zhvillimi i faqes në internet te automatizimi i marketingut dixhital, ne sigurojmë një mundësi për të hyrë në bashkëpunim në çdo fazë të një cikli jetësor të biznesit."
+		},
+		"section_2":{
+		  "title":"3 hapa drejt suksesit tuaj në tregtinë elektronike",
+		  "desc":"Ne testojmë veçori funksionale dhe jofunksionale të softuerit për t'u siguruar që përputhet me specifikimet e kërkesave dhe ofron përvojë të jashtëzakonshme të përdoruesit: ",
+		  "items":[
+			{"title":"Konsulencë për tregti elektronike", "desc":"Suksesi i një biznesi të tregtisë elektronike fillon me strategjinë e duhur. Për fillimin efektiv, ne ndihmojmë në kuptimin e blerjes së personave, hartimin e udhëtimeve tipike të klientëve, përcaktimin e kanaleve premtuese të shitjes dhe marketingut, vendosjen mbi kompleksitetin e një zgjidhjeje të tregtisë elektronike që do të përmbushë kërkesat tuaja pa qenë e tepruar dhe me kosto joefektive për biznesin tuaj. Kur zhvillojmë një strategji optimizimi, ne mund të analizojmë aspekte të veçanta të zgjidhjes suaj të tregtisë elektronike dhe të sugjerojmë përmirësime të arsyeshme nëse është e nevojshme. Mund të ndodhë që një proces i vetëm biznesi i dizajnuar dobët të pengojë performancën e ekipit tuaj ose një sherr i vetëm i navigimit të bëhet arsyeja për një normë të lartë të kërcimit."},
+			{"title":"Zbatimi i tregtisë elektronike", "desc":"Një hap nuk është ende lëvizja në drejtimin e duhur. Pasi të keni filluar rrugën tuaj drejt suksesit me një strategji efektive të zhvilluar për kompaninë tuaj, është koha ta vini në veprim dhe të shihni rezultatet. Ekipi ynë ka aftësinë teknike për të zbatuar zgjidhjet e planifikuara në kohë dhe pa pengesa. Ne ofrojmë një gamë të plotë të shërbimeve të implementimit dhe sigurojmë komunikim të qetë të projektit gjatë rrugës. Ndërsa ne u përqendruam në hartimin e qasjes dhe strategjisë gjatë fazës së këshillimit, tani ne flasim për zhvillimin e zgjidhjes"},
+			{"title":"Mbështetja e tregtisë elektronike", "desc":"Hapi i tretë nuk ka kufizime të sipërme kohore - që nga momenti i fillimit, zgjidhja juaj e tregtisë elektronike do të ketë nevojë për mbështetje të vazhdueshme. Për komponentin e softuerit, ne do të përdorim shërbime të mirëmbajtjes së zgjidhjeve për funksionimin e tij të përsosur dhe sigurinë e qëndrueshme. Përveç kësaj, biznesi juaj do të zhvillohet kur disa ide nuk arrijnë të funksionojnë dhe në vend të kësaj ju vijnë të reja."}
+		  ]
+		},
+		"section_3":[
+		  {"txt":"Gati për të filluar?"},
+		  {"txt":"Skica e përgjithshme e shërbimeve nuk është kurrë e mjaftueshme që një kompani të vendosë për një partner. Le të fillojmë një dialog të përqendruar për një vendim më të informuar. "},
+		  {"txt":"Diskutoni nevojat tuaja të tregtisë elektronike"}
+		],
+		"section_4":{
+		  "title":"Pikat tona të forta",
+		  "items":[
+			{"title":"Qasja jonë", "desc":"Ne jemi kompetentë në atë që bëjmë dhe do t'i ofrojmë ekspertëve tanë marrjen në pyetje të lidhura me projektin ose t'ju ecin nëpër teknikat. E megjithatë, ne jemi një lojtar i mirë i ekipit dhe kurrë nuk e detyrojmë vizionin tonë ose ta shohim atë si të vetmin që vlen."},
+			{"title":"Ekspertizën tonë", "desc":"Përvoja e tregtisë elektronike është edhe më e vlefshme kur vjen nga shumëllojshmëria e projekteve të implementuara. Ne e kuptojmë se si linja të ndryshme të produkteve kërkojnë qasje të ndryshme."},
+			{"title":"Ekipi ynë", "desc":"Analistët e biznesit dhe menaxherët e projekteve i hedhin një vështrim strategjik biznesit tuaj për të vendosur qëllime afatshkurtra dhe afatgjata, përshkruajnë hartën tuaj dhe prototipojnë zgjidhjen tuaj të tregtisë elektronike. "}
+		  ]
+		},
+		"section_5":{
+		  "title":"Projektet e zgjedhura",
+		  "items":[
+			{"title":"Zbatimi i Magento me Menaxhim të Përmirësuar të Produkteve dhe Përmbajtjes për një Shitës me Modë","desc":"KosovaOutsource ka implementuar një projekt në shkallë të gjerë të integrimit ndër-biznesor. Komponenti i tij i tregtisë elektronike rezultoi në krijimin e një dyqani në internet dhe integrimin e tij me Pimcore (një CMS) dhe Akeneo (një PIM) për të përmbushur kërkesat funksionale të Klientit."},
+			{"title":"Zbatimi i Zgjidhjes Ecommerce për Kompaninë","desc":"Një faqe moderne dhe e përshtatshme e tregtisë elektronike për një zinxhir stacionesh karburantesh dhe kafenesh, qendra kopshtarie, dyqane me pakicë dhe shumicë. Përvoja përfundimtare e klientit është themeli i filozofisë së Kompanisë dhe zgjidhja ndihmon të ecni në hap me blerësit gjithnjë e më të lëvizshëm."},
+			{"title":"Evolucioni dhe mbështetja e vazhdueshme për një dyqan Magento","desc":"Ekipi Magento i KosovaOutsource merr mbështetjen e ekspertëve të një dyqani shumë Magento për një furnizues të restoranteve në SHBA."}
+		  ]
+		}
+	  },
+	  "Image-Analysis":{
+		"section_1":{
+		  "title":"Softuer i personalizuar për Analizën e Imazhit ","desc":"Analiza e imazhit me softuerin tonë është më e mira me KosovaOutSourcing"
+		},
+		"section_2":{
+		  "title":"Zgjidhjet",
+		  "desc1":"Industri të ndryshme zbatojnë softuerin e analizës së imazheve për të identifikuar njerëzit dhe objektet, për të vlerësuar cilësinë dhe dëmtimin e mundshëm, për të klasifikuar dhe klasifikuar produktet dhe për të marrë informacione të tjera domethënëse nga imazhet dhe videot.",
+		  "desc2":"Ne zhvillojmë zgjidhje të personalizuara të analizave të imazheve të përshtatura për nevojat specifike të klientëve tanë dhe adresojmë një gamë të gjerë të detyrave të përpunimit të imazhit në prodhim, kujdes shëndetësor, pakicë, etj."
+		},
+		"section_3":{
+		  "title": "Shikoni Procesin tonë SEO!",
+		  "btn":"Të marrë një kuotë",
+		  "mid":[
+			{ "txt": "Zbulim"},
+			{ "txt": "Njohja"},
+			{ "txt": "Identifikimi"}
+		  ],
+		  "Box":[
+			{"title":"Zbulim", "txt":"Ne konsultohemi për ta kthyer IT në një kontribues kryesor në rritjen e performancës së biznesit me: Një strategji biznesi-IT për nxitjen e vlerës. Një plan për optimizimin e ofrimit të shërbimit IT."},
+			{"title":"Njohja", "txt":"Ne krijojmë një strategji që do të sjellë së bashku një peizazh të larmishëm të IT dhe do ta bëjë atë të funksionojë drejt mbështetjes së proceseve ekzistuese të biznesit dhe nxitjes së iniciativave të reja të biznesit."},
+			{"title":"Identifikimi", "txt":"Ne analizojmë nevojat e biznesit tuaj dhe ju ndihmojmë të merrni vendime strategjike për zbatimin e shpejtë dhe të suksesshëm të zgjidhjeve kritike të biznesit."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Zbatime praktike",
+		  "items":[
+			{"title":"Njohja e fytyrës", "desc":"Identifikimi i fytyrës së një personi specifik. Njohja e fytyrës ka një larmi aplikimesh, nga shitësit me pakicë që njeh klientët e tyre në mënyrë që të mos lejoni që shërbimi juaj të funksionojë ekskluzivisht deri në sistemin e nivelit të lartë të sigurisë që identifikohet nëse dyshohet dhe shkelet në bazë të ligjit."},
+			{"title":"Njohja e emocioneve", "desc":"Shembujt e aplikimit përfshijnë vlerësimin e nivelit të kënaqësisë së një klienti, lejimin e një aparati inteligjent për të shkrepur një foto në momentin e duhur, etj."},
+			{"title":"Kontrolli i cilësisë (QC)", "desc":"Kontrollimi i defekteve sipërfaqësore, materialeve të huaja, njollës, mungesës së përbërësve, etj. Shikoni faqen tonë të automatizuar të inspektimit vizual për të gjetur më shumë detaje."},
+			{"title":"Vlerësimi dhe klasifikimi", "desc":"Klasifikimi i objekteve sipas cilësisë së tyre (p.sh., klasifikimi i pemëve dhe perimeve) dhe pastaj klasifikimi i tyre në përputhje me rrethanat."},
+			{"title":"Numrim", "desc":"Përdorimi i një sistemi optik për të numëruar objekte të ngjashme në vijën e prodhimit ose në një depo."},
+			{"title":"Vlerësimi i dëmit", "desc":"Identifikimi i çështjeve të dëmtimit në pajisjet elektronike komplekse, automjetet, etj."},
+			{"title":"Rindërtimi 3D", "desc":"Prodhimi i modeleve 3D nga të dhënat 2D (p.sh. skanimet mjekësore)"},
+			{"title":"Organizimi i informacionit vizual", "desc":"Indeksimi i bazave të të dhënave vizuale."}
+		  ]
+		},
+		"section_5":{
+		  "title":"Qasjet",
+		  "desc":"Në varësi të problemit specifik të klientit tonë, këshilltarët tanë do të sugjerojnë zgjidhjen më të përshtatshme bazuar në një nga qasjet e mëposhtme ose kombinimin e tyre.",
+		  "item1":"Analiza e bazuar në rregulla", "item2":"Analiza e të mësuarit makinerik"
+		},
+		"section_6":{
+		  "title":"Bazuar në rregulla",
+		  "desc":"Kjo qasje do të jetë një zgjedhje perfekte nëse është e mundur të përcaktohet një grup i kufizuar rregullash strikte. Zakonisht, ky do të ishte rasti kur sasia e të dhënave vizuale është e vogël dhe ndryshueshmëria e tyre është e ulët, për shembull, kur detyra është të zbuloni dhe lexoni një model të shiritit të barkodit.",
+		  "items":[
+			{"title":"Përparësitë", "desc":"Tregon performancë të shkëlqyeshme brenda një fushe të ngushtë. Nuk kërkon grupe të mëdha të të dhënave. Performanca mund të vërtetohet lehtësisht. Shpjegueshmëria - ne mund ta shohim qartë çdo hap të vendimit në kodin tonë. Korrigjimi i lehtë i gabimeve."},
+			{"title":"Disavantazhet ", "desc":"Kërkon njohuri të qarta për të gjitha paraqitjet e mundshme të objekteve për t'u analizuar. Përgjithësimi i dobët: rregullat duhet të jenë shumë specifike në secilin rast të veçantë. Zhvillimi intensiv i punës: çdo rregull duhet të programohet në mënyrë të qartë, gjë që kërkon kohë dhe përpjekje."}
+		  ]
+		},
+		"section_7":{
+		  "title":"Të mësuarit makinerik",
+		  "desc":"Të mësuarit makinerik është veçanërisht i mirë në analizimin e të dhënave të mëdha dhe të pastrukturuara, sepse nuk ka nevojë për ndonjë rregull të qartë për tu programuar. Në vend të kësaj, ai përdor grupe të mëdha të të dhënave për të nxjerrë të gjitha rregullat më vete.",
+		  "items":[
+			{"title":"Përparësitë", "desc":"Merret më mirë me objekte dhe detyra komplekse. Nuk kërkon njohuri të qarta. Shkallëzimi më i lehtë. Kosto më e ulët operacionale. ","id":"10"},
+			{"title":"Disavantazhet ", "desc":"Kërkon grupe të mëdha të të dhënave të imazheve. Zbatimi mund të jetë më i komplikuar. Problemi i box Black-box ’- të gjitha rregullat janë të fshehura në strukturën e brendshme komplekse të një algoritmi (p.sh., rrjeti i thellë nervor) dhe janë të vështira për tu nxjerrë.","id":"11"}
+		  ]
+		},
+		"section_8":{
+		  "title":"Konsulencë për Analizë Imazhi",
+		  "desc":"Ne shikojmë një problem në tërësi, duke marrë parasysh të gjitha nuancat që mund të ndikojnë në performancën e një sistemi të analizës së imazhit. Ekspertët tanë do të jenë të etur t'ju ndihmojnë të zgjidhni zgjidhjen më të përshtatshme dhe të shmangni kurthet e mundshme për të arritur rezultatet më të mira.",
+		  "subtitle":"Një konsultim do të mbulojë:",
+		  "items":[
+			{"title":"Zgjedhja e kamerës dhe ndriçimit"},
+			{"title":"Optimizimi i procesit"},
+			{"title":"Integrimi me sistemet e tjera të IT (ERP, POS, etj.)"}
+		  ]
+		}
+	  },
+	  "Web-Portal":{
+		"section_1":{
+		  "title":"Zhvillimi i Portalit në Ueb ",
+		  "desc":"Zhvillimi i portalit në internet nënkupton hyrjen inxhinierike në një larmi të dhënash dhe shërbimesh përmes një ndërfaqeje të vetme në internet."
+		},
+		"section_2":{
+		  "title":"Portofoli ynë i portalit në internet",
+		  "desc":"Aplikacioni Portal dhe Mobile për Nxënësit e Gjuhëve të Huaja dhe Udhëtarët e Aviduar"
+		},
+		"section_3":{
+		  "title":"Portale në internet që ne ofrojmë",
+		  "items":[
+			{"title":"Portali i klientit B2C ", "desc":"Ose për shitjen e mallrave të konsumit ose për ofrimin e shërbimeve, një portal vetë-shërbimi vjen si mjet i duhur për krijimin e marrëdhënieve afatgjata me klientët. Duke marrë parametrat e përdorshmërisë (navigimi, koha e përgjigjes, besueshmëria, besueshmëria dhe përmbajtja) si një kërkesë minimale, ne sigurojmë lehtësinë e portalit tuaj në një varg funksionesh"},
+			{"title":"Portali i klientit B2B ", "desc":"Vetëm duke siguruar vetë-shërbim gjithëpërfshirës të klientit, një portal konsumatori B2B do të ushqejë kënaqësinë e klientit, të modernizojë shitjet në internet dhe të kursejë kostot. Prandaj, portalet tona B2B përfshijnë mjete të fuqishme për çdo anëtar të qendrës së blerjes së një klienti (duke lejuar hyrjet e shumta për secilën kompani)"},
+			{"title":"Portali i partnerëve ", "desc":"Krijuar për të fuqizuar partnerët, për të arritur avantazhe konkurruese dhe për të rritur shitjet, 80% e portaleve partnere përfundojnë jopopullore me partnerët e kanalit. Ne e dimë se si ta ndryshojmë këtë trend dhe jemi të gatshëm të ushqejmë portalin partner derisa të fillojë të angazhojë përdoruesit."},
+			{"title":"Portali i komunitetit ", "desc":"Ne mund t'ju ndihmojmë të ndërtoni një portë hyrëse në e-botën e komunitetit tuaj. Me ndërfaqen miqësore për përdoruesit dhe aftësitë e forta, duke përfshirë bisedat, forumet, blogjet, ngjarjet, mbështetjen e skedarëve mediatikë dhe më shumë, portalet tona lidhin anëtarët e komunitetit për të inkurajuar bashkëpunimin dhe krijimin e marrëdhënieve, si dhe përvojën e karburantit dhe shkëmbimin e ideve."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Zhvillimi i Portalit të Gjithë Raundit",
+		  "items":[
+			{"title":"Krijimi i faqes në internet të portalit: ", "desc":"ndërfaqe moderne dhe e përgjegjshme e përdoruesit për të ofruar përvojën e fundit të përdoruesit në çdo shfletues dhe në të gjitha ekranet e celularëve"},
+			{"title":"Zhvillimi i portalit në internet: ", "desc":"një zgjidhje nga fundi në fund nga përcaktimi i kërkesave për zbatimin dhe sigurimin e cilësisë"},
+			{"title":"Zhvillimi i aplikacioneve mobile ", "desc":""},
+			{"title":"Migrimi: ", "desc":"krijimi i një portali të ri në internet që do të përshtatet me nevojat tuaja të reja dhe të trashëgojë në mënyrë të përsosur të dhëna (përfshirë përmbajtjen, ndërfaqen, meta të dhënat dhe përdoruesit) nga sistemi i trashëguar"},
+			{"title":"Auditimi i sigurisë, përfshirë", "desc":"testimi i depërtimit dhe azhurnimet për të vërtetuar masat ekzistuese të sigurisë, zbulimin dhe eleminimin e dobësive"}
+		  ]
+		},
+		"section_5":{
+		  "title":"Qasja jonë për zhvillimin e portalit në internet ",
+		  "items":[
+			{"title":"Angazhimi i përdoruesit", "desc":"Dizajn përshtatës për celularët, me një pamje dhe ndjenjë të unifikuar në të gjitha ekranet Mjete ndërvepruese si forma reagimesh, llogaritëse, dollapë personalë etj. Personalizimi i përmbajtjes bazuar në rolet e përdoruesve dhe historinë e ndërveprimit Faqet e pasura me media që shfaqin media të ngulitura, të ngarkuara drejtpërdrejt ose të pritur përmes YouTube, Vimeo dhe faqeve të tjera të internetit "},
+			{"title":"Besueshmëria", "desc":"Shkallëzimi për të trajtuar numrin në rritje të përdoruesve dhe të dhënave Performancë e lartë për të siguruar që përdoruesit të kenë mundësi të përdorin përmbajtjen dhe mjetet shpejt sigurinë e informacionit: ne sjellim një përvojë 17-vjeçare në inteligjencën e sigurisë."},
+			{"title":"Menaxhimi i lehtë i përmbajtjes", "desc":"Përdoruesit jo-teknikë mund të azhurnojnë përmbajtjen lehtë dhe rregullisht Stilet e unifikuara të botimit të përmbajtjes për të sjellë rregull në informacion dhe për të siguruar integritet gjatë azhurnimeve të portalit."},
+			{"title":"Integrimi", "desc":"Integrimi i automatizuar me sisteme të tjera të biznesit si ERP, CRM, HRM, zgjidhje të tregtisë elektronike dhe zhvillime të tjera API për të garantuar integrim të ngushtë me sistemet ERP të klientëve / shitësve tuaj, nëse është e nevojshme"}
+		  ]
+		},
+		"section_6":[
+		  {"txt":"Përcaktimi"},
+		  {"txt":"Ne vlerësojmë bashkëpunimin me klientët tanë dhe jemi të etur për t'iu drejtuar sfidës së biznesit tuaj për të krijuar zgjidhjen më të mirë të portalit. Thjesht na hidhni një vijë dhe merrni një konsultë falas se si t'i zbatoni idetë tuaja në një zgjidhje të fuqishme të portalit."},
+		  {"txt":"Na kontaktoni"}
+		],
+		"section_7":{
+		  "title":"Projektet e zgjedhura",
+		  "items":[
+			{"title":"Zhvillimi i aplikacioneve Viber","desc":"Historia e suksesit të bashkëpunimit 5+ vjet me fillimin e Viber rezultoi në lëshimin dhe evolucionin e versioneve të aplikacioneve Android dhe desktop të Viber, një VoIP i pasur me funksion dhe mesazheri i menjëhershëm me mbi një miliard përdorues të regjistruar."},
+			{"title":"Zhvillimi i portalit për një botues mediatik","desc":"Një uebfaqe mikroblogimi e ngjashme me Twitter me përmbajtje të kategorizuar multimediale të ndarë nga kontribuesit e regjistruar. Një zgjidhje botuese Pimcore për një revistë në internet."},
+			{"title":"Zhvillimi i Aplikimit Analitik Online ","desc":"KosovaOutSource dorëzoi një faqe në internet për një ofrues të arsimit, i cili ndihmoi në zvogëlimin e të dhënave të dublikuara me 5 herë dhe përmirësimin e performancës dhe stabilitetit të përgjithshëm të sistemit të të dhënave."}
+		  ]
+		}
+	  },
+	  "Testing-Qa":{
+		"section_1":{
+		  "title":"Testimi i softverit dhe Shërbimet e Sigurimit të Cilësisë ",
+		  "desc":"Shërbimet e testimit të softuerit i ndihmojnë kompanitë të sigurojnë që programi i tyre është plotësisht funksional, i besueshëm, i sigurt dhe i përshtatshëm për përdoruesit."
+		},
+		"section_2":[
+		  {"txt":"Testimi A është bërë burim problemesh?"},
+		  {"txt":"Shërbimet e testimit të softuerit dhe sigurimit të kompjuterit në Kosovë do t'ju ndihmojnë ta bëni testimin një krah të fortë që mbështet zhvillimin e biznesit tuaj."},
+		  {"txt":"Jepini fund problemeve të testimit"}
+		],
+		"section_3":{
+		  "title":"Oferta jonë",
+		  "items":[
+			{"title":"Kontraktimi i SC-së" ,"desc":"Një ekip i dedikuar i inxhinierëve të QA të kualifikuar për domen merr përsipër procesin tuaj të sigurimit të cilësisë, duke qenë përgjegjës për menaxhimin e procesit të Sigurimit të Cilësisë. Ne kryejmë testimin nga fundi në fund gjatë gjithë ciklit jetësor të zhvillimit të softuerit për të siguruar që të gjitha modulet e zgjidhjes suaj të funksionojnë siç janë krijuar nga fillimi në fund."},
+			{"title":"Shërbime të menaxhuara të testimit" ,"desc":"Ekipi i dedikuar i testit KosovaOutSource merr përsipër një pjesë ose të gjithë fushën e aktiviteteve tuaja të testimit mbi bazën e pagimit për njësi, duke marrë përgjegjësinë e plotë për menaxhimin e procesit të testimit dhe cilësinë e softuerit nën provë."},
+			{"title":"Testimi specifik i projektit " ,"desc":"Në varësi të specifikave të kompanisë, projektit dhe softuerit tuaj, ne kryejmë testimin e pavarur të 3-të dhe ekzekutojmë çdo lloj prove të kërkuar ose kombinimin e tyre që ju të merrni reagime të paanshme për cilësinë e aplikacionit tuaj."},
+			{"title":"Konsultimi i sigurimit të cilësisë " ,"desc":"Ne ju ndihmojmë të zbuloni shkaqet rrënjësore të problemeve tuaja të cilësisë dhe t'i adresoni ato duke kryer një auditim të procesit të sigurimit të cilësisë dhe planifikimin e përmirësuar të procesit të sigurimit të cilësisë. Nëse sapo filloni një projekt, ne gjithashtu mund të hartojmë një strategji optimale të SC për ju. Përveç kësaj, ne ndihmojmë në kalimin e çertifikimit të produktit dhe procesit."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Çdo aspekt i softuerit tuaj, i vërtetuar",
+		  "desc":"Ne testojmë veçori funksionale dhe jofunksionale të softuerit për t'u siguruar që përputhet me specifikimet e kërkesave dhe ofron përvojë të jashtëzakonshme të përdoruesit:",
+		  "icon1":"Testimi funksional", "icon2":"Testimi i Performancës", "icon3":"Testimi i përdorshmërisë", "icon4":"Testimi i përputhshmërisë"
+		},
+		"section_5":{
+		  "txt":[
+			{"desc":"Test automatizimi për rezultate më cilësore"},
+			{"desc":"Ne kombinojmë testimin manual dhe të automatizuar dhe zbatojmë përvojën tonë me kornizat e besueshme të automatizimit për t'ju ndihmuar të përshpejtoni lëshimet, të rrisni mbulimin e provës dhe të gjeni më shumë defekte para se ato të hyjnë në prodhim."},
+			{"desc":"Ne jemi gjithashtu të aftë në krijimin e praktikave të testimit të vazhdueshëm dhe integrimin e aktiviteteve të testimit në tubacionet CI / CD brenda qasjes DevOps."},
+			{"desc":"Oferta jonë e automatizmit të provës përfshin:"}
+		  ],
+		  "items":[
+			{"title":"Provoni zhvillimin e strategjisë së automatizimit"},
+			{"title":"Konfigurimi dhe konfigurimi i mjedisit të provës"},
+			{"title":"Testimi i automatizuar i ndërfaqes së përdorimit"},
+			{"title":"Testimi i Performancës"}
+		  ]
+		},
+		"section_6":{
+		  "title":"Më shumë histori suksesi",
+		  "items":[
+			{"title":"Testim me cikël të plotë të dy aplikacioneve të përpunimit të imazheve për një udhëheqës global të imazhit dixhital","desc":"Ekipi i testimit të KosovaOutsource siguroi testimin gjithëpërfshirës të 2 aplikacioneve desktop për përpunimin e imazheve për një kompani evropiane të produkteve që ofron softuer të fuqishëm të përpunimit të imazheve për fotografë profesionistë, amatorë dhe prodhues të pajisjeve të fotografisë. "},
+			{"title":"Testimi i një Portali të Shërbimit Qytetar të Bazuar në Re për një kompani Evropiane të IT","desc":"Ekipi i testimit të KosovaOutsource kreu testimin funksional nga fundi në fund dhe testimin jofunksional të një aplikacioni në internet të shërbimit të qytetarëve në re për një kompani evropiane të IT që ofron zgjidhje online të shërbimit të qytetarëve për sektorin publik. "},
+			{"title":"Testimi i një Aplikimi për Transmetim Video për një Ofrues Shërbimesh Ndërkombëtare TV Kudo","desc":"KosovaOutsource testoi një aplikacion për një ofrues ndërkombëtar TV Everywhere që fuqizon kompanitë kryesore të transmetimit në të gjithë Evropën dhe SHBA."}
+		  ]
+		}
+	}
+  }
+  

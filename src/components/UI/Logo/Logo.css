@@ -1,0 +1,48 @@
+.logo {
+  display: flex;
+  margin: 0;
+  text-decoration: none;
+}
+
+.logo_modal {
+  pointer-events: none;
+}
+.white_logo {
+  background-image: url("../../../assets/WhiteLogo.svg");
+}
+.black_logo {
+  background-image: url("../../../assets/BlackLogo.svg");
+}
+.blue_logo {
+  background-image: url("../../../assets/BlueLogo.svg");
+}
+.img_logo {
+  width: 150px;
+  height: 40px;
+  display: inline-block;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.logo-name {
+  text-transform: capitalize;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  padding-left: 5px;
+  font-size: 26px;
+  line-height: 30px;
+}
+.logo:hover {
+  text-decoration: none !important;
+}
+
+@media (max-width: 576px) {
+  .img_logo {
+    width: 80px;
+    height: 28px;
+  }
+  .logo-name {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}

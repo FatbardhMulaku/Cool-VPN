@@ -1,0 +1,78 @@
+.nav-login {
+  display: inline-flex;
+  flex-direction: row;
+  height: 100%;
+  margin: 0;
+  list-style: none;
+  align-items: center;
+  padding: 0;
+}
+.nav-login > hr {
+  height: auto;
+  align-self: stretch;
+  border: none;
+  width: 1px;
+  margin: 0;
+  flex-shrink: 0;
+}
+.nav-login > li > p {
+  font-size: 15px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-transform: uppercase;
+  transition: all 0.45s ease-in-out;
+  line-height: 20px;
+  margin: 0;
+  padding: 0 4px;
+}
+
+.white-p,
+.black-p {
+  cursor: pointer;
+  padding: 2px 1px;
+}
+.white-p {
+  color: white;
+}
+.black-p {
+  color: black;
+}
+.black-p:hover {
+  background: #000;
+  color: white;
+}
+.white-p:hover {
+  background: white;
+  color: black;
+}
+
+@media (max-width: 576px) {
+  .nav-login {
+    width: 100%;
+    color: black !important;
+/*     flex-flow: column; */
+    margin: 5px 0;
+  }
+/*   .nav-login > hr {
+    display: none;
+  } */
+  .nav-login > li {
+/*     color: black !important;
+    width: 100%; */
+    margin: 2px 0 !important ;
+    padding: 3px 6px;
+/*     text-align: center; */
+/*     background-color: #b2b2b2;
+    border: none !important;
+    border-radius: 0%;
+    font-weight: normal; */
+  }
+  .nav-login > li > p {
+    text-transform: capitalize;
+    font-size: 14px;
+  }
+  /* .nav-login > li:hover,
+  .nav-login > li:focus {
+    background-color: #cccccc;
+  } */
+}

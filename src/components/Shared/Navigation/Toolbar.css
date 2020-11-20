@@ -1,0 +1,31 @@
+.col_black{
+  color: black !important;
+}
+.col_white{
+  color: white !important;
+}
+@media (max-width: 1200px) {
+  .searchIcon {
+    float: right;
+    margin-left: auto;
+  }
+  .DesktopOnly {
+    display: none;
+  }
+  .d-login {
+    margin-right: 30px;
+  }
+}
+@media (min-width: 1200px) {
+  .DrawerToggle {
+    display: none;
+  }
+  .d-login {
+    display: inline-flex;
+  }
+}
+@media (max-width: 576px) {
+  .d-login {
+    margin-right: 10px;
+  }
+}

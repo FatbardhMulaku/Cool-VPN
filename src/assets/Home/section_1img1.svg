@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="409.045" height="409.045" viewBox="0 0 409.045 409.045">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_6" data-name="Clip 6" d="M0,0H123.481V130.131H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9" data-name="Group 9" transform="translate(-1.747 -1.345)">
+    <g id="Group_8" data-name="Group 8" transform="matrix(0.799, -0.602, 0.602, 0.799, 0.646, 177.139)">
+      <path id="Fill_1" data-name="Fill 1" d="M292.081,61.648v99.528a130.9,130.9,0,0,1-130.9,130.9H61.648A61.653,61.653,0,0,1,0,230.432V61.648A61.653,61.653,0,0,1,61.648,0H230.432a61.653,61.653,0,0,1,61.648,61.648" transform="translate(0.889 0.65)" fill="#5a4fa0"/>
+      <path id="Fill_3" data-name="Fill 3" d="M59.783,201.844A132.487,132.487,0,0,1,0,187.7V61.446A61.588,61.588,0,0,1,61.72,0H172.266a130.946,130.946,0,0,1,20.079,69.869C192.346,142.76,133,201.844,59.783,201.844Z" transform="translate(1.228 1.012)" fill="#6f5ea9" opacity="0.52"/>
+      <g id="Group_7" data-name="Group 7" transform="translate(1.07 1.646)" opacity="0.19">
+        <path id="Clip_6-2" data-name="Clip 6" d="M0,0H123.481V130.131H0Z" fill="none"/>
+        <g id="Group_7-2" data-name="Group 7" clip-path="url(#clip-path)">
+          <path id="Fill_5" data-name="Fill 5" d="M123.481,45.043A85.138,85.138,0,0,1,0,121.008V61.716A61.727,61.727,0,0,1,61.728,0h48.866a84.728,84.728,0,0,1,12.888,45.043" transform="translate(0 0)" fill="#9584be"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

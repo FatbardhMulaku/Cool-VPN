@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119" height="36.667" viewBox="0 0 119 36.667">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.527" y1="1.17" x2="0.617" y2="0.217" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c533f5"/>
+      <stop offset="0.705" stop-color="#b93bff"/>
+      <stop offset="1" stop-color="#f15ece"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.398" y1="0.889" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d11897"/>
+      <stop offset="0.231" stop-color="#bb20fc"/>
+      <stop offset="1" stop-color="#5db9ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_146" data-name="Group 146" transform="translate(-104.998 -244.32)">
+    <g id="Group_1" data-name="Group 1" transform="translate(104.998 245.506)">
+      <g id="_13203-NP3WU8" data-name="13203-NP3WU8" transform="translate(0 0)">
+        <path id="Path_1" data-name="Path 1" d="M67.05,549.612h.018v-.022Z" transform="translate(-65.84 -547.178)"/>
+        <path id="Path_2" data-name="Path 2" d="M94.776,634.988c-6.135-1.426-10.079-3.4-12.606-5.428,2.665,6.39,7.01,11.772,12.586,17.233a64.738,64.738,0,0,0,9.307-10.986A26.538,26.538,0,0,1,94.776,634.988Z" transform="translate(-77.966 -611.313)" fill="url(#linear-gradient)"/>
+        <path id="Path_3" data-name="Path 3" d="M94.019,549.271a6.7,6.7,0,0,1-1.081,2.768c-.1.147-.2.3-.317.444a7.741,7.741,0,0,1-1.646,1.582,41.072,41.072,0,0,0,2.372-14.3l-.022-.008a51.835,51.835,0,0,1-15.408-2.329l-.034-.016a51.8,51.8,0,0,1-15.719,2.434,44.426,44.426,0,0,0,.861,8.927c-2.047-2.059-2.01-3.655-2.01-3.655a6.409,6.409,0,0,0,.182,2.848c.851,3.184,4.277,8.247,16.946,10.948,9.653,2.057,13.639-.281,15.2-3.17A9.9,9.9,0,0,0,94.019,549.271ZM77.96,545.707a2.671,2.671,0,0,1,1.461,4.909l.689,5.071c-.808-.119-1.659-.275-2.562-.475q-.817-.181-1.58-.372l.57-4.2a2.671,2.671,0,0,1,1.422-4.935Z" transform="translate(-60.938 -537.41)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(142.998 250.32)">
+      <text id="Cool" transform="translate(0 17)" fill="#7749d9" font-size="21" font-family="SegoeUI, Segoe UI" letter-spacing="0.01em"><tspan x="0" y="0">Cool</tspan></text>
+      <text id="VPN" transform="translate(48 17)" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">VPN</tspan></text>
+      <path id="Path_4" data-name="Path 4" d="M140.833,239.5a6.423,6.423,0,0,0,6.174,3.905,5.59,5.59,0,0,0,5.672-3.905" transform="translate(-118.633 -217.794)" fill="none" stroke="#7749d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

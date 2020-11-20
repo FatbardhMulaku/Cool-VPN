@@ -1,0 +1,22 @@
+.UserFeedbacks__box{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.UserFeedbacks__box--right{
+	display: flex;
+	flex-direction: column;
+}
+.MuiBox-root-79, .MuiBox-root-47, .MuiBox-root-46,.MuiBox-root-45{
+	margin-bottom: 2px !important;
+}
+.MuiBox-root-43, .MuiBox-root {
+	margin-bottom: 2px !important;
+}
+
+.acc__icon{
+	color: black !important;
+}
+.makeStyles-root-13{
+	margin: 10px 0 !important;
+}

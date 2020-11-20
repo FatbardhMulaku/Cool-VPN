@@ -1,0 +1,1267 @@
+{
+	"mainMenu": [
+	  {
+		"link": "",
+		"name": "home"
+	  },
+	  {
+		"link": "blog",
+		"name": "blog"
+	  },
+	  {
+		"link": "contact",
+		"name": "kontaktiere uns"
+	  }
+	],
+	"loginBtn": "Einloggen",
+	"signupBtn": "Anmelden",
+	"login": {
+	  "title": "willkommen zurück",
+	  "inputLabel": "Bitte geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein",
+	  "emailPlaceholder": "Geben sie ihre E-Mailadresse ein",
+	  "passwordPlaceholder": "Geben Sie Ihr Passwort ein",
+	  "forget": "Passwort vergessen ?",
+	  "or": "oder",
+	  "btn": ["Einloggen", "Ein Konto erstellen", "Mit Facebook anmelden"]
+	},
+	"signup": {
+	  "inputLabel": "Geben Sie Ihre Daten ein, um sich uns anzuschließen",
+	  "usernamePlaceholder": "Geben Sie Ihren Benutzernamen ein",
+	  "username": "Nutzername",
+	  "emailPlaceholder": "Geben sie ihre E-Mail-Adresse ein",
+	  "email": "E-Mail-Addresse",
+	  "password": "Passwort",
+	  "confirmPassword": "Passwort bestätigen",
+	  "btn": "Anmelden",
+	  "loginInfo": "Sie haben bereits ein Konto? "
+	},
+  
+	"learnMoreBtn": "Lern mehr",
+	"software": {
+	  "section_1": {
+		"title": "Unser Unternehmen entwickelt digitale Produkte für Ihren Erfolg",
+		"desc": "Qualitätskontrolle für Ihre Daten einschließlich Leselängenverteilung und Bewertung der Einheitlichkeit. Skalieren Sie Ihr Unternehmen mit Inbound-Service."
+	  },
+	  "section_2": {
+		"title": "Wir sind das beste Unternehmen im Kosovo. Liefern Sie immer mehr als erwartet.",
+		"list": [
+		  {
+			"title": "10K+",
+			"desc": "Projekt abgeschlossen"
+		  },
+		  {
+			"title": "275+",
+			"desc": "Support-Team exportieren"
+		  },
+		  {
+			"title": "200+",
+			"desc": "Kunden weltweit"
+		  }
+		]
+	  },
+	  "section_3": {
+		"title": "Unsere Funktionen",
+		"allServices": [
+		  {
+			"title": "Mobiles Design",
+			"desc": "Unsere Spezialisten für mobile UI/UX-Designs erstellen eine konvertierungsgesteuerte mobile Benutzererfahrung, die eine hohe Konvertierung und Benutzerbindung ermöglicht."
+		  },
+		  {
+			"title": "Web design",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Cloud",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Branding",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Web Front-end",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Web Back-end",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Desktop",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Serverless",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Quality",
+			"desc": "Our company gives to you best quality that you ever have."
+		  },
+		  {
+			"title": "Security",
+			"desc": "We support your projects with competence and experience."
+		  }
+		]
+	  }
+	},
+	"security": {
+	  "section_1": {
+		"title": "security",
+		"desc": "We offer professional outsourcing, programming, management, design or any visual or administration work. Contact us for more  information."
+	  },
+	  "section_2": ["Protected", "Codes", "Authentication"],
+	  "section_3": {
+		"title": "You are secured 100% with KosovaOutsource",
+		"desc": "As a great company, KosovaOutsource guarantees you that you are secured by cooperating with us"
+	  },
+	  "section_4": {
+		"title": "Grow your business more with KosovaOutsource",
+		"desc": "Here is all of KosovaOutsource's team, apply to our company and maybe can be in our team. Asa software company we have a very great and hard working team."
+	  }
+	},
+	"webServices": {
+	  "section_1": {
+		"title": "Services of our Company",
+		"desc": "If you want to see allof our services, you just have to scroll down  and you can see all of them. Thank you for visiting an hope you"
+	  },
+	  "section_2": {
+		"title": "Here are all of our Services that our Company offers.",
+		"allServices": [
+		  {
+			"title": "Mobile design",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Web design",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Wolke",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Branding",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Web Front-end",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Web Back-end",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Desktop",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  },
+		  {
+			"title": "Serverlos",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  }
+		]
+	  },
+	  "section_3": {
+		"title": "Wird KosovaOutsource wirklich anderen sehr empfohlen und was ist der Grund?",
+		"desc": "Das, was wir am besten und am meisten empfehlen, wird von unseren treuen Kunden berücksichtigt. Arbeiten Sie also mit uns zusammen, Sie werden es nicht bereuen"
+	  },
+	  "section_4": {
+		"title": "Unsere Funktionen",
+		"allServices": [
+		  {
+			"title": "Qualität",
+			"desc": "Unsere Firma bietet Ihnen die beste Qualität, die Sie jemals haben."
+		  },
+		  {
+			"title": "Sicherheit",
+			"desc": "Wir unterstützen Ihre Projekte mit Kompetenz und Erfahrung."
+		  },
+		  {
+			"title": "Netzwerkinfrastruktur",
+			"desc": "Wir erstellen ein schönes und funktionierendes Design für Ihre Idee."
+		  }
+		]
+	  }
+	},
+	"seo": {
+	  "section_1": {
+		"title": "Steigern Sie Ihr Geschäft mit uns",
+		"desc": "Wir haben auch SEO-Analyse und Sie können Ihr Geschäft mit uns steigern."
+	  },
+	  "section_2": {
+		"title": "Lassen Sie uns Ihr Geschäft zu etwas machen, das Sie zur Schau stellen können",
+		"desc": "Unser Unternehmen ist seit vielen Jahren damit erfolgreich. Fühlen Sie sich für diese Sache sicher"
+	  },
+	  "section3title": "Below are some of the many vital tasks that are at the core of our SEO Strategy.",
+	  "section3": [
+		{"img": "SeoS3-img1", "title":"Website-Audit & SEO-Bewertung", "txt":"Eine kritische Analyse von Grund auf von der Designinfrastruktur und den Inhalten bis zur Verknüpfung von Profil und Markenstärke. "},
+		{"img": "SeoS3-img2", "title":"Detailliertes Backlink-Audit", "txt":"Wir betrachten ALLE für eine Website generierten Links, um deren Wert zu bestimmen und Spam-Links zu entfernen."},
+		{"img": "SeoS3-img3", "title":"Branchenprofileinträge", "txt":"Dies sind einflussreiche, branchenbasierte Verzeichnisse, auf die jedes Unternehmen abzielen sollte, um bei der lokalen Suchmaschinenoptimierung Fuß zu fassen."},
+		{"img": "SeoS3-img4", "title":"SEO Mitbewerberanalyse", "txt":"Wir führen eine umfassende Studie mit Wettbewerbern durch, um neue Möglichkeiten für Linkaufbau und Marketing zu ermitteln."},
+		{"img": "SeoS3-img5", "title":"Erstellung und Marketing von Inhalten", "txt":"Hochwertige, SEO-optimierte Inhalte (Artikel, Blogs, Pressemitteilungen, Social Media-Beiträge und Gastbeiträge), die Google-Rankings erstellen."},
+		{"img": "SeoS3-img6", "title":"Video / Infografiken", "txt":"Geben Sie Ihren Inhalten eine ansprechende Wendung! Unsere Designer und Video-Redakteure erstellen Werbe-Infografiken und -Videos, die mehr Conversions erzielen."},
+		{"img": "SeoS3-img7", "title":"Umfangreiche Keyword-Recherche", "txt":"Der wichtigste Schritt in der Suchmaschinenoptimierung, unsere Keyword-Recherche, ist umfassend und konzentriert sich auf 'Conversion-Keywords', die Leads bringen."},
+		{"img": "SeoS3-img8", "title":"Linkbuilding-Dienste", "txt":"Wir erstellen Links auf maßgeblichen Websites, die letztendlich auf Ihre Website verweisen, deren Glaubwürdigkeit nutzen und die Suchmaschinenoptimierung verbessern."}
+	  ],
+	  "section_4title": "Sehen Sie unseren SEO-Prozess!",
+	  "section_4p": "Unten finden Sie eine typische Aufgabenzeitleiste eines SEO-Projekts.",
+	  "section_4mid":[
+		{ "img":"Seo4-CssImg1","txt": "1. Keyword-Forschungsdokument", "color": "SeoS3-color1"},
+		{ "img":"Seo4-CssImg2","txt": "2. Website-Audit", "color": "SeoS3-color2"},
+		{ "img":"Seo4-CssImg3","txt": "3. Inhaltsplan", "color": "SeoS3-color3"}
+	  ],
+	  "section_4Box":[
+		{"img": "SeoS4-img1","title":"Keyword-Forschungsdokument", "txt":"Wir identifizieren wichtige Keyword-Begriffe, die für Ihre Branche, Ihren Service, Ihre Region, Ihre Zielgruppe und Ihre Wettbewerber relevant sind, um Ihre Website für Traffic und Rankings zu optimieren."},
+		{"img": "SeoS4-img2","title":"Website Audit", "txt":"Hier wird eine umfassende Analyse durchgeführt, die Ihre Website mehreren Tests unterzieht, Mängel identifiziert und Ergebnisse zusammen mit Empfehlungen skizziert."},
+		{"img": "SeoS4-img3","title":"Inhaltsplan", "txt":"Unser Team von Content-Marketing-Experten schlägt ansprechende, schlüsselwortreiche Themen vor und berücksichtigt dabei Ihre Marketingziele, Ihre Markenstimme und Ihren Zielmarkt."}
+	  ],
+	  "section_5": "Unsere neuesten Projekte"
+	},
+	"faq": {
+	  "faqForm": {
+		"name": "faq",
+		"input": "Stellen Sie uns eine Frage",
+		"btn": "Senden"
+	  },
+	  "questionsHeader": "Lesen Sie alle häufig gestellten Fragen von KosovaOutsource",
+	  "questions": [
+		{
+		  "question": "Warum ist KosovaOutsource das beste Unternehmen im Kosovo?",
+		  "answer": "Wir bieten professionelles Outsourcing, Programmierung, Management, Design oder jede visuelle oder administrative Arbeit."
+		},
+		{
+		  "question": "Ist in Ihrem Unternehmen immer alles gut?",
+		  "answer": "Unsere Kunden sagen immer, dass Kosova Outsource das beste Softwareunternehmen in Kosova ist, das es je gab."
+		},
+		{
+		  "question": "Wie kann ich mich bei Kosova Outsource bewerben?",
+		  "answer": "Wenn Sie gerne mit KosovaOutsource zusammenarbeiten, senden Sie uns bitte einen Lebenslauf per E-Mail. Vielleicht können wir mit Spaß zusammenarbeiten."
+		},
+		{
+		  "question": "Ist KosovaOutsource ein sehr fleißiges Unternehmen?",
+		  "answer": "Als Softwareunternehmen haben wir ein sehr gutes und fleißiges Team."
+		},
+		{
+		  "question": "Wie viele Jahre Erfahrung hat Ihr Unternehmen?",
+		  "answer": "Wir haben 10 Jahre Erfahrung mit mehr als 10k abgeschlossenen Projekten und mehr als 300 Kunden weltweit"
+		},
+		{
+		  "question": "Wie viele Stunden pro Tag arbeitet Kosova Outsource?",
+		  "answer": "Wir als Programmierunternehmen arbeiten durchschnittlich 8 Stunden am Tag"
+		}
+	  ]
+	},
+	"footerMenu": [
+	  {
+		"title": "Quicklinks",
+		"items": [
+		  {
+			"link": "/",
+			"name": "home"
+		  },
+		  {
+			"link": "/about",
+			"name": "Über uns"
+		  },
+  
+		  {
+			"link": "/blog",
+			"name": "blog"
+		  },
+		  {
+			"link": "/contact",
+			"name": "kontaktiere uns"
+		  },
+		  {
+			"link": "/news",
+			"name": "Nachrichten"
+		  }
+		]
+	  },
+	  {
+		"title": "Dienstleistungen",
+		"items": [
+		  {
+			"link": "/software-development",
+			"name": "Software-Entwicklung"
+		  },
+		  {
+			"link": "/callaboration",
+			"name": "Zusammenarbeit"
+		  },
+		  {
+			"link": "/nerwork-infrastructure",
+			"name": "Netzwerkinfrastruktur"
+		  },
+		  {
+			"link": "/administration",
+			"name": "Verwaltung"
+		  },
+		  {
+			"link": "/managment-services",
+			"name": "IT-Management-Dienstleistungen"
+		  }
+		]
+	  },
+	  {
+		"title": "Hilfezentrum",
+		"items": [
+		  {
+			"link": "/team-services",
+			"name": "Team von Dienstleistungen"
+		  },
+		  {
+			"link": "/privacy-policy",
+			"name": "Datenschutz-Bestimmungen"
+		  },
+		  {
+			"link": "/security",
+			"name": "Sicherheit"
+		  },
+		  {
+			"link": "/faq",
+			"name": "FAQs"
+		  }
+		]
+	  }
+	],
+	"industriesPopper": {
+	  "name": "Branchen",
+	  "industriesMenu": [
+		{ "link": "seo-analysis", "name": "SEO-Analyse" },
+		{ "link": "management", "name": "Management" },
+		{ "link": "it-outsourcing", "name": "IT-Outsourcing" },
+		{ "link": "application", "name": "Anwendung" },
+		{ "link": "it-consulting", "name": "IT Beratung" },
+		{ "link": "it-support", "name": "IT-Unterstützung" },
+		{ "link": "cloud", "name": "Wolke" },
+		{ "link": "data-analytics", "name": "Datenanalyse" },
+		{ "link": "cybersecurity", "name": "Onlinesicherheit" },
+		{ "link": "image-analysis", "name": "IBildanalyse" },
+		{ "link": "webdesign", "name": "Web-Design" },
+		{ "link": "web-portal-development", "name": "Webportal-Entwicklung" },
+		{ "link": "testing-qa", "name": "QS testen" },
+		{ "link": "ecommerce", "name": "E-Commerce" },
+		{ "link": "web-services", "name": "Internetdienste" }
+	  ],
+	  "industriesInfoName": "Unternehmen",
+	  "industriesInfoMenu": ["Nutzungsbedingungen", "Privatsphäre", "Sicherheit"]
+	},
+	"aboutPopper": {
+	  "name": "Über uns",
+	  "aboutMenu": [
+		{ "link": "Team", "name": "Mannschaft" },
+		{ "link": "company", "name": "Unsere Agentur" },
+		{ "link": "career", "name": "Career" },
+		{ "link": "Faq", "name": "Faq" },
+		{ "link": "Who we are", "name": "Wer wir sind " },
+		{ "link": "What we do", "name": "Was wir tun" }
+	  ]
+	},
+	"caseStudiesPopper": {
+	  "name": "Fallstudien",
+	  "caseStudiesMenu": [
+		{ "link": "portfolio", "name": "Erfahrung" },
+		{ "link": "Stories", "name": "Geschichten" }
+	  ]
+	},
+	"location": "Wir bieten die günstigsten und besten Outsourcing-Lösungen im Kosovo. Kontaktieren Sie uns, um ein Angebot zu erhalten!",
+	"subscribe": {
+	  "name": "Abonniere unseren Newsletter!!"
+	},
+	"alRight": "2020 KosovaOutsource. Alle Rechte vorbehalten",
+  
+	"Home": {
+	  "BanerH1": "Wir sind das beste Softwareunternehmen im Kosovo.",
+	  "BannerP": " Wir bieten professionelles Outsourcing, Programmierung, Management, Design oder jede visuelle oder administrative Arbeit. Kontaktieren Sie uns für weitere Informationen",
+	  "BannerA": "Lern mehr",
+  
+	  "SectionH2title": "Entdecken Sie, was wir anbieten",
+	  "Section2": [
+		{
+		  "SectionH2_Title": "Mobile design",
+		  "SectionH2_Info": "Unsere Spezialisten für mobile UI / UX-Designs erstellen eine konvertierungsgesteuerte mobile Benutzererfahrung, die eine hohe Konvertierung und Benutzerbindung ermöglicht."
+		},
+		{
+		  "SectionH2_Title": "Web Design",
+		  "SectionH2_Info": "Webdesign-Services umfassen die Prozesse der Benutzeroberfläche (UI) und des User Experience (UX) -Designs jeder webbasierten Lösung."
+		},
+		{
+		  "SectionH2_Title": "Cloud",
+		  "SectionH2_Info": "Cloud-Infrastrukturverwaltungsdienste bieten Unternehmen Skalierbarkeit. Wo mehrere Benutzer eine gemeinsame Infrastruktur gemeinsam nutzen können."
+		},
+		{
+		  "SectionH2_Title": "Branding",
+		  "SectionH2_Info": "Unser Branding wird hauptsächlich auf Intranets und Portale angewendet, und es geht nicht nur darum, das Erscheinungsbild einer Lösung zu verbessern."
+		},
+		{
+		  "SectionH2_Title": "Internetdienste",
+		  "SectionH2_Info": "Webentwicklungsdienste umfassen das Entwerfen, Erstellen, Integrieren, Skalieren und Verwalten dynamischer Softwarelösungen, die über Intranet oder Internet funktionieren."
+		},
+		{
+		  "SectionH2_Title": "Management",
+		  "SectionH2_Info": "Management bezieht sich auf die Überwachung und Verwaltung der Informationstechnologiesysteme eines Unternehmens: Hardware, Software und Netzwerke."
+		}
+	  ],
+  
+	  "SectionH3": "Technologien, die KosovaOutsource verwendet",
+	  "SectionH3L": [
+		{ "tlogos": "tlogo logo-java" },
+		{ "tlogos": "tlogo logo-html" },
+		{ "tlogos": "tlogo logo-react" },
+		{ "tlogos": "tlogo logo-wordpress" },
+		{ "tlogos": "tlogo logo-php" },
+		{ "tlogos": "tlogo logo-java" },
+		{ "tlogos": "tlogo logo-html" },
+		{ "tlogos": "tlogo logo-react" },
+		{ "tlogos": "tlogo logo-wordpress" },
+		{ "tlogos": "tlogo logo-php" }
+	  ],
+  
+	  "SectionH4LeftTitle": "Wir sind vielleicht schon eine E-Mail von der Zusammenarbeit entfernt",
+	  "SectionH4LeftP": "Wenn Sie mit KosovaOutsource arbeiten möchten, senden Sie uns bitte einen Lebenslauf per E-Mail. Wir werden den Import von PropTypes aus 'Prop-Typen' überprüfen und vielleicht können wir mit Spaß zusammenarbeiten.",
+	  "SectionH4LeftBtn": "Lern mehr",
+	  "SectionH4RightName1": "Leona Zeqiri",
+	  "SectionH4RightTitle1": "Projektmanager",
+	  "SectionH4RightP1": "Hallo, ich bin Lona-Projektmanagerin bei KosovaOutsource. Schön, Sie kennenzulernen",
+	  "SectionH4RightName2": "Ilir Osmani",
+	  "SectionH4RightTitle2": "Webdesigner",
+	  "SectionH4RightP2": "Hallo, ich bin der Webdesigner von Ilir Osmani bei KosovaOutsource. Schön, Sie kennenzulernen",
+	  "SectionH4RightName3": "Rita Gashi",
+	  "SectionH4RightTitle3": "Web-Entwickler",
+	  "SectionH4RightP3": "Hallo, ich bin Rita Gashi Web Developer bei KosovaOutsource, schön Sie kennenzulernen",
+  
+	  "SectionH5title": "Unsere kreativen Arbeiten",
+	  "SectionH5Soft": "Software",
+	  "SectionH5Deve": "Entwicklung",
+	  "SectionH5Design": "UI/UX Design",
+	  "SectionH5SeeAll": "Alle Artikel anzeigen",
+	  "SectionH5Tabtitle": "Web-Design",
+	  "SectionH5TabBtn": "Projekt ansehen",
+  
+	  "SectionH6T1": "Für was wir stolz sind",
+	  "SectionH6P1": "Wir sind stolz darauf, Techonology Native zu sein und nicht an bestimmte Techonologies gebunden zu sein, sondern bieten die beste Lösung für unsere Kunden. Wir sind bestrebt, einen festen Satz von Dienstleistungen für einen Servicekatalog bereitzustellen.",
+	  "SectionH6Btn": "Senden",
+	  "SectionH6T2": "Wir fördern die Integrität",
+	  "SectionH6P2": "Wir sind unabhängig, was unsere Werte weiter fördert, dass die Interessen unserer Kunden immer Vorrang haben. Intergrität und Verantwortung gegenüber unseren Kunden und haben uns zum bevorzugten Partner in der Region für tausend nationale und internationale Kunden gemacht."
+	},
+  
+	"Contact": {
+	  "BannerB": "Kontaktiere uns",
+	  "SectionB2": "Kontaktieren Sie uns",
+	  "Section2": [
+		{
+		  "title": "Telefon",
+		  "info1":"+3834445400400",
+		  "info2":"+3834445400400",
+		  "to":"tel: +3834445400400"
+		},
+		{
+		  "title": "Email",
+		  "info1": "info@KsOutsource.com",
+		  "info2": "info@KsOutsource.com",
+		  "to": "mailto: info@KsOutsource.com"
+		},
+		{
+		  "title": "Sozialen Medien",
+		  "info1":"Wie unsere Facebook-Seite",
+		  "info2": "Folge uns auf Instagram",
+		  "to":"#"
+		}
+	  ]
+	},
+  
+	"Blog": {
+	  "BannerB1h": "Warum KosovaOutsource das beste Softwareunternehmen in der Region ist.",
+	  "BannerB1p": "Unsere Kunden sagen immer, dass Kosova Outsource das beste Softwareunternehmen in Kosova ist, das es je gab.",
+	  "BannerBbtn": "Lern mehr",
+  
+	  "SectionB2h": "Top Pick Artikel",
+	  "SectionB2": [
+		{
+		  "SectionB2txt": "Warum KosovaOutsource das beste Unternehmen in der Region ist",
+		  "klasa": "Bb",
+		  "SectionB2btn": "Geschichte lesen"
+		},
+		{
+		  "SectionB2txt": "Ist Kosovo Outsource das beste Unternehmen?",
+		  "klasa": "Bc",
+		  "SectionB2btn": "Geschichte lesen"
+		},
+		{
+		  "SectionB2txt": "Sind treue Kunden von Kosova Outsource",
+		  "klasa": "Bd",
+		  "SectionB2btn": "Geschichte lesen"
+		},
+		{
+		  "SectionB2txt": "Wie kann ich mich bei Kosova Outsource bewerben?",
+		  "klasa": "Be",
+		  "SectionB2btn": "Geschichte lesen"
+		}
+	  ],
+  
+	  "SectionB3h": "Inspirationen",
+	  "SectionB3btn": "Mehr sehen",
+	  "SectionB3a": [
+		{
+		  "title": "Ist bei Kosova Outsource immer alles gut?",
+		  "data": "26.08.2020"
+		},
+		{
+		  "title": "Kosova Outsource arbeitet immer 8 Stunden pro Tag.",
+		  "data": "15.08.2020"
+		},
+		{
+		  "title": "Kosova Outsource wird anderen sehr empfohlen!",
+		  "data": "20.07.2020"
+		}
+	  ],
+	  "SectionB3b": [
+		{
+		  "title": "KosovaOutsource ist ein sehr fleißiges Unternehmen.",
+		  "data": "04.06.2020"
+		},
+		{
+		  "title": "Wie viele Jahre Erfahrung hat KosovaOutsource.",
+		  "data": "11.06.2020"
+		}
+	  ],
+  
+	  "SectionCS1h": "Was wir tun",
+	  "SectionCS1p": "Wir bieten professionelles Outsourcing, Programmieren, Verwalten, Entwerfen für jede visuelle oder administrative Arbeit. Kontaktieren Sie uns für weitere Informationen.",
+	  "SectionCSbtn": "Mehr erfahren",
+	  "SectionCS2h": "Wir tun, was wir lieben, zum Besseren.",
+	  "SectionCS2p": "Um qualitativ hochwertige Softwareentwicklungsdienste anbieten zu können, müssen Sie die Technologie beherrschen. Um es erstklassig zu machen, müssen Sie die Interaktionen der Menschen beherrschen und das Team darüber hinausgehen lassen.",
+	  "SectionCS3h": "Kosova Outsource führt alle Arten von IT-Services mit Erfolg aus.",
+	  "SectionCS3p": "Hier ist das gesamte Team von KosovaOutsource für unser Unternehmen zu bewerben und kann möglicherweise in unserem Team sein. Als Softwareunternehmen haben wir ein sehr gutes und fleißiges Team."
+	},
+	"About": {
+	  "SectionA1h1": "Über uns",
+	  "SectionA1title": "Wir tun, was wir lieben, zum Besseren.",
+	  "SectionA1":[
+		{"SectionA1p": "Um qualitativ hochwertige Softwareentwicklungsdienste anbieten zu können, müssen Sie die Technologie beherrschen. Um es erstklassig zu machen, müssen Sie die Interaktionen der Menschen beherrschen und Ihr Team darüber hinausgehen lassen"},
+		{"SectionA1p": "das machen wir schon seit vielen jahren."}
+	  ],
+  
+	  "SectionA2h": "Einzigartige Lösungen für Ihr Unternehmen",
+	  "SectionA2": [
+		{
+		  "txt": "Dann werden wir von unseren treuen Kunden als die besten und am meisten empfohlenen angesehen. Arbeiten Sie also mit uns zusammen, und Sie werden es nicht bereuen."
+		},
+		{
+		  "txt": "Wir sind unabhängig, was unsere Werte weiter fördert, dass die Interessen unserer Kunden immer Vorrang haben."
+		},
+		{
+		  "txt": "Wir sind stolz darauf, Technologie-Native zu sein und nicht an bestimmte Technologien gebunden zu sein."
+		}
+	  ],
+	  "SectionA3h": "Referenzen",
+	  "SectionA3hh": "Was unsere Kunden über uns sagen",
+	  "SectionA3p": "Es gibt viele verschiedene Passagen von Lorem ipsum avabile, aber die Mehrheit hat in einigen Fällen durch injizierten Humor Abwechslung erlitten.",
+  
+	  "SectionA3": [
+		{
+		  "class1": "SectionA3bImg2",
+		  "class2": "SectionA3b-img2"
+		},
+		{
+		  "class1": "SectionA3bImg3",
+		  "class2": "SectionA3b-img3"
+		},
+		{
+		  "class1": "SectionA3bImg4",
+		  "class2": "SectionA3b-img4"
+		},
+		{
+		  "class1": "SectionA3bImg5",
+		  "class2": "SectionA3b-img5"
+		}
+	  ]
+	},
+	"Team": {
+	  "BannerTh": "Mannschaft",
+	  "BannerTp": "Hier ist das gesamte Team von KosovaOutsource, bewerben Sie sich bei unserem Unternehmen und vielleicht können Sie in unserem Team sein",
+  
+	  "SectionT2": "Unser Team",
+	  "Section2title1": "Direktor",
+	  "Section2title2": "Sekretärin",
+	  "Section2title3": "Manager",
+  
+	  "Section4h": "Ist das Team von KosovaOutsource ein sehr fleißiges Team?",
+	  "Section4p": "Hier ist das gesamte Team von KosovaOutsource, bewerben Sie sich bei unserem Unternehmen und können Sie vielleicht in unserem Team sein. Als Softwareunternehmen haben wir ein sehr gutes und fleißiges Team.",
+	  "send": "senden"
+	},
+	"Company": {
+	  "Section1h": "KosovaOutsource ist ein sehr seriöses Unternehmen mit hervorragenden Dienstleistungen.",
+	  "Section1p": "Wir bieten professionelles Outsourcing, Programmieren, Management, Design oder jede visuelle oder administrative Arbeit. Kontaktieren Sie uns für weitere Informationen.",
+  
+	  "Section2": "Unsere Funktionen",
+	  "Section2h": "Wir sind das beste Softwareunternehmen im Kosovo",
+	  "Section2p": "Wir bieten professionelles Outsourcing, Programmieren, Management, Design oder jede visuelle oder administrative Arbeit. Kontaktieren Sie uns für weitere Informationen",
+  
+	  "Section3h": "Wird KosovaOutsource wirklich anderen sehr empfohlen und was ist der Grund?",
+	  "Section3p": "Das, was wir am besten und am meisten empfehlen, wird von unseren treuen Kunden berücksichtigt. Arbeiten Sie also mit uns zusammen, Sie werden es nicht bereuen."
+	},
+  
+	"Career": {
+	  "Section1h": "Hacke deinen Weg zum Traumjob.",
+	  "Section1p": "Lernen Sie Ihr natürliches Talent kennen, um es Ihnen zu erleichtern, Ihre Karriere auf hohem Niveau fortzusetzen.",
+	  "Section1Btn1": "Trete unserem Team bei",
+	  "Section1Btn2": "Siehe verfügbare Positionen",
+	  "or": "oder",
+		
+	  "Section2h4":"Wie es funktioniert?",
+      "Section2h2":"Schritte zur richtigen Berufswahl",
+	  "Section2": [
+		{
+		  "nr": "01",
+		  "c1": "SectionCe2-Box",
+		  "c2": "SectionCe2-Box-l",
+		  "c3": "SectionCe2-Box-r",
+		  "title": "Entdecken",
+		  "txt": "Nehmen Sie an unserer Karriereeinschätzung teil, verstehen Sie sich selbst und beginnen Sie mit der Erkundung von Karrieren, die mit Ihren Interessen in unserer App verknüpft sind."
+		},
+		{
+		  "nr": "02",
+		  "c1": "SectionCe2-Box",
+		  "c2": "SectionCe2-Box-l",
+		  "c3": "SectionCe2-Box-r",
+		  "title": "Lernen",
+		  "txt": "Erforschen Sie unsere bestehenden Geschichten und Projekte, die im Laufe der Zeit mit unterschiedlichen Karrieren verbunden sind."
+		},
+		{
+		  "nr": "03",
+		  "c1": "SectionCe2-Box",
+		  "c2": "SectionCe2-Box-l",
+		  "c3": "SectionCe2-Box-r",
+		  "title": "Erfahrung",
+		  "txt": "Durch unseren Live Pep-Vortrag (in Kürze) und treffen Sie dann karrierebezogene Fachleute offline bei unserer Veranstaltung namens Karrieretag."
+		}
+	  ],
+	  
+	  "Section3h" :"Unsere freien Stellen",
+      "Section3p" :"Alle ansehen",
+	  "Section3": [
+		{
+		  "title": "Senior Grafikdesigner",
+		  "apply": "Jetzt bewerben",
+		  "txt": "Wir suchen einen Senior Graphic Designer, der Digital- und Druckdesigns für unsere Marketinganforderungen erstellt und verwaltet."
+		},
+		{
+		  "title": "Web-Backend",
+		  "apply": "Jetzt bewerben",
+		  "txt": "We are looking for a Back-End Web Developer responsible for managing the interchange of data between the server and the users."
+		},
+		{
+		  "title": "Webdesigner",
+		  "apply": "Jetzt bewerben",
+		  "txt": "Wir suchen einen Webdesigner, der für die Erstellung großartiger Websites für unsere Kunden verantwortlich ist."
+		},
+		{
+		  "title": "Low-code Developer",
+		  "apply": "Jetzt bewerben",
+		  "txt": "Ein Low-Code-System wurde entwickelt, um den Zeitaufwand für die Codierung von Entwicklungsteams zu verringern."
+		}
+	  ]
+	},
+	"webdesign": {
+		"section_1": {
+		  "title": "Web Design Services",
+		  "desc": "Webdesign-Services umfassen die Prozesse der Benutzeroberfläche (UI) und des User Experience (UX) -Designs jeder webbasierten Lösung. In jedem seiner Webdesign-Projekte bringt ScienceSoft die Technologie, die visuelle Ästhetik und die Geschäftsziele geschickt in Einklang und bietet Ihnen schnell ladende, wirkungsvolle und hochkonvertierende Online-Erlebnisse."
+		},
+		"section_2":{
+		  "title":"Möchten Sie ein Webdesign, das Ihr Unternehmen antreibt?",
+		  "desc":"KosovaOutSource erstellt lebendige und intuitive Webdesigns, die herausragende Markenqualität, Nutzerinteraktion und Zufriedenheit gewährleisten und zu einer hohen Conversion-Rate führen."
+		},
+		"section_3title":"Warum KosovaOutSource",
+		"section_3":[
+		  {"txt":"8 Jahre im digitalen Design."},
+		  {"txt":"UI- und UX-Designteams mit langjähriger praktischer Erfahrung."},
+		  {"txt":"Reaktionsschnelles und leistungsorientiertes Design."},
+		  {"txt":"Konzentrieren Sie sich auf Conversions."},
+		  {"txt":"Einhaltung der SEO- und auf Anfrage der WCAG2-Bestimmungen."},
+		  {"txt":"Etablierte agile Prozesse."}
+		],
+		"section4title":"Vorteile des Webdesigns mit KosovaOutsource",
+		"section_4":[
+		  {"icon":"WDsection4_icon1", "title":"Wettbewerbsfähiges Design ", "txt":"Wir kombinieren Ihren Markenstil und die neuesten Webdesign-Trends und stützen uns dabei auf die Daten, die durch konkurrierende Unternehmensanalysen, Marktstudien und Nutzerforschung gesammelt wurden. Dieser Ansatz ermöglicht es uns, einzigartige und wettbewerbsfähige Designs zu liefern, die Ihre Markenidentität stärken, die Markenwerte widerspiegeln und Ihre Marketingziele unterstützen."},
+		  {"icon":"WDsection4_icon2", "title":"Konzentrieren Sie sich auf Ihre Geschäftsziele", "txt":"Bei der Gestaltung einer Website oder eines Webportals zielt unser Team stets auf Ihre spezifischen Marketing- und Kundendienstziele ab. Wir bauen eine produktive Zusammenarbeit mit den Stakeholdern auf, um Ihre Geschäftsprozesse zu verstehen und ein Design zu liefern, das Ihre individuelle Conversion-Strategie unterstützt."},
+		  {"icon":"WDsection4_icon3", "title":"Auf Ihre Zielgruppe zugeschnitten", "txt":"Wir führen zu Beginn des Projekts eine eingehende Analyse der Erwartungen Ihrer Benutzer durch. Die Daten, die wir zum Anpassen Ihrer Grafiken verwenden, stammen aus Usability-Studien (im Fall einer in Entwicklung befindlichen Weblösung) oder umfassenden UX- und UI-Audits (im Fall einer bereits entwickelten Weblösung)."}
+		],
+		"section5_title":"Unsere Webdesign-Serviceoptionen",
+		"section5_desc":"Wir bieten nicht nur die Möglichkeit eines einmaligen Webdesigns, sondern empfehlen auch kontinuierliche Designunterstützungsdienste, die eine ununterbrochene Weiterentwicklung Ihrer ständig wachsenden Weblösung ermöglichen. In enger Zusammenarbeit mit Ihrem Team führen wir schrittweise Verbesserungen und Änderungen ein, die auf regelmäßigen Benutzerumfragen und A / B-Tests basieren und so eine überlegene Benutzererfahrung gewährleisten.",
+		"section_5":[
+		  {"title": "Design der E-Commerce-Website", "desc": "Frisches und elegantes E-Commerce-Design, um den Kundenlebenswert Ihres Geschäfts zu steigern und Up- / Cross-Selling zu ermöglichen.", "btn":"Holen Sie sich mein E-Commerce-Design"},
+		  {"title": "Website / Portal-Design", "desc": "Kundenorientiertes Design, das eine höhere Verweilzeit und eine niedrigere Benutzerfehlerrate ermöglicht sowie die Benutzerinteraktion verbessert.", "btn":"Holen Sie sich meine Website"},
+		  {"title": "Website / Portal-Design", "desc": "Branchenspezifisches Design zur Erhöhung der Häufigkeit von E-Mail-Abonnements, Vorregistrierungen für zukünftige Dienste und Angebots- / Demoanfragen.", "btn":"Holen Sie sich mein E-Commerce-Design"}
+	  ]
+	},
+	"Management":{
+		"section_1":{
+		  "title":"Überwachung, Fehlerbehebung, Verbesserung, Optimierung von Application Management Services",
+		  "desc": "Laut jüngsten Umfragen zur Computerökonomie ist das Anwendungsmanagement eine der attraktivsten und bequemsten IT-Funktionen für das Outsourcing. Um den Anforderungen moderner Unternehmen gerecht zu werden, haben wir uns auf die Erstellung eines umfassenden Angebots konzentriert, damit Ihre Anwendungen relevant, verfügbar und reibungslos funktionieren. "
+		},
+		"section_2title":"Unsere Application Management Services",
+		"section_2desc":"Wir halten die Prozesse vollständig sichtbar und aktualisieren Sie kontinuierlich über den aktuellen Status Ihrer Anwendungen. Wir liefern detaillierte Berichte zu Implementierungsplänen, durchgeführten Aktivitäten und eingeführten Maßnahmen.",
+		"section_2":[
+		  {"title":"Anwendungsüberwachung und Leistungsmanagement","desc":"Wir können Ihnen dabei helfen, die richtige Leistung der für Ihr Unternehmen wichtigen Anwendungen aufrechtzuerhalten. Mit gründlichen Überwachungsaktivitäten diagnostiziert und behebt unser Team proaktiv auftretende Verlangsamungen und Fehler, bevor sie von Endbenutzern erkannt werden."},
+		  {"title":"Fehlerbehebung bei Anwendungen","desc":"Wir beheben auftretende Probleme in Ihren kritischen Anwendungen, die auf bestimmte Fehlverhalten, langsame Bearbeitung von Anforderungen, Laufzeitfehler, Nichtverfügbarkeit von Komponenten und schlechte Datenqualität zurückzuführen sind."},
+		  {"title":"Anwendungsverbesserungen","desc":"Wir verwalten Anfragen nach geringfügigen und umfangreicheren App-Änderungen und unterstützen Sie bei der Veröffentlichung aktualisierter Anwendungsversionen."},
+		  {"title":"Anwendungsoptimierung","desc":"Wir tragen dazu bei, dass Ihre Anwendungen mit sich ändernden Geschäftsanforderungen und -zielen auf dem neuesten Stand bleiben. Unsere Berater führen eine detaillierte Überprüfung Ihrer Anwendungen und relevanten Geschäftsprozesse durch, um Anwendungen zu ändern (Einführung von Automatisierung und Integration)."},
+		  {"title":"Änderungsmanagement und Schulungsdienste","desc":"Um einen reibungslosen Wechsel zu aktualisierten Systemen zu gewährleisten, bieten wir einen umfassenden Änderungsmanagementplan (einschließlich vollständiger Testabdeckung, Risikoanalyse und Überprüfung nach dem Start) sowie Überprüfungs- und Schulungsservices."},
+		  {"title":"Anwendung für Schulungsdienste","desc":"Wir arbeiten eng mit Ihrem IT-Team zusammen, um es auf die Verwaltung aktualisierter Anwendungen vorzubereiten. Durch schrittweise Anleitungen, Schulungen und Workshops vor Ort stellen wir sicher, dass sich Ihre Endbenutzer sicher fühlen."}
+		],
+		"section_3title": "Anwendungsverwaltung durch Helpdesk-Dienste",
+		"section_3desc": "Wir ergänzen unsere Management-Services durch umfassenden Helpdesk-Support. Der Helpdesk wird von einem mehrsprachigen 24/7-Team mit entsprechendem technischen Fachwissen vertreten. Sie werden zu einer zentralen Anlaufstelle für alle Serviceanfragen und Ereignisberichte, die ihre Lösung erleichtern und optimieren sowie die Benutzerzufriedenheit verbessern, indem sie: ",
+		"section_3":[
+		  {"title": "Vorfälle priorisieren und kategorisieren", "desc":"Von Benutzern gemeldet (per E-Mail, Telefon, Chat, Ticket-Management-System) oder von Überwachungssystemen identifiziert."},
+		  {"title": "Sofortige Lösung", "desc":"für allgemeine oder wiederholbare Probleme auf Anweisung und Eskalation komplexerer Fälle an technische Experten."},
+		  {"title": "Benutzer informieren", "desc":"auf den Status ihrer Anfragen."},
+		  {"title": "Erweiterung einer Wissensdatenbank und eines FAQ-Abschnitts", "desc":"zur Selbsthilfe der Benutzer."},
+		  {"title": "Sammeln von Benutzerfeedback", "desc":"zur Selbsthilfe der Benutzer."}
+		],
+		"section_4":[
+		  {"txt": "Von uns verwaltete Anwendungen"},
+		  {"txt": "Wir bieten professionelle Anwendungsverwaltungsdienste für eine breite Palette von Anwendungen:"},
+		  {"txt": "Benutzerdefinierte Unternehmensanwendungen (geschrieben auf Java, PHP, .NET, Python, C ++ usw.)."},
+		  {"txt": "Angepasste Anwendungen von Drittanbietern (einschließlich SharePoint, Salesforce, Dynamics 365, Magento)."}
+		],
+		"section_5":[
+		  {"txt": "Effiziente Verwaltung Ihrer Anwendungen "},
+		  {"txt": "Lassen Sie uns zusammenarbeiten, um Ihre Geschäftsanwendungen schnell, effizient und kostengünstig auszuführen und die Zufriedenheit Ihrer Mitarbeiter, Geschäftspartner und Kunden mit reibungslosen Geschäftsprozessen zu steigern."},
+		  {"txt":"Kontaktiere uns"}
+		],
+		"section_6":{
+		  "Back_endDesc":"Klicken Sie auf die Technologie, um mehr über unsere Funktionen zu erfahren.",
+		  "Back_end":[
+			{"items": "Node.js"}, {"items": "Java"}, {"items": "Python"}, {"items": "C++"}, {"items": "PHP"}, {"items": ".NET"}
+		  ]
+		},
+		"section7_title":"CHerausforderungen, die wir lösen",
+		"section_7":[
+		  {"title":"Hohe Anwendungs-TCO (Gesamtbetriebskosten)", "desc":"Wir nehmen uns immer Zeit, um die von uns bedienten Systeme zu bewerten und zu analysieren, Empfehlungen für das Value Engineering abzugeben und mögliche Optionen für Betriebskosteneinsparungen anzubieten. Abhängig von Ihren aktuellen Geschäftsanforderungen und Ihrer IT-Strategie können wir Ihnen eine Neuarchitektur, Migration, Aktualisierung, Einführung der Continuous Delivery-Pipeline und vieles mehr vorschlagen."},
+		  {"title":"Notwendigkeit sofortiger Updates im Vergleich zur Anwendungsstabilität.", "desc":" Wir setzen eifrig moderne Praktiken ein, einschließlich DevOps / Continuous Delivery und Containerisierung, die schmerzlose und optimierte laufende Anwendungsänderungen ermöglichen."},
+		  {"title":"Ungenutztes Potenzial.", "desc":"Mit Angeboten zur Anwendungsoptimierung möchten wir das verborgene Potenzial Ihrer Anwendungen aufdecken, damit sie Ihr Unternehmen in vollem Umfang unterstützen."}
+		]
+	  },
+	  "Cloud":{
+		"section_1": {
+		  "title": "Cloud Computing?",
+		  "desc": "Einfach ausgedrückt ist Cloud Computing die Bereitstellung von Computerdiensten - einschließlich Servern, Speicher, Datenbanken, Netzwerken, Software, Analysen und Informationen - über das Internet („die Cloud“), um schnellere Innovationen, flexible Ressourcen und Skaleneffekte zu bieten. In der Regel zahlen Sie nur für Cloud-Services, die Sie verwenden. So können Sie Ihre Betriebskosten senken, Ihre Infrastruktur effizienter betreiben und skalieren, wenn sich Ihre Geschäftsanforderungen ändern."
+		},
+		"section2_title":"Top Vorteile von Cloud Computing für SIE!",
+		"section2_desc":"Cloud Computing ist eine große Veränderung gegenüber der traditionellen Art und Weise, wie Unternehmen über IT-Ressourcen denken. Hier sind sieben häufige Gründe, warum sich Unternehmen für Cloud-Computing-Dienste entscheiden:",
+		"section_2":[
+		  {"info": "Kosten"},{"info": "Globale Skala"},{"info": "Geschwindigkeit"},{"info": "Produktivität"},{"info": "Leistung"},{"info": "Verlässlichkeit"},{"info": "Sicherheit"},{"info": "Öffentliche Cloud"}
+		],
+		"section3_title":"Arten von Cloud Computing",
+		"section3_desc":"Nicht alle Clouds sind gleich und nicht eine Art von Cloud Computing ist für jeden geeignet. Es wurden verschiedene Modelle, Typen und Dienste entwickelt, um die richtige Lösung für Ihre Anforderungen anzubieten.",
+		"section3_slider":[
+		  {"title":"Private Wolke", "desc":"Eine private Cloud bezieht sich auf Cloud-Computing-Ressourcen, die ausschließlich von einem einzelnen Unternehmen oder einer einzelnen Organisation verwendet werden. Eine private Cloud kann sich physisch im Rechenzentrum des Unternehmens vor Ort befinden. Einige Unternehmen zahlen auch Drittanbieter für das Hosting ihrer privaten Cloud. Eine private Cloud ist eine Cloud, in der die Dienste und die Infrastruktur in einem privaten Netzwerk verwaltet werden."},
+		  {"title":"Private Wolke", "desc":"Eine private Cloud bezieht sich auf Cloud-Computing-Ressourcen, die ausschließlich von einem einzelnen Unternehmen oder einer einzelnen Organisation verwendet werden. Eine private Cloud kann sich physisch im Rechenzentrum des Unternehmens vor Ort befinden. Einige Unternehmen zahlen auch Drittanbieter für das Hosting ihrer privaten Cloud. Eine private Cloud ist eine Cloud, in der die Dienste und die Infrastruktur in einem privaten Netzwerk verwaltet werden."},
+		  {"title":"Private Wolke", "desc":"Eine private Cloud bezieht sich auf Cloud-Computing-Ressourcen, die ausschließlich von einem einzelnen Unternehmen oder einer einzelnen Organisation verwendet werden. Eine private Cloud kann sich physisch im Rechenzentrum des Unternehmens vor Ort befinden. Einige Unternehmen zahlen auch Drittanbieter für das Hosting ihrer privaten Cloud. Eine private Cloud ist eine Cloud, in der die Dienste und die Infrastruktur in einem privaten Netzwerk verwaltet werden."}
+		],
+		"section4_title":"Verwendung von Cloud Computing",
+		"section_4":[
+		  {"title":"Erstellen Sie Cloud-native Anwendungen", "desc":"Erstellen, Bereitstellen und Skalieren von Anwendungen - Web, Mobile und API - schnell. Nutzen Sie Cloud-native Technologien und Ansätze wie Container, Kubernetes, Microservices-Architektur, API-gesteuerte Kommunikation und DevOps.", "klasa":""},
+		  {"title":"Speichern, sichern und wiederherstellen von Daten", "desc":"Schützen Sie Ihre Daten kostengünstiger und in großem Umfang, indem Sie Ihre Daten über das Internet auf ein externes Cloud-Speichersystem übertragen, auf das von jedem Ort und jedem Gerät aus zugegriffen werden kann.", "klasa":"col-lg-5"},
+		  {"title":"Daten analysieren", "desc":"Vereinheitlichen Sie Ihre Daten über Teams, Abteilungen und Standorte in der Cloud hinweg. Verwenden Sie dann Cloud-Dienste wie maschinelles Lernen und künstliche Intelligenz, um Erkenntnisse für fundiertere Entscheidungen zu gewinnen.", "klasa":""},
+		  {"title":"Intelligenz einbetten", "desc":"Verwenden Sie intelligente Modelle, um Kunden zu gewinnen und wertvolle Erkenntnisse aus den erfassten Daten zu gewinnen.", "klasa":"col-lg-5"}
+		],
+		"section5_title":"Microsoft und Cloud Computing",
+		"section5_desc":"Microsoft ist ein weltweit führender Anbieter von Cloud-Computing-Diensten für Unternehmen jeder Größe."
+	  },
+	  "IT-Support":{
+		"section_1":{
+		  "title":"IT-Support-Services: Reibungslose IT-Workflows Zufriedene Benutzer",
+		  "desc":"Der IT-Support umfasst Verfahren zur Aufrechterhaltung ausfallsicherer IT-Workflows und zur Reduzierung der IT-Kosten."
+		},
+		"section_2":{
+		  "title":"Was Sie mit IT Support Services erhalten",
+		  "list":[
+			{"title": "Mehrschichtige Pipeline zur Lösung von Vorfällen: ", "desc":"L1. Ein Benutzer-Support-Team. L2. Ein technisches Support-Team. L3. Ein Team von Software-Ingenieuren."},
+			{"title": "Detaillierte Beschreibungen der IT-Infrastruktur und der Betriebsabläufe: ", "desc":"SOPs für Ticketlösung, Änderungs- und Incident-Management, CI / CD-Flows. Netzwerkkarten. Konfigurationsverwaltungsdatenbank."},
+			{"title": "Self-Service-Schulungsmaterialien für Benutzer: ", "desc":"Wissensdatenbankartikel. FAQs. Bedienungsanleitung."},
+			{"title": "Verbesserungen der Benutzerzufriedenheit und Akzeptanz:", "desc":"UX-Test / Überwachung. Umfragen und User Experience-Studien mit CSAT-Verbesserungsplänen basierend auf ihren Ergebnissen"},
+			{"title": "Bewertung der Einhaltung gesetzlicher Vorschriften. ", "desc":"Benchmarking der IT-Umgebung mit PCI DSS, HIPAA usw. Pläne zur Reduzierung von Compliance-Lücken."},
+			{"title": "Regelmäßige und transparente Berichterstattung: ", "desc":"Service Level-Berichte. Wartungsberichte. Gesundheitscheckberichte."}
+		  ]
+		},
+		"section_3":"Umfang der IT-Komponenten, mit denen wir uns befassen",
+		"section_3list":[ "Cybersicherheitstools (SIEM, IAM, Firewalls usw.)",
+			"Websites und Webportale", "Anwendungen, Anwendungsintegration und App-Infrastrukturen", "Netzwerke", "Datenbanken, Data Warehouses, Data Lakes",
+			"Desktops, Laptops, mobile Geräte; Windows-, MAC- und Linux-Betriebssysteme.", "Cloud Services (laaS, PaaS, SaaS)", "Lokale Rechenzentren",
+			"Entwicklungsinfrastrukturen (CI / CD, Entwicklungs- und Testumgebung)"
+		],
+		"section_4":{
+		  "title":"Wettbewerbsmerkmale der IT-Support-Services von KosovaOutSource",
+		  "box":[
+			{"title":"Machbarkeitsanalyse von IT-Support-Projekten", "desc":"Bevor wir Ihre App- oder Infrastrukturunterstützung in Anspruch nehmen, analysieren wir die Gesamtbetriebskosten und den ROI der unterstützten Assets und bewerten, inwieweit diese finanziellen Schätzungen nach Beginn der Unterstützung verbessert werden."},
+			{"title":"Ergebnisorientierter Service und transparente Berichterstattung", "desc":"Unsere IT-Support-Aktivitäten und die Servicequalität spiegeln sich in regelmäßigen Berichten mit klaren Metriken für die strikte Einhaltung der Service Level-Ziele wider."},
+			{"title":"Langfristige Zusammenarbeit", "desc":"Wir glauben, dass langfristiger IT-Support für einen Kunden und einen Dienstleister von beiderseitigem Nutzen ist, da eine längere Service-Laufzeit weniger Übergangszeiten und Integrationsphasen für den Kunden und maßgeschneiderte Arbeitsabläufe für das Support-Team bedeutet."}
+		  ]
+		},
+		"section_5":{
+		  "title":"Unsere typischen IT-Support-Projekte",
+		  "list":[
+			{"title": "Unterstützung für strukturierte Datenerfassungsanwendungen für ein britisches Softwareunternehmen", "desc":"Im Rahmen des laufenden Projekts haben die Support-Ingenieure von KosovaOutsource dem Kunden Überwachung und mehrschichtigen Support (L1 - L3) angeboten. In Bezug auf die Unterstützung der L1-Lösung registriert, priorisiert und eskaliert unser Team (falls erforderlich) die Probleme, die von den Endbenutzern der Plattform über das von KosovaOutsource bereitgestellte Ticketsystem gemeldet werden."},
+			{"title": "Unterstützung für strukturierte Datenerfassungsanwendungen für ein britisches Softwareunternehmen", "desc":"Im Rahmen des laufenden Projekts haben die Support-Ingenieure von KosovaOutsource dem Kunden Überwachung und mehrschichtigen Support (L1 - L3) angeboten. In Bezug auf die Unterstützung der L1-Lösung registriert, priorisiert und eskaliert unser Team (falls erforderlich) die Probleme, die von den Endbenutzern der Plattform über das von KosovaOutsource bereitgestellte Ticketsystem gemeldet werden."},
+			{"title": "Unterstützung für strukturierte Datenerfassungsanwendungen für ein britisches Softwareunternehmen", "desc":"Im Rahmen des laufenden Projekts haben die Support-Ingenieure von KosovaOutsource dem Kunden Überwachung und mehrschichtigen Support (L1 - L3) angeboten. In Bezug auf die Unterstützung der L1-Lösung registriert, priorisiert und eskaliert unser Team (falls erforderlich) die Probleme, die von den Endbenutzern der Plattform über das von KosovaOutsource bereitgestellte Ticketsystem gemeldet werden."}
+		  ]
+		},
+		"section_6":{
+		  "title":"Warum der IT-Support von KosovaOutsource wichtig ist",
+		  "list":[
+			{"desc":"-50%", "info":"IT-Supportkosten"},
+			{"desc":"-20%", "info":"Cloud-Kosten"},
+			{"desc":"99.96-99.99%", "info":"App-Verfügbarkeit"},
+			{"desc":"+20-40%", "info":"Benutzerzufriedenheit"},
+			{"desc":"-10%", "info":"App-Probleme"}
+		  ]
+		}
+	  },
+	  "IT-Outsourcing":{
+		"section_1":{
+		  "title": "IT-Outsourcing-Dienstleistungen ",
+		  "desc": "Beim IT-Outsourcing übernimmt ein Anbieter die Verantwortung für 30 bis 100% Ihrer IT-Landschaft und deckt Bereiche wie IT-Serviceplanung und -management, IT-Entwicklung und verwaltete IT-Services ab."
+		},
+		"section_2":[
+		  {"txt": "Entlasten IT-Abläufe Ihre Ressourcen?"},
+		  {"txt": "Lasst uns die Situation umkehren! Von der Unterstützung des täglichen Betriebs bis zur Unterstützung bei der digitalen Transformation und Implementierung neuartiger Technologien bieten unsere IT-Outsourcing-Services eine kostengünstige Möglichkeit zur Steigerung der Geschäftsleistung. "},
+		  {"txt":"Besprechen Sie meine Outsourcing-Optionen"}
+		],
+		"section_3":{
+		  "title":"Vorteile von IT-Outsourcing mit KosovaOutSourcing",
+		  "list":[
+			{"title":"Maßgeschneiderter Preisplan ","desc":"Wir berechnen maßgeschneiderte Preispläne, um Ihre Erwartungen zu erfüllen und die Preise anzupassen, wenn sich Ihre Anforderungen während unserer Zusammenarbeit ändern."},
+			{"title":"Transparenz der Serviceergebnisse ","desc":"Wir halten an einem konkreten KPI-System fest, das die Steigerung des ROI und der Gesamtbetriebskosten von IT-Komponenten umfassen kann. Wir liefern regelmäßig Berichte über die geleistete Arbeit sowie Ergebnisse von Sicherheits- und Leistungsprüfungen. Sie haben auch ständigen Zugriff auf unsere Aufgabenverfolgung System und Wissensbasis, in der wir alle unsere Prozesse dokumentieren."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Ausgewählte IT-Outsourcing-Projekte",
+		  "list":[
+			{"title" :"Linux-Administration rund um die Uhr durch das DevOps-Team für einen US-Hosting-Anbieter", "desc":"KosovaOutSourcing hat ein Team von fünf DevOps-Ingenieuren eingesetzt, die nicht nur über Kompetenzen im Konfigurationsmanagement, sondern auch in der Entwicklung verfügen. Dies bedeutet, dass sie auch Skripte und Code schreiben sowie Systemkonfigurationen optimieren können. "},
+			{"title" :"Linux-Administration rund um die Uhr durch das DevOps-Team für einen US-Hosting-Anbieter", "desc":"KosovaOutSourcing hat ein Team von fünf DevOps-Ingenieuren eingesetzt, die nicht nur über Kompetenzen im Konfigurationsmanagement, sondern auch in der Entwicklung verfügen. Dies bedeutet, dass sie auch Skripte und Code schreiben sowie Systemkonfigurationen optimieren können. "},
+			{"title" :"Linux-Administration rund um die Uhr durch das DevOps-Team für einen US-Hosting-Anbieter", "desc":"KosovaOutSourcing hat ein Team von fünf DevOps-Ingenieuren eingesetzt, die nicht nur über Kompetenzen im Konfigurationsmanagement, sondern auch in der Entwicklung verfügen. Dies bedeutet, dass sie auch Skripte und Code schreiben sowie Systemkonfigurationen optimieren können. "}
+		  ]
+		},
+		"section_5":{
+		  "title":"Wählen Sie Ihre Serviceoption",
+		  "list":[
+			{"title": "Full-Service-IT-Outsourcing", "desc":"Lagern Sie Ihre gesamte IT-Landschaft aus, einschließlich der Planung und Verwaltung von IT-Services, um eine höhere Geschäftsleistung zu erzielen und den IT-ROI um 50 bis 300% zu steigern. ", "btn":"100% der IT auslagern"},
+			{"title": "Co-Sourcing mit einem internen IT-Team", "desc":"Delegieren Sie Ihren täglichen IT-Betrieb und die Ausführung neuer IT-bezogener Geschäftsinitiativen, um die IT-Gesamtbetriebskosten und -stabilität zu optimieren, und konzentrieren Sie sich auf IT-Strategie, Planung und Design.", "btn":"70-90% der IT auslagern"},
+			{"title": "Co-Sourcing mit anderen Anbietern", "desc":"Stärken Sie Ihr IT-Anbieter-Ökosystem mit ScienceSoft als Managed Service Provider für einen bestimmten Teil Ihrer IT-Umgebung.", "btn":"30-40% der IT auslagern"}
+		  ]
+		},
+		"section_6":{
+		  "title":"Wie wir Ihnen helfen, Ihr Geschäft mit IT-Outsourcing neu zu gestalten",
+		  "list":[
+			{"title":"Optimierung der Qualität und Wirtschaftlichkeit des IT-Betriebs  ","desc":"Effiziente Infrastrukturunterstützung. Qualitätssicherungs- und Cybersicherheitsdienste zur Gewährleistung der Betriebsstabilität. Migration lokaler Anwendungen in die Cloud und Entwicklung neuer skalierbarer Cloud-Anwendungen."},
+			{"title":"Unterstützung des Geschäftsbetriebs ","desc":" Unterstützung für Unternehmensanwendungen und stetige Weiterentwicklung. Benutzerunterstützung und Verbesserung der Systemakzeptanz über Helpdesk-Dienste. Neue Softwareentwicklung. Schnelle Funktionsbereitstellung durch Testautomatisierung, wo dies sinnvoll ist. Managed Analytics und BI zur Unterstützung einer schnellen und fundierten Entscheidungsfindung."},
+			{"title":"Planung und Umsetzung von Initiativen zur digitalen Transformation ","desc":"Beratung, wie Sie den Geschäftsbetrieb mit der IT verbessern oder digital transformieren können. Erstellen einer IT-Roadmap, die die IT an neuen Geschäftsinitiativen ausrichtet und die Technologie zum richtigen Zeitpunkt für Geschäftsergebnisse nutzt. Entwerfen und Implementieren neuer plattformbasierter Lösungen, die den verbesserten Geschäftsprozessen entsprechen."}
+		  ]
+		},
+		"section_7":{
+		  "title":"MACHEN SIE ES IHR UNTERNEHMEN",
+		  "desc":"Hohe IT-Ausgaben mit geringem Wert wirken sich auf das gesamte Unternehmen aus - der Fortschritt verlangsamt sich und das Geschäftsrisiko fällt in 3-5 Jahren hinter die Top-Wettbewerber zurück. Mit zeitnahen Transformationen kann dieselbe IT-Landschaft zu einer Quelle für nachhaltiges Geschäftswachstum werden - und genau das trägt ScienceSoft bei den IT-Outsourcing-Services bei. Hier sind einige Ergebnisse auf Geschäfts- und IT-Ebene, die Sie erwarten können.",
+		  "items1_title":"Gewinne auf Unternehmensebene:",
+		  "items1":[
+			{"desc":"+10-200%", "info":"Einnahmen aus neuen IT-basierten Geschäftsinitiativen"},{"desc":"+30-200%", "info":"Automatisierung zu verarbeiten"},
+			{"desc":"+15-30%", "info":"zum Vertrieb über Marketing und Vertriebsautomatisierung"},{"desc":"~98%", "info":"Konzentration auf Kerngeschäftsaktivitäten aufgrund freigesetzter Ressourcen"}
+		  ],
+		  "items2_title":"Gewinne auf IT-Ebene:",
+		  "items2":[
+			{"desc":"x1.5-2.5", "info":"Reduzierung der IT-Kosten"},{"desc":"x1.5-3", "info":"Erhöhung der Softwareentwicklungsgeschwindigkeit"},
+			{"desc":"100%", "info":"Einhaltung gesetzlicher Vorschriften der IT-Infrastruktur"},{"desc":"~99.99%", "info":"Verfügbarkeit von Anwendungen"}
+		  ]
+		}
+	  },
+	  "Application":{
+		"section_1":{
+		  "title":"End-to-End-Anwendungsdienste. Ihre Reise zur digitalen Transformation und optimierten Gesamtbetriebskosten ",
+		  "desc":"Wir kombinieren innovative Köpfe und das fundierte Wissen über ein breites Technologiespektrum mit dem Bestreben, Lösungen für komplexe Herausforderungen auf Unternehmensebene in einer Vielzahl von Branchen bereitzustellen, darunter Fertigung, Gesundheitswesen, Bankwesen, Einzelhandel, Telekommunikation, Reisen und Gastgewerbe, Unterhaltung und Mehr. "
+		},
+		"section_2":{
+		  "title":"Anwendungsdienste, die wir anbieten",
+		  "desc":"KosovaOutsource bietet die folgenden Anwendungsdienste für mittelständische und große Unternehmen an:",
+		  "items":[
+			"Anwendung- sentwicklung", "Anwendung- sverwaltung", "Anwendung- smodernisierung", "Anwendung- sintegration", "Anwendung- ssicherheitsdienste", "Anwendung- stests"
+		  ]
+		},
+		"section_3":{
+		  "title":"Anwendungsentwicklung",
+		  "desc":"Wir entwerfen und liefern Web-, Mobile- und Cloud-Geschäftsanwendungen unterschiedlicher Komplexität und für unterschiedliche Anforderungen. Dabei legen wir besonderen Wert auf Flexibilität, Sicherheit, Geschwindigkeit und Integrationspotenzial.",
+		  "subtitle":"Der Erfolg unserer Software beruht auf:",
+		  "items":[
+			{"title":"Der tatsächliche Wert für das Geschäft" , "desc":"Wir untersuchen gründlich alle kritischen Geschäftsanforderungen und den zukünftigen Anwendungskontext und treffen geeignete Architektur- und Technologieauswahlen, um die Lösung zu erstellen, die den spezifischen Anforderungen Ihres Unternehmens entspricht."},
+			{"title":"Stabile Arbeit und anspruchslose Unterstützung" , "desc":"Wir schreiben lose gekoppelten und lesbaren Code, um das Testen, Warten und Aktualisieren zu vereinfachen."},
+			{"title":"Hohe Qualität und zeitnahe Veröffentlichungen" , "desc":"Wir haben einen klar definierten und kampferprobten Softwareentwicklungsprozess entwickelt, der es uns ermöglicht, innerhalb der festgelegten Frist qualitativ hochwertige und zuverlässige Lösungen bereitzustellen."},
+			{"title":"Agile Bereitstellung neuer Funktionen" , "desc":"Wir verwenden DevOps-, Continuous Delivery- und Continuous Integration-Verfahren sowie automatisierte Test- und Bereitstellungstools. Auf diese Weise stellen wir die ständige Bereitstellung einer lösbaren Lösung sicher (Implementierung neuer Funktionen bis zu 1-2 Mal pro Woche), ohne dass das System einfriert und die Codefehler reduziert werden."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Bewerbungsmanagement ","desc":"Wir können die Verantwortung für die Verwaltung Ihrer Anwendungen übernehmen, um deren Geschäftsflexibilität und optimierte IT-Kosten sicherzustellen. Mit den neuesten Verfahren für das Prozessmanagement wird unser Team Ihre Anwendungsserver und Datenbanken warten und überwachen, um deren verbesserte Leistung, Nachhaltigkeit und Stabilität zu gewährleisten und sie mit den aktuellen Geschäftsanforderungen synchron zu halten.",
+		  "subtitle":"Die Liste unserer Anwendungsverwaltungsdienste umfasst unter anderem:",
+		  "items":[
+			{"title":"Remote-Anwendungsüberwachung und Leistungsmanagement", "desc":"Wir übernehmen die kontinuierliche Ferndiagnose Ihrer kritischen Anwendungen. Wir identifizieren Probleme, teilen Ihnen die detaillierten Informationen zu den Ursachen gefundener Probleme mit und geben Empfehlungen zu den erforderlichen Verbesserungen. Wir verfolgen die Anwendungsleistung, die Transaktionsintegrität, die Datenkonsistenz, die Überschreitung der Nachrichtenwarteschlange und Serverausfälle."},
+			{"title":"Remote-Anwendungsunterstützung", "desc":"Wir unterstützen Sie bei der Behandlung eines breiten Spektrums von Problemen und Vorfällen, bei der Verwaltung von Änderungen (von geringfügigen Verbesserungen bis hin zu App-Änderungen) und Konfigurationen und beraten Sie bei nützlichen Aktivitäten zur App-Optimierung, um neuen, sich ändernden Anforderungen gerecht zu werden."},
+			{"title":"Beratungsstelle ", "desc":"Unser 24/7-Helpdesk kann zu einer zentralen Anlaufstelle für Anwendungsbenutzer werden. Die Helpdesk-Agenten erhalten alle eingehenden Serviceanfragen und Ereignisberichte über einen beliebigen bevorzugten Kommunikationskanal (E-Mail, Telefon, Chat, ein Ticketverwaltungssystem und) Mehr)"},
+			{"title":"Design und Implementierung der Continuous Delivery (CD) -Pipeline", "desc":"Wir entwerfen und implementieren die CD-Pipeline, um die Entwicklung, das Testen und die Bereitstellung Ihrer Anwendung zu verbinden und zu automatisieren. Auf diese Weise können Sie mehrere DevOps / CD-Werte nutzen und neue App-Funktionen schnell und effizient bereitstellen."}
+		  ]
+		},
+		"section_5":{
+		  "title":"Anwendungstests",
+		  "desc":"Wir führen umfassende manuelle und automatisierte Tests (für die kontinuierliche Bereitstellung von entscheidender Bedeutung) für jede Phase des Anwendungslebenszyklus (Implementierung, Bereitstellung, Support und Weiterentwicklung) durch, um potenzielle Risiken rechtzeitig zu identifizieren und zu überprüfen, ob Ihre Unternehmenslösungen ordnungsgemäß funktionieren und den festgelegten Qualitätsanforderungen entsprechen .",
+		  "subtitle":"Wir stellen eine umfassende Überprüfung Ihrer Anwendung mit verschiedenen Testarten sicher, darunter:",
+		  "icon1":"Funktionsprüfung", "icon2":"Leistungstest", "icon3":"Usability-Tests", "icon4":"Integrationstests"
+		},
+		"section_6":[
+		  {"txt": "Erhöhen Sie Ihre Unternehmenssoftware"},
+		  {"txt": "Nutzen Sie unsere professionelle Unterstützung bei der Entwicklung, Aktualisierung und Unterstützung von Anwendungen, um die digitale Transformation erfolgreich zu gestalten, die Rentabilität von Anwendungen zu verbessern und die Betriebskosten zu senken. "},
+		  {"txt":"Kontaktiere uns"}
+		]
+	  },
+	  "IT-Consulting":{
+		"section_1":{
+		  "title":"Informationstechnologische Beratung",
+		  "desc":"Beim IT-Outsourcing übernimmt ein Anbieter die Verantwortung für 30 bis 100% Ihrer IT-Landschaft und deckt Bereiche wie IT-Serviceplanung und -management, IT-Entwicklung und verwaltete IT-Services ab."
+		},
+		"section_2":{
+		  "title":"KosovaOutsource-Ansatz für IT-Beratung",
+		  "items":[
+			{"title":"Die richtige IT machen","desc":"Wir führen keine neuen Technologien ein, um Ihr Unternehmen „modern“ zu machen. Das Hauptziel besteht darin, mit der IT spürbare Geschäftsergebnisse zu erzielen."},
+			{"title":"Die richtige IT machen", "desc":"Wir optimieren IT-Services, um sie zuverlässiger und kostengünstiger zu machen und neue IT-Services schnell einzuführen."}
+		  ]
+		},
+		"section_3":{
+		  "title":"IT-Beratungsleistungen, die wir anbieten",
+		  "items":[
+			{"title":"Digitale Strategieberatung (für CEO) ", "desc":"Wir beraten Sie, wie Sie die IT zu einem wichtigen Beitrag zur Steigerung der Geschäftsleistung machen können, und zwar mit: einer wertsteigernden Business-IT-Strategie. Ein Plan zur Optimierung der Bereitstellung von IT-Services."},
+			{"title":"IT-Strategieberatung (für CIO) ", "desc":"Wir entwickeln eine Strategie, die eine diversifizierte IT-Landschaft zusammenbringt und dazu beiträgt, bestehende Geschäftsprozesse zu unterstützen und neue Geschäftsinitiativen voranzutreiben."},
+			{"title":"Lösungsberatung ", "desc":"Wir analysieren Ihre Geschäftsanforderungen und helfen Ihnen bei strategischen Entscheidungen zur schnellen und erfolgreichen Implementierung geschäftskritischer Lösungen."},
+			{"title":"Technologieberatung", "desc":"Wir analysieren den aktuellen Stand des Technologiebereichs, der Sie interessiert, und unterstützen ihn bei seiner stetigen Entwicklung, damit er eine wichtigere Rolle für Ihr Geschäftswachstum spielt."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Branchen, denen wir dienen ",
+		  "desc":"Wir verfügen über Expertise in 23 Bereichen, einschließlich Erfahrung in der Informationstechnologieberatung für: ",
+		  "items":[
+			"Professionelle Dienstleistungen", "Fertigung", "Einzelhandel", "Logistik", "Telekommunikation"
+		  ]
+		},
+		"section_5":{
+		  "title":"Ausgewählte IT-Outsourcing-Projekte",
+		  "items":[
+			{"title":"IT-Beratung für die Integration von Unternehmensanwendungen für ein branchenübergreifendes Unternehmen" , "desc":"KosovaOutSourcing hat ein Team von fünf DevOps-Ingenieuren eingesetzt, die nicht nur über Kompetenzen im Konfigurationsmanagement, sondern auch in der Entwicklung verfügen. Dies bedeutet, dass sie auch Skripte und Code schreiben sowie Systemkonfigurationen optimieren können."},
+			{"title":"IT-Beratung für die Integration von Unternehmensanwendungen für ein branchenübergreifendes Unternehmen" , "desc":"KosovaOutSourcing hat ein Team von fünf DevOps-Ingenieuren eingesetzt, die nicht nur über Kompetenzen im Konfigurationsmanagement, sondern auch in der Entwicklung verfügen. Dies bedeutet, dass sie auch Skripte und Code schreiben sowie Systemkonfigurationen optimieren können."},
+			{"title":"IT-Beratung für die Integration von Unternehmensanwendungen für ein branchenübergreifendes Unternehmen" , "desc":"KosovaOutSourcing hat ein Team von fünf DevOps-Ingenieuren eingesetzt, die nicht nur über Kompetenzen im Konfigurationsmanagement, sondern auch in der Entwicklung verfügen. Dies bedeutet, dass sie auch Skripte und Code schreiben sowie Systemkonfigurationen optimieren können."}
+		  ]
+		},
+		"section_6":{
+		  "title":"Vorteile der IT-Beratung mit KosovaOutSource",
+		  "items":[
+			{"title":"Mehr als nur Berater", "desc":"KosovaOutSource ist ein Full-Service-IT-Unternehmen mit mehr als 700 Mitarbeitern an Bord. Wir können IT-Beratung mit End-to-End-IT-Services kombinieren: Implementierung, Support, Managed Services."},
+			{"title":"Schnelle Serviceergebnisse", "desc":"Wir empfehlen inkrementelle und stetige Änderungen, damit Sie innerhalb von 2-6 Monaten die ersten positiven Ergebnisse erzielen und diese weiter steigern können."},
+			{"title":"Kostengünstige IT-Optimierung", "desc":"Wir nutzen unsere 31-jährige Erfahrung in der Informationstechnologie, um mit einem angemessenen Budget substanzielle Ergebnisse für Ihr Unternehmen zu erzielen."},
+			{"title":"Ausgewogener Umgang mit Veränderungen", "desc":"Wir untersuchen die Abhängigkeiten zwischen Ihren IT-Systemen und analysieren die Auswirkungen potenzieller Änderungen für jede Plattform, jeden Service und jede Anwendung."}
+		  ]
+		}
+	  },
+	  "DataAnalytics":{
+		"section_1":{
+		  "title":"Data Analytics Services ",
+		  "desc":"Mithilfe der Datenanalyse können Unternehmen ihre Rohdaten in umsetzbare Erkenntnisse umwandeln. "
+		},
+		"section_2":[
+		  {"txt": "Keine Lust mehr auf zeitaufwändige instinktbasierte Entscheidungen? "},
+		  {"txt": "Innerhalb einer angemessenen Zeit hilft Ihnen KosovaOutsource dabei, fragmentierte und ungenaue Analysen und Berichte zu beseitigen, indem Best Practices für die Datenanalyse implementiert werden, um die Entscheidungsqualität und -geschwindigkeit zu verbessern."},
+		  {"txt":"Konsultieren Sie jetzt mit uns"}
+		],
+		"section_3":{
+		  "title":"Was Sie mit Datenanalysediensten erhalten ",
+		  "desc":"Wir sind bereit, unsere besten Datenanalyseverfahren zu implementieren, um Unternehmen eine fundierte Entscheidungsfindung in den folgenden Geschäftsbereichen zu ermöglichen:",
+		  "items":[
+			"Finanzanalysen", "Kundenanalysen", "Marketing- und Vertriebsanalysen", "Anbieter von Lieferkettenanalysen", "Asset-Analysen", "Analyse der Fertigung / Leistungserbringung", "HR-Analysen"
+		  ],
+		  "desc2":"Damit Sie eine umfassende Datenanalyse gewährleisten können, umfasst KosovaOutsource die folgenden technischen Komponenten:",
+		  "items2":[
+			"LAGER", "DATENLAGER", "GROSSE DATEN", "DATENWISSENSCHAFT", "SELBSTDIENST BI", "DATENVISUALISIERUNG", "LOGISTIK"
+		  ]
+		},
+		"section_4":{
+		  "title":"Warum sollten Sie KosovaOutsource als Ihren Datenanalysedienstleister wählen?",
+		  "desc":"31 Jahre in Datenanalyse und Datenwissenschaft. 15 Jahre Erfahrung in der Erbringung von Data Warehouse-Diensten, dem Entwurf und der Implementierung von Business Intelligence-Lösungen."
+		},
+		"section_5":{
+		  "title":"Zweifel, dass Data Analytics Ihre spezifischen Geschäftsprobleme lösen kann?",
+		  "desc":"Die Experten von KosovaOutsource sind bereit, eine Situationsanalyse durchzuführen und eine maßgeschneiderte Datenanalyselösung zu erstellen, die auf Ihre aktuellen Geschäftsanforderungen abgestimmt ist."
+		},
+		"section_6":{
+		  "title":"Wählen Sie Ihre Datenanalysedienstoption",
+		  "items":[
+			{"title":"Datenanalyse als Service", "desc":"Mit AaaS können Sie innerhalb eines Tages erste aussagekräftige Erkenntnisse aus Ihren Rohdaten gewinnen und den Zeit- und Kostenaufwand für die Entwicklung und Verwaltung einer umfassenden Analyselösung vermeiden."},
+			{"title":"Implementierung der Datenanalyse", "desc":"KosovaOutsource ist bereit, eine zeiteffektive Lösung bereitzustellen, die Ihren Geschäftszielen vollständig entspricht, wenn Sie die Implementierung einer Datenanalyselösung in Betracht ziehen."},
+			{"title":"Unterstützung und Weiterentwicklung der Datenanalyse","desc":"KosovaOutsource ist bereit, Ihre vorhandene Analyselösung innerhalb von Tagen oder sogar Stunden zu optimieren, indem die Ist-Analyseumgebung analysiert wird."}
+		  ]
+		},
+		"section_7":{
+		  "title":"Warum unsere Kunden der Meinung sind, dass es sich lohnt, in Datenanalysen zu investieren",
+		  "desc":"Kundenspezifische Analyselösungen, die wir entwerfen und implementieren, ermöglichen unseren Kunden Folgendes:",
+		  "items":[
+			{"desc":"100%", "info":"mal schnellere Datenanalyse und Berichterstellung"},
+			{"desc":"20%", "info":"Umsatzsteigerung"},
+			{"desc":"80%", "info":"Reduzierung der Betriebskosten"},
+			{"desc":"25%", "info":"Reduzierung der Abwanderungsrate"}
+		  ]
+		}
+	  },
+	  "Cybersecurity":{
+		"section_1":{
+		  "title":"Cybersecurity Services - Schützen Sie Ihre Anwendungen und Ihr Netzwerk",
+		  "desc":"KosovaOutsource bietet eine Vielzahl von Dienstleistungen an, von der Beratung zur Informationssicherheit bis hin zur Bewertung, Prüfung und Verbesserung des Schutzes von Anwendungen und Netzwerken für Unternehmen aus den Bereichen Gesundheitswesen, Fertigung, Bankwesen, Einzelhandel, Telekommunikation und anderen Branchen."
+		},
+		"section_2":{
+		  "title":"Cybersecurity Services von KosovaOutsource",
+		  "desc":"Wir bieten unseren Kunden eine Vielzahl von Cybersicherheitsdiensten an, um: die Anzahl der Sicherheitslücken in Web-, Mobil- und Desktopanwendungen sowie in den Netzwerken unserer Kunden erheblich zu reduzieren. Stellen Sie sicher, dass die entsprechenden Vorschriften und Standards (PCI DSS, GDPR, HIPAA) ständig eingehalten werden.",
+		  "items":[
+			{"title":"Sicherheitsbewertung und -planung","desc":"Beratung zur Informationssicherheit Sicherheitstests von IT-Infrastrukturen und ihren Komponenten Stresstests: Emulation von DDoS / DoS-Angriffen"},
+			{"title":"Anwendungssicherheit","desc":"Überprüfung des Sicherheitscodes Verwaltung mobiler Geräte und mobiler Anwendungen Cloud-Sicherheit Sicherheit von Webanwendungen"},
+			{"title":"Netzwerkschutz","desc":"SIEM DDoS-Schutz E-Mail-Sicherheit Firewalls, IDS / IPS, DLP-Implementierung und Einstellung des Virenschutzes"}
+		  ]
+		},
+		"section_3":{
+		  "title":"Sicherheitsbewertung und -planung ",
+		  "desc":"KosovaOutsource bietet umfassende Sicherheitsbewertungs- und Planungsservices für die Komponenten von IT-Infrastrukturen: ",
+		  "icon1":"Mobile mobile Desktop-Anwendungen", "icon2":"Netzwerkdienste", "icon3":"Fernzugriffssoftware", "icon4":"IoT-Geräte"
+		},
+		"section_4":{
+		  "title":"Anwendungssicherheit",
+		  "items":[
+			{"title":"Überprüfung des Sicherheitscodes", "desc":"Jede Programmiersprache hat ihre Macken, die während der Entwicklungsphase zu Sicherheitslücken führen können. Die Sicherheitsexperten von Kosovaoutsource erkennen vorhandene Lücken, bevor Ihre Anwendungen live geschaltet werden."},
+			{"title":"Verwaltung mobiler Geräte und Verwaltung mobiler Anwendungen", "desc":"Mit der zunehmenden Verbreitung mobiler Geräte, mobiler Anwendungen und Programme, die in Unternehmensnetzwerken verwendet werden, müssen Unternehmen ihre Nutzung verwalten und sichern. KosovaOutsource bietet sein Know-how bei der Anwendung der entsprechenden Richtlinien für die Geräteverwaltung und der Implementierung von Kontrollmaßnahmen für die Installation neuer mobiler Apps."},
+			{"title":"Cloud-Sicherheit", "desc":"KosovaOutsource hilft seinen Kunden, ihre Cloud-Lösungen zu sichern. Als Gold Microsoft Business Partner verfügen wir über die erforderliche Erfahrung, um spezielle Sicherheitskomponenten wie das Azure Security Center zu optimieren und so das Sicherheitsmanagement und den Schutz vor Bedrohungen über Cloud-Workloads hinweg zu ermöglichen."},
+			{"title":"Sicherheit von Webanwendungen", "desc":"Die Sicherheitsexperten von KosovaOutsource gewährleisten den ordnungsgemäßen Schutz einer Website, einer Web-App oder von Webdiensten. Unser Sicherheitstestteam führt eine Schwachstellenbewertung durch, um zu überprüfen, ob die richtige Verschlüsselung, Authentifizierung und andere Sicherheitsmaßnahmen in einer Web-App, einem Webdienst oder einer Website angewendet werden."}
+		  ]
+		},
+		"section_5":{
+		  "title":"Kooperationsmodelle",
+		  "desc":"Wir sind bereit, Ihnen Cybersicherheitsdienste gemäß einem von Ihnen gewählten Kooperationsmodell bereitzustellen.",
+		  "items":[
+			{"title":"Einmalige Dienstleistungen", "desc":"KosovaOutsource bietet einmalige Services zur Bewertung, zum Testen und zur Verbesserung des Schutzniveaus Ihres Netzwerks, Ihrer Anwendung oder einer anderen Komponente der IT-Umgebung. Dieses Kooperationsmodell kann Ihnen helfen, sich eine Meinung über den Anbieter zu bilden und anschließend zu entscheiden, ob Sie mit ihm zusammenarbeiten möchten."},
+			{"title":"Managed Services", "desc":"Wenn Sie sich für spezialisierte verwaltete Dienste (Bewertung verwalteter Schwachstellen, verwaltete E-Mail-Sicherheit, verwaltete Cloud-Sicherheit) entscheiden, müssen Sie langfristige Beziehungen zu einem Anbieter aufbauen. Sobald wir im Verlauf des ersten Projekts die Informationen zu Ihrer IT-Infrastruktur gesammelt haben, können wir diese anschließend bewerten."},
+			{"title":"Einmalige Dienstleistungen", "desc":"Kosovaoutsource bietet Sicherheitsdienste als Teil unserer umfassenden verwalteten IT-Dienste für komplexe IT-Systeme auf Remote-Basis an, um sicherzustellen, dass unsere Kunden gleichzeitig technologisch fortschrittlich und geschützt bleiben. Wir bieten Integration, Wartung und Gewährleistung der Sicherheit in LANs und VPNs, IDSs / IPSs und Firewalls sowie Virenschutz."}
+		  ]
+		},
+		"section_6":{
+		  "title":"Ausgewählte Projekte",
+		  "items":[
+			{"title":"IBM Security QRadar SIEM-Implementierung für eine Europäische Bank","desc":"Eine Erfolgsgeschichte, bei der eine Bank mit einem Gesamtvermögen von 13,3 Mrd. USD dabei unterstützt wurde, über 1.000 Sicherheitsereignisse pro Sekunde in mehreren Bankensystemen zu überwachen und zu analysieren. Das ScienceSoft-Team von Experten für Informationssicherheit hat den Out-of-the-Box erweitert."},
+			{"title":"Implementierung von QLean für QRadar für eine Major N.A Bank","desc":"KosovaOutsource implementierte sein proprietäres QRadar-Tool QLean für eine Bank mit mehr als 15 Millionen Kunden und einem umfangreichen IT-Netzwerk."},
+			{"title":"Phase 2 Implementierung von IBM Security QRadar SIEM","desc":"Das KosovaOutsources-Team hat die folgenden Schritte unternommen, um QRadar weiter an die Netzwerkumgebung des Kunden anzupassen:"}
+		  ]
+		}
+	  },
+	  "Ecommerce":{
+		"section_1":{
+		  "title":"E-Commerce-Dienste ","desc":"Mit einem umfassenden Angebot an E-Commerce-Diensten, von Unternehmensberatung über Website-Design und -Entwicklung bis hin zur Automatisierung des digitalen Marketings, bieten wir die Möglichkeit, in jeder Phase eines Geschäftslebenszyklus in die Zusammenarbeit einzusteigen."
+		},
+		"section_2":{
+		  "title":"3 Schritte für Ihren E-Commerce-Erfolg",
+		  "desc":"Wir testen funktionale und nicht funktionale Softwarefunktionen, um sicherzustellen, dass sie den Anforderungsspezifikationen entsprechen und eine hervorragende Benutzererfahrung bieten:",
+		  "items":[
+			{"title":"E-Commerce-Beratung", "desc":"Der Erfolg eines E-Commerce-Geschäfts beginnt mit der richtigen Strategie. Für den effektiven Start helfen wir dabei, Kaufpersönlichkeiten zu verstehen, typische Kundenreisen zu entwerfen, vielversprechende Vertriebs- und Marketingkanäle zu definieren und über die Komplexität einer E-Commerce-Lösung zu entscheiden, die Ihre Anforderungen erfüllt, ohne übermäßig und kostengünstig für Ihr Unternehmen zu sein. Bei der Entwicklung einer Optimierungsstrategie können wir verschiedene Aspekte Ihrer E-Commerce-Lösung analysieren und bei Bedarf angemessene Verbesserungen vorschlagen. Es kann vorkommen, dass ein einzelner schlecht gestalteter Geschäftsprozess die Leistung Ihres Teams beeinträchtigt oder ein einzelner Navigationsaufwand zum Grund für eine hohe Absprungrate wird."},
+			{"title":"E-Commerce-Implementierung", "desc":"Ein Schritt ist noch nicht die Bewegung in die richtige Richtung. Nachdem Sie mit einer für Ihr Unternehmen entwickelten effektiven Strategie Ihren Weg zum Erfolg begonnen haben, ist es an der Zeit, diese in die Tat umzusetzen und die Ergebnisse zu sehen. Unser Team verfügt über die technische Kompetenz, geplante Lösungen pünktlich und problemlos umzusetzen. Wir bieten eine breite Palette von Implementierungsservices und sorgen für eine reibungslose Projektkommunikation. Während wir uns in der Beratungsphase auf Ansatz- und Strategiedesign konzentriert haben, sprechen wir jetzt über die Lösungsentwicklung"},
+			{"title":"E-Commerce-Unterstützung", "desc":"Der dritte Schritt hat keine oberen Fristen - ab dem Zeitpunkt des Starts benötigt Ihre E-Commerce-Lösung fortlaufenden Support. Für die Softwarekomponente werden wir Lösungswartungsdienste für ihre einwandfreie Funktion und solide Sicherheit einsetzen. Außerdem wird sich Ihr Geschäft weiterentwickeln, wenn einige Ideen nicht funktionieren und stattdessen neue in den Sinn kommen."}
+		  ]
+		},
+		"section_3":[
+		  {"txt":"Bereit zum Start?"},
+		  {"txt":"Der allgemeine Überblick über die Dienstleistungen reicht für ein Unternehmen nie aus, um sich für einen Partner zu entscheiden. Beginnen wir einen gezielten Dialog für eine fundiertere Entscheidung. "},
+		  {"txt":"Besprechen Sie Ihre E-Commerce-Anforderungen"}
+		],
+		"section_4":{
+		  "title":"Unsere Stärken",
+		  "items":[
+			{"title":"Unser Vorgehen", "desc":"Wir sind kompetent in dem, was wir tun, und bieten unseren Experten die Möglichkeit, projektbezogene Fragen zu beantworten oder Sie durch die technischen Details zu führen. Und doch sind wir ein guter Teamplayer und erzwingen niemals unsere Vision oder sehen sie als die einzige, die zählt. "},
+			{"title":"Unser Erfahrungsschatz", "desc":"Das E-Commerce-Erlebnis ist umso wertvoller, wenn es um die Vielfalt der umgesetzten Projekte geht. Wir verstehen, wie unterschiedliche Produktlinien unterschiedliche Ansätze erfordern."},
+			{"title":"Unser Team", "desc":"Business Analysten und Projektmanager werfen einen strategischen Blick auf Ihr Unternehmen, um kurz- und langfristige Ziele festzulegen, Ihre Roadmap zu skizzieren und Ihre E-Commerce-Lösung zu prototypisieren."}
+		  ]
+		},
+		"section_5":{
+		  "title":"Ausgewählte Projekte",
+		  "items":[
+			{"title":"Magento-Implementierung mit verbessertem Produkt- und Content-Management für einen Modehändler","desc":"KosovaOutsource hat ein Großprojekt zur unternehmensübergreifenden Integration umgesetzt. Die E-Commerce-Komponente führte zur Einrichtung eines Online-Shops und zur Integration in Pimcore (ein CMS) und Akeneo (ein PIM), um die funktionalen Anforderungen des Kunden zu erfüllen."},
+			{"title":"Implementierung einer E-Commerce-Lösung für Unternehmen ","desc":"Eine moderne und praktische E-Commerce-Website für eine Kette von Tankstellen und Cafés, Gartencentern, Einzelhandels- und Großhandelsgeschäften. Das ultimative Kundenerlebnis ist der Eckpfeiler der Unternehmensphilosophie. Die Lösung hilft dabei, mit zunehmend mobilen Kunden Schritt zu halten. "},
+			{"title":"Weiterentwicklung und fortlaufender Support für einen Magento Multi-Store","desc":"Das Magento-Team von KosovaOutsource übernimmt die fachmännische Unterstützung eines Magento-Multi-Stores für einen US-amerikanischen Restaurantanbieter. "}
+		  ]
+		}
+	  },
+	  "Image-Analysis":{
+		"section_1":{
+		  "title":"Benutzerdefinierte Software für die Bildanalyse ","desc":"Die Bildanalyse mit unserer Software ist die beste mit KosovaOutSourcing"
+		},
+		"section_2":{
+		  "title":"Lösungen",
+		  "desc1":"Verschiedene Branchen verwenden Bildanalysesoftware, um Personen und Objekte zu identifizieren, die Qualität und mögliche Schäden zu bewerten, Produkte zu bewerten und zu sortieren und andere aussagekräftige Informationen aus Bildern und Videos abzuleiten.",
+		  "desc2":"Wir entwickeln maßgeschneiderte Bildanalyselösungen, die auf die spezifischen Bedürfnisse unserer Kunden zugeschnitten sind, und erfüllen eine breite Palette von Bildverarbeitungsaufgaben in der Fertigung, im Gesundheitswesen, im Einzelhandel usw."
+		},
+		"section_3":{
+		  "title": "Sehen Sie unseren SEO-Prozess!",
+		  "btn":"Ein Angebot bekommen",
+		  "mid":[
+			{ "txt": "Erkennung"},
+			{ "txt": "Anerkennung"},
+			{ "txt": "Identifizierung"}
+		  ],
+		  "Box":[
+			{"title":"Erkennung", "txt":"Wir beraten Sie, wie Sie die IT zu einem wichtigen Beitrag zur Steigerung der Geschäftsleistung machen können, und zwar mit: einer wertsteigernden Business-IT-Strategie. Ein Plan zur Optimierung der Bereitstellung von IT-Services."},
+			{"title":"Anerkennung", "txt":"Wir entwickeln eine Strategie, die eine diversifizierte IT-Landschaft zusammenbringt und dazu beiträgt, bestehende Geschäftsprozesse zu unterstützen und neue Geschäftsinitiativen voranzutreiben."},
+			{"title":"Identifizierung", "txt":"Wir analysieren Ihre Geschäftsanforderungen und helfen Ihnen bei strategischen Entscheidungen zur schnellen und erfolgreichen Implementierung geschäftskritischer Lösungen."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Praktische Anwendungen",
+		  "items":[
+			{"title":"Facial recognition", "desc":"Das Gesicht einer bestimmten Person identifizieren. Die Gesichtserkennung hat eine Vielzahl von Anwendungen, von Einzelhändlern, die ihre Kunden erkennen, um ihnen exklusive Dienstleistungen zu bieten, bis hin zu hochrangigen Sicherheitssystemen, die Verdächtige und Eindringlinge identifizieren."},
+			{"title":"Emotion recognition", "desc":"Zu den Anwendungsbeispielen gehört die Beurteilung der Kundenzufriedenheit, die Möglichkeit für eine intelligente Kamera, ein Foto zum richtigen Zeitpunkt aufzunehmen usw."},
+			{"title":"Quality control (QC)", "desc":"Überprüfen auf Oberflächenfehler, Fremdstoffe, Verfärbungen, Fehlen von Bauteilen usw. Weitere Informationen finden Sie auf unserer Seite zur automatischen Sichtprüfung."},
+			{"title":"Grading and sorting", "desc":"Klassifizieren von Objekten nach ihrer Qualität (z. B. Sortieren von Obst und Gemüse) und anschließendes Sortieren entsprechend."},
+			{"title":"Counting", "desc":"Verwenden eines optischen Systems zum Zählen ähnlicher Objekte in der Produktionslinie oder in einem Lager."},
+			{"title":"Damage assessment", "desc":"Identifizieren von Schadensproblemen in komplexen elektronischen Geräten, Fahrzeugen usw.."},
+			{"title":"3D reconstruction", "desc":"Erstellen von 3D-Modellen aus 2D-Daten (z. B. medizinische Scans)"},
+			{"title":"Organizing visual information", "desc":"Indizierung visueller Datenbanken."}
+		  ]
+		},
+		"section_5":{
+		  "title":"Nähert sich",
+		  "desc":"Abhängig vom spezifischen Problem unseres Kunden schlagen unsere Berater die am besten geeignete Lösung vor, die auf einem der folgenden Ansätze oder deren Kombination basiert.",
+		  "item1":"Regelbasierte Analyse", "item2":"Analyse des maschinellen Lernens"
+		},
+		"section_6":{
+		  "title":"Regelbasiert",
+		  "desc":"Dieser Ansatz ist die perfekte Wahl, wenn ein begrenzter Satz strenger Regeln festgelegt werden kann. Normalerweise ist dies der Fall, wenn die visuelle Datenmenge gering und ihre Variabilität gering ist, beispielsweise wenn die Aufgabe darin besteht, ein Barcode-Streifenmuster zu erkennen und zu lesen.",
+		  "items":[
+			{"title":"Vorteile", "desc":"Zeigt eine hervorragende Leistung in einem engen Bereich. Benötigt keine großen Datenmengen. Die Leistung kann leicht validiert werden. Erklärbarkeit - wir können jeden Entscheidungsschritt direkt in unserem Code klar erkennen. Einfaches Debuggen."},
+			{"title":"Nachteile ", "desc":"Erfordert explizites Wissen über alle möglichen Erscheinungen von zu analysierenden Objekten. Schlechte Verallgemeinerung: Regeln sollten in jedem Einzelfall sehr spezifisch sein. Arbeitsintensive Entwicklung: Jede Regel sollte explizit programmiert werden, was Zeit und Mühe kostet."}
+		  ]
+		},
+		"section_7":{
+		  "title":"Maschinelles Lernen",
+		  "desc":"Maschinelles Lernen eignet sich besonders gut zum Analysieren großer und unstrukturierter Daten, da keine expliziten Regeln programmiert werden müssen. Stattdessen werden große Datenmengen verwendet, um alle Regeln selbst abzuleiten.",
+		  "items":[
+			{"title":"Vorteile", "desc":"Bewältigt komplexe Objekte und Aufgaben besser. Erfordert keine expliziten Kenntnisse. Einfachere Skalierbarkeit. Niedrigere Betriebskosten. ","id":"10"},
+			{"title":"Nachteile ", "desc":"Erfordert große Bilddatensätze. Die Implementierung kann komplizierter sein. 'Black-Box' -Problem - Alle Regeln sind in der komplexen inneren Struktur eines Algorithmus (z. B. eines tiefen neuronalen Netzwerks) verborgen und schwer zu extrahieren.","id":"11"}
+		  ]
+		},
+		"section_8":{
+		  "title":"Bildanalyseberatung",
+		  "desc":"Wir betrachten ein Problem als Ganzes unter Berücksichtigung aller Nuancen, die die Leistung eines Bildanalysesystems beeinflussen könnten. Unsere Experten helfen Ihnen gerne bei der Auswahl der am besten geeigneten Lösung und vermeiden mögliche Fallstricke, um die besten Ergebnisse zu erzielen.",
+		  "subtitle":"Eine Konsultation umfasst:",
+		  "items":[
+			{"title":"Auswahl von Kamera und Beleuchtung"},
+			{"title":"Prozessoptimierung"},
+			{"title":"Integration mit anderen IT-Systemen (ERP, POS usw.)"}
+		  ]
+		}
+	  },
+	  "Web-Portal":{
+		"section_1":{
+		  "title":"Webportal-Entwicklung ",
+		  "desc":"Die Entwicklung eines Webportals erfordert den technischen Zugriff auf eine Vielzahl von Daten und Diensten über eine einzige Webschnittstelle."
+		},
+		"section_2":{
+		  "title":"OIhr Webportal-Portfolio",
+		  "desc":"Portal und mobile App für Fremdsprachenlerner und begeisterte Reisende"
+		},
+		"section_3":{
+		  "title":"Web portals we deliver",
+		  "items":[
+			{"title":"B2C-Kundenportal ", "desc":"Entweder für den Verkauf von Konsumgütern oder für die Erbringung von Dienstleistungen ist ein Self-Service-Portal genau das richtige Instrument, um langfristige Kundenbeziehungen aufzubauen. Unter Berücksichtigung der Usability-Parameter (Navigation, Reaktionszeit, Glaubwürdigkeit, Zuverlässigkeit und Inhalt) als Mindestanforderung stellen wir den Komfort Ihres Portals in einer Reihe von Funktionen sicher"},
+			{"title":"B2B-Kundenportal ", "desc":"Nur durch die Bereitstellung eines umfassenden Kunden-Self-Service kann ein B2B-Kundenportal die Kundenzufriedenheit steigern, den Online-Verkauf optimieren und Kosten sparen. Daher enthalten unsere B2B-Portale leistungsstarke Tools für jedes Mitglied des Einkaufszentrums eines Kunden (die mehrere Anmeldungen für jedes Unternehmen ermöglichen)."},
+			{"title":"Partnerportal ", "desc":"80% der Partnerportale wurden entwickelt, um Partner zu stärken, Wettbewerbsvorteile zu erzielen und den Umsatz zu steigern. Sie sind bei den Vertriebspartnern unbeliebt. Wir wissen, wie wir diesen Trend umkehren können, und sind bereit, das Partnerportal zu pflegen, bis es anfängt, Benutzer einzubeziehen."},
+			{"title":"Community-Portal", "desc":"Wir können Ihnen helfen, ein Gateway in der E-Welt Ihrer Community aufzubauen. Mit der benutzerfreundlichen Oberfläche und den leistungsstarken Funktionen, einschließlich Chat, Foren, Blogs, Veranstaltungen, Unterstützung für Mediendateien und mehr, verbinden unsere Portale Community-Mitglieder, um die Zusammenarbeit zu fördern und Beziehungen aufzubauen sowie Erfahrungen und Ideenaustausch zu fördern."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Allround-Webportal-Entwicklung",
+		  "items":[
+			{"title":"Design der Portal-Website: ", "desc":"moderne, reaktionsschnelle Benutzeroberfläche für ultimative Benutzererfahrung in jedem Browser und auf allen mobilen Bildschirmen"},
+			{"title":"Webportal-Entwicklung: ", "desc":"Eine End-to-End-Lösung von der Definition der Anforderungen bis zur Implementierung und Qualitätssicherung"},
+			{"title":"Entwicklung mobiler Apps", "desc":""},
+			{"title":"Migration: ", "desc":"Erstellen eines neuen Webportals, das Ihren neuen Anforderungen entspricht und Daten (einschließlich Inhalt, Benutzeroberfläche, Metadaten und Benutzer) nahtlos vom Altsystem erbt"},
+			{"title":"Sicherheitsaudit, einschließlich ", "desc":"Penetrationstests und Updates zur Validierung vorhandener Sicherheitsmaßnahmen sowie zur Erkennung und Beseitigung von Schwachstellen"}
+		  ]
+		},
+		"section_5":{
+		  "title":"Unser Ansatz zur Entwicklung von Webportalen",
+		  "items":[
+			{"title":"Benutzereingriff", "desc":"Mobiles, anpassungsfähiges Design mit einheitlichem Erscheinungsbild auf allen Bildschirmen Interaktive Tools wie Feedback-Formulare, Taschenrechner, persönliche Schränke usw. Personalisierung von Inhalten basierend auf den Rollen der Benutzer und dem Interaktionsverlauf Medienreiche Seiten mit eingebetteten Medien, hochgeladen direkt oder über YouTube, Vimeo und andere Websites gehostet"},
+			{"title":"Verlässlichkeit", "desc":"Skalierbarkeit für die wachsende Anzahl von Benutzern und Daten Hohe Leistung, um sicherzustellen, dass Benutzer schnell auf Inhalte und Tools zugreifen können. Informationssicherheit: Wir bringen 17 Jahre Erfahrung in Sicherheitsinformationen mit."},
+			{"title":"Einfache Inhaltsverwaltung", "desc":"Nicht-technische Benutzer können den Inhalt einfach und regelmäßig aktualisieren. Unified Content Publishing-Stile, um die Informationen in Ordnung zu bringen und die Integrität während der Portalaktualisierungen sicherzustellen."},
+			{"title":"Integration", "desc":"Automatisierte Integration mit anderen Geschäftssystemen wie ERP, CRM, HRM, E-Commerce-Lösungen und anderen API-Entwicklungen, um bei Bedarf eine enge Integration mit den ERP-Systemen Ihrer Kunden / Lieferanten zu gewährleisten"}
+		  ]
+		},
+		"section_6":[
+		  {"txt":"Aufbruch "},
+		  {"txt":"Wir legen Wert auf die Zusammenarbeit mit unseren Kunden und sind bestrebt, Ihre geschäftliche Herausforderung anzunehmen, um die beste Portallösung zu erstellen. Schreiben Sie uns einfach und lassen Sie sich kostenlos beraten, wie Sie Ihre Ideen in eine robuste Webportallösung umsetzen können."},
+		  {"txt":"Kontaktiere uns"}
+		],
+		"section_7":{
+		  "title":"Ausgewählte Projekte",
+		  "items":[
+			{"title":"Outsourcing der Viber-Anwendungsentwicklung","desc":"Die Erfolgsgeschichte von mehr als 5 Jahren Zusammenarbeit mit dem Viber-Startup führte zur Veröffentlichung und Weiterentwicklung von Android- und Desktop-App-Versionen von Viber, einem funktionsreichen VoIP- und Instant Messenger mit über einer Milliarde registrierten Benutzern."},
+			{"title":"Portalentwicklung für einen Media Publisher","desc":"Eine Twitter-ähnliche Microblogging-Website mit kategorisierten Multimedia-Inhalten, die von registrierten Mitwirkenden geteilt werden. Eine Pimcore-Publishing-Lösung für ein Online-Magazin."},
+			{"title":"Online Analytical Application Development ","desc":"KosovaOutSource lieferte eine Website für einen Bildungsanbieter, die dazu beitrug, doppelte Daten um das Fünffache zu reduzieren und die Gesamtleistung und -stabilität des Datensystems zu verbessern."}
+		  ]
+		}
+	  },
+	  "Testing-Qa":{
+		"section_1":{
+		  "title":"Softwaretests und QS-Services",
+		  "desc":"Mithilfe von Softwaretests können Unternehmen sicherstellen, dass ihre Software voll funktionsfähig, zuverlässig, sicher und benutzerfreundlich ist."
+		},
+		"section_2":[
+		  {"txt":"Testen ist zu einer Quelle von Problemen geworden?"},
+		  {"txt":"Mit den QS- und Softwaretestservices von KosovaOutsource können Sie das Testen zu einem starken Arm machen, der Ihr Geschäftswachstum unterstützt."},
+		  {"txt":"Beenden Sie das Testen von Problemen"}
+		],
+		"section_3":{
+		  "title":"Unser Angebot",
+		  "items":[
+			{"title":"QS-Outsourcing" ,"desc":"Ein engagiertes Team von domänenqualifizierten QS-Ingenieuren übernimmt die Verantwortung für Ihren Qualitätssicherungsprozess und ist für das QS-Prozessmanagement verantwortlich. Wir führen während des gesamten Softwareentwicklungszyklus End-to-End-Tests durch, um sicherzustellen, dass alle Module Ihrer Lösung von Anfang bis Ende wie vorgesehen funktionieren."},
+			{"title":"Managed Testing Services" ,"desc":"Das engagierte Testteam von KosovaOutSource übernimmt einen Teil oder den gesamten Umfang Ihrer Testaktivitäten auf Pay-per-Unit-Basis und übernimmt die volle Verantwortung für das Testprozessmanagement und die Qualität der zu testenden Software."},
+			{"title":"Projektspezifische Prüfung" ,"desc":"Abhängig von den Besonderheiten Ihres Unternehmens, Ihres Projekts und Ihrer Software führen wir unabhängige 3rd-Paty-Tests durch und führen alle erforderlichen Testtypen oder deren Kombination durch, damit Sie ein unvoreingenommenes Feedback zur Qualität Ihrer Anwendung erhalten."},
+			{"title":"QS-Beratung" ,"desc":"Wir helfen Ihnen dabei, die Hauptursachen Ihrer Qualitätsprobleme aufzudecken und diese zu beheben, indem wir ein QS-Prozessaudit durchführen und die erforderlichen QS-Prozessverbesserungen planen. Wenn Sie gerade ein Projekt initiieren, können wir auch eine optimale QS-Strategie für Sie entwerfen. Darüber hinaus unterstützen wir Sie beim Bestehen der Produkt- und Prozesszertifizierung."}
+		  ]
+		},
+		"section_4":{
+		  "title":"Jeder Aspekt Ihrer Software wird validiert",
+		  "desc":"Wir testen funktionale und nicht funktionale Softwarefunktionen, um sicherzustellen, dass sie den Anforderungsspezifikationen entsprechen und eine hervorragende Benutzererfahrung bieten:",
+		  "icon1":"Funktionsprüfung", "icon2":"Leistungstest", "icon3":"Usability-Tests", "icon4":"Kompatibilitätstests"
+		},
+		"section_5":{
+		  "txt":[
+			{"desc":"Testautomatisierung für bessere Ergebnisse"},
+			{"desc":"Wir kombinieren manuelle und automatisierte Tests und wenden unsere Erfahrung mit vertrauenswürdigen Automatisierungs-Frameworks an, um Ihnen dabei zu helfen, Releases zu beschleunigen, die Testabdeckung zu erhöhen und weitere Fehler zu finden, bevor sie in Produktion gehen."},
+			{"desc":"Wir sind auch in der Lage, kontinuierliche Testpraktiken zu etablieren und Testaktivitäten in CI / CD-Pipelines innerhalb des DevOps-Ansatzes zu integrieren."},
+			{"desc":"Unser Testautomatisierungsangebot umfasst:"}
+		  ],
+		  "items":[
+			{"title":"Entwicklung einer Testautomatisierungsstrategie"},
+			{"title":"Einrichtung und Konfiguration der Testumgebung"},
+			{"title":"Automatisierte UI-Tests"},
+			{"title":"Leistungstest"}
+		  ]
+		},
+		"section_6":{
+		  "title":"Weitere Erfolgsgeschichten",
+		  "items":[
+			{"title":"Vollzyklus-Test von zwei Bildverarbeitungsanwendungen für einen weltweit führenden Anbieter digitaler Bildgebung","desc":"Das Testteam von KosovaOutsource lieferte umfassende Tests von 2 Desktop-Anwendungen für die Bildverarbeitung für ein europäisches Produktunternehmen, das leistungsstarke Bildverarbeitungssoftware für professionelle Fotografen, Amateure und Hersteller von Fotoausrüstung bereitstellte."},
+			{"title":"Testen eines Cloud-basierten Citizen Service Portals für ein europäisches IT-Unternehmen","desc":"Das Testteam von KosovaOutsource führte End-to-End-Funktionstests und nicht-Funktionstests einer Cloud-basierten Citizen Service-Webanwendung für ein europäisches IT-Unternehmen durch, das Online-Citizen Service-Lösungen für den öffentlichen Sektor bereitstellt."},
+			{"title":"Testen einer Video-Streaming-Anwendung für einen internationalen TV Everywhere-Dienstanbieter","desc":"KosovaOutsource testete eine Anwendung für einen internationalen TV Everywhere-Anbieter, der große Rundfunkunternehmen in ganz Europa und den USA mit Strom versorgt."}
+		  ]
+		}
+	  }
+  }
+  

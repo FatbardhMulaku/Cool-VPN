@@ -1,0 +1,266 @@
+{
+  "loginBtn": "log in",
+  "signupBtn": "sign up",
+  "mainMenu": [
+    {
+      "link": "support",
+      "name": "Support"
+    },
+    {
+      "link": "blog",
+      "name": "blog"
+    },
+    {
+      "link": "features",
+      "name": "Features"
+    },
+    {
+      "link": "pricing",
+      "name": "Pricing"
+    }
+  ],
+  "industriesPopper": {
+    "name": "what Is VPN?",
+    "industriesMenu": [
+      { "link": "seo-analysis", "name": "Seo analysis" },
+      { "link": "management", "name": "Management" },
+      { "link": "it-outsourcing", "name": "IT Outsourcing" },
+      { "link": "application", "name": "Application" },
+      { "link": "it-consulting", "name": "IT-Consulting" },
+      { "link": "it-support", "name": "IT Support" },
+      { "link": "cloud", "name": "Cloud" },
+      { "link": "data-analytics", "name": "Data Analytics" },
+      { "link": "cybersecurity", "name": "Cybersecurity" },
+      { "link": "image-analysis", "name": "Image Analysis" },
+      { "link": "webdesign", "name": "Web design" },
+      { "link": "web-portal-development", "name": "Web Portal Dev" },
+      { "link": "testing-qa", "name": "Testing QA" },
+      { "link": "ecommerce", "name": "Ecommerce" },
+      { "link": "web-services", "name": "Web services" }
+    ],
+    "industriesInfoName": "Company",
+    "industriesInfoMenu": ["Terms of Use", "Privacy", "Security"]
+  },
+  "aboutPopper": {
+    "name": "Products",
+    "aboutMenu": [
+      { "link": "Team", "name": "Team" },
+      { "link": "company", "name": "Our agency" },
+      { "link": "career", "name": "Career" },
+      { "link": "Faq", "name": "Faq" },
+      { "link": "Who we are", "name": "Who we are " },
+      { "link": "What we do", "name": "What we do" }
+    ]
+  },
+  "button":{
+    "coolVPN":"Try Cool VPN"
+  },
+  "Footer":{
+    "subscribe":{
+      "title":"Join over 30k users, who use our service",
+      "name":"subscribe",
+      "download":"Download CoolVPN",
+      "appStore":"Download on the",
+      "googlePlay":"Get it on"
+    },
+    "location":"4544 Hardman Road, South Burlington, VT 05403"
+  },
+  "footerMenu": [
+    {
+      "title": "CoolVPN",
+      "items": [
+        {
+          "link": "/download",
+          "name": "Download"
+        },
+        {
+          "link": "/pricing",
+          "name": "Pricing"
+        },
+
+        {
+          "link": "/features",
+          "name": "Features"
+        },
+        {
+          "link": "/servers",
+          "name": "Servers"
+        },
+        {
+          "link": "/vpn-for-bussines",
+          "name": "VPN for bussines"
+        },
+        {
+          "link": "/testimonials",
+          "name": "Testimonials"
+        },
+        {
+          "link": "/blog",
+          "name": "Blog"
+        }
+      ]
+    },
+    {
+      "title": "About Us",
+      "items": [
+        {
+          "link": "/what-is-CoolVPN?",
+          "name": "What is CoolVPN?"
+        },
+        {
+          "link": "/faq",
+          "name": "FAQ"
+        },
+        {
+          "link": "/tutorials",
+          "name": "Tutorials"
+        },
+        {
+          "link": "/press-area",
+          "name": "Press Area"
+        },
+        {
+          "link": "/contact",
+          "name": "Contact Us"
+        },
+        {
+          "link": "/developers",
+          "name": "Developers"
+        }
+      ]
+    },
+    {
+      "title": "Earn Money",
+      "items": [
+        {
+          "link": "/affilate",
+          "name": "Affilate"
+        },
+        {
+          "link": "/become-reseller",
+          "name": "Become a Reseller"
+        },
+        {
+          "link": "/free-proxy-list",
+          "name": "Free Proxy list"
+        },
+        {
+          "link": "/web-proxy",
+          "name": "Web Proxy"
+        },
+        {
+          "link": "/youTube-proxy",
+          "name": "YouTube Proxy"
+        },
+        {
+          "link": "/vpn-routers",
+          "name": "VPN Routers"
+        }
+      ]
+    }
+  ],
+  "alRight": "2019 CoolVPN.com. All rights reserved",
+  "IconSocial":[
+    {"linku":"https://www.facebook.com"},
+    {"linku":"https://www.linkedin.com"},
+    {"linku":"https://www.facebook.com"},
+    {"linku":"https://www.youtube.com"}
+  ],
+  "Home":{
+    "section_1":{
+      "title":"Feel safe online, anytime, anywhere.",
+      "desc":"High speed, ultra secure, and easy to use. Instant setup.",
+      "btn1":"Try Cool VPN",
+      "btn2":"Tour",
+      "info1":"SAFE ONLINE",
+      "info2a":"Disappear",
+      "info2b":"Be cool. Be invisible and secure"
+    },
+    "section_2":[
+      {"title":"Unblock", "desc":"Unleash your digital world and unblock restricted content."},
+      {"title":"Stream", "desc":"Stream your favourite shows from anywhere in the world."},
+      {"title":"Secure", "desc":"Keep your private information secure at all times."}
+    ],
+    "section_3":{
+      "title":"It’s time to switch to Cool VPN",
+      "desc":"CoolVPN defeats content restrictions and censorship to deliver unlimited access to video, music, social media, and more, from anywhere in the world.",
+      "btn":"Let’s switch",
+      "items":[
+        {"info":"Ad blocker"},{"info":"Sync data"},{"info":"Sync data"}
+      ]
+    },
+    "section_4":{
+      "title":"Pricing",
+      "desc":"No logs, no hidden fees. All plans come with the 30-day money-back guarantee. Discover Cool VPN Teams for business.",
+      "subtitle":" The best deal of the year!",
+      "info":[
+        {"title":"Free is free", "price":"$9.99","btn":"Order Package", "save":"You save: 2.40 $"},
+        {"title":"Intermediate", "price":"$15.99","btn":"Order Package", "save":"You save: 4.40 $"},
+        {"title":"Advanced", "price":"$19.99","btn":"Order Package", "save":"You save: 6.40 $"}
+      ],
+      "item1":[
+        {"txt":"4 Places","icon":"SectionH4__icon1"},
+        {"txt":"Best effort Bandwith","icon":"SectionH4__icon2"},
+        {"txt":"2GB Data Transfer","icon":"SectionH4__icon3"},
+        {"txt":"Limited Protocol Support","icon":"SectionH4__icon4"},
+        {"txt":"1 Simultaneous Connection","icon":"SectionH4__icon5"},
+        {"txt":"0 No Port Forwarding","icon":"SectionH4__icon6"}
+      ],
+      "item2":[
+        {"txt":"8 Places","icon":"SectionH4__icon1"},
+        {"txt":"Best effort Bandwith","icon":"SectionH4__icon2"},
+        {"txt":"4GB Data Transfer","icon":"SectionH4__icon3"},
+        {"txt":"Limited Protocol Support","icon":"SectionH4__icon4"},
+        {"txt":"2 Simultaneous Connection","icon":"SectionH4__icon5"},
+        {"txt":"0 No Port Forwarding","icon":"SectionH4__icon6"}
+      ],
+      "item3":[
+        {"txt":"12 Places","icon":"SectionH4__icon1"},
+        {"txt":"Best effort Bandwith","icon":"SectionH4__icon2"},
+        {"txt":"6GB Data Transfer","icon":"SectionH4__icon3"},
+        {"txt":"Limited Protocol Support","icon":"SectionH4__icon4"},
+        {"txt":"3 Simultaneous Connection","icon":"SectionH4__icon5"},
+        {"txt":"0 No Port Forwarding","icon":"SectionH4__icon6"}
+      ]
+    },
+    "section_5":{
+      "title":"How do I choose the right server to unblock websites?",
+      "desc":"To choose the right server to connect to, determine which country you need to be in to access the content you want. Then open the Cool VPN app on your device, select a server in that country, and connect. That's it! Once you're connected, you're free to enjoy your favorite content!",
+      "btn":"Get  Cool VPN"
+    },
+    "section_6":{
+      "title":"Why choose VPN?",
+      "desc":"VPN works like a bullet-proof sedan, allowing you to cross the busy streets of urban internet with ease, comfort, and security.",
+      "items1":[
+        {"txt":"Your IP address is publicy visible"},
+        {"txt":"Your data is stored by your ISP"},
+        {"txt":"Websites gather your data"},
+        {"txt":"Marketers keep tracking you"},
+        {"txt":"Spies and hackers target you easily"}
+      ],
+      "items2":[
+        {"txt":"We hide your IP address"},
+        {"txt":"We make you 100% anonymous"},
+        {"txt":"Your browsing data becomes invisible"},
+        {"txt":"You can access all content online"},
+        {"txt":" You get full encryption for your safety"}
+      ],
+      "info":[
+        {"title":"Your connection is not secured!","subtitle":"Your IP is: 192.168.0.1"},
+        {"title":"With Coolvpn your IP is hidden","subtitle":"Your IP is: Secured by CoolVPN"}
+      ]
+    },
+    "section_7":{
+      "title":"See what peoples tell about us",
+      "desc":"Your privacy matters! Unlike other VPN providers,Coolvpn keeps NO LOGS of any kind. We respect your right to online privacy",
+      "btn":"Try Coolvpn now",
+      "subtitle":"User Feedbacks",
+      "items":[
+        {"name":"Violet Sanford","title":"Good app works well","answer":"VPN works like a bullet-proof sedan, allowing you to cross the busy streets of urban internet with ease , comfort and security."},
+        {"name":"Marshall Mccormack","title":"Nice app works well","answer":"VPN works like a bullet-proof sedan, allowing you to cross the busy streets of urban internet with ease , comfort and security."},
+        {"name":"Daisie Oconnell","title":"Great app works well","answer":"VPN works like a bullet-proof sedan, allowing you to cross the busy streets of urban internet with ease , comfort and security."}
+      ]
+    }
+
+  }
+}
