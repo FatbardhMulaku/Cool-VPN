@@ -2,6 +2,10 @@
 	padding: 60px 0 20px 0;
 	background-color: #2D2E2D;
 }
+.SectionF2 .row{
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
 .SectionF2 > div:first-child{
 	padding: 0 100px;
 }
