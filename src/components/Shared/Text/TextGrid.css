@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   flex-flow: column;
-  padding: 5%;
+  padding: 3%;
 }
 
 .textGrid > h2 {
@@ -14,7 +14,7 @@
 
 @media (max-width: 576px) {
   .textGrid {
-    padding: 5%;
+    padding: 2%;
   }
   .textGrid > h2 {
     font-size: 1.5rem;

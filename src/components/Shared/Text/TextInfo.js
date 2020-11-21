@@ -10,6 +10,8 @@ const useStyles = makeStyles((theme) => ({
 	  margin:(props) => props.margin,
 	  [theme.breakpoints.down('sm')]: {
 		/* padding:(props) => props.Smallpadding, */
+		marginLeft:"0px",
+		marginRight:"0px"
 	  }
 	}
   }));

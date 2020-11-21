@@ -1,0 +1,19 @@
+.ImgC{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.SectionFe3__img{
+	background-image: url("../../../assets/Features/Section3.svg");
+	width: 160px;
+	height: 160px;
+}
+@media only screen and (max-width: 992px) {
+	.SectionFe3{
+		padding: 50px 0;
+	}
+	.SectionFe3__img{
+		width: 120px;
+		height: 120px;
+	}
+}

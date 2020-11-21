@@ -266,7 +266,41 @@
   "Features":{
     "section_1":{
       "title":"Why use a VPN?",
-      "desc":"What to do in times when the cyber world is dominated by instances of snooping and mass data collection? When your data is on sale? In scenarios like that, only a VPN can help you improve your online security and privacy"
+      "desc":"What to do in times when the cyber world is dominated by instances of snooping and mass data collection? When your data is on sale? In scenarios like that, only a VPN can help you improve your online security and privacy",
+      "items":[
+        {"title":"VPN Server", "desc":"Deployed by VPN Provider at different locations"},
+        {"title":"VPN Protocols", "desc":"To create the Tunnel"},
+        {"title":"VPN Encryption", "desc":"To Secure the communication by making it unreadable for everyone except the receiver"}
+      ],
+      "info":{
+        "title":"Benefits of a VPN",
+        "desc":"There are countless benefits of using a VPN. Some of the most common are listed below."
+      }
+    },
+    "section_2":{
+      "title":"Replace Your Original IP With An anonymous One",
+      "desc":"CoolVPN hides your IP address and encrypts your Internet traffic, so no one can see what you're browsing online.Downloading with CoolPN greatly increases your anonymity and puts the world’s best premium VPN provider in your corner",
+      "btn":"Read More"
+    },
+    "section_3":{
+      "title":"Encrypts Your Data",
+      "desc":"Governments, Corporations, ISPs, Organizations and Agencies are taking control of the internet and monitor all your activities. How this works is that these ISPs or Government authorities log your browsing history based on your IP Address. Now here is what hide.me VPN does for you, it provides you an IP of another country which will help you hide your browsing activities. hide.me offers servers in more than 30 countries to make sure you can access any website securely",
+      "btn":"Read More"
+    },
+    "section_4":{
+      "title":"Avoid Censorship",
+      "desc":"Government and law enforcement agencies love to monitor social media websites like Facebook, Twitter YouTube etc. If you live in a country where social media sites are censored, all you need to do is connect to hide.me server and should able to visit social media websites without someone monitoring your activities",
+      "btn":"Read More"
+    },
+    "section_5":{
+      "title":"Protect & secure your WiFi connection",
+      "desc":"When you use a public WiFi hotspot, your entire browsing activity while connected to that hotspot could be monitored and spied on. It is very much possible that the next person sitting beside you can read your communication easily. Do you know, how easy it is for bad people to create devil twin WiFi Hotspots. Devil twin is like a mirror copy of the original WiFi, which confuses you, but in real it is a trap. When connected to public, unsecured WiFi network, most of your data - can be logged and monitored by almost anyone on the same network. With strong encryption and secure tunnelling, a VPN can help you improve your online security and make your IP invisible.",
+      "btn":"Read More"
+    },
+    "section_6":{
+      "title":"Devil twin is like a mirror copy of the original WiFi",
+      "desc":"AnyVPN is trusted by more than 5 miollion users because we are different. Checkout some of the features which set us apart from other VPN providers out there.",
+      "btn":"Learn more..."
     }
   }
 }

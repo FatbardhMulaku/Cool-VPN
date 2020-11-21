@@ -1,0 +1,58 @@
+.SectionFe6{
+	padding-top: 30px;
+	padding-bottom: 60px;
+	display: flex;
+	justify-content: center;
+}
+.contaFe6__box{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border: 2px solid #8878BF;
+	margin-left: 25% !important;
+	margin-right: 25% !important;
+	padding: 20px;
+	border-radius: 20px;
+}
+.contaFe6__box > div:first-child{
+	width: 82%;
+}
+.SectionFe6__img{
+	background-image: url("../../../assets/Features/Section6.svg");
+	width: 195px;
+	height: 170px;
+}
+.SectionFe6__txt h2{
+	font-size: 18px;
+}
+.SectionFe6__txt p{
+	font-size: 15px;
+}
+
+@media only screen and (max-width: 1100px) {
+	.contaFe6__box{
+		margin-left: 3% !important;
+		margin-right: 3% !important;
+	}
+}
+@media only screen and (max-width: 992px) {
+	.contaFe6__box > div:first-child{
+		width: 76%;
+	}
+}
+@media only screen and (max-width: 768px) {
+	.contaFe6__box{
+		flex-direction: column;
+	}
+	.contaFe6__box > div:first-child{
+		width: 99%;
+	}
+	.SectionFe6__img{
+		margin-top: 15px;
+		width: 155px;
+		height: 140px;
+	}
+	.SectionFe6__txt p{
+		font-size: 13px;
+	}
+}

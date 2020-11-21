@@ -1,0 +1,28 @@
+.Purple__bg{
+	background-image: linear-gradient(to right, #6210e6, #C3A1FC);
+	clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+}
+.SectionFe4{
+	padding: 25px 0;
+	background-image: linear-gradient(#2D2E2D, #383838);
+	clip-path: polygon(0 10%, 100% 0, 100% 83%, 0 99%);
+}
+.ImgC{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.SectionFe4__img{
+	background-image: url("../../../assets/Features/Section_4.svg");
+	width: 160px;
+	height: 160px;
+}
+@media only screen and (max-width: 992px) {
+	.SectionFe4{
+		padding: 50px 0;
+	}
+	.SectionFe2__img{
+		width: 120px;
+		height: 120px;
+	}
+}
