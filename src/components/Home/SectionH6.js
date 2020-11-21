@@ -1,8 +1,8 @@
 import React from 'react';
 import "./Styles/SectionH6.css";
 import LayoutContainer from "../Shared/LayoutContainer";
-import Textinfo from "../Shared/TextGrid/TextInfo";
-import ListItem from "../Shared/TextGrid/TextList";
+import Textinfo from "../Shared/Text/TextInfo";
+import ListItem from "../Shared/Text/TextList";
 import { useTranslation } from "react-i18next";
 
 function SectionH6() {

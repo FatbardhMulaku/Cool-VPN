@@ -19,14 +19,14 @@ const useStyles = makeStyles((theme) => ({
   },
   box1: {
     boxShadow: "none ",
-    backgroundColor:"transparent",
+    backgroundColor:(props) => props.Bcolor,
     transition: "all 0.6s ease-out",
     padding: "0 0 10px",
     top: "auto",
     color:"black"
   },
   box2: {
-    backgroundColor:(props) => props.Bcolor,
+    backgroundColor:(props) => props.BcolorScroll,
     transition: "all 0.4s ease-in",
     padding: "0 0 8px",
     top: "auto",

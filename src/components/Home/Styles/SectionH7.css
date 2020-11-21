@@ -27,3 +27,16 @@
 	height: 70px;
 	margin-right: 15px;
 }
+.SectionH7 > div > div > div >h5{
+	padding: 5px 15px;
+	border-radius: 10px;
+	background-color: #dde8ee;
+	width: 36%;
+	margin-bottom: 50px;
+}
+@media only screen and (max-width: 500px) {
+	.SectionH7 > div > div > div >h5{
+		width: 99%;
+		font-size: 16px;
+	}
+}

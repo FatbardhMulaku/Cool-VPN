@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Styles/SectionH3.css";
 import { useTranslation } from "react-i18next";
-import TextGrid from "./../Shared/TextGrid/TextGrid"
+import TextGrid from "./../Shared/Text/TextGrid"
 
 function SectionH3() {
 	const { t } = useTranslation();

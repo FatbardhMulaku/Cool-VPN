@@ -1,0 +1,15 @@
+.SectionFe1{
+	padding: 150px 0;
+}
+.SectionFe1__txt{
+	width: 50%;
+}
+.SectionFe1__txt > p{
+	font-size: 14px;
+}
+
+@media only screen and (max-width: 992px) {
+	.SectionFe1__txt{
+		width: 99%;
+	}
+}

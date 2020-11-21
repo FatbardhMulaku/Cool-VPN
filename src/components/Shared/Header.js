@@ -21,7 +21,7 @@ const Header = (props) => {
   return (
     <Fragment>
       <ThemeProvider theme={theme}>
-        <Toolbar drawerToggle={setToggled} Bcolor={props.BC} ColorT={props.TXT} LogoL={props.LO} ColorBTN={props.BTN}/>
+        <Toolbar drawerToggle={setToggled} BcolorScroll={props.BCs} Bcolor={props.BC} ColorT={props.TXT} LogoL={props.LO} ColorBTN={props.BTN}/>
         <MobileMenu drawerToggle={setToggled} isToggled={isToggled} />
       </ThemeProvider>
     </Fragment>

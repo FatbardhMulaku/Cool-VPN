@@ -1,5 +1,5 @@
 import React from 'react';
-import Textinfo from "./../Shared/TextGrid/TextInfo";
+import Textinfo from "./../Shared/Text/TextInfo";
 import Butoni from "./../UI/Button/Button"
 import "./Styles/SectionH5.css";
 

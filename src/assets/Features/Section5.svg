@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="199" viewBox="0 0 204 199">
+  <g id="Group_169" data-name="Group 169" transform="translate(-1000 -2839)">
+    <g id="Group_123" data-name="Group 123" transform="translate(0 49)">
+      <path id="Path_116" data-name="Path 116" d="M5959,1692h43.5v39" transform="translate(-4839 1135)" fill="none" stroke="#8878bf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_117" data-name="Path 117" d="M18,0V18H0Z" transform="translate(1164 2853.272) rotate(45)" fill="#8878bf"/>
+    </g>
+    <g id="Group_124" data-name="Group 124" transform="translate(1030 2961)">
+      <path id="Path_116-2" data-name="Path 116" d="M6002.5,1731H5959v-39" transform="translate(-5945.771 -1679.272)" fill="none" stroke="#8878bf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_117-2" data-name="Path 117" d="M18,0V18H0Z" transform="translate(12.728 25.456) rotate(-135)" fill="#8878bf"/>
+    </g>
+    <g id="tutorial" transform="translate(1000 2839)" opacity="0.9">
+      <path id="Path_118" data-name="Path 118" d="M83.914,0H8.086A8.1,8.1,0,0,0,0,8.086V65.945a8.1,8.1,0,0,0,8.086,8.086H33.728l-1.216,6.078a8.108,8.108,0,0,1-7.929,6.5H17.25a2.7,2.7,0,0,0,0,5.391h57.5a2.7,2.7,0,0,0,0-5.391H67.417a8.108,8.108,0,0,1-7.929-6.5l-1.216-6.078H83.914A8.1,8.1,0,0,0,92,65.945V8.086A8.1,8.1,0,0,0,83.914,0ZM54.2,81.166a13.4,13.4,0,0,0,2.442,5.443H35.356A13.394,13.394,0,0,0,37.8,81.166l1.427-7.135h13.55ZM86.609,65.945a2.7,2.7,0,0,1-2.7,2.7H8.086a2.7,2.7,0,0,1-2.7-2.7V8.086a2.7,2.7,0,0,1,2.7-2.7H83.914a2.7,2.7,0,0,1,2.7,2.7Z"/>
+    </g>
+    <g id="tutorial-2" data-name="tutorial" transform="translate(1112 2946)" opacity="0.9">
+      <path id="Path_118-2" data-name="Path 118" d="M83.914,0H8.086A8.1,8.1,0,0,0,0,8.086V65.945a8.1,8.1,0,0,0,8.086,8.086H33.728l-1.216,6.078a8.108,8.108,0,0,1-7.929,6.5H17.25a2.7,2.7,0,0,0,0,5.391h57.5a2.7,2.7,0,0,0,0-5.391H67.417a8.108,8.108,0,0,1-7.929-6.5l-1.216-6.078H83.914A8.1,8.1,0,0,0,92,65.945V8.086A8.1,8.1,0,0,0,83.914,0ZM54.2,81.166a13.4,13.4,0,0,0,2.442,5.443H35.356A13.394,13.394,0,0,0,37.8,81.166l1.427-7.135h13.55ZM86.609,65.945a2.7,2.7,0,0,1-2.7,2.7H8.086a2.7,2.7,0,0,1-2.7-2.7V8.086a2.7,2.7,0,0,1,2.7-2.7H83.914a2.7,2.7,0,0,1,2.7,2.7Z"/>
+    </g>
+  </g>
+</svg>

@@ -262,5 +262,11 @@
       ]
     }
 
+  },
+  "Features":{
+    "section_1":{
+      "title":"Why use a VPN?",
+      "desc":"What to do in times when the cyber world is dominated by instances of snooping and mass data collection? When your data is on sale? In scenarios like that, only a VPN can help you improve your online security and privacy"
+    }
   }
 }

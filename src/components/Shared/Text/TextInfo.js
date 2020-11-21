@@ -18,7 +18,7 @@ function TextInfo(props) {
 	const { t } = useTranslation();
 	const classes = useStyles(props);
 	return (
-		<div className={`${classes.root} TextInfo`}>
+		<div className={`${classes.root} TextInfo ${props.klasa}`}>
 			<h2 className="font_roboto text-capitalize font-w-600">{t(`${props.txt}.title`)}</h2>
        	 	<p className="font_p my-4">{t(`${props.txt}.desc`)}</p>
 		</div>

@@ -8,7 +8,8 @@ import {
 import ScrollToTop from "../components/Shared/ScrollToTop";
 import Layout from "../layout/DefaultLayout";
 import PageNotFound from "../pages/PageNotFound";
-import Home from "../pages/Home"
+import Home from "../pages/Home";
+import Features from "../pages/Features";
 
 const route = () => {
   return (
@@ -17,6 +18,7 @@ const route = () => {
       <Layout>
         <Switch>
           <Route path="/" exact render={() => <Home />} />
+          <Route path="/features" exact render={() => <Features />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />
