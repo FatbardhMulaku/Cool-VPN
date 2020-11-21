@@ -3,7 +3,7 @@ import Textinfo from "./../Shared/Text/TextInfo";
 import Butoni from "./../UI/Button/Button"
 import "./Styles/SectionH5.css";
 
-function SectionH5() {
+function SectionH5() { 
 	return (
 		<div className="SectionH5 ">
 			<div className="SectionH5_wrapper container">
