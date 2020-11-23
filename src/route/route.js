@@ -10,6 +10,7 @@ import Layout from "../layout/DefaultLayout";
 import PageNotFound from "../pages/PageNotFound";
 import Home from "../pages/Home";
 import Features from "../pages/Features";
+import Support from "../pages/Support";
 
 const route = () => {
   return (
@@ -19,6 +20,7 @@ const route = () => {
         <Switch>
           <Route path="/" exact render={() => <Home />} />
           <Route path="/features" exact render={() => <Features />} />
+          <Route path="/support" exact render={() => <Support />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

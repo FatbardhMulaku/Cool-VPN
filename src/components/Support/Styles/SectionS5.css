@@ -1,0 +1,54 @@
+.SectionS5{
+	background-image:linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)), url("../../../assets/Support/section_5.jpg");
+	background-attachment: scroll;
+	background-size: 110%;
+	padding: 50px 0;
+	padding-top: 70px;
+	clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 100%);
+}
+.SectionS5 div h3{
+	color: white;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.SectionS5__box{
+	margin: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.SectionS5__box > div{
+	margin: 20px;
+}
+.SectionS5__line{
+	margin: 5px;
+}
+.SectionS5__line p{
+	color: white;
+}
+@media only screen and (max-width: 992px) {
+	.SectionS5{
+		padding: 100px 0;
+		clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+		background-size: 400%;
+	}
+	.SectionS5__box{
+		margin: 20px 0;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.SectionS5__box > div{
+		margin:20px 0;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.SectionS5{
+		padding: 100px 0;
+		clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+		background-size: 830%;
+	}
+	.SectionS5__line p{
+		color: white;
+		font-size: 14px;
+	}
+}

@@ -29,7 +29,7 @@ function TextList(props) {
 		<div>
 			{t(`${props.txt}`).map((item, index) => {
 			return(
-				<div key={index} className={`${classes.root} SectionH4__line`}>
+				<div key={index} className={`${classes.root} ${props.klasa}`}>
 					<div className={`${props.icon} ${item.icon} bg ${classes.img}`} ></div>
 					<p className={classes.txt}>{item.txt}</p>
 				</div>

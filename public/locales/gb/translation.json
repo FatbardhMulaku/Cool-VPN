@@ -302,5 +302,44 @@
       "desc":"AnyVPN is trusted by more than 5 miollion users because we are different. Checkout some of the features which set us apart from other VPN providers out there.",
       "btn":"Learn more..."
     }
+  },
+  "Support":{
+    "section_1":{
+      "title":"Search CoolVPN Support",
+      "placeholder":"Type your question here.."
+    },
+    "section_2":[
+      {"title":"Troubleshoot Now"}, {"title":"Contact support"}, {"title":"Get instructions"}
+    ],
+    "section_3":{
+      "title":"CoolVPN video tutorials",
+      "items":[
+        {"title":"VPN setup", "desc":"Where to download CoolVPN?"},
+        {"title":"Download the ExpressVPN app for Windows, Mac, Android, iOS, and Linux devices", "desc":""},
+        {"title":"VPN setup", "desc":"Where to download CoolVPN?"}
+      ],
+      "btn":"Learn more"
+    },
+    "section_4":{
+      "title":"Can’t find what you are looking for?",
+      "items":[
+        {"title":"Send an Email"},{"title":"File a support ticket"}
+      ]
+    },
+    "section_5":{
+      "title":"Popular Support Topics",
+      "items1":[
+        {"txt":"• Get or update CoolVPN if it’s not in your App Store"},
+        {"txt":"• Windows 7, 8, 10, and higher (app setup)"},
+        {"txt":"• Asus (OpenVPN)"},
+        {"txt":"• Frequently Asked Questions"}
+      ],
+      "items2":[
+        {"txt":"• Find your CoolVPN activation code"},
+        {"txt":"• Disable proxy for Chrome"},
+        {"txt":"• How many devices can I connect simultaneously?"},
+        {"txt":"• Android 5.0 and higher (app setup)"}
+      ]
+    }
   }
 }
