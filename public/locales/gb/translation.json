@@ -341,5 +341,14 @@
         {"txt":"• Android 5.0 and higher (app setup)"}
       ]
     }
+  },
+  "Blog":{
+    "section_1":{
+      "title":"Discover our blog"
+    },
+    "section_2":{
+      "title":"VPN for dummies: a guide for beginners ",
+      "desc":"Aug 07, 2020 · 3 min read "
+    }
   }
 }

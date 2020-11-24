@@ -1,9 +1,9 @@
 .SectionH2{
-	/* padding: 150px 0; */
+	padding: 50px 0;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
-	transform: translateY(120px);
+	/* transform: translateY(60px); */
 }
 .SectionH2__hr{
 	width: 80%;
@@ -11,7 +11,7 @@
     height: 1px;
 	background: #ffffff;
 	text-align: center;
-	margin-bottom: 70px;	
+	margin-bottom: 50px;	
 }
 .SectionH2__Box{
 	width: 290px;

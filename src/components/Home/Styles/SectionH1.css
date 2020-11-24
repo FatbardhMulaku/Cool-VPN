@@ -1,10 +1,11 @@
 .imgBG{
 	background-image: url("../../../assets/Home/section_1.png");
 	background-attachment: scroll;
+	background-size: 100% 100%;
 }
 .sectionH1 > div:first-child {
 	padding: 200px 0;
-	padding-bottom: 400px;
+	padding-bottom: 00px;
   }
 .sectionH1 .container .row{
 	margin-left: auto !important;
@@ -163,6 +164,9 @@
 	}
 }
 @media only screen and (max-width: 670px) {
+	.imgBG{
+		background-size: cover;
+	}
 	.sectionH1__left >h1{
 		margin-top: 0px;
 		font-size: 28px;

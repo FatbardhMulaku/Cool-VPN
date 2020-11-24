@@ -1,6 +1,7 @@
 .SectionS1{
 	background-image: url("../../../assets/Support/section1_bg.png");
 	background-attachment: scroll;
+	background-size: 100% 100%;
 }
 .SectionS1 > div:first-child {
 	padding: 180px 0;

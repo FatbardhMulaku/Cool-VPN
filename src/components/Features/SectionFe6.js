@@ -3,7 +3,7 @@ import TextInfo from "../Shared/Text/TextInfo";
 import Botton from "../UI/Button/Button"; 
 import "./Styles/SectionFe6.css";
 
-function SectionFe6() {
+function SectionFe6() { 
 	return (
 		<div className="SectionFe6">
 			<div className="contaFe6__box container">
