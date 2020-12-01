@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="59" viewBox="0 0 59 59">
+  <g id="Group_79" data-name="Group 79" transform="translate(-0.036 -0.377)">
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="29.5" cy="29.5" r="29.5" transform="translate(0.036 0.377)" fill="#8878bf"/>
+    <g id="smartphone" transform="translate(19.204 14.065)">
+      <g id="Group_68" data-name="Group 68">
+        <g id="Group_67" data-name="Group 67">
+          <path id="Path_77" data-name="Path 77" d="M106,0H90.727A2.731,2.731,0,0,0,88,2.727V30a2.731,2.731,0,0,0,2.727,2.727H106A2.731,2.731,0,0,0,108.729,30V2.727A2.731,2.731,0,0,0,106,0Zm1.636,30A1.636,1.636,0,0,1,106,31.638H90.727A1.636,1.636,0,0,1,89.091,30V27.274h18.547Zm0-3.818H89.091V4.364h18.547Zm0-22.91H89.091V2.727a1.636,1.636,0,0,1,1.636-1.636H106a1.636,1.636,0,0,1,1.636,1.636Z" transform="translate(-88)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_70" data-name="Group 70" transform="translate(8.728 27.82)">
+        <g id="Group_69" data-name="Group 69">
+          <path id="Path_78" data-name="Path 78" d="M217.636,408a1.636,1.636,0,1,0,1.636,1.636A1.636,1.636,0,0,0,217.636,408Zm0,2.182a.546.546,0,1,1,.546-.545A.546.546,0,0,1,217.636,410.182Z" transform="translate(-216 -408)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_72" data-name="Group 72" transform="translate(9.273 1.636)">
+        <g id="Group_71" data-name="Group 71">
+          <path id="Path_79" data-name="Path 79" d="M225.636,24h-1.091a.545.545,0,0,0,0,1.091h1.091a.545.545,0,1,0,0-1.091Z" transform="translate(-224 -24)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

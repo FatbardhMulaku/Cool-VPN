@@ -37,6 +37,13 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
+function URLLogin() {
+  window.location = '/Login';
+}
+function URLSignup() {
+  window.location = '/SignUp';
+}
+
 const LoginNav = (props) => {
   const { t } = useTranslation();
   
@@ -45,11 +52,11 @@ const LoginNav = (props) => {
     <div>
       <ul className="nav-login p-0 my-auto">
         <li className={classes.klasa1}>
-          <p>{t("loginBtn")}</p>
+          <p onClick={URLLogin}>{t("loginBtn")}</p>
         </li>
 
         <li  className={classes.klasa2}>
-          <p>{t("signupBtn")}</p>
+          <p onClick={URLSignup}>{t("signupBtn")}</p>
         </li>
       </ul>
 

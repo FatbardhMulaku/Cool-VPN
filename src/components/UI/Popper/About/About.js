@@ -1,30 +1,82 @@
 import React from "react";
 import PopperBox from "../PopperBox";
-import PopperItem from "../PopperItem";
 import { useTranslation } from "react-i18next";
 import "./About.css";
 import "../index.css";
 import { paramCase } from "change-case";
+import { Link } from "react-router-dom";
 
 const About = (props) => {
-  const { t } = useTranslation();
+  const { t } = useTranslation(); 
   return (
     <PopperBox
-      name={t("aboutPopper.name")}
+      name={t("Product.name")}
       trigger={props.trigger}
-      width="500px"
+      width="570px"
+      className="DesctopFull_pannel"
     >
-      <div className="about_popper_container">
-        <ul className="about_popper_list">
-          {t("aboutPopper.aboutMenu").map((item, index) => (
-            <PopperItem
-              key={index}
-              link={paramCase(item.link)}
-              name={item.name}
-              icon={`about_popper_icon${index + 1}`}
-            />
-          ))}
-        </ul>
+      <div className="industries_popper_container row justify-content-start">
+      <div>
+          <h6 className="col_black font-roboto">
+            {t("Product.ItemName1")}
+          </h6>
+          <ul className="industries_popper_info">
+            {t("Product.ItemMenu1").map((item, index) => (
+              <li key={index}>
+                <Link to={`/${paramCase(item.link)}`}>{item.name}</Link>
+              </li>
+            ))}
+          </ul>
+      </div> 
+      <div>
+          <h6 className="col_black font-roboto">
+            {t("Product.ItemName2")}
+          </h6>
+          <ul className="industries_popper_info">
+            {t("Product.ItemMenu2").map((item, index) => (
+              <li key={index}>
+                <Link to={`/${paramCase(item.link)}`}>{item.name}</Link>
+              </li>
+            ))}
+          </ul>
+      </div> 
+      <div>
+          <h6 className="col_black font-roboto">
+            {t("Product.ItemName3")}
+          </h6>
+          <ul className="industries_popper_info">
+            {t("Product.ItemMenu3").map((item, index) => (
+              <li key={index}>
+                <Link to={`/${paramCase(item.link)}`}>{item.name}</Link>
+              </li>
+            ))}
+          </ul>
+      </div> 
+      <div>
+          <h6 className="col_black font-roboto">
+            {t("Product.ItemName4")}
+          </h6>
+          <ul className="industries_popper_info">
+            {t("Product.ItemMenu4").map((item, index) => (
+              <li key={index}>
+                <Link to={`/${paramCase(item.link)}`}>{item.name}</Link>
+              </li>
+            ))}
+          </ul>
+      </div> 
+      <div>
+          <h6 className="col_black font-roboto">
+            {t("Product.ItemName5")}
+          </h6>
+          <ul className="industries_popper_info">
+            {t("Product.ItemMenu5").map((item, index) => (
+              <li key={index}>
+                <Link to={`/${paramCase(item.link)}`}>{item.name}</Link>
+              </li>
+            ))}
+          </ul>
+      </div> 
+     
       </div>
     </PopperBox>
   );

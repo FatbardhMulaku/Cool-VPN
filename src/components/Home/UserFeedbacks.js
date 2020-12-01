@@ -78,4 +78,4 @@ function UserFeedbacks(props) {
 	)
 }
 
-export default UserFeedbacks
+export default UserFeedbacks;

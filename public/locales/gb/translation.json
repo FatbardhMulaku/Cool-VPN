@@ -1,6 +1,29 @@
 {
   "loginBtn": "log in",
   "signupBtn": "sign up",
+  "SignUp":{
+    "title":"Sign in to Cool VPN",
+    "fb":"Sign up with Facebook",
+    "apple":"",
+    "or":"or",
+    "usernamePlaceholder":"Username",
+    "emailPlaceholder":"Email",
+    "passwordPlaceholder":"Password",
+    "label":"Creating an account means you’re okay with our ",
+    "lab1":" Terms of Service ","lab2":" Privacy Policy " ,"and":"and",
+    "create":"Create Account",
+    "Already":"Already have an account?","Signin":"Sign in."
+  },
+  "Login":{
+    "title":"Login to Cool VPN",
+    "fb":"Log in with Facebook",
+    "apple":"",
+    "or":"or",
+    "usernamePlaceholder":"Username",
+    "passwordPlaceholder":"Password",
+    "forgot":"Forgot Password?",
+    "Already":"Don't have an account?","Signin":"Sign up now."
+  },
   "mainMenu": [
     {
       "link": "support",
@@ -19,37 +42,55 @@
       "name": "Pricing"
     }
   ],
-  "industriesPopper": {
+  "whatIsVPN": {
     "name": "what Is VPN?",
-    "industriesMenu": [
-      { "link": "seo-analysis", "name": "Seo analysis" },
-      { "link": "management", "name": "Management" },
-      { "link": "it-outsourcing", "name": "IT Outsourcing" },
-      { "link": "application", "name": "Application" },
-      { "link": "it-consulting", "name": "IT-Consulting" },
-      { "link": "it-support", "name": "IT Support" },
-      { "link": "cloud", "name": "Cloud" },
-      { "link": "data-analytics", "name": "Data Analytics" },
-      { "link": "cybersecurity", "name": "Cybersecurity" },
-      { "link": "image-analysis", "name": "Image Analysis" },
-      { "link": "webdesign", "name": "Web design" },
-      { "link": "web-portal-development", "name": "Web Portal Dev" },
-      { "link": "testing-qa", "name": "Testing QA" },
-      { "link": "ecommerce", "name": "Ecommerce" },
-      { "link": "web-services", "name": "Web services" }
+    "ItemName1": "Benefits",
+    "ItemMenu1": [
+      { "link": "browse-anonymously", "name": "Browse Anonymously" },
+      { "link": "unblock-websites", "name": "Unblock Websites" },
+      { "link": "unlimited-streaming", "name": "Unlimited Streaming" },
+      { "link": "hide-your-ip", "name": "Hide Your IP" }
     ],
-    "industriesInfoName": "Company",
-    "industriesInfoMenu": ["Terms of Use", "Privacy", "Security"]
+    "ItemName2": "Features",
+    "ItemMenu2": [
+      { "link": "our-network", "name": "160 VPN Locations" },
+      { "link": "browser-extension-safari", "name": "VPN Speed Test" },
+      {"link": "public-wifi-security","name": "Kill Switch"},
+      {"link": "an-anonymous-ip-address","name": "Split Tunneling"},
+      {"link": "un-recommendation-encryption","name": "Best-in-Class Encryption"},
+      {"link": "companies-we-support","name": "Trusted Server Technology"},
+      { "link": "imprint-contact","name": "Zero-Knowledge DNS"},
+      { "link": "privacy-policy", "name": "Privacy Safeguards" }
+    ]
   },
-  "aboutPopper": {
+  "Product": {
     "name": "Products",
-    "aboutMenu": [
-      { "link": "Team", "name": "Team" },
-      { "link": "company", "name": "Our agency" },
-      { "link": "career", "name": "Career" },
-      { "link": "Faq", "name": "Faq" },
-      { "link": "Who we are", "name": "Who we are " },
-      { "link": "What we do", "name": "What we do" }
+    "ItemName1":"Desktops & Laptops",
+    "ItemMenu1": [
+      { "link": "vpn-setup-windows-10","name": "Windows"},
+      { "link": "vpn-setup-mac", "name": "MacOS" },
+      { "link": "vpn-setup-ubuntu", "name": "Linux" }
+    ],
+    "ItemName2":"Simartphones & Tablets",
+    "ItemMenu2": [
+      { "link": "vpn-setup-iphone","name": "iOS" },
+      { "link": "vpn-setup-android","name": "Android"}
+    ],
+    "ItemName3":"Home & Office Networking",
+    "ItemMenu3": [
+      {"link": "vpn-setup-fedora", "name": "Router" }
+    ],
+    "ItemName4":"Browser Extensions",
+    "ItemMenu4": [
+      {"link": "browser-addons","name": "Chrome"},
+      {"link": "browser-addons","name": "Firefox" }
+    ],
+    "ItemName5":"Tools",
+    "ItemMenu5": [
+      { "link": "hide-my-location", "name": "What is my IP?"},
+      { "link": "wifi-krack", "name": "DNS leak Test"},
+      { "link": "prevent-data-theft", "name": "WebRTC Leak Test"},
+      { "link": "our-network", "name": "Password Generator" }
     ]
   },
   "button":{
@@ -349,6 +390,69 @@
     "section_2":{
       "title":"VPN for dummies: a guide for beginners ",
       "desc":"Aug 07, 2020 · 3 min read "
+    },
+    "section_3":{
+      "title":"Popular articles",
+      "items":[
+        {"title":"Will you still be able to use TikTok?", "desc":"Aug 07, 2020 · 3 min read"},
+        {"title":"“Untouchable” Russian hacker’s ransomware squeezes Garmin for $10m", "desc":"Aug 07, 2020 · 3 min read"},
+        {"title":"Social media and cyberbullying: a dangerous mix", "desc":"Aug 07, 2020 · 3 min read"}
+      ]
+    },
+    "section_4":{
+      "title":"Recent articles",
+      "item1":{
+        "title":"What search engines can tell us about internet restrictions",
+        "desc":"Aug 07, 2020 · 9 min read"
+      },
+      "item2":{
+        "title":"How safe is Office 365 security?",
+        "desc":"Aug 07, 2020 · 7 min read"
+      },
+      "item3":{
+        "title":"How much internet speed do I need?",
+        "desc":"Aug 07, 2020 · 5 min read"
+      },
+      "item4":{
+        "title":"How to block a number on Android",
+        "desc":"Aug 07, 2020 · 3 min read"
+      }
+    }
+  },
+  "Pricing":{
+    "section_1":{
+      "title":"Get CoolVPN in 3 simple steps",
+      "desc":"No logs, no hidden fees. All plans come with the 30-day money-back guarantee. Discover Cool VPN Teams for business.",
+      "btn1":"Pick your plan",
+      "btn2":"Create your account",
+      "btn3":"Get Started - Download our VPN Client"
+    },
+    "section_2":{
+      "title":"Included in every package",
+      "desc":"Encrypts your internet connection, and allows you to browse the internet anonymously. Unblock popular websites where you live",
+      "items1":{
+        "title":"Privacy protection and freedom of speech",
+        "desc":"Encrypts your internet connection, and allows you to browse the internet anonymously. Unblock popular websites where you live, and get back your right to free speech."
+      },
+      "items2":{
+        "title":"Works on all devices you can imagine","desc":"With protocols that support the most popular devices, from the iPhone to the Xbox, you can take world-class hide.me speed and security wherever you go. It’s as flexible as you are."
+      },
+      "items3":{
+        "title":"Premium customer support and easy setup", "desc":"Stuck in a rut? We’re here to help… 24/7. We offer customer support that is guaranteed to get you back up and running in no time. But with our simple set up guides, you should be just fine."
+      }
+    },
+    "section_3":{
+      "title":"FAQ",
+      "items":[
+        {"name":" How do I set up CoolVPN?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."},
+        {"name":" Do you offer a free trial?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."},
+        {"name":" Where are your servers located?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."},
+        {"name":" Do you offer any open ports?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."},
+        {"name":" Do you support IPv6?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."},
+        {"name":" What information do you store?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."},
+        {"name":" How is my privacy maintained?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."},
+        {"name":" Can I change my VPN username?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."}
+      ]
     }
   }
 }

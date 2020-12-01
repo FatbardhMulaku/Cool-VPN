@@ -1,59 +1,17 @@
-/* .industries_popper_icon1 {
-  background-image: url("../../../../assets/images/industries/pie-chart.svg");
+.industries_popper_container{
+  background-color: #C2C2C2;
 }
-.industries_popper_icon2 {
-  background-image: url("../../../../assets/images/industries/Group\ 108.svg");
-}
-.industries_popper_icon3 {
-  background-image: url("../../../../assets/images/industries/Group\ 110.svg");
-}
-.industries_popper_icon4 {
-  background-image: url("../../../../assets/images/industries/work.svg");
-}
-.industries_popper_icon5 {
-  background-image: url("../../../../assets/images/industries/desktop.svg");
-}
-.industries_popper_icon6 {
-  background-image: url("../../../../assets/images/industries/Path\ 132.svg");
-}
-.industries_popper_icon7 {
-  background-image: url("../../../../assets/images/industries/Path\ 130.svg");
-}
-.industries_popper_icon8 {
-  background-image: url("../../../../assets/images/industries/data.svg");
-}
-.industries_popper_icon9 {
-  background-image: url("../../../../assets/images/industries/global.svg");
-}
-.industries_popper_icon10 {
-  background-image: url("../../../../assets/images/industries/Path\ 131.svg");
-}
-.industries_popper_icon11 {
-  background-image: url("../../../../assets/images/industries/shapes.svg");
-}
-.industries_popper_icon12 {
-  background-image: url("../../../../assets/images/industries/coding.svg");
-}
-.industries_popper_icon13 {
-  background-image: url("../../../../assets/images/industries/testing.svg");
-}
-.industries_popper_icon14 {
-  background-image: url("../../../../assets/images/industries/ecommerce.svg");
-}
-.industries_popper_icon15 {
-  background-image: url("../../../../assets/images/industries/desktop.svg");
-} */
-
 .industries_popper_container > div {
   /* margin-left: 20px; */
   padding: 20px 5px;
   display: flex;
   flex-flow: column;
   width: auto;
+  background-color: #C2C2C2;
 }
 
 .industries_popper_container > div > ul {
-  width: 180px;
+  width: 250px;
 }
 .industries_popper_container > div > h6 {
   color: black;
@@ -68,11 +26,11 @@
 }
 .industries_popper_info li {
   list-style: none;
-  padding: 5px 0;
+  padding: 2px 5px;
 }
 .industries_popper_info li a {
-  color: #b2b2b2;
-  font-size: 18px;
+  color: #000000;
+  font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
   text-transform: capitalize;
@@ -84,5 +42,5 @@
   transition: all 0.4s ease-in;
 }
 .industries_popper_info li a:hover {
-  color: #505050;
+  color: #777777;
 }

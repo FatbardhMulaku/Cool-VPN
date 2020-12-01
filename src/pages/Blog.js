@@ -6,7 +6,7 @@ const LazyLoaded = lazy(() => import("../components/Blog/index"))
 const Blog = () => {
   return (
     <WrapSupsense>
-         <Header BCs="#2D2E2D"  BC="#2D2E2D" TXT="a_white" LO="white_logo" BTN="white"/>
+         <Header BCs="#2D2E2D"  BC="transparent" TXT="a_white" LO="white_logo" BTN="white"/>
         <LazyLoaded />
     </WrapSupsense>)   
 };

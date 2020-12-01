@@ -91,7 +91,7 @@
 	.SectionH3{
 		/* padding-top: 100px; */
 		transform: translateY(220px);
-		margin-bottom: -300px;
+		margin-bottom: 00px;
 	}
 }
 @media only screen and (max-width: 530px) {

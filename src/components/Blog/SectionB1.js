@@ -6,7 +6,7 @@ function SectionB1() {
 	const { t } = useTranslation();
 	return (
 		<div className="SectionB1 bg">
-			<h3 className="container">{t("Blog.section_1.title")}</h3>
+			<h2 className="container">{t("Blog.section_1.title")}</h2>
 		</div>
 	)
 }

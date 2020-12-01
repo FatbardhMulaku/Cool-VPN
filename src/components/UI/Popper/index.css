@@ -2,12 +2,12 @@
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  font-size: 17px !important;
+  font-size: 16px !important;
   font-family: "Source Sans Pro", sans-serif !important;
   text-transform: capitalize;
   text-decoration: none !important;
   transition: all 0.35s ease-in;
-  line-height: 20px !important;
+  line-height: 15px !important;
   background-color: transparent;
   border: none;
   outline: none;
@@ -55,15 +55,6 @@
   align-items: center;
   list-style: none;
 }
-
-.icon_dropdown {
-  pointer-events: none !important;
-}
-.icon_dropdown svg {
-  width: 25px;
-  height: 25px;
-}
-
 .arrow [x-placement*="bottom"] {
   width: 0;
   height: 0;
@@ -122,13 +113,6 @@
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
 } */
 
-.popper_item_icon {
-  width: 50px;
-  height: 50px;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
 .industries_popper_container,
 .caseStudies_popper_container,
 .about_popper_container {
@@ -156,7 +140,7 @@
   align-items: center;
   list-style: none;
   padding: 5px;
-  width: 230px;
+/*   width: 230px; */
 }
 
 .industries_popper_list li a,

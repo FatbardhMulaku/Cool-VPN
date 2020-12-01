@@ -1,6 +1,5 @@
 import React from "react";
 import PopperBox from "../PopperBox";
-import PopperItem from "../PopperItem";
 import { useTranslation } from "react-i18next";
 import "./Industries.css";
 import "../index.css";
@@ -12,29 +11,32 @@ const Industries = (props) => {
 
   return (
     <PopperBox
-      name={t("industriesPopper.name")}
+      name={t("whatIsVPN.name")}
       trigger={props.trigger}
-      width="1000px"
+      width="570px"
+      className="DesctopFull_pannel"
     >
-      <div className="industries_popper_container">
-        <ul className="industries_popper_list">
-          {t("industriesPopper.industriesMenu").map((item, index) => (
-            <PopperItem
-              key={index}
-              link={item.link}
-              name={item.name}
-              icon={`industries_popper_icon${index + 1}`}
-            />
-          ))}
-        </ul>
+      <div className="industries_popper_container row justify-content-start">
         <div>
           <h6 className="col_black font-roboto">
-            {t("industriesPopper.industriesInfoName")}
+            {t("whatIsVPN.ItemName1")}
           </h6>
           <ul className="industries_popper_info">
-            {t("industriesPopper.industriesInfoMenu").map((item, index) => (
+            {t("whatIsVPN.ItemMenu1").map((item, index) => (
               <li key={index}>
-                <Link to={`/${paramCase(item)}`}>{item}</Link>
+                <Link to={`/${paramCase(item.link)}`}>{item.name}</Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h6 className="col_black font-roboto">
+            {t("whatIsVPN.ItemName2")}
+          </h6>
+          <ul className="industries_popper_info">
+            {t("whatIsVPN.ItemMenu2").map((item, index) => (
+              <li key={index}>
+                <Link to={`/${paramCase(item.link)}`}>{item.name}</Link>
               </li>
             ))}
           </ul>
