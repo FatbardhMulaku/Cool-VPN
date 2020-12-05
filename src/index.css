@@ -1,11 +1,15 @@
 .page-notfound {
-  background-color: #2D2E2D;
+  background-color: #000;
 }
 .page-notfound > div:first-child {
-  padding: 25% 3%;
+  padding: 8% 1%;
   color: white;
   font-weight: bold;
   font-family: "Courier New", Courier, monospace;
+}
+.img_404{
+  background-image: url("./assets/404.png");
+  height: 400px;
 }
 body {
   margin: 0;

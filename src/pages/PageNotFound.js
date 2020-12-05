@@ -9,6 +9,7 @@ const PageNotFound = () => {
       <div className="container">
         <div />
         <h1 className="text-center mb-0">Page Not Found 404</h1>
+        <div className="img_404 bg"/> 
       </div>
     </div></>
   );
