@@ -6,7 +6,7 @@ import "./Style/index.scss";
 function SectionD5() {
 	return (
 		<div className="SectionD5">
-			<div className="SectionD5__box container">
+			<div className="SectionD5__box container justify-content-center mx-auto">
 				<div className="SectionFe6__txt">
 					<TextInfo txt="Download.section_4" textAlign="left" color="#2D2E2D" margin="0px" klasa="SectionFe6__txt"/>
 

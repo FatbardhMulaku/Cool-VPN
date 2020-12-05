@@ -15,7 +15,7 @@ const About = (props) => {
       width="570px"
       className="DesctopFull_pannel"
     >
-      <div className="industries_popper_container row justify-content-start">
+      <div className="industries_popper_container row flex-wrap justify-content-start">
       <div>
           <h6 className="col_black font-roboto">
             {t("Product.ItemName1")}

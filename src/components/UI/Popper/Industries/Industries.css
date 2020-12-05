@@ -1,11 +1,13 @@
 .industries_popper_container{
   background-color: #C2C2C2;
+  flex-wrap: wrap;
 }
 .industries_popper_container > div {
   /* margin-left: 20px; */
   padding: 20px 5px;
   display: flex;
   flex-flow: column;
+  flex-wrap: wrap;
   width: auto;
   background-color: #C2C2C2;
 }

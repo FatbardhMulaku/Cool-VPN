@@ -7,11 +7,11 @@ import { makeStyles } from '@material-ui/core/styles';
 const useStyles = makeStyles((theme) => ({
     klasa1:{
       backgroundColor: 'transparent',
-      padding: '4px 10px',
+      padding: '8px 15px',
       color: 'white',
       fontWeight: 'bold',
       cursor:'pointer',
-      borderRadius: '6px',
+      borderRadius: '15px',
       border: '1px solid transparent',
       "&:hover": {
         border: '1px solid white',
@@ -19,12 +19,12 @@ const useStyles = makeStyles((theme) => ({
     },
     klasa2:{
       backgroundColor: 'transparent',
-      padding: '4px 10px',
+      padding: '8px 15px',
       color: 'white',
       fontWeight: 'bold',
       marginLeft:"10px",
       cursor:'pointer',
-      borderRadius: '6px',
+      borderRadius: '15px',
       border: '1px solid #fff',
       "&:hover": {
         border: '1px solid white',
