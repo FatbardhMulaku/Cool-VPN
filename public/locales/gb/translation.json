@@ -161,7 +161,7 @@
           "name": "Press Area"
         },
         {
-          "link": "/contact",
+          "link": "/ContactUs",
           "name": "Contact Us"
         },
         {
@@ -454,5 +454,43 @@
         {"name":" Can I change my VPN username?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."}
       ]
     }
+  },
+  "ContactUs":{
+    "section_1":{
+      "title":"If there is any reason you would like to talk with us, please get in touch",
+      "desc":"Just like you, we are real people, so we prefer to communicate the same way you do. Please shoot our teams an email on one of the addresses below. Alternatively, you can chat online with one of our friendly representatives directly. You can even call us on the telephone machine if you are so inclined."
+    }
+  },
+  "Download":{
+    "section_1":{
+      "title":"Download CoolVPN app for Mac",
+      "desc":"The fastest secure access to the internet on Mac.",
+      "btn1":"Buy CoolVPN","btn2":"Try for free","or":"or",
+      "items":[
+        "MacOS","Windows","Android", "iOS", "FireFox", "Chrome", "Linux", "Android TV"
+      ]
+    },
+    "section_2":{
+      "title":"Easy as 1-2-3",
+      "items":[
+        {"title":"Install the app", "desc":"Double-click the new CoolVPN icon and follow the on-screen instructions."},
+        {"title":"Email input, Password input", "desc":"Log in button2 Sign up or log in Follow the on-screen instructions to log in or create an account."},
+        {"title":"Toggle switch3 Start tunneling", "desc":"Pick a country or select Fastest for the fastest speeds, then toggle the switch ON!"}
+      ]
+    },
+    "section_3":{
+      "title":"Frequently asked questions",
+      "items":[
+        {"name":" How to get a VPN on Mac?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."},
+        {"name":" How to set up a VPN on Mac?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."},
+        {"name":" How to use a VPN on Mac?", "answer":"We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."}
+      ]
+    },
+    "section_4":{
+      "title":"Need Help?",
+      "desc":"We're always here for You.",
+      "btn":"Chat with a live person"
+    }
+    
   }
 }

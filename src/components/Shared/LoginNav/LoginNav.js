@@ -1,4 +1,5 @@
 import React from "react";
+import { Route } from 'react-router-dom';
 import "./LoginNav.css";
 import { useTranslation } from "react-i18next";
 import { makeStyles } from '@material-ui/core/styles';
@@ -37,13 +38,13 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
-function URLLogin() {
+/* function URLLogin() {
   window.location = '/Login';
 }
 function URLSignup() {
   window.location = '/SignUp';
 }
-
+ */
 const LoginNav = (props) => {
   const { t } = useTranslation();
   
@@ -52,11 +53,15 @@ const LoginNav = (props) => {
     <div>
       <ul className="nav-login p-0 my-auto">
         <li className={classes.klasa1}>
-          <p onClick={URLLogin}>{t("loginBtn")}</p>
+        <Route render={({ history}) => (
+          <p  onClick={() => { history.push('/Login') }}>{t("loginBtn")}</p>
+      )} />
         </li>
 
         <li  className={classes.klasa2}>
-          <p onClick={URLSignup}>{t("signupBtn")}</p>
+        <Route render={({ history}) => (
+          <p onClick={() => { history.push('/SignUp') }}>{t("signupBtn")}</p>
+      )} />
         </li>
       </ul>
 

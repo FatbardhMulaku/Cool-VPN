@@ -15,6 +15,8 @@ import Blog from "../pages/Blog";
 import Pricing from "../pages/Pricing";
 import Login from "../pages/Login";
 import SignUp from "../pages/SignUp";
+import ContactUs from "../pages/ContactUs";
+import Download from "../pages/Download";
 
 const route = () => {
   return (
@@ -29,6 +31,8 @@ const route = () => {
           <Route path="/Pricing" exact render={() => <Pricing />} />
           <Route path="/Login" exact render={() => <SignUp />} />
           <Route path="/SignUp" exact render={() => <Login />} />
+          <Route path="/ContactUs" exact render={() => <ContactUs />} />
+          <Route path="/Download" exact render={() => <Download />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />
