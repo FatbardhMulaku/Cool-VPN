@@ -1,5 +1,5 @@
 .activeMobile {
-  color: #006fff !important;
+  color: #000 !important;
 }
 .link {
   text-transform: capitalize;
@@ -12,11 +12,11 @@
 }
 .link:hover,
 .link:focus {
-  color: #757575;
+  color: #8d8d8d;
 }
 
 .subMenu_text {
-  background-color: #a5a5a5;
+  background-color: #fff;
   color: white;
   padding: 5px 9px;
   margin: 1px 0;
@@ -28,5 +28,8 @@
 }
 .activeMobile_2 {
   /* color: cornflowerblue !important; */
-  background-color: #006fff;
+  background-color: #000000;
+}
+@media only screen and (max-width: 992px) {
+  
 }

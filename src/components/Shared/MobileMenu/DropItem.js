@@ -48,7 +48,7 @@ const useStyles = makeStyles((theme) => ({
   accDetails: {
     display: "flex",
     flexFlow: "column",
-    backgroundColor: "#f8f8f8",
+    backgroundColor: "#fff",
     margin: "0 10px",
     padding: "2px 0",
   },

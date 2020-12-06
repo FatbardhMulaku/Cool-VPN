@@ -32,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
   },
   accSummary: {
 	padding: "4px 10px",
-	backgroundColor:"#C2C2C2",
+	backgroundColor:"#fff",
     "& > .MuiAccordionSummary-content": {
       margin: "0",
     },
@@ -57,10 +57,10 @@ const useStyles = makeStyles((theme) => ({
     padding: "5px 10px",
   },
   listText: {
-    backgroundColor: "#f5f5f5a6 !important",
+    backgroundColor: "#fff !important",
   },
   subpanel:{
-	  backgroundColor:"#C2C2C2",
+	  backgroundColor:"#fff",
 	  color:"black",
 	  
   },

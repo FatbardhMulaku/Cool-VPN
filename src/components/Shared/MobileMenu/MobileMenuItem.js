@@ -9,7 +9,7 @@ const useStyles = makeStyles({
     padding: "5px 10px",
   },
   listText: {
-    backgroundColor: "#f5f5f5a6 !important",
+    backgroundColor: "#fff !important",
     padding: "5px 10px",
   },
 });
