@@ -17,6 +17,7 @@ import Login from "../pages/Login";
 import SignUp from "../pages/SignUp";
 import ContactUs from "../pages/ContactUs";
 import Download from "../pages/Download";
+import Servers from "../pages/Servers";
 
 const route = () => {
   return (
@@ -33,6 +34,7 @@ const route = () => {
           <Route path="/SignUp" exact render={() => <Login />} />
           <Route path="/ContactUs" exact render={() => <ContactUs />} />
           <Route path="/Download" exact render={() => <Download />} />
+          <Route path="/servers" exact render={() => <Servers />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

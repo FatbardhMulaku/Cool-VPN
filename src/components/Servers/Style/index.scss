@@ -1,0 +1,223 @@
+//section 1
+.SectionSv1{
+	padding-top: 120px;
+	padding-bottom: 80px;
+	background-image: url("../../../assets/Servers/section1.png");
+	background-size: cover;
+	&__txt{
+		width: 60%;
+		@media only screen and (max-width: 992px) {
+			width: 100%;
+		}
+		p {
+			margin-top: 0px !important;
+		}
+	}
+}
+//Section 2
+.SectionSv2 .row{
+	margin-left: auto;
+	margin-right: auto;
+}
+.SectionSv2 > div:last-child{
+	display: flex;
+	justify-content: center;
+
+}
+.SectionSv2{
+	padding: 20px 0;
+	&__txt{
+		p{
+			margin-top: 0px !important;
+		}
+		h2{
+			font-weight: bold;
+		}
+	}
+	&__box{
+		width: 75%;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-evenly;
+		margin-right: 0px !important;
+		border-radius: 15px;
+		padding: 20px 0;
+		@media only screen and (max-width: 1100px) {
+			width: 99%;
+		}
+		&--list{
+			display: flex;
+			flex-direction: column;
+			margin: 10px;
+		}
+		&--list > div > p{
+			margin-top: -10px !important;
+			margin-bottom: 0px;
+		}
+		&--list > div > div{
+			display: flex;
+			cursor: pointer;
+		}
+	}
+	&__box1{
+		width: 25%;
+		height: 100px;
+		@media only screen and (max-width: 1100px) {
+			display: none !important;
+		}
+	}
+	&__iconWhite, &__iconBlack, &__leftIconWhite,&__leftIconBlack{
+		width: 15px;
+		height: 15px;
+	}
+	&__iconWhite{
+		background-image: url("../../../assets/Servers/iconWhite.svg");
+		border-radius: 50%;
+	}
+	&__iconBlack{
+		background-image: url("../../../assets/Servers/iconBlack.svg");
+		border-radius: 50%;
+	}
+	&__leftIconWhite{
+		background-image: url("../../../assets/Servers/leftArrowWhite.svg");
+		margin-top:6px;
+	}
+	&__leftIconBlack{
+		background-image: url("../../../assets/Servers/leftArrow.svg");
+		margin-top:6px;
+	}
+	&__iconCountry1, &__iconCountry2, &__iconCountry3, &__iconCountry4{
+		width: 20px;
+		height: 20px;
+		border-radius: 50%;
+		margin: 4px 2px 0 7px;
+	}
+	&__iconCountry1{
+		background-image: url("../../../assets/ContactUs/state_icon7.svg");
+	}
+	&__iconCountry2{
+		background-image: url("../../../assets/Servers/Mask\ Group\ 152.svg");
+	}
+	&__iconCountry3{
+		background-image: url("../../../assets/ContactUs/state_icon12.svg");
+	}
+	&__iconCountry4{
+		background-image: url("../../../assets/ContactUs/state_icon1.svg");
+	}
+}
+// Section 3
+.SectionSv3{
+	margin-top: 20px;
+	padding: 60px 0;
+	background-image: url("../../../assets/Servers/section2.png");
+	background-attachment: scroll;
+	&__BGimg{
+		background-image: url("../../../assets/Servers/section3.jpg");
+		width: 220px;
+		height: 250px;
+		border-radius: 15px;
+		&--box{
+			width: 230px;
+			height: 160px;
+			background-color: white;
+			border-radius: 15px;
+			transform: translate(50%, 50%);
+			padding: 10px;
+			display: flex;
+			flex-direction: column;
+			align-items: flex-start;
+			justify-content: center;
+			@media only screen and (max-width: 392px) {
+				transform: translate(10%, 50%);
+			}
+		}
+		&--box > div > p{
+			margin: 0px;
+			font-size: 14px;
+			margin-left: 4px;
+		}
+		&--box > div > div{
+			display: flex;
+		}
+		&--box > div > div > h5{
+			font-size: 16px;
+			margin: 5px;
+		}
+		&--box > div:last-child{
+			margin-top: 15px;
+			a{
+				padding: 5px 5px;
+				border: 2px solid #D763FA;
+				margin: 15px;
+				font-size: 8px;
+				border-radius: 7px;
+				@media only screen and (max-width: 992px) {
+					font-size: 7px;
+				}
+				&:hover{
+					text-decoration: none;
+					background-color: #D763FA;
+					color: #fff;
+					border-color: #3AA9D6;
+				}
+			}
+		}
+		&--box > div:last-child > a:first-child{
+			background-color: black;
+			color: #fff;
+		}
+	}
+}
+.SectionSv3 > div > div > div> div:last-child{
+	@media only screen and (max-width: 992px) {
+		display: flex;
+		justify-content: center;
+	}
+}
+.SectionSv3 > div > div > div:last-child{
+	@media only screen and (max-width: 992px) {
+		display: flex;
+		justify-content: center;
+		margin-top: 20px;
+	}
+}
+// Section 4
+.SectionSv4{
+	padding: 60px 0;
+	&__box{
+		width:280px;
+		margin:15px;
+		&--icon1, &--icon2, &--icon3, &--icon4, &--icon5, &--icon6{
+			width: 40px;
+			height: 40px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 15px;
+		}
+		&--icon1{
+			background-image: url("../../../assets/Servers/icon1.svg");
+			width: 34px;
+		}
+		&--icon2{
+			background-image: url("../../../assets/Servers/icon2.svg");
+		}
+		&--icon3{
+			background-image: url("../../../assets/Servers/icon3.svg");
+		}
+		&--icon4{
+			background-image: url("../../../assets/Servers/icon4.svg");
+		}
+		&--icon5{
+			background-image: url("../../../assets/Servers/icon5.svg");
+		}
+		&--icon6{
+			background-image: url("../../../assets/Servers/icon6.svg");
+		}
+		h5{
+			text-align: center;
+		}
+		/* p{
+			text-align: justify;
+		} */
+	}
+}

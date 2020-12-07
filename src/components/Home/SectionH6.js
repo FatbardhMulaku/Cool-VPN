@@ -5,7 +5,7 @@ import Textinfo from "../Shared/Text/TextInfo";
 import ListItem from "../Shared/Text/TextList";
 import { useTranslation } from "react-i18next";
 
-function SectionH6() {
+function SectionH6() { 
 	const { t } = useTranslation();
 	return (
 		<LayoutContainer section="SectionH6">

@@ -491,6 +491,68 @@
       "desc":"We're always here for You.",
       "btn":"Chat with a live person"
     }
-    
+  },
+  "Servers":{
+    "section_1":{
+      "title":" CoolVPN Servers","desc":"5408 servers · 59 countries",
+      "btn1":"Get CoolVPN", "btn2":"Recommended server"
+    },
+    "section_2":{
+      "title":"List of CoolVPN server locations",
+      "desc":"Choose VPN servers by country or region.",
+      "btn":"Find the best server",
+      "subtitle":{
+        "title1":"America · 2430 servers",
+        "title2":"Europe · 2151 servers",
+        "title3":"Asia Pacific · 702 servers",
+        "title4":"Africa, the Middle East and India · 122 servers"
+      },
+      "items1":[
+        {"txt":" P2P"},
+        {"txt":" Dedicated IP"},
+        {"txt":" Double VPN"},
+        {"txt":" Obfuscated"}
+      ],
+      "items2":[
+        {"txt":" P2P"},
+        {"txt":" Double VPN"},
+        {"txt":" Obfuscated"},
+        {"txt":" P2P"},
+        {"txt":" Obfuscated"}
+      ],
+      "items3":[
+        {"txt":" P2P"},
+        {"txt":" Obfuscated"}
+      ],
+      "items4":[
+        {"txt":" P2P"},
+        {"txt":" Obfuscated"}
+      ],
+      "info":[
+        {"title":"United States "},
+        {"title":"Canada "},
+        {"title":"México "},
+        {"title":"Argentina "}
+      ]
+    },
+    "section_3":{
+      "title":"Find the best server for your needs",
+      "desc":"CoolVPN’s smart algorithm automatically selects the best VPN server for you based on location, loads, or your special requirements.",
+      "btn":"Find the best server",
+      "btn1a":"UDPS & TCP configs",
+      "btn1b":"See tutorials"
+    },
+    "section_4":{
+      "title":"Specialty server types",
+      "desc":"Choose servers optimized for your individual needs",
+      "items":[
+        {"title":"Dedicated IP servers","desc":"Order a dedicated IP address, which can only be used by you and will not be shared with any other CoolVPN users"},
+        {"title":"Double VPN servers","desc":"Send your Internet traffic through two different VPN servers for double encryption. Recommended for the most security-focused"},
+        {"title":"Obfuscated servers","desc":"If you’re located in a country with heavy restrictions on Internet access, connect to one of our obfuscated servers."},
+        {"title":"Onion Over VPN servers","desc":"For maximum online security and privacy, combine the benefits of CoolVPN with the anonymizing powers of the Onion Router."},
+        {"title":"P2P Servers","desc":"Choose from hundreds of servers optimized for P2P sharing. CoolVPN has no bandwidth limits and doesn’t log any of your activity."},
+        {"title":"Standard VPN servers","desc":"Get connected to ultra-fast VPN servers anywhere around the globe to change your IP address and protect your browsing activities."}
+      ]
+    }
   }
 }
