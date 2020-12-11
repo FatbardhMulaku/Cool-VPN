@@ -3,7 +3,6 @@ import Textinfo from "./../Shared/Text/TextInfo";
 import Butoni from "./../UI/Button/Button"
 import "./Styles/SectionH5.css";
 import Zoom from 'react-reveal/Zoom';
-import Fade from 'react-reveal/Slide';
 
 function SectionH5() { 
 	return (
