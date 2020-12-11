@@ -6,14 +6,17 @@ import ButtonIcon from "../UI/Button/ButtonIcon";
 import Buttoni from "./../UI/Button/Button";
 import ListItem from "../Shared/Text/TextList";
 import { useTranslation } from "react-i18next";
+import Zoom from 'react-reveal/Zoom';
+import Fade from 'react-reveal/Fade';
 
 function SectionPr1() {
 	const { t } = useTranslation();
 	return (
 		<div className="SectionPr1 bg">
 			<div className="container">
-				<TextInfo txt="Pricing.section_1" textAlign="left" color="white" margin="0px" klasa="SectionPr1__info"/>
-
+				<Fade left>
+				<TextInfo txt="Pricing.section_1" textAlign="left" color="white" margin="0px" klasa="SectionPr1__info"/></Fade>
+				<Fade top big> 
 				<div className="row mt-4 mb-4">
 				<ButtonIcon linkBtn="SectionPr2" icon="SectionPr1__img1 bg" offsetBtn={-150} txt="Pricing.section_1.btn1"
 							BGcolor="#8878BF" color="#fff" margin="10px"
@@ -32,8 +35,8 @@ function SectionPr1() {
 							HoverBGcolor="rgba(199, 199, 199, 0.5)" HoverColor="white"
 							border="1px solid transparent"
 							HoverBorder="1px solid white"/>
-				</div>
-
+				</div></Fade>
+				<Zoom cascade> 
 				<div className="row justify-content-center">
 					{t("Home.section_4.info").map((item, index) => {
 						return(
@@ -53,7 +56,8 @@ function SectionPr1() {
 						);
 					})}
 				</div>
-				<div className="SectionPr1__img bg"/>
+				</Zoom>
+				<Zoom > <div className="SectionPr1__img bg"/></Zoom>
 			</div>
 		</div>
 	)

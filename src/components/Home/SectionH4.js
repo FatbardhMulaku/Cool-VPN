@@ -4,6 +4,7 @@ import { useTranslation } from "react-i18next";
 import Textinfo from "./../Shared/Text/TextInfo";
 import Buttoni from "./../UI/Button/Button";
 import ListItem from "../Shared/Text/TextList";
+import Zoom from 'react-reveal/Zoom';
 
 function SectionH4() {
 	const { t } = useTranslation();
@@ -11,7 +12,7 @@ function SectionH4() {
 		<div className="SectionH4 container">
 			<Textinfo txt="Home.section_4" textAlign="center" color="black" margin="20px 0"/>
 			<h2>{t("Home.section_4.subtitle")}</h2>
-
+			<Zoom cascade>
 			<div className="row justify-content-center">
 			{t("Home.section_4.info").map((item, index) => {
 				return(
@@ -31,6 +32,7 @@ function SectionH4() {
 				);
 			})}
 			</div>
+			</Zoom>
 		</div>
 	)
 }

@@ -8,6 +8,7 @@ import {
 import { makeStyles } from "@material-ui/core/styles";
 import { MdExpandMore } from "react-icons/md";
 import "./Styles/index.scss";
+import Fade from 'react-reveal/Fade';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -46,6 +47,7 @@ const useStyles = makeStyles((theme) => ({
 function Faq(props) {
 	const classes = useStyles();
 	return (
+		<Fade big cascade>		
 		<Accordion
 		className={classes.root}
 		expanded={props.expanded === props.name + props.index}
@@ -67,6 +69,7 @@ function Faq(props) {
 			<Typography className="answer_style"> {props.answer} </Typography>
 		</AccordionDetails>
 		</Accordion>
+		</Fade>
 	)
 }
 

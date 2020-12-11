@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import PostInfo from "./PostInfo";
 import TextInfo from "../Shared/Text/TextInfo";
 import "./Styles/SectionB4.css";
+import Fade from 'react-reveal/Fade';
 
 const Post = [0, 1, 2, 3]
 
@@ -11,7 +12,7 @@ function SectionB4() {
 	return (
 		<div className="SectionB4 container">
 			<h5>{t("Blog.section_4.title")}</h5>
-
+			<Fade bottom > 
 			{Post.map((index) =>{
 				return(
 					<div key={index} className="SectionB4__wrapper container">
@@ -23,8 +24,9 @@ function SectionB4() {
 					</div>
 				)
 			})}
+			</Fade>
 		</div>
 	)
 }
 
-export default SectionB4
+export default SectionB4;

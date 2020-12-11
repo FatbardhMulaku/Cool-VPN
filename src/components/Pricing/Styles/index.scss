@@ -2,6 +2,10 @@
 	padding-top: 120px;
 	background-image: url("../../../assets/Pricing/Background.png");
 	background-size: 100% 100%;
+	@media only screen and (max-width: 992px) {
+		background-size: 300%;
+		background-position: top;
+	}
 	&__info{
 		width: 60%;
 		@media only screen and (max-width: 992px) {

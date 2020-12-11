@@ -6,6 +6,7 @@ import UserFeedbacks from './UserFeedbacks';
 import { useTranslation } from "react-i18next";
 import TextInfo from "../Shared/Text/TextInfo";
 import Buttoni from "../UI/Button/Button";
+import Fade from 'react-reveal/Fade';
 
 function SectionH7() {
 	const { t } = useTranslation();
@@ -17,7 +18,8 @@ function SectionH7() {
 	return (
 		<LayoutGrid section="SectionH7 bg" id="section-h7">
 			<div className="col-sm-12 col-lg-6 mb-sm-5">
-				<h5>User Feedbacks</h5>
+				<Fade top big cascade><h5>User Feedbacks</h5></Fade>
+				
 				<TextInfo txt="Home.section_7" textAlign="left" color="black" margin="20px" klasa="SectionH7__txt"/>
 				<Buttoni 
 					link="SectionH4" offsetBtn={-150} txt="Home.section_7.btn"
@@ -26,6 +28,7 @@ function SectionH7() {
 					border="1px solid black"
 					HoverBorder="1px solid #2D2E2D"
 				/> 
+				
 			</div>
 			{/* <TextGrid tr="Home.section_7" btnTxt="Home.section_7.btn" textAlign="left" color="black" margin="20px 0"/> */}
 			
@@ -46,6 +49,7 @@ function SectionH7() {
 					)
 				})}
 			</div>
+			
 		</LayoutGrid>
 	)
 }

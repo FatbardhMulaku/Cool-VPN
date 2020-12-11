@@ -4,13 +4,14 @@ import LayoutContainer from "../Shared/LayoutContainer";
 import Textinfo from "../Shared/Text/TextInfo";
 import ListItem from "../Shared/Text/TextList";
 import { useTranslation } from "react-i18next";
+import Slide from 'react-reveal/Slide';
 
 function SectionH6() { 
 	const { t } = useTranslation();
 	return (
 		<LayoutContainer section="SectionH6">
 			<Textinfo txt="Home.section_6" textAlign="center" color="black" margin="20px 0"/>
-
+			<Slide bottom cascade>
 			<div className="row justify-content-center">
 				{t("Home.section_6.info").map((item, index) => {
 					return(
@@ -25,6 +26,7 @@ function SectionH6() {
 					);
 				})}
 			</div>
+			</Slide>
 		</LayoutContainer>
 	)
 }

@@ -6,8 +6,14 @@ function useToggle(toggledValue = false) {
   const toggleValue = () => {
     setIsTrue(!isTrue);
   };
+  const setFalse = () => {
+    setIsTrue(false);
+  };
+  const setTrue = () => {
+    setIsTrue(true);
+  };
 
-  return [isTrue, toggleValue];
+  return { isTrue, toggleValue, setFalse, setTrue };
 }
 
 export { useToggle };

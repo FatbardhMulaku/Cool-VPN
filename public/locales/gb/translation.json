@@ -67,14 +67,14 @@
     "name": "Products",
     "ItemName1":"Desktops & Laptops",
     "ItemMenu1": [
-      { "link": "vpn-setup-windows-10","name": "Windows"},
-      { "link": "vpn-setup-mac", "name": "MacOS" },
-      { "link": "vpn-setup-ubuntu", "name": "Linux" }
+      { "link": "/download","name": "Windows"},
+      { "link": "/download", "name": "MacOS" },
+      { "link": "/download", "name": "Linux" }
     ],
     "ItemName2":"Simartphones & Tablets",
     "ItemMenu2": [
-      { "link": "vpn-setup-iphone","name": "iOS" },
-      { "link": "vpn-setup-android","name": "Android"}
+      { "link": "/download","name": "iOS" },
+      { "link": "/download","name": "Android"}
     ],
     "ItemName3":"Home & Office Networking",
     "ItemMenu3": [
@@ -82,8 +82,8 @@
     ],
     "ItemName4":"Browser Extensions",
     "ItemMenu4": [
-      {"link": "browser-addons","name": "Chrome"},
-      {"link": "browser-addons","name": "Firefox" }
+      {"link": "/download","name": "Chrome"},
+      {"link": "/download","name": "Firefox" }
     ],
     "ItemName5":"Tools",
     "ItemMenu5": [
@@ -425,7 +425,7 @@
       "desc":"No logs, no hidden fees. All plans come with the 30-day money-back guarantee. Discover Cool VPN Teams for business.",
       "btn1":"Pick your plan",
       "btn2":"Create your account",
-      "btn3":"Get Started - Download our VPN Client"
+      "btn3":"Download our VPN Client"
     },
     "section_2":{
       "title":"Included in every package",
@@ -553,6 +553,16 @@
         {"title":"P2P Servers","desc":"Choose from hundreds of servers optimized for P2P sharing. CoolVPN has no bandwidth limits and doesn’t log any of your activity."},
         {"title":"Standard VPN servers","desc":"Get connected to ultra-fast VPN servers anywhere around the globe to change your IP address and protect your browsing activities."}
       ]
+    }
+  },
+  "VPNbussines":{
+    "section_1":{
+      "title":"Protect your business network with a cloud VPN",
+      "desc":"Get simple and secure remote access from the world’s most trusted VPN brand",
+      "btn1":"Start Now", "btn2":"Request free consultation"
+    },
+    "section_2":{
+      "title":""
     }
   }
 }

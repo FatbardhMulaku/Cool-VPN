@@ -1,7 +1,7 @@
-import React from "react";
-import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
+import React from 'react';
 import SectionOne from "../Footer/SectionF1";
 import SectionTwo from "../Footer/SectionF2";
+import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
 
 const theme = createMuiTheme({
   breakpoints: {
@@ -11,7 +11,7 @@ const theme = createMuiTheme({
       md: 768,
       lg: 992,
       xl: 1200,
-    },    
+    },
   },
 });
 
@@ -19,11 +19,10 @@ const index = () => {
   return (
     <div>
       <ThemeProvider theme={theme}>
-	    	<SectionOne />
-        <SectionTwo />
-      </ThemeProvider>
+        	<SectionOne />
+          <SectionTwo /> 
+        </ThemeProvider>
     </div>
   );
 };
-
 export default index;

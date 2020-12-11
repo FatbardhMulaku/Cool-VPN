@@ -2,11 +2,14 @@ import React from 'react';
 import Textinfo from "./../Shared/Text/TextInfo";
 import Butoni from "./../UI/Button/Button"
 import "./Styles/SectionH5.css";
+import Zoom from 'react-reveal/Zoom';
+import Fade from 'react-reveal/Slide';
 
 function SectionH5() { 
 	return (
 		<div className="SectionH5 ">
 			<div className="SectionH5_wrapper container">
+				{/* <Fade left> */}
 				<div>
 					<Textinfo txt="Home.section_5" textAlign="left" color="white" margin="20px 0"/>
 					
@@ -16,7 +19,10 @@ function SectionH5() {
 						border="1px solid white"  HoverBorder="1px solid white"
 					/> 
 				</div>
+				{/* </Fade> */}
+				<Zoom>
 				<div className="SectionH5__img bg m-auto"/>
+				</Zoom>
 			</div>
 		</div>
 	)

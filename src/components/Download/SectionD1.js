@@ -4,12 +4,16 @@ import { useTranslation } from "react-i18next";
 import LayoutGrid from "../Shared/LayoutGrid";
 import TextInfo from "../Shared/Text/TextInfo";
 import Botton from "../UI/Button/Button";
+import Zoom from 'react-reveal/Zoom';
+import Bounce from 'react-reveal/Bounce';
+import Fade from 'react-reveal/Fade';
 
 function SectionD1() {
 	const { t } = useTranslation();
 	return (
 		<LayoutGrid section="SectionD1">
 			<div className="SectionD1__left col-sm-12 col-lg-6">
+				<Fade top > 
 				<TextInfo txt="Download.section_1" textAlign="left" color="black" margin="0px" klasa="SectionD1__info"/>
 				<div className="row justify-content-center">
 					<Botton linkBtn="SectionFe1" offsetBtn={-150} txt="Download.section_1.btn1"
@@ -24,6 +28,8 @@ function SectionD1() {
 							border="2px solid #8878BF"
 							HoverBorder="2px solid #8878BF"/>
 				</div>
+				</Fade>
+				<Bounce left cascade>
 				<div className="row mt-4 justify-content-center">
 					{t("Download.section_1.items").map((item, index) => {
 						return(
@@ -34,9 +40,12 @@ function SectionD1() {
 						)
 					})}
 				</div>
+				</Bounce>
 			</div>
 			<div className="SectionD1__right col-sm-12 col-lg-6 mt-5 mt-lg-1">
+				<Zoom>
 					<div className="SectionD1__right--img bg"/>
+				</Zoom>
 			</div>
 		</LayoutGrid>
 	)

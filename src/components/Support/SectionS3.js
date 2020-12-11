@@ -3,13 +3,14 @@ import "./Styles/SectionS3.css"
 import { useTranslation } from "react-i18next";
 import LayoutContainer from "./../Shared/LayoutContainer";
 import Button from "../UI/Button/Button"
+import Zoom from 'react-reveal/Zoom';
 
 function SectionS3() {
 	const { t } = useTranslation();
 	return (
 		<LayoutContainer section="SectionS3">
 			<h3>{t("Support.section_3.title") }</h3>
-
+			<Zoom cascade> 
 			<div className="row">
 				{t("Support.section_3.items").map((item, index) => {
 					return(
@@ -22,6 +23,7 @@ function SectionS3() {
 					)
 				})}
 			</div>
+			</Zoom>
 			<div className="d-flex justify-content-center">
 			<Button linkBtn="SectionS4" offsetBtn={-100} txt="Support.section_3.btn"
 							BGcolor="#2D2E2D" color="#fff" margin="10px auto !important"

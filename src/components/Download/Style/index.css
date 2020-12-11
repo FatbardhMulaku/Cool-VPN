@@ -331,7 +331,7 @@
   border: 2px solid #8878BF;
   margin-left: 25% !important;
   margin-right: 25% !important;
-  padding: 25px;
+  padding: 25px 35px;
   border-radius: 20px;
 }
 
@@ -348,6 +348,17 @@
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
+    padding: 25px 15px;
+  }
+}
+
+.SectionD5__box > div:first-child {
+  width: 70%;
+}
+
+@media only screen and (max-width: 768px) {
+  .SectionD5__box > div:first-child {
+    width: 99%;
   }
 }
 

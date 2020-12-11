@@ -2,9 +2,11 @@ import React from 'react';
 import TextInfo from "../Shared/Text/TextInfo";
 import "./Styles/SectionB2.css";
 import PostInfo from "./PostInfo";
+import Zoom from 'react-reveal/Zoom';
 
 function SectionB2() {
 	return (
+		<Zoom>
 		<div className="SectionB2 container">
 			<div className="SectionB2__img bg my-auto"/>
 			<div className="SectionB2__txt">
@@ -13,6 +15,7 @@ function SectionB2() {
 				<PostInfo margin="70px 0 0 0"/>
 			</div>
 		</div>
+		</Zoom>
 	)
 }
 

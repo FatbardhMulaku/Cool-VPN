@@ -10,6 +10,7 @@ import Box from '@material-ui/core/Box';
 import { makeStyles } from "@material-ui/core/styles";
 import { MdExpandMore } from "react-icons/md";
 import "./Styles/UserFeedbacks.css";
+import Fade from 'react-reveal/Fade';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -48,6 +49,7 @@ const useStyles = makeStyles((theme) => ({
 function UserFeedbacks(props) {
 	const classes = useStyles();
 	return (
+		<Fade bottom cascade>
 		<Accordion
 		className={classes.root}
 		expanded={props.expanded === props.name + props.index}
@@ -75,6 +77,7 @@ function UserFeedbacks(props) {
 			<Typography> {props.answer} </Typography>
 		</AccordionDetails>
 		</Accordion>
+		</Fade>
 	)
 }
 

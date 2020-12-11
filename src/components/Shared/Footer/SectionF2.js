@@ -6,6 +6,8 @@ import {AiOutlineMail} from "react-icons/ai";
 import MenuListFooter from "./MenuList";
 import "./Styles/SectionF2.css";
 import { Link } from 'react-router-dom';
+/* import LangOptions from "../../UI/LangOptions"; */
+import Fade from 'react-reveal/Fade';
 
 function SectionF2() {
 	const { t } = useTranslation();
@@ -18,6 +20,7 @@ function SectionF2() {
 			
 			<div className="col-sm-12 col-md-6 col-lg-3 footer-logo">
 				<Logo logo="white_logo" text="col_white" />
+				
 				<ul className="footer-list ">
 					<li><AiOutlineMail color="white"/>
 						<a className="text-lowercase" href="mailto: info@Coolvpn.com"> info@Coolvpn.com</a>
@@ -43,11 +46,12 @@ function SectionF2() {
 					<h6 className="alRight align-items-center"><i><FaCopyright /></i>{t("alRight")} </h6>
 					<div className="footer-terms">
 					|<Link to="Privacy"> Privacy Policy </Link> | <Link to="Terms"> Terms of Service</Link> |
-					</div>
 					
+					</div>
 					{/* <LangOptions /> */}
+					
 				</div>
-
+				<Fade top big cascade> 
 				<div className="social__icons col-sm-12 col-lg-4">
 				{t("IconSocial").map((item, index) => {
 					return (
@@ -57,6 +61,7 @@ function SectionF2() {
 					)
 				})}
 				</div>
+				</Fade>
 			</div>
 		</div>
 	)

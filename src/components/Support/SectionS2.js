@@ -2,12 +2,14 @@ import React from 'react';
 import "./Styles/SectionS2.css"
 import { useTranslation } from "react-i18next";
 import LayoutGrid from "../Shared/LayoutGrid";
-import Button from "../UI/Button/Button"
+import Button from "../UI/Button/Button";
+import Fade from 'react-reveal/Fade';
 
 function SectionS2() {
 	const { t } = useTranslation();
 	return (
 		<LayoutGrid section="SectionS2">
+			<Fade bottom>
 			{t("Support.section_2").map((item, index) => {
 				return(
 					<div key={index} className="SectionS2__box">
@@ -21,6 +23,7 @@ function SectionS2() {
 					</div>
 				)
 			})}
+			</Fade>
 		</LayoutGrid>
 	)
 }

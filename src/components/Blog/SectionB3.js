@@ -2,13 +2,14 @@ import React from 'react';
 import { useTranslation } from "react-i18next";
 import PostInfo from "./PostInfo";
 import "./Styles/SectionB3.css";
+import Zoom from 'react-reveal/Zoom';
 
 function SectionB3() {
 	const { t } = useTranslation();
 	return (
 		<div className="SectionB3 container">
 			<h5>{t("Blog.section_3.title")}</h5>
-
+			<Zoom cascade>
 			<div className="row justify-content-center">
 				{t("Blog.section_3.items").map((item, index) => {
 					return(
@@ -21,6 +22,7 @@ function SectionB3() {
 					)
 				})}
 			</div>
+			</Zoom>
 		</div>
 	)
 }

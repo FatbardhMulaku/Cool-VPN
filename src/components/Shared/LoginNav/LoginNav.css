@@ -19,7 +19,6 @@
   font-size: 15px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  text-transform: uppercase;
   transition: all 0.45s ease-in-out;
   line-height: 20px;
   margin: 0;
@@ -59,7 +58,7 @@
   .nav-login > li {
 /*     color: black !important;
     width: 100%; */
-    margin: 2px 0 !important ;
+    margin: 2px 3px !important ;
     padding: 3px 6px;
 /*     text-align: center; */
 /*     background-color: #b2b2b2;

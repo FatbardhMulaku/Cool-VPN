@@ -3,6 +3,7 @@ import "./Style/index.scss";
 import { useTranslation } from "react-i18next";
 import LayoutGrid from "../Shared/LayoutGrid";
 import ImgCard from "../UI/Img/ImgCard";
+import Bounce from 'react-reveal/Bounce';
 
 function SectionD3() {
 	const { t } = useTranslation();
@@ -10,7 +11,7 @@ function SectionD3() {
 		<LayoutGrid section="SectionD2">
 			<div className="SectionD2__right col-sm-12 col-lg-6">
 				<h3>{t("Download.section_2.title")}</h3>
-
+				<Bounce left cascade> 
 				<div className="col">
 					{t("Download.section_2.items").map((item, index) => {
 						return (
@@ -24,6 +25,7 @@ function SectionD3() {
 						)
 					})}
 				</div>
+				</Bounce>
 			</div>
 			<ImgCard cardCss="SectionD3__left col-sm-12 col-lg-6" img="SectionD3__left--img bg"/>
 		</LayoutGrid>
