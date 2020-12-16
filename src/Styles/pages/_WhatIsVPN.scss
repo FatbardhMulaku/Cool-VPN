@@ -1,0 +1,477 @@
+//section 1
+.SectionWV1{
+	padding-top: 120px;
+	padding-bottom: 60px;
+	background-image: url("../../assets/Servers/section1.png");
+	background-size: cover;
+	&__txt{
+		width: 65%;
+		@media only screen and (max-width: 992px) {
+			width: 100%;
+		}
+		p {
+			margin-top: 0px !important;
+		}
+	}
+}
+.SectionWV1 > div > div:last-child{
+	@media only screen and (max-width: 768px) {
+		display: flex;
+		justify-content: center;
+	}
+}
+// Section 2
+.SectionWV2{
+	padding: 50px 0;
+	h3:first-child{
+		font-weight: bold;
+		margin-bottom: 20px;
+		@media only screen and (max-width: 768px) {
+			font-size: 18px;
+		}
+	}
+	h3:nth-child(3){
+		margin-top: 30px;
+		font-weight: bold;
+		margin-bottom: 20px;
+		text-align: right !important;
+		@media only screen and (max-width: 768px) {
+			font-size: 18px;
+		}
+	}
+	&__img1{
+		background-image: url("../../assets/WhatIsVPN/section2_img1.jpg");
+		height: 220px;
+		width: 400px;
+		border-radius: 20px;
+		cursor: pointer;
+		transition-duration: 0.5s;
+		&:hover{
+			transform: scale(1.03);
+		}
+	}
+	&>div:nth-child(2){
+		display: flex;
+		justify-content: flex-start;
+		&>div:last-child{
+			@media only screen and (max-width: 768px) {
+				font-size: 14px;
+			}
+		}
+		@media only screen and (max-width: 992px) {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+	}
+	&>div:nth-child(4){
+		display: flex;
+		justify-content: flex-end;
+		&>div:first-child{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			@media only screen and (max-width: 768px) {
+				font-size: 14px;
+			}
+		}
+		@media only screen and (max-width: 992px) {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+	}
+	&__img2{
+		background-image: url("../../assets/WhatIsVPN/section2_img2.jpg");
+		height: 220px;
+		width: 400px;
+		border-radius: 20px;
+		cursor: pointer;
+		transition-duration: 0.5s;
+		&:hover{
+			transform: scale(1.03);
+		}
+	}
+}
+.SectionWV2 > div > div:nth-child(2){
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.SectionWV2 > div > div:nth-child(1){
+	@media only screen and (max-width: 992px) {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		margin-bottom: 20px;
+	}
+}
+// Section 3
+.SectionWV3{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.651)), url("../../assets/WhatIsVPN/section3_bg.jpg");
+	padding: 70px 0;
+	padding-top: 80px;
+	clip-path: polygon(0 15%, 100% 0%, 100% 85%, 0% 100%);
+	@media only screen and (max-width: 992px) {
+		clip-path: polygon(0 10%, 100% 0%, 100% 90%, 0% 100%);
+		background-size: 320%;
+	}
+	@media only screen and (max-width: 500px) {
+		clip-path: polygon(0 5%, 100% 0%, 100% 95%, 0% 100%);
+		background-size: 555%;
+	}
+	&__wrapper{
+		h3{
+			text-align: center;
+			font-weight: bold;
+			color: white;
+			@media only screen and (max-width: 768px) {
+				font-size: 18px;
+			}
+		}
+		p{
+			color: white;
+			margin-top: 20px;
+			@media only screen and (max-width: 768px) {
+				margin-top: 0px;
+			}
+		}
+		&>div{
+			display: flex;
+			justify-content: center;
+			&>div:last-child{
+				font-size: 14px;
+				font-weight: 500;
+			}
+			@media only screen and (max-width: 992px) {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+			&>div:first-child{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+		}
+	}
+	&__img1{
+		background-image: url("../../assets/WhatIsVPN/section3_img.png");
+		height: 110px;
+		width: 100px;
+		@media only screen and (max-width: 500px) {
+			height: 80px;
+			width: 70px;
+			margin: 10px 0;
+		}
+	}
+}
+// Section 5
+.SectionWV4{
+	padding: 30px 0;
+	h3{
+		text-align: center;
+		font-weight: bold;
+		margin-bottom: 20px;
+		@media only screen and (max-width: 768px) {
+			font-size: 18px;
+		}
+	}
+	&>div{
+		display: flex;
+		justify-content: center;
+
+		&>div:first-child{
+			font-size: 14px;
+			font-weight: 500;
+		}
+		@media only screen and (max-width: 992px) {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		&>div:last-child{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+	}
+	&__img1{
+		background-image: url("../../assets/WhatIsVPN/section4_img.png");
+		height: 110px;
+		width: 100px;
+		@media only screen and (max-width: 500px) {
+			height: 80px;
+			width: 70px;
+			margin: 10px 0;
+		}
+	}
+}
+// Section 5
+.SectionWV5{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.753), rgba(0, 0, 0, 0.753)), url("../../assets/WhatIsVPN/section5_bg.jpg");
+	padding: 80px 0;
+	padding-top: 90px;
+	clip-path: polygon(0 15%, 100% 0%, 100% 85%, 0% 100%);
+	@media only screen and (max-width: 992px) {
+		clip-path: polygon(0 10%, 100% 0%, 100% 90%, 0% 100%);
+		background-size: 320%;
+	}
+	@media only screen and (max-width: 500px) {
+		clip-path: polygon(0 5%, 100% 0%, 100% 95%, 0% 100%);
+		background-size: 555%;
+	}
+	&__wrapper{
+		h3{
+			text-align: center;
+			font-weight: bold;
+			color: white;
+			@media only screen and (max-width: 768px) {
+				font-size: 18px;
+			}
+		}
+		p{
+			color: white;
+			margin-top: 20px;
+			@media only screen and (max-width: 768px) {
+				margin-top: 0px;
+			}
+		}
+		&>div{
+			display: flex;
+			justify-content: center;
+			font-size: 14px;
+			font-weight: 500;
+			@media only screen and (max-width: 992px) {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+			&>div:first-child{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+		}
+	}
+	&__img1{
+		background-image: url("../../assets/WhatIsVPN/section2_img.png");
+		height: 110px;
+		width: 100px;
+		@media only screen and (max-width: 500px) {
+			height: 80px;
+			width: 70px;
+			margin: 10px 0;
+		}
+	}
+}
+// Section 6
+.SectionWV6{
+	padding: 20px 0;
+	padding-bottom: 70px;
+	h3{
+		text-align: center;
+		font-weight: bold;
+		margin-bottom: 30px;
+	}
+	&>div{
+		display: flex;
+		justify-content: center;
+	}
+	&--box{
+		width: 320px;
+		margin: 10px 20px;
+		padding: 30px;
+		border: 2px solid transparent;
+		border-radius:20px;
+		&:hover{
+			border: 2px solid #8878BF;
+			h4{
+				color: #4b31a1;
+			}
+			p{
+				color: #725bbe;
+			}
+		}
+		h4{
+			text-align: center;
+			margin: 15px 0;
+		}
+		p{
+			text-align: center;
+			color: rgb(90, 90, 90);
+			font-weight: 500;
+			font-size: 14px;
+			margin-bottom: 0px !important;
+		}
+	}
+	&__img1, &__img2, &__img3, &__img4, &__img5, &__img6{
+		width: 130px;
+		height: 120px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	&__img1{
+		background-image: url("../../assets/WhatIsVPN/section6_img1.png");
+	}
+	&__img2{
+		background-image: url("../../assets/WhatIsVPN/section6_img2.png");
+		height: 113px;
+	}
+	&__img3{
+		background-image: url("../../assets/WhatIsVPN/section6_img3.png");
+		height: 110px;
+		width: 145px;
+	}
+	&__img4{
+		background-image: url("../../assets/WhatIsVPN/section6_img4.png");
+		width: 150px;
+	}
+	&__img5{
+		background-image: url("../../assets/WhatIsVPN/section6_img5.png");
+		width: 190px;
+		height: 115px;
+	}
+	&__img6{
+		background-image: url("../../assets/WhatIsVPN/section6_img6.png");
+		height: 110px;
+	}
+}
+// Section 7
+.SectionWV7{
+	padding: 50px 0;
+	background-image:linear-gradient(rgba(0, 0, 0, 0.753), rgba(0, 0, 0, 0.753)),  url("../../assets/WhatIsVPN/section7_bg.jpg");
+	color: white;
+	h3{
+		color: white;
+		font-weight: bold;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	&>div>div:last-child{
+		display: flex;
+		justify-content: center;
+	}
+	&--box{
+		width: 320px;
+		margin: 10px 20px;
+		padding: 30px;
+		border: 1px solid white;
+		border-radius:20px;
+		transition: 0.5s ease-in-out;
+		&:hover{
+			border: 1px solid #000;
+			background-color: white;
+			h4{
+				color: #573fa8;
+			}
+			p{
+				color: #000;
+			}
+		}
+		h4{
+			text-align: center;
+			margin: 15px 0;
+		}
+		p{
+			text-align: center;
+			color: white;
+			font-weight: 500;
+			font-size: 14px;
+			margin-bottom: 0px !important;
+		}
+	}
+	&__img1, &__img2, &__img3{
+		width: 130px;
+		height: 120px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	&__img1{
+		background-image: url("../../assets/WhatIsVPN/section7_img1.png");
+		height: 117px;
+		width: 145px;
+	}
+	&__img2{
+		background-image: url("../../assets/WhatIsVPN/section7_img2.png");
+		height: 115px;
+		width: 170px;
+	}
+	&__img3{
+		background-image: url("../../assets/WhatIsVPN/section7_img3.png");
+		height: 115px;
+		width: 168px;
+	}
+}
+// section 8
+.SectionWV8{
+	padding: 50px 0;
+	h3{
+		font-weight: bold;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	&>div>div:last-child{
+		display: flex;
+		justify-content: center;
+	}
+	&--box{
+		width: 265px;
+		margin: 15px 10px;
+		padding: 20px;
+		border: 2px solid rgb(201, 201, 201);
+		border-radius:20px;
+		transition:all 0.5s ease-in-out;
+		&:hover &__img1, &:hover &__img2, &:hover &__img3, &:hover &__img4{
+			transform: scale(1.15);
+		}
+		&:hover{
+			border: 2px solid #8878BF;
+			h5{
+				color: #573fa8;
+			}
+			p{
+				color: #000;
+			}
+		}
+		h5{
+			text-align: center;
+			margin: 10px 0;
+			font-weight: 700;
+			color: rgb(90, 90, 90);
+		}
+		p{
+			text-align: center;	
+			font-weight: 500;
+			font-size: 14px;
+			margin-bottom: 0px !important;
+			color: rgb(90, 90, 90);
+		}
+	}
+	&--box__img1, &--box__img2, &--box__img3, &--box__img4{
+		width: 40px;
+		height: 40px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	&--box__img1{
+		background-image: url("../../assets/WhatIsVPN/section8_icon1.svg");
+		&:hover{
+			transform: scale(1.05);
+		}
+	}
+	&--box__img2{
+		background-image: url("../../assets/WhatIsVPN/section8_icon2.svg");
+		width: 48px;
+	}
+	&--box__img3{
+		background-image: url("../../assets/WhatIsVPN/section8_icon3.svg");
+		width: 38px;
+	}
+	&--box__img4{
+		background-image: url("../../assets/WhatIsVPN/section8_icon4.svg");
+		width: 45px;
+	}
+}

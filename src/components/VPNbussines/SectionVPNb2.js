@@ -6,7 +6,7 @@ import Botton from "../UI/Button/ButtonNew";
 function SectionVPNb2() {
 	return (
 		<div className="SectionVPNb2 container">
-			<TextInfo id="VPNbussines.section_2" textAlign="center" color="black" margin="0px 0px 20px 0px" klasa="SectionVPNb2__txt"
+			<TextInfo txt="VPNbussines.section_2" textAlign="center" color="black" margin="0px 0px 20px 0px" klasa="SectionVPNb2__txt"
 			  DfTitle="Access corporate data securely — wherever you are"
 			  DfDesc="Cutting-edge digital protection with a VPN for business"
 			/>
