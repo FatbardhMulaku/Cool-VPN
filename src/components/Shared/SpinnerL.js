@@ -1,10 +1,19 @@
-import React from 'react';
-function SpinnerLoad() {
-	return (
-		<div className="SpinnerLoad">
-			<h1>Kasdddddadasdadadasdas</h1>
-		</div>
-	)
-}
+import React, { Component } from 'react'
+import { GridSpinner } from "react-spinners-kit";
 
-export default SpinnerLoad;
+export default class SpinnerL extends Component {
+	constructor(props) {
+        super(props);
+        this.state = {
+            loading: true,
+        };
+    }
+	render() {
+		const { loading } = this.state;
+		return (
+			<div className="SpinnerLoad">
+				<GridSpinner size={30} color="#000" loading={loading} />
+			</div>
+		)
+	}
+}
