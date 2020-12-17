@@ -10,7 +10,7 @@ function SectionWV1() {
 					DfTitle="What is a VPN?" DfDesc="A VPN, or virtual private network, is a secure tunnel between your device and the internet. VPNs protect your online traffic from snooping, interference, and censorship."
 			/>
 			<div>
-				<Botton linkBtn="SectionWV2" offsetBtn={-150} txt="WhatIsVPN.section_1.btn"
+				<Botton link="SectionWV2" offsetBtn={-150} txt="WhatIsVPN.section_1.btn"
 						BGcolor="#8878BF" color="#fff" margin="10px"
 						HoverBGcolor="#fff" HoverColor="#8878BF"
 						border="1px solid #8878BF"

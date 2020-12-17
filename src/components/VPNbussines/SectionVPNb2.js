@@ -47,7 +47,7 @@ function SectionVPNb2() {
 				Ddesc="CoolVPN Teams offers easy-to-use centralized billing. This means you won’t have to sort out payment every time you add a new user"
 			/>
 
-		<div><Botton linkBtn="SectionVPNb3" offsetBtn={-150} txt="VPNbussines.section_2.btn"
+		<div><Botton link="SectionVPNb3" offsetBtn={-150} txt="VPNbussines.section_2.btn"
 						BGcolor="#8878BF" color="#fff" margin="10px"
 						HoverBGcolor="#fff" HoverColor="#8878BF"
 						border="1px solid #8878BF"

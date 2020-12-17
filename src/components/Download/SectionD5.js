@@ -12,7 +12,7 @@ function SectionD5() {
 				<div className="SectionFe6__txt">
 					<TextInfo txt="Download.section_4" textAlign="left" color="#2D2E2D" margin="0px" klasa="SectionFe6__txt"/>
 
-					<Botton linkBtn="SectionFe1" offsetBtn={-150} txt="Download.section_4.btn"
+					<Botton link="/ContactUs" offsetBtn={-150} txt="Download.section_4.btn"
 							BGcolor="#8878BF" color="#fff" margin="0px"
 							HoverBGcolor="transparent" HoverColor="#8878BF"
 							border="1px solid #8878BF"

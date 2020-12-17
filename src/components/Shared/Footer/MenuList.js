@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Styles/SectionF2.css";
-import Fade from 'react-reveal/Fade';
+import Flip from 'react-reveal/Flip';
 
 const MenuList = (props) => {
   const scrollToTop = (event) => {
@@ -19,7 +19,7 @@ const MenuList = (props) => {
       <h2 className="text-white footer-list-text text-capitalize">
         {props.title}
       </h2>
-      <Fade bottom big cascade>
+      <Flip top>
       <ul className="footer-list">
         {props.list.map((item, index) => (
           <li key={index}>
@@ -29,7 +29,7 @@ const MenuList = (props) => {
           </li>
         ))}
       </ul>
-      </Fade>
+      </Flip>
     </div>
   );
 };

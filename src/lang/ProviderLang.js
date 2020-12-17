@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { IntlProvider } from "react-intl";
 import { useSelector } from "react-redux";
 import { translateFile as messages } from "./messages/index";
+import flatten from "flat";
 
 const ProviderLang = ({ children }) => {
   const lang = useSelector((state) => state.lang.locale);
@@ -17,8 +18,8 @@ const ProviderLang = ({ children }) => {
         br: () => <br />,
       }} */
       defaultLocale="en-GB" 
-      messages={messages[lang]}
-     /*  messages={flatten(messages[lang])} */
+     /*  messages={messages[lang]} */
+      messages={flatten(messages[lang])}
       textComponent={Fragment}
     >
       {children}

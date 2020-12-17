@@ -425,7 +425,7 @@
 		border-radius:20px;
 		transition:all 0.5s ease-in-out;
 		&:hover &__img1, &:hover &__img2, &:hover &__img3, &:hover &__img4{
-			transform: scale(1.15);
+			transform: scale(1.15	);
 		}
 		&:hover{
 			border: 2px solid #8878BF;
