@@ -24,6 +24,7 @@ import FAQ from "../pages/faq";
 import Tutorials from "../pages/Tutorials";
 import PressArea from "../pages/PressArea";
 import AboutUs from "../pages/AboutUs";
+import Affiliate from "../pages/Affiliate";
 
 const route = () => {
   return (
@@ -47,6 +48,7 @@ const route = () => {
           <Route path="/tutorials" exact render={() => <Tutorials />} />
           <Route path="/press-area" exact render={() => <PressArea />} />
           <Route path="/about" exact render={() => <AboutUs />} />
+          <Route path="/affiliate" exact render={() => <Affiliate />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

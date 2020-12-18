@@ -1,6 +1,6 @@
 import React from 'react';
 import LayoutGrid from "../Shared/LayoutGrid";
-import InfoTxt from "../Shared/Text/TextInfoNew"
+import InfoTxt from "../Shared/Text/TextInfoNew";
 import { FormattedMessage } from "react-intl";
 
 function SectionAU2() {
