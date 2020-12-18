@@ -5,13 +5,13 @@ export const faqs = [
 	{
 	  title: (
 		<FormattedMessage
-		  id="FAQ.section_2.title.id1"
+		  id="FAQ.section_2.title1"
 		  defaultMessage="Can I use P2P applications with CoolVPN?"
 		/>
 	  ),
 	  desc: (
 		<FormattedMessage
-		  id="FAQ.section_2.desc.id1"
+		  id="FAQ.section_2.desc1"
 		  defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		/>
 	  ),
@@ -19,13 +19,13 @@ export const faqs = [
 	{
 	  title: (
 		<FormattedMessage
-		  id="FAQ.section_2.title.id2"
+		  id="FAQ.section_2.title2"
 		  defaultMessage="How do I set up CoolVPN?"
 		/>
 	  ),
 	  desc: (
 		<FormattedMessage
-		  id="FAQ.section_2.desc.id2"
+		  id="FAQ.section_2.desc2"
 		  defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		/>
 	  ),
@@ -33,13 +33,13 @@ export const faqs = [
 	{
 	  title: (
 		<FormattedMessage
-		  id="FAQ.section_2.title.id3"
+		  id="FAQ.section_2.title3"
 		  defaultMessage="How do i link multiple accounts with my profile?"
 		/>
 	  ),
 	  desc: (
 		<FormattedMessage
-		  id="FAQ.section_2.desc.id3"
+		  id="FAQ.section_2.desc3"
 		  defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		/>
 	  ),
@@ -47,13 +47,13 @@ export const faqs = [
 	{
 	  title: (
 		<FormattedMessage
-		  id="FAQ.section_2.title.id4"
+		  id="FAQ.section_2.title4"
 		  defaultMessage="Will I experience a DNS leak with CoolVPN?"
 		/>
 	  ),
 	  desc: (
 		<FormattedMessage
-		  id="FAQ.section_2.desc.id4"
+		  id="FAQ.section_2.desc4"
 		  defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		/>
 	  ),
@@ -61,12 +61,12 @@ export const faqs = [
 	{
 	  title: (
 		<FormattedMessage 
-		id="FAQ.section_2.title.id5" 
+		id="FAQ.section_2.title5" 
 		defaultMessage="What is a Kill Switch and how does it work?" />
 	  ),
 	  desc: (
 		<FormattedMessage
-		  id="FAQ.section_2.desc.id5"
+		  id="FAQ.section_2.desc5"
 		  defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		/>
 	  ),
@@ -74,13 +74,13 @@ export const faqs = [
 	{
 	  title: (
 		<FormattedMessage
-		  id="FAQ.section_2.title.id6"
+		  id="FAQ.section_2.title6"
 		  defaultMessage="What is Double VPN and how does it work?"
 		/>
 	  ),
 	  desc: (
 		<FormattedMessage
-		  id="FAQ.section_2.desc.id6"
+		  id="FAQ.section_2.desc6"
 		  defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		/>
 	  ),
@@ -88,13 +88,13 @@ export const faqs = [
 	{
 		title: (
 		  <FormattedMessage
-			id="FAQ.section_2.title.id7"
+			id="FAQ.section_2.title7"
 			defaultMessage="Where are your servers located?"
 		  />
 		),
 		desc: (
 		  <FormattedMessage
-			id="FAQ.section_2.desc.id7"
+			id="FAQ.section_2.desc7"
 			defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		  />
 		),
@@ -102,13 +102,13 @@ export const faqs = [
 	  {
 		title: (
 		  <FormattedMessage
-			id="FAQ.section_2.title.id8"
+			id="FAQ.section_2.title8"
 			defaultMessage="What bandwidth can I expect from your service?"
 		  />
 		),
 		desc: (
 		  <FormattedMessage
-			id="FAQ.section_2.desc.id8"
+			id="FAQ.section_2.desc8"
 			defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		  />
 		),
@@ -116,13 +116,13 @@ export const faqs = [
 	  {
 		title: (
 		  <FormattedMessage
-			id="FAQ.section_2.title.id9"
+			id="FAQ.section_2.title9"
 			defaultMessage="Do you offer any open ports?"
 		  />
 		),
 		desc: (
 		  <FormattedMessage
-			id="FAQ.section_2.desc.id9"
+			id="FAQ.section_2.desc9"
 			defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		  />
 		),
@@ -130,13 +130,13 @@ export const faqs = [
 	  {
 		title: (
 		  <FormattedMessage
-			id="FAQ.section_2.title.id10"
+			id="FAQ.section_2.title10"
 			defaultMessage="Do you support IPv6?"
 		  />
 		),
 		desc: (
 		  <FormattedMessage
-			id="FAQ.section_2.desc.id10"
+			id="FAQ.section_2.desc10"
 			defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		  />
 		),
@@ -144,12 +144,12 @@ export const faqs = [
 	  {
 		title: (
 		  <FormattedMessage 
-		  id="FAQ.section_2.title.id11" 
+		  id="FAQ.section_2.title11" 
 		  defaultMessage="What information do you store?" />
 		),
 		desc: (
 		  <FormattedMessage
-			id="FAQ.section_2.desc.id11"
+			id="FAQ.section_2.desc11"
 			defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		  />
 		),
@@ -157,13 +157,13 @@ export const faqs = [
 	  {
 		title: (
 		  <FormattedMessage
-			id="FAQ.section_2.title.id12"
+			id="FAQ.section_2.title12"
 			defaultMessage="Can I change my VPN username?"
 		  />
 		),
 		desc: (
 		  <FormattedMessage
-			id="FAQ.section_2.desc.id12"
+			id="FAQ.section_2.desc12"
 			defaultMessage="Yes, you can. For more information about the servers compatible with P2P, see our article."
 		  />
 		),

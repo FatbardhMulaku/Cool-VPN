@@ -5,15 +5,6 @@
   "FAQ.section_2.desc.id1": {
     "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
   },
-  "FAQ.section_2.desc.id10": {
-    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
-  },
-  "FAQ.section_2.desc.id11": {
-    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
-  },
-  "FAQ.section_2.desc.id12": {
-    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
-  },
   "FAQ.section_2.desc.id2": {
     "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article.."
   },
@@ -38,17 +29,44 @@
   "FAQ.section_2.desc.id9": {
     "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
   },
+  "FAQ.section_2.desc1": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc10": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc11": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc12": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc2": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc3": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc4": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc5": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc6": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc7": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc8": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc9": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
   "FAQ.section_2.title.id1": {
     "string": "Installing and using CoolVPN on Windows 10?"
-  },
-  "FAQ.section_2.title.id10": {
-    "string": "Do you support IPv6?"
-  },
-  "FAQ.section_2.title.id11": {
-    "string": "What information do you store?"
-  },
-  "FAQ.section_2.title.id12": {
-    "string": "Can I change my VPN username?"
   },
   "FAQ.section_2.title.id2": {
     "string": "Installing and using CoolVPN on Linux?"
@@ -73,6 +91,156 @@
   },
   "FAQ.section_2.title.id9": {
     "string": "Installing the CoolVPN IKEv2 application on macOS?"
+  },
+  "FAQ.section_2.title1": {
+    "string": "Can I use P2P applications with CoolVPN?"
+  },
+  "FAQ.section_2.title10": {
+    "string": "Do you support IPv6?"
+  },
+  "FAQ.section_2.title11": {
+    "string": "What information do you store?"
+  },
+  "FAQ.section_2.title12": {
+    "string": "Can I change my VPN username?"
+  },
+  "FAQ.section_2.title2": {
+    "string": "How do I set up CoolVPN?"
+  },
+  "FAQ.section_2.title3": {
+    "string": "How do i link multiple accounts with my profile?"
+  },
+  "FAQ.section_2.title4": {
+    "string": "Will I experience a DNS leak with CoolVPN?"
+  },
+  "FAQ.section_2.title5": {
+    "string": "What is a Kill Switch and how does it work?"
+  },
+  "FAQ.section_2.title6": {
+    "string": "What is Double VPN and how does it work?"
+  },
+  "FAQ.section_2.title7": {
+    "string": "Where are your servers located?"
+  },
+  "FAQ.section_2.title8": {
+    "string": "What bandwidth can I expect from your service?"
+  },
+  "FAQ.section_2.title9": {
+    "string": "Do you offer any open ports?"
+  },
+  "PressArea.section_2.desc1": {
+    "string": "CoolVPN maintains a strict no-logs policy, which means we do not collect and store any logs of our users’ activity. The fact was confirmed by an industry-first audit on no-logging claims."
+  },
+  "PressArea.section_2.desc2": {
+    "string": "Our users get a lot more than just a VPN solution. CyberSec, DoubleVPN, SmartPlay, and Onion Over VPN are just some of the extra features that our customers enjoy."
+  },
+  "PressArea.section_2.link1": {
+    "string": "Read more"
+  },
+  "PressArea.section_2.link2": {
+    "string": "Read more"
+  },
+  "PressArea.section_2.title2": {
+    "string": "What makes us special"
+  },
+  "PressArea.section_3.desc.id1": {
+    "string": "One of the most reliable VPN services in the world that encrypts internet traffic and protects online identity."
+  },
+  "PressArea.section_3.desc.id2": {
+    "string": "Advanced VPN solution that helps businesses and teams access company resources and work remotely in full security."
+  },
+  "PressArea.section_3.desc.id3": {
+    "string": "A password manager with top security, simplicity, and intuitive design"
+  },
+  "PressArea.section_3.desc.id4": {
+    "string": "Powerful end-to-end encryption tool for storing, syncing, and sharing files securely."
+  },
+  "PressArea.section_3.title": {
+    "string": "Our product family"
+  },
+  "PressArea.section_3.title.id1": {
+    "string": "CoolVPN"
+  },
+  "PressArea.section_3.title.id2": {
+    "string": "CoolVPN Team"
+  },
+  "PressArea.section_3.title.id3": {
+    "string": "CoolPass"
+  },
+  "PressArea.section_3.title.id4": {
+    "string": "Cool Locker"
+  },
+  "PressArea.section_3.title1": {
+    "string": "The original CoolVPN logo should be used whenever possible."
+  },
+  "PressArea.section_3.title2": {
+    "string": "The white logo version should only be used on dark or busy backgrounds."
+  },
+  "PressArea.section_3.title3": {
+    "string": "Screenshots and mock-ups are for non-commercial use."
+  },
+  "PressArea.section_4.desc1": {
+    "string": "CoolVPN has dedicated experts who are ready to comment on the following topics: internet privacy, cybersecurity, data breaches, hacks, digital literacy, online services and products, VPN market, etc."
+  },
+  "PressArea.section_4.desc2": {
+    "string": "You can find a great variety of our experts’ advice and opinions on the CoolVPN blog."
+  },
+  "PressArea.section_4.title": {
+    "string": "Our scope of expertise"
+  },
+  "PressArea.section_5.desc1": {
+    "string": "We are always working hard to make sure you are protected online. Our efforts are led by a team of 170+ tech experts, including programmers, security specialists, and IT architects."
+  },
+  "PressArea.section_5.desc2": {
+    "string": "Here’s what we’re doing to give you the most secure VPN experience."
+  },
+  "PressArea.section_5.title": {
+    "string": "Security efforts"
+  },
+  "PressArea.section_6.title": {
+    "string": "Screenshots and mock-ups"
+  },
+  "PressArea.section_7.desc1": {
+    "string": "For media inquiries, please email us at"
+  },
+  "PressArea.section_7.desc2": {
+    "string": "You can also reach us on Twitter or Facebook."
+  },
+  "PressArea.section_7.email": {
+    "string": "press@coolvpnpr.com"
+  },
+  "PressArea.section_7.title": {
+    "string": "Media contacts"
+  },
+  "PressArea.section_8.download": {
+    "string": "Download"
+  },
+  "PressArea.section_8.title": {
+    "string": "Latest press releases from CoolVPN"
+  },
+  "PressArea.section_8.title.id1": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id2": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id3": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id4": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id5": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id6": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id7": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id8": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
   },
   "Tutorials.section_1.desc": {
     "string": "Get simple and secure remote access from the world’s most trusted VPN brand"
@@ -108,6 +276,9 @@
     "string": "Consumers use VPNs to keep their online activity private and ensure access to sites and services that might otherwise be restricted."
   },
   "WhatIsVPN.section_2.title1": {
+    "string": "VPN explained in 90 seconds"
+  },
+  "WhatIsVPN.section_2.title2": {
     "string": "VPN explained in 90 seconds II"
   },
   "WhatIsVPN.section_3.desc": {

@@ -3,7 +3,7 @@ import LayoutContainer from "../Shared/LayoutContainer";
 import Botton from "../UI/Button/ButtonNew";
 import Faq from "../FAQ/faqs";
 import {tutorials, BtbGroup} from "./data";
-import InfoTxt from "../Shared/Text/TextInfoNew"
+import InfoTxt from "../Shared/Text/TextInfoNew";
 
 function SectionTu2() {
 	const [expanded, setExpanded] = useState(false);
@@ -53,7 +53,7 @@ function SectionTu2() {
 					answer={desc}
 				/>
 					))}
-			</div>
+				</div>
 			</div>
 			</div>
 		</LayoutContainer>

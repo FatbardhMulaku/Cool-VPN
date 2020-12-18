@@ -22,7 +22,7 @@ function SectionWV2() {
 			</div>
 
 			<h3><FormattedMessage
-					id="WhatIsVPN.section_2.title1"
+					id="WhatIsVPN.section_2.title2"
 					defaultMessage="VPN explained in 90 seconds II"/>
 			</h3>
 

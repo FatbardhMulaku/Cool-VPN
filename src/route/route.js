@@ -21,7 +21,8 @@ import Servers from "../pages/Servers";
 import VPNbussines from "../pages/VPNbussines";
 import WhatIsVPN from "../pages/WhatIsVPN";
 import FAQ from "../pages/faq";
-import Tutorials from "../pages/Tutorials"
+import Tutorials from "../pages/Tutorials";
+import PressArea from "../pages/PressArea";
 
 const route = () => {
   return (
@@ -43,6 +44,7 @@ const route = () => {
           <Route path="/what-is-CoolVPN" exact render={() => <WhatIsVPN />} />
           <Route path="/faq" exact render={() => <FAQ />} />
           <Route path="/tutorials" exact render={() => <Tutorials />} />
+          <Route path="/press-area" exact render={() => <PressArea />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

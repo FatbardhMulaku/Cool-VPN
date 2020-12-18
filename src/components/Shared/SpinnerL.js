@@ -12,7 +12,7 @@ export default class SpinnerL extends Component {
 		const { loading } = this.state;
 		return (
 			<div className="SpinnerLoad">
-				<GridSpinner size={30} color="#000" loading={loading} />
+				<GridSpinner size={40} color="#000" loading={loading} />
 			</div>
 		)
 	}
