@@ -23,6 +23,7 @@ import WhatIsVPN from "../pages/WhatIsVPN";
 import FAQ from "../pages/faq";
 import Tutorials from "../pages/Tutorials";
 import PressArea from "../pages/PressArea";
+import AboutUs from "../pages/AboutUs";
 
 const route = () => {
   return (
@@ -45,6 +46,7 @@ const route = () => {
           <Route path="/faq" exact render={() => <FAQ />} />
           <Route path="/tutorials" exact render={() => <Tutorials />} />
           <Route path="/press-area" exact render={() => <PressArea />} />
+          <Route path="/about" exact render={() => <AboutUs />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />
