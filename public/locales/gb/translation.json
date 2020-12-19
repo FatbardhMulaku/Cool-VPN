@@ -167,6 +167,10 @@
         {
           "link": "/about",
           "name": "About Us"
+        },
+        {
+          "link": "/our-team",
+          "name": "Our Team"
         }
       ]
     },

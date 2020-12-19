@@ -215,6 +215,57 @@
   "FAQ.section_2.title9": {
     "string": "Do you offer any open ports?"
   },
+  "OurTeam.section_1.desc.id1": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_1.desc.id2": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_1.desc.id3": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_1.desc.id4": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_1.title": {
+    "string": "Meet our Team"
+  },
+  "OurTeam.section_1.title.id1": {
+    "string": "Emma"
+  },
+  "OurTeam.section_1.title.id2": {
+    "string": "Monica"
+  },
+  "OurTeam.section_1.title.id3": {
+    "string": "Evan"
+  },
+  "OurTeam.section_1.title.id4": {
+    "string": "Sarah"
+  },
+  "OurTeam.section_2.desc.id1": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_2.desc.id2": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_2.desc.id3": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_2.desc.id4": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_2.title.id1": {
+    "string": "Antonio"
+  },
+  "OurTeam.section_2.title.id2": {
+    "string": "Violet"
+  },
+  "OurTeam.section_2.title.id3": {
+    "string": "Jake"
+  },
+  "OurTeam.section_2.title.id4": {
+    "string": "Noah"
+  },
   "PressArea.section_2.desc1": {
     "string": "CoolVPN maintains a strict no-logs policy, which means we do not collect and store any logs of our users’ activity. The fact was confirmed by an industry-first audit on no-logging claims."
   },
