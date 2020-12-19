@@ -26,6 +26,7 @@ import PressArea from "../pages/PressArea";
 import AboutUs from "../pages/AboutUs";
 import Affiliate from "../pages/Affiliate";
 import OurTeam from "../pages/OurTeam";
+import PrivacyPolicy from "../pages/PrivacyPolicy";
 
 const route = () => {
   return (
@@ -51,6 +52,7 @@ const route = () => {
           <Route path="/about" exact render={() => <AboutUs />} />
           <Route path="/affiliate" exact render={() => <Affiliate />} />
           <Route path="/our-team" exact render={() => <OurTeam />} />
+          <Route path="/Privacy" exact render={() => <PrivacyPolicy />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

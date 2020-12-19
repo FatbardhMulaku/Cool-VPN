@@ -1,6 +1,6 @@
 import React from 'react';
 import LayoutContainer from "../Shared/LayoutContainer";
-import InfoTxt from "../Shared/Text/TextInfoNew"
+import InfoTxt from "../Shared/Text/TextInfoNew";
 import Botton from "../UI/Button/ButtonNew";
 
 function SectionPA1() {

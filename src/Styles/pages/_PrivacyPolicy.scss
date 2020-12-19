@@ -1,0 +1,48 @@
+// =========== Section 1 ============
+.SectionPP1{
+	padding: 150px 0;
+	padding-bottom: 110px;
+	background-image: url("../../assets/PrivacyPolicy/bg.png");
+	background-attachment: scroll;
+	background-size: 108% 100%;
+	@media only screen and (max-width: 768px) {
+		background-size: cover;
+	}
+	&__txt{
+		h2{
+			font-weight: bold;
+		}
+		p{
+			width: 40%;
+			@media only screen and (max-width: 768px) {
+				width: 100%;
+			}
+		}
+	}
+}
+// =========== Section 2 ============
+.SectionPP2{
+	padding: 60px 0;
+	text-align: center;
+	&--box{
+		margin-bottom: 80px;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		color: #778299;
+		p{
+			font-size: 14px;
+			width: 80%;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 5px !important;
+			@media only screen and (max-width: 768px) {
+				width: 100%;
+				font-size: 13px;
+			}
+		}
+		h5{
+			@media only screen and (max-width: 768px) {
+				font-size: 16px;
+			}
+		}
+	}
+}
