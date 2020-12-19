@@ -27,6 +27,7 @@ import AboutUs from "../pages/AboutUs";
 import Affiliate from "../pages/Affiliate";
 import OurTeam from "../pages/OurTeam";
 import PrivacyPolicy from "../pages/PrivacyPolicy";
+import BecomePartner from "../pages/BecomePartner";
 
 const route = () => {
   return (
@@ -53,6 +54,7 @@ const route = () => {
           <Route path="/affiliate" exact render={() => <Affiliate />} />
           <Route path="/our-team" exact render={() => <OurTeam />} />
           <Route path="/Privacy" exact render={() => <PrivacyPolicy />} />
+          <Route path="/become-partner" exact render={() => <BecomePartner />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

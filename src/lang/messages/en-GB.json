@@ -14,6 +14,18 @@
   "AboutUs.section_2.title2": {
     "string": "What makes us special"
   },
+  "AboutUs.section_4.desc2": {
+    "string": "You will use an intuitive reseller dashboard. This will be your place, dedicated to purchasing licenses and managing clients with ease."
+  },
+  "AboutUs.section_4.link1": {
+    "string": "Read more"
+  },
+  "AboutUs.section_4.link2": {
+    "string": "Read more"
+  },
+  "AboutUs.section_4.title2": {
+    "string": "Easy-to-use platform"
+  },
   "Affiliate.section_1.title1": {
     "string": "Get paid to promote the world’s leading VPN provider."
   },
@@ -85,6 +97,54 @@
   },
   "Affiliate.section_3.title3": {
     "string": "Get your commission"
+  },
+  "BecomePartner.section_1.desc1": {
+    "string": "You start with a 30% discount, which increases with your sales"
+  },
+  "BecomePartner.section_1.desc2": {
+    "string": "With 14 million users and growing, CoolVPN is one of the most popular VPN brands in the world. It provides an essential product for users who value their privacy and security. You can become a VPN reseller within a day – it’s all in your hands."
+  },
+  "BecomePartner.section_1.title": {
+    "string": "The easiest way to grow your business – the CoolVPN reseller program"
+  },
+  "BecomePartner.section_2.desc1": {
+    "string": "1-month license"
+  },
+  "BecomePartner.section_2.desc2": {
+    "string": "1-year license"
+  },
+  "BecomePartner.section_2.desc3": {
+    "string": "3-year license"
+  },
+  "BecomePartner.section_2.title": {
+    "string": "How much will you earn?"
+  },
+  "BecomePartner.section_2.title1": {
+    "string": "$ 395"
+  },
+  "BecomePartner.section_2.title2": {
+    "string": "$ 2588"
+  },
+  "BecomePartner.section_2.title3": {
+    "string": "$ 3860"
+  },
+  "BecomePartner.section_3.title": {
+    "string": "Complement your product or service offering with CoolVPN. A personal VPN has become a necessity for every security-conscious user. CoolVPN will be a great addition to your product bundle offering."
+  },
+  "BecomePartner.section_4.title": {
+    "string": "All you need to get started"
+  },
+  "BecomePartner.section_4.title0": {
+    "string": "What makes us special"
+  },
+  "BecomePartner.section_5.title1": {
+    "string": "Sign up"
+  },
+  "BecomePartner.section_5.title2": {
+    "string": "Top up"
+  },
+  "BecomePartner.section_5.title3": {
+    "string": "Earn"
   },
   "FAQ.section_1.title": {
     "string": "Have a Question? Look here"

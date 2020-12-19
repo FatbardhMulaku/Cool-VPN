@@ -1,0 +1,418 @@
+// =========== Section 1 ============
+.SectionBP1{
+	background-image: url("../../assets/BecomePartner/bg1.jpg");
+	padding: 195px 0;
+	background-attachment: scroll;
+	color: white;
+	@media only screen and (max-width: 578px) {
+		padding-top: 90px;
+	}
+	h3{
+		margin-bottom: 30px;
+		width: 80%;
+		@media only screen and (max-width: 992px) {
+			text-align: center;
+			width: 100%;
+		}
+		@media only screen and (max-width: 578px) {
+			font-size: 20px;
+		}
+	}
+	&>div>div>div>p{
+		width: 75%;
+		margin-bottom: 10px !important;
+		@media only screen and (max-width: 768px) {
+			width: 100%;
+			font-size: 14px;
+			text-align: center;
+		}
+	}
+	&__form{
+		background-color: rgba(255, 255, 255, 0.212);
+		padding: 20px;
+		border-radius: 15px;
+		@media only screen and (max-width: 992px) {
+			margin-top: 20px;
+		}
+	}
+}
+.MuiOutlinedInput-notchedOutline {
+	border-color: white !important;
+}
+//form radio
+  //label
+  .container_lab {
+	display: flex;
+	position: relative;
+	padding-left: 45px;
+	margin-bottom: 12px;
+	padding-top:8px ;
+	padding-bottom: 8px;
+	cursor: pointer;
+	font-size: 15px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border: 1px solid white;
+	color: rgb(202, 202, 202);
+	font-weight: bold;
+	border-radius: 10px;
+	margin-top: 10px;
+	width: 45%;
+	p{
+		margin-bottom: 0px !important;
+		margin-right: 15px;
+	}
+	@media only screen and (max-width: 768px) {
+		width: 100%;
+	}
+	&--img{
+		background-image: url("../../assets/BecomePartner/robot.svg");
+		width: 23px;
+		height: 23px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+  }
+  .container_lab input {
+	position: absolute;
+	opacity: 0;
+	cursor: pointer;
+	height: 0;
+	width: 0;
+  }
+  .checkmark2 {
+	position: absolute;
+	top: 9px;
+	left: 13px;
+	height: 21px;
+	width: 21px;
+	background-color: transparent !important;
+	border: 1px solid white;
+  }
+  .container_lab:hover input ~ .checkmark2 {
+	background-color: rgba(204, 204, 204, 0.589) !important;
+  }
+  .container_lab input:checked ~ .checkmark2 {
+	background-color: #000;
+  }
+  .checkmark2:after {
+	content: "";
+	position: absolute;
+	display: none;
+  }
+  .container_lab input:checked ~ .checkmark2:after {
+	display: block;
+  }
+  .container_lab .checkmark2:after {
+	left: 8px;
+	top: 4px;
+	width: 5px;
+	height: 10px;
+	border: solid white;
+	border-width: 0 3px 3px 0;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+  }
+  // =========== Section 2 ============
+  .SectionBP2{
+	  padding-top:10px ;
+	  padding-bottom: 50px;
+	  h3{
+		  text-align: center;
+		  @media only screen and (max-width: 768px) {
+			font-size: 20px;
+		}
+	  }
+	&>div>div{
+		display: flex;
+		justify-content: center;
+	}
+	  &--box{
+		  width: 200px;
+		  border: 1px solid #AD89DE;
+		  border-radius: 15px ;
+		  text-align: center;
+		  padding: 25px 15px;
+		  margin: 20px 10px;
+		  transition: all 0.3s ease-in;
+		  &:hover {
+			  color: #fff;
+			  background-color: #AD89DE;
+		  }
+		  P{
+			  margin-bottom: 0 !important;
+			  margin-top: 10px;
+		  }
+	  }
+  }
+// =========== Section 3 ============
+.SectionBP3{
+	background-image:linear-gradient(#3922588c, #39225894), url("../../assets/BecomePartner/bg2.jpg");
+	padding: 60px 0;
+	background-attachment: scroll;
+	h6{
+		text-align: center;
+		color: white;
+		width: 60%;
+		margin-left: auto;
+		margin-right: auto;
+		@media only screen and (max-width: 768px) {
+			width: 100%;
+		}
+	}
+}
+// =========== Section 4 ============
+.SectionBP4{
+	padding: 60px 0;
+	padding-top:70px ;
+	h3{
+		text-align: center;
+		font-weight: bold;
+		@media only screen and (max-width: 768px) {
+			font-size: 22px;
+			margin-bottom: 30px;
+		}
+	}
+	&__img1{
+		background-image: url("../../assets/BecomePartner/section4_img1.png");
+		height: 240px;
+		width: 240px;
+		position: absolute;
+		transform: translate(50%,20%);
+		z-index: 100;
+		@media only screen and (max-width: 992px) {
+			position: relative;
+			transform: translate(0%,0%);
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+	&__box1{
+		background-color: #BCAFE5;
+		border-radius: 20px;
+		margin-top: 140px;
+		padding: 40px 100px !important;
+		margin-bottom: 30px;
+		@media only screen and (max-width: 992px) {
+			margin-top: 20px;
+		}
+		@media only screen and (max-width: 768px) {
+			padding: 20px 20px !important;
+		}
+		h2{
+			font-size: 25px;
+			font-weight: 600;
+		}
+		p{
+			color: rgb(39, 39, 39);
+			font-family: Arial, Helvetica, sans-serif;
+			width: 65%;
+			margin-bottom: 0px !important;
+			@media only screen and (max-width: 768px) {
+				text-align: left !important;
+				font-size: 14px;
+				width: 100%;
+			}
+		}
+		a{
+			color: #000;
+			text-decoration: underline;
+			font-weight: bold;
+			display: flex;
+			justify-content: flex-end;
+		}
+	}
+	&__img2{
+		background-image: url("../../assets/BecomePartner/section4_img2.png");
+		height: 240px;
+		width: 240px;
+		transform: translate(-30%,70%);
+		@media only screen and (max-width: 992px) {
+			transform: translate(0,0);
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+	&__box2{
+		border-radius: 20px;
+		padding: 40px 100px !important;
+		margin: 60px 0;
+		margin-bottom: 100px;
+		border: 1px solid #3B3B3B;
+		@media only screen and (max-width: 992px) {
+			margin-bottom: 20px;
+		}
+		@media only screen and (max-width: 768px) {
+			padding: 20px 20px !important;
+		}
+		h3{
+			margin-bottom: 20px;
+			font-size: 25px;
+			font-weight: 600;
+		}
+		p{
+			margin-bottom: 0px;
+			font-family: Arial, Helvetica, sans-serif;
+			width: 65%;
+			@media only screen and (max-width: 768px) {
+				font-size: 14px;
+				width: 100%;
+			}
+		}
+		a{
+			text-decoration: underline;
+			font-weight: bold;
+			display: flex;
+			justify-content: flex-end;
+			color: black;
+		}
+	}
+	&__img3{
+		background-image: url("../../assets/BecomePartner/section4_img3.png");
+		height: 240px;
+		width: 240px;
+		position: absolute;
+		transform: translate(40%,325%);
+		z-index: 100;
+		display: flex;
+		justify-content: center;
+		&>div{
+			background-image: url("../../assets/BecomePartner/section4_img3a.png");
+			height: 180px;
+			width: 180px;
+			margin-top: 15px;
+		}
+		@media only screen and (max-width: 992px) {
+			position: relative;
+			transform: translate(0%,0%);
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 30px;
+		}
+	}
+	&__box3{
+		background-color: #BCAFE5;
+		border-radius: 20px;
+		padding: 40px 100px !important;
+		margin-top: 100px;
+		@media only screen and (max-width: 992px) {
+			margin-top: 20px;
+		}
+		@media only screen and (max-width: 768px) {
+			padding: 20px 20px !important;
+		}
+		h2{
+			font-size: 25px;
+			font-weight: 600;
+		}
+		p{
+			color: rgb(39, 39, 39);
+			font-family: Arial, Helvetica, sans-serif;
+			margin-bottom: 0px !important;
+			@media only screen and (max-width: 768px) {
+				text-align: left !important;
+				font-size: 14px;
+			}
+		}
+		a{
+			color: #000;
+			text-decoration: underline;
+			font-weight: bold;
+			display: flex;
+			justify-content: flex-end;
+		}
+	}
+}
+// =========== Section 4 ============
+.SectionBP5{
+	padding-top:10px ;
+	  padding-bottom: 50px;
+	  h3{
+		  text-align: center;
+		  @media only screen and (max-width: 768px) {
+			font-size: 20px;
+		}
+	  }
+	&>div>div{
+		display: flex;
+		justify-content: center;
+	}
+	&--box{
+		width: 200px;
+		border: 1px solid #c5c5c5;
+		border-radius: 15px ;
+		text-align: center;
+		padding: 25px 15px;
+		margin: 20px 10px;
+		transition: all 0.3s ease-in;
+		h5{
+			margin-top: 10px;
+		}
+		&:hover {
+			color: #fff;
+			background-color: #AD89DE;
+		}
+		&:hover &__img1{
+			background-image: url("../../assets/BecomePartner/section5b_icon1.svg");
+		}
+		&:hover &__img2{
+			background-image: url("../../assets/BecomePartner/section5b_icon2.svg");
+		}
+		&:hover &__img3{
+			background-image: url("../../assets/BecomePartner/section5b_icon3.svg");
+		}
+		&>div{
+			margin-left: auto;
+			margin-right: auto;	
+		}
+		&__img1, &__img2, &__img3{
+			width: 50px;
+			height: 50px;
+		}
+		&__img1{
+			background-image: url("../../assets/BecomePartner/section5_icon1.svg");
+		}
+		&__img2{
+			background-image: url("../../assets/BecomePartner/section5_icon2.svg");
+		}
+		&__img3{
+			background-image: url("../../assets/BecomePartner/section5_icon3.svg");
+			height: 48px;
+			width: 52px;
+		}
+	}
+}
+.SectionBP6{
+	background-image: url("../../assets/Affiliate/bg2.jpg");
+	padding-top: 200px;
+	padding-bottom: 70px;
+	background-attachment: scroll;
+	background-position-y: top;
+	background-size:105% 150%;
+	margin-bottom: 0;
+	@media only screen and (max-width: 992px) {
+		background-size:145% 150%;
+		padding-top: 300px;
+		padding-bottom: 100px;
+	}
+	@media only screen and (max-width: 492px) {
+		background-size:245% 150%;
+		padding-top: 300px;
+		padding-bottom: 50px;
+	}
+	&>div>div{
+		display: flex;
+		justify-content: center;
+	}
+	&__form{
+		background-color: rgba(0, 0, 0, 0.308);
+		padding: 20px;
+		border-radius: 15px;
+		@media only screen and (max-width: 992px) {
+			margin-top: 20px;
+		}
+	}
+}

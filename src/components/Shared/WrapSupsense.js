@@ -1,9 +1,9 @@
 import React, { Suspense } from 'react';
-import { PushSpinner } from "react-spinners-kit";
+import PushSpinner from "./SpinnerL";
 
 function WrapSupsense({children}) {
 	return (
-		<Suspense fallback={<PushSpinner size={30} color="#E42F86" />}>
+		<Suspense fallback={<PushSpinner />}>
       		{children}
     	</Suspense>
 	)
