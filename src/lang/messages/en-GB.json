@@ -98,6 +98,195 @@
   "Affiliate.section_3.title3": {
     "string": "Get your commission"
   },
+  "Api.section_2.desc1": {
+    "string": "API Reference"
+  },
+  "Api.section_2.desc10c": {
+    "string": "/ code string For some errors that could be handled programmatically, a short string indicating the error code reported."
+  },
+  "Api.section_2.desc11c": {
+    "string": "/ decline_code string For card errors resulting from a card issuer decline, a short string indicating the card issuer’s reason for the decline if they provide one."
+  },
+  "Api.section_2.desc12c": {
+    "string": "/ doc_url string A URL to more information about the error code reported."
+  },
+  "Api.section_2.desc1b": {
+    "string": "Authentication"
+  },
+  "Api.section_2.desc1c": {
+    "string": "Errors"
+  },
+  "Api.section_2.desc2": {
+    "string": "The Stripe API is organized around REST. Our API has predictable resource-oriented URLs, accepts form- encoded request bodies, returns JSON-encoded responses, and uses standard HTTP response codes, authentication, and verbs."
+  },
+  "Api.section_2.desc2b": {
+    "string": "TThe Stripe API uses API keys to authenticate requests. You can view and manage your API keys in the Stripe Dashboard."
+  },
+  "Api.section_2.desc2c": {
+    "string": "Stripe uses conventional HTTP response codes to indicate the success or failure of an API request. In general: Codes in the 2xx range indicate success. Codes in the 4xx range indicate an error that failed given the information provided (e.g., a required parameter was omitted, a charge failed, etc.). Codes in the 5xx range indicate an error with Stripe's servers (these are rare)."
+  },
+  "Api.section_2.desc3": {
+    "string": "You can use the Stripe API in test mode, which does not affect your live data or interact with the banking networks. The API key you use to authenticate the request determines whether the request is live mode or test mode."
+  },
+  "Api.section_2.desc3b": {
+    "string": "Test mode secret keys have the prefix sk_test_ and live mode secret keys have the prefix sk_live_. Alternatively, you can use restricted API keys for granular permissions."
+  },
+  "Api.section_2.desc3c": {
+    "string": "Some 4xx errors that could be handled programmatically (e.g., a card is declined) include an error code that briefly explains the error reported."
+  },
+  "Api.section_2.desc4": {
+    "string": "Subscribe to API announce mailing list for updates."
+  },
+  "Api.section_2.desc4b": {
+    "string": "Your API keys carry many privileges, so be sure to keep them secure! Do not share your secret API keys in publicly accessible areas such as GitHub, client-side code, and so forth."
+  },
+  "Api.section_2.desc4c": {
+    "string": "Was this section helpful?YesNo"
+  },
+  "Api.section_2.desc5": {
+    "string": "Was this section helpful? Yes No"
+  },
+  "Api.section_2.desc5b": {
+    "string": "Authentication to the API is performed via HTTP Basic Auth. Provide your API key as the basic auth username value. You do not need to provide a password."
+  },
+  "Api.section_2.desc5c": {
+    "string": "ATTRIBUTES"
+  },
+  "Api.section_2.desc6": {
+    "string": "SAPI libraries"
+  },
+  "Api.section_2.desc6b": {
+    "string": "If you need to authenticate via bearer auth (e.g., for a cross-origin request), use -H `Authorization: Bearer sk_test_4eC39HqLyjWDarjtT1zdp7dc` instead of -u sk_test_4eC39HqLyjWDarjtT1zdp7dc."
+  },
+  "Api.section_2.desc6c": {
+    "string": "type string The type of error returned. One of api_connection_error, api_error, authentication_error, card_error, idempotency_error, invalid_request_error, or rate_limit_error"
+  },
+  "Api.section_2.desc7": {
+    "string": "Official libraries for the Stripe API are available in several languages. Community-supported libraries are"
+  },
+  "Api.section_2.desc7b": {
+    "string": "All API requests must be made over HTTPS. Calls made over plain HTTP will fail. API requests without authentication will also fail."
+  },
+  "Api.section_2.desc8": {
+    "string": "also available for additional languages."
+  },
+  "Api.section_2.desc8b": {
+    "string": "Was this section helpful?YesNo curl https://api.stripe.com/v1/charges \\ -u sk_test_4eC39HqLyjWDarjtT1zdp7dc: # The colon prevents curl from asking for a password. A sample test API key is included in all the examples here, so you can test any example right away. To test requests using your account, replace the sample API key with your actual API key."
+  },
+  "Api.section_2.desc9c": {
+    "string": "/ charge string For card errors, the ID of the failed charge."
+  },
+  "Api.section_2.title1": {
+    "string": "TOPICS"
+  },
+  "Api.section_2.title10": {
+    "string": "Versioning"
+  },
+  "Api.section_2.title10a": {
+    "string": "PaymentIntents"
+  },
+  "Api.section_2.title10c": {
+    "string": "Usage Records"
+  },
+  "Api.section_2.title11a": {
+    "string": "Payouts"
+  },
+  "Api.section_2.title12a": {
+    "string": "Products"
+  },
+  "Api.section_2.title13a": {
+    "string": "Refunds"
+  },
+  "Api.section_2.title1a": {
+    "string": "CORE RESOURCES"
+  },
+  "Api.section_2.title1b": {
+    "string": "PAYMENT METHODS"
+  },
+  "Api.section_2.title1c": {
+    "string": "BILLING"
+  },
+  "Api.section_2.title2": {
+    "string": "Introduction"
+  },
+  "Api.section_2.title2a": {
+    "string": "Balance"
+  },
+  "Api.section_2.title2b": {
+    "string": "Bank Accounts"
+  },
+  "Api.section_2.title2c": {
+    "string": "Coupons"
+  },
+  "Api.section_2.title3": {
+    "string": "Authentication"
+  },
+  "Api.section_2.title3a": {
+    "string": "Charges"
+  },
+  "Api.section_2.title3b": {
+    "string": "Cards"
+  },
+  "Api.section_2.title3c": {
+    "string": "Discounts"
+  },
+  "Api.section_2.title4": {
+    "string": "Errors"
+  },
+  "Api.section_2.title4a": {
+    "string": "CheckoutSessions"
+  },
+  "Api.section_2.title4b": {
+    "string": "Sources"
+  },
+  "Api.section_2.title4c": {
+    "string": "Invoices"
+  },
+  "Api.section_2.title5": {
+    "string": "Expanding Objects"
+  },
+  "Api.section_2.title5a": {
+    "string": "Customers"
+  },
+  "Api.section_2.title5c": {
+    "string": "Invoice Items"
+  },
+  "Api.section_2.title6": {
+    "string": "Idempotent Requests"
+  },
+  "Api.section_2.title6a": {
+    "string": "Disputes"
+  },
+  "Api.section_2.title6c": {
+    "string": "Products"
+  },
+  "Api.section_2.title7": {
+    "string": "Metadata"
+  },
+  "Api.section_2.title7a": {
+    "string": "Events"
+  },
+  "Api.section_2.title7c": {
+    "string": "Plans"
+  },
+  "Api.section_2.title8": {
+    "string": "Pagination"
+  },
+  "Api.section_2.title8a": {
+    "string": "Files"
+  },
+  "Api.section_2.title8c": {
+    "string": "Subscriptions"
+  },
+  "Api.section_2.title9": {
+    "string": "Request IDs"
+  },
+  "Api.section_2.title9a": {
+    "string": "File Links"
+  },
+  "Api.section_2.title9c": {
+    "string": "Subscription Items"
+  },
   "BecomePartner.section_1.desc1": {
     "string": "You start with a 30% discount, which increases with your sales"
   },

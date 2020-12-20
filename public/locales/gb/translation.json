@@ -190,8 +190,8 @@
           "name": "Free Proxy list"
         },
         {
-          "link": "/web-proxy",
-          "name": "Web Proxy"
+          "link": "/api",
+          "name": "API"
         },
         {
           "link": "/youTube-proxy",
