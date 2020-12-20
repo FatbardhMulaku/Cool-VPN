@@ -275,6 +275,60 @@
   "FAQ.section_2.title9": {
     "string": "Do you offer any open ports?"
   },
+  "FreeProxy.section_2.desc1": {
+    "string": "Enter Web address"
+  },
+  "FreeProxy.section_3.desc1": {
+    "string": "Cool VPN"
+  },
+  "FreeProxy.section_3.desc2": {
+    "string": "Free VPN"
+  },
+  "FreeProxy.section_3.title1": {
+    "string": "Hides IP address"
+  },
+  "FreeProxy.section_3.title2": {
+    "string": "Unblocks restricted content"
+  },
+  "FreeProxy.section_3.title3": {
+    "string": "TLS v1.2 encryption"
+  },
+  "FreeProxy.section_3.title4": {
+    "string": "Ultimate connection privacy"
+  },
+  "FreeProxy.section_3.title5": {
+    "string": "Unthrottled speed"
+  },
+  "FreeProxy.section_3.title6": {
+    "string": "High connection stability"
+  },
+  "FreeProxy.section_3.title7": {
+    "string": "No logs"
+  },
+  "FreeProxy.section_3.title8": {
+    "string": "Bypasses ISP firewalls"
+  },
+  "FreeProxy.section_3.title9": {
+    "string": "24/7 support"
+  },
+  "FreeProxy.section_4.desc.id1": {
+    "string": "Using a VPN lets you watch movies and TV on streaming services like Netflix, Hulu, Amazon, and HBO with freedom from ISP throttling or blocking by your ISP"
+  },
+  "FreeProxy.section_4.desc.id2": {
+    "string": "Exploring the world doesn’t mean you have to change the way you use the internet. A VPN lets you use the internet no matter how far you travel."
+  },
+  "FreeProxy.section_4.desc.id3": {
+    "string": "Changing your IP address with a VPN helps hide your identity from websites, apps, and services that want to track you."
+  },
+  "FreeProxy.section_4.title.id1": {
+    "string": "Best VPN for streaming"
+  },
+  "FreeProxy.section_4.title.id2": {
+    "string": "P2P servers"
+  },
+  "FreeProxy.section_4.title.id3": {
+    "string": "24/7 Customer Service"
+  },
   "OurTeam.section_1.desc.id1": {
     "string": "Designer Web & Multimédia"
   },

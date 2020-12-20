@@ -9,15 +9,17 @@ const useStyles = makeStyles({
     width: "100%",
   },
   inputOutline: {
+    border:"1px solid #707070",
+    borderRadius: "10px",
     "&:hover .MuiOutlinedInput-notchedOutline": {
       borderColor: "black",
+      border:"1px solid black !important",
     },
-    borderColor: "#707070",
-    borderRadius: "10px",
+    
 
     "&:focus, &.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline": {
       borderColor: "black",
-      borderWidth: "1px",
+      border:"1px solid black !important",
     },
   },
 });
@@ -28,7 +30,7 @@ const InputLogin = (props) => {
   return (
     <FormControl variant="outlined" className={classes.formControl}>
       <OutlinedInput
-        className={classes.inputOutline}
+        className={`${classes.inputOutline} jss65`}
         defaultValue={value}
         type={props.type}
         onChange={setvalue}

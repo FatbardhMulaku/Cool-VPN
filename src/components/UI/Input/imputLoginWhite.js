@@ -4,13 +4,13 @@ import { makeStyles } from "@material-ui/core/styles";
 import { useInput } from "../../../Hooks/useInput";
 
 const useStyles = makeStyles({
-  formControl: {
+  formControl2: {
     margin: "10px 0px",
 	width: "100%",
 	padding:"2px 0 !important",
   },
 
-inputOutline: {
+inputOutline2: {
 	color:"white",
 	"& .MuiOutlinedInput-input" :{
 		padding: "12px 5px !important",
@@ -32,9 +32,9 @@ const InputLogin = (props) => {
   const classes = useStyles();
   const [value, setvalue] = useInput("");
   return (
-    <FormControl variant="outlined" className={classes.formControl}>
+    <FormControl variant="outlined" className={classes.formControl2}>
       <OutlinedInput
-        className={classes.inputOutline}
+        className={classes.inputOutline2}
         defaultValue={value}
         type={props.type}
         onChange={setvalue}

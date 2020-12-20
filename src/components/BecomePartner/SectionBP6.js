@@ -62,12 +62,12 @@ function SectionBP6() {
 						<span className="checkmark2"></span>
 					</label>
 					<Botton link="/#" offsetBtn={-150} txt="BecomePartner.section_1.btn"
-					BGcolor="rgba(254, 254, 254, 0.709)" color="#000" margin="10px 0 0 0"
-					HoverBGcolor="transparent" HoverColor="#fff"
-					border="1px solid #fff"
-					HoverBorder="1px solid #fff"
-					DfBtn="Sign Up"
-				/>
+						BGcolor="rgba(254, 254, 254, 0.709)" color="#000" margin="10px 0 0 0"
+						HoverBGcolor="transparent" HoverColor="#fff"
+						border="1px solid #fff"
+						HoverBorder="1px solid #fff"
+						DfBtn="Sign Up"
+					/>
 				</div>
 			</div>
 
