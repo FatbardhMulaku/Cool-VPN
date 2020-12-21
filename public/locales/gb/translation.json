@@ -190,12 +190,12 @@
           "name": "Free Proxy list"
         },
         {
-          "link": "/api",
-          "name": "API"
+          "link": "/youtube-proxy",
+          "name": "YouTube Proxy"
         },
         {
-          "link": "/youTube-proxy",
-          "name": "YouTube Proxy"
+          "link": "/api",
+          "name": "API"
         },
         {
           "link": "/vpn-routers",

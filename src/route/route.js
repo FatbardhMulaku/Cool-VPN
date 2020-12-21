@@ -30,6 +30,7 @@ import PrivacyPolicy from "../pages/PrivacyPolicy";
 import BecomePartner from "../pages/BecomePartner";
 import FreeProxy from "../pages/FreeProxy";
 import API from "../pages/Api";
+import YoutubeProxy from "../pages/YoutubeProxy"
 
 const route = () => {
   return (
@@ -59,6 +60,7 @@ const route = () => {
           <Route path="/become-partner" exact render={() => <BecomePartner />} />
           <Route path="/free-proxy-list" exact render={() => <FreeProxy />} />
           <Route path="/api" exact render={() => <API />} />
+          <Route path="/youtube-proxy" exact render={() => <YoutubeProxy />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />
