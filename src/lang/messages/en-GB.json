@@ -743,6 +743,123 @@
   "VPNbussines.section_5.title": {
     "string": "Start securing your business today"
   },
+  "VPNforRouters.section_1.title1": {
+    "string": "Set up a home VPN over Wi-Fi and Ethernet"
+  },
+  "VPNforRouters.section_1.title1z": {
+    "string": "With the CoolVPN app for routers, you can…"
+  },
+  "VPNforRouters.section_1.title2": {
+    "string": "Save time with always-on protection"
+  },
+  "VPNforRouters.section_1.title3": {
+    "string": "Cover all your devices with one subscription"
+  },
+  "VPNforRouters.section_1.title4": {
+    "string": "Share your VPN connection with family and guests"
+  },
+  "VPNforRouters.section_2.title": {
+    "string": "Why set up a home VPN router?"
+  },
+  "VPNforRouters.section_2.title1": {
+    "string": "The CoolVPN app for routers secures all devices on your Wi-Fi or wired network"
+  },
+  "VPNforRouters.section_2.title2": {
+    "string": "Install the app on any compatible router or buy a router preconfigured with ExpressVPN"
+  },
+  "VPNforRouters.section_2.title2a": {
+    "string": "Protect your entire Wi-Fi network easily"
+  },
+  "VPNforRouters.section_2.title3": {
+    "string": "With a single VPN router, you no longer need to install a separate VPN app on each device"
+  },
+  "VPNforRouters.section_3.title": {
+    "string": "How to protect your home Wi-Fi with a VPN router in 3 easy steps"
+  },
+  "VPNforRouters.section_3.title1": {
+    "string": "The CoolVPN app for routers secures all devices on your Wi-Fi or wired network"
+  },
+  "VPNforRouters.section_3.title2": {
+    "string": "Install the app on any compatible router or buy a router preconfigured with ExpressVPN"
+  },
+  "VPNforRouters.section_3.title3": {
+    "string": "With a single VPN router, you no longer need to install a separate VPN app on each device"
+  },
+  "VPNforRouters.section_4.title1": {
+    "string": "3 reasons to get a VPN router"
+  },
+  "VPNforRouters.section_8.answer1": {
+    "string": "I got it preconfigured. It was plug-and-play. The interface is amazingly simple compared to setting up a router manually. I tried to help a neighbor set up their VPN with a different provider, very complicated and unsuccessful. A very convenient router interface and a huge bonus for me is that it has its own firmware without any complicated settings."
+  },
+  "VPNforRouters.section_8.answer2": {
+    "string": "I got it preconfigured. It was plug-and-play. The interface is amazingly simple compared to setting up a router manually. I tried to help a neighbor set up their VPN with a different provider, very complicated and unsuccessful. A very convenient router interface and a huge bonus for me is that it has its own firmware without any complicated settings."
+  },
+  "VPNforRouters.section_8.answer3": {
+    "string": "I got it preconfigured. It was plug-and-play. The interface is amazingly simple compared to setting up a router manually. I tried to help a neighbor set up their VPN with a different provider, very complicated and unsuccessful. A very convenient router interface and a huge bonus for me is that it has its own firmware without any complicated settings."
+  },
+  "VPNforRouters.section_8.title1": {
+    "string": "Violet Sanford"
+  },
+  "VPNforRouters.section_8.title1a": {
+    "string": "People love ExpressVPN for routers"
+  },
+  "VPNforRouters.section_8.title2": {
+    "string": "Marshall Mccormack"
+  },
+  "VPNforRouters.section_8.title3": {
+    "string": "Daisie Oconnell"
+  },
+  "VPNforRouters.section_9.desc1": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc1b": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc2": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc2b": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc3": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc3b": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc4": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc4b": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.title1": {
+    "string": "How do I set up CoolVPN?"
+  },
+  "VPNforRouters.section_9.title1b": {
+    "string": "Do you support IPv6?"
+  },
+  "VPNforRouters.section_9.title1x": {
+    "string": "FAQ"
+  },
+  "VPNforRouters.section_9.title2": {
+    "string": "Do you offer a free trial?"
+  },
+  "VPNforRouters.section_9.title2b": {
+    "string": "What information do you store?"
+  },
+  "VPNforRouters.section_9.title3": {
+    "string": "Where are your servers located?"
+  },
+  "VPNforRouters.section_9.title3b": {
+    "string": "How is my privacy maintained?"
+  },
+  "VPNforRouters.section_9.title4": {
+    "string": "Do you offer any open ports?"
+  },
+  "VPNforRouters.section_9.title4b": {
+    "string": "Can I change my VPN username?"
+  },
   "WhatIsVPN.section_2.desc1": {
     "string": "A VPN (virtual private network) is the easiest and most effective way for people to protect their internet traffic and hide their identities online. As you connect to a secure VPN server, your internet traffic goes through an encrypted tunnel that nobody can see into, including hackers, governments, and your internet service provider"
   },

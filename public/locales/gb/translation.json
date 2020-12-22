@@ -194,12 +194,12 @@
           "name": "YouTube Proxy"
         },
         {
-          "link": "/api",
-          "name": "API"
-        },
-        {
           "link": "/vpn-routers",
           "name": "VPN Routers"
+        },
+        {
+          "link": "/api",
+          "name": "API"
         }
       ]
     }

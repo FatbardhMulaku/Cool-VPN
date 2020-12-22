@@ -1,0 +1,340 @@
+// =========== Section 1 ============
+.SectionVPNr1{
+	background-image: url("../../assets/VPNforRouters/bg1.jpg");
+	padding:150px 0;
+	padding-bottom: 100px;
+	background-attachment: scroll;
+	background-size: 110% 100%;
+	@media only screen and (max-width: 768px) {
+		background-size: cover;
+		padding-bottom: 140px;
+		padding-top:100px ;
+	}
+	h6{
+		color: white;
+	}
+	&__txt{
+		h2{
+			font-size: 35px;
+		}
+		p{
+			margin: 10px 0 !important;
+			font-size: 20px;
+		}
+	}
+	&__line{
+		display: flex;
+		margin: 8px 0 !important;
+		align-items: center;
+		&--img{
+			margin-right: 15px;
+			background-image: url("../../assets/Servers/iconWhite.svg");
+			width: 16px;
+			height: 16px;
+			@media only screen and (max-width: 400px) {
+				margin-right: 5px;
+				width: 21px;
+				height: 15px;
+			}
+		}
+		p{
+			color: white;
+			margin-bottom: 0px !important;
+			font-size: 18px;
+			@media only screen and (max-width: 567px) {
+				font-size: 15px;
+			}
+		}
+	}
+	&>div>div>div>div:last-child{
+		@media only screen and (max-width: 768px) {
+			display: flex;
+			justify-content: center;
+		}
+	}
+	&__img{
+		background-image: url("../../assets/VPNforRouters/s1_img.png");
+		height: 180px;
+		width: 300px;
+		@media only screen and (max-width: 992px) {
+			margin-top: 20px;
+			margin-bottom: 30px;
+		}
+	}
+	&>div>div>div:last-child{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
+// =========== 	Section 2 ============
+.SectionVPNr2{
+	&__img1{
+		background-image: url("../../assets/VPNforRouters/s2.png");
+		height: 60px;
+		width: 70%;
+		@media only screen and (max-width: 1200px) {
+			height: 70px;
+		}
+		@media only screen and (max-width: 992px) {
+			height: 55px;
+			width: 100%;
+		}
+		@media only screen and (max-width: 992px) {
+			height: 55px;
+		}
+		@media only screen and (max-width: 768px) {
+			height: 40px;
+		}
+		@media only screen and (max-width: 576px) {
+			height: 30px;
+			margin-top: -50px;
+		}
+	}
+	h3{
+		text-align: center;
+		margin-top: 70px;
+		margin-bottom: 40px;
+	}
+	&__l{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	&__r{
+		color: black;
+		align-items: center;
+		@media only screen and (max-width: 992px) {
+			margin-top: 40px;
+		}
+	}
+	&__line{
+		color: black;
+		display: flex;
+		margin: 8px 0 !important;
+		align-items: center;
+		&--img{
+			margin-right: 15px;
+			background-image: url("../../assets/Servers/iconBlack.svg");
+			width: 18px;
+			height: 15px;
+			@media only screen and (max-width: 400px) {
+				margin-right: 5px;
+				width: 21px;
+				height: 15px;
+			}
+		}
+		p{
+			margin-bottom: 0px !important;
+			font-size: 15px;
+			@media only screen and (max-width: 567px) {
+				font-size: 13px;
+			}
+		}
+	}
+	&__img2{
+		background-image: url("../../assets/VPNforRouters/s2b.jpg");
+		width: 290px;
+		height: 120px;
+	}
+}
+// =========== 	Section 3 ============
+.SectionVPNr3{
+	padding: 110px 0;
+	background-image: url("../../assets/VPNforRouters/bg2.png");
+	background-attachment: scroll;
+	background-size: 105% 100%;
+	@media only screen and (max-width: 768px) {
+		background-size: cover;
+	}
+	h1{
+		color: white;
+	}
+	h3{
+		color: white;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	&__box{
+		width: 290px;
+		padding: 25px;
+		margin: 15px 15px;
+		text-align: center;
+		border-radius: 20px;
+		transition: all 0.3s ease-in;
+		background-color: rgba(255, 255, 255, 0.158);
+		border-radius: 20px;
+		&:hover{
+			box-shadow: 0px 3px 11px -3px rgba(255, 255, 255, 0.75);
+		}
+		p{
+			margin-bottom: 0!important;
+			color: white;
+		}
+		&__img1, &__img2, &__img3{
+			width: 55px;
+			height: 55px;
+			margin-bottom: 10px;
+		}
+		&__img1{
+			background-image: url("../../assets/VPNforRouters/s3a.png");
+		}
+		&__img2{
+			background-image: url("../../assets/VPNforRouters/s3b.png");
+			width: 110px;
+		}
+		&__img3{
+			background-image: url("../../assets/VPNforRouters/s3c.png");
+			width: 65px;
+		}
+	}
+}
+// =========== 	Section 4 ============
+.SectionVPNr4{
+	padding-bottom: 30px;
+	&>div>h2{
+		font-weight: bold;
+		text-align: center;
+		margin-bottom: 10px;
+		@media only screen and (max-width: 768px) {
+			font-size: 25px;
+		}
+	}
+	&__txt{
+		h2{
+			font-size: 25px;
+			margin-top: 30px;
+		}
+		p{
+			margin: 10px 0 !important;
+		}
+	}
+
+}
+// =========== 	Section 5 ============
+.SectionVPNr5{
+	background-color: #8878BF;
+	padding: 30px 0;
+	&__txt{
+		h2{
+			margin-bottom: 0 !important;
+		}
+		p{
+			font-size: 18px;
+			margin: 10px 0 !important;
+		}
+	}
+	&__img{
+		background-image: url("../../assets/VPNforRouters/s5.png");
+		width: 290px;
+		height: 200px;
+	}
+	&>div>div>div:last-child{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	&>div>div>div:first-child{
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+}
+// =========== 	Section 6 ============
+.SectionVPNr6{
+	padding: 40px 0;
+	&__img{
+		background-image: url("../../assets/VPNforRouters/s6.jpg");
+		width: 270px;
+		height: 210px;
+	}
+	&>div>div>div:last-child{
+		margin-top: auto;
+		margin-bottom: auto;
+		@media only screen and (max-width: 992px) {
+			margin-top: 30px;
+		}
+	}
+	&>div>div>div:first-child{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	&>div>div>div:last-child>div:last-child{
+		@media only screen and (max-width: 768px) {
+			display: flex;
+			justify-content: center;
+			margin-top: -15px;
+		}
+	}
+}
+// =========== 	Section 7 ============
+.SectionVPNr7{
+	background-color: #3F3D56;
+	padding: 40px 0;
+	&__img{
+		background-image: url("../../assets/VPNforRouters/s7.png");
+		width: 200px;
+		height: 210px;
+	}
+	&>div>div>div:last-child{
+		margin-top: auto;
+		margin-bottom: auto;
+		@media only screen and (max-width: 992px) {
+			margin-top: 30px;
+		}
+	}
+	&>div>div>div:first-child{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	&>div>div>div:last-child>div:last-child{
+		@media only screen and (max-width: 768px) {
+			display: flex;
+			justify-content: center;
+			margin-top: -15px;
+		}
+	}
+}
+// =========== 	Section 8 ============
+.SectionVPNr8{
+	padding:50px 0 50px 0 ;
+	&>div>h2{
+		text-align: center;
+		margin-bottom: 30px;
+		@media only screen and (max-width: 992px) {
+			font-size: 25px;
+		}
+	}
+	&>div>div{
+		display: flex;
+		flex-direction: column;
+		width: 75%;
+		justify-content: center !important;
+		align-items: center;
+		@media only screen and (max-width: 992px) {
+			width: 100%;
+		}
+	}
+}
+// =========== 	Section 8 ============
+.SectionVPNr9{
+	padding:80px 0 ;
+	/* background-color: #171923; */
+	/* background-image: linear-gradient(#0f1118, #292d3fea,#0f1118); */
+	background-image:linear-gradient(
+		to right,
+		rgba(0, 0, 0, 0.5),
+		rgba(0, 0, 0, 0.5)
+	  ), url("../../assets/Login-SignUp/bg.jpg");
+	/* background-attachment: scroll; */
+	&>div>h2{
+		text-align: center;
+		margin-bottom: 30px;
+		color: white;
+		@media only screen and (max-width: 992px) {
+			font-size: 25px;
+		}
+	}
+
+}
