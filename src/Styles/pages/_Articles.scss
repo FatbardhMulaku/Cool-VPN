@@ -1,0 +1,294 @@
+// =========== Section 1 ============
+.SectionArt1{
+	background-image: url("../../assets/Articles/bg1.jpg");
+	padding:150px 0;
+	padding-bottom: 100px;
+	background-attachment: scroll;
+
+	@media only screen and (max-width: 1200px) {
+		background-size: cover;
+		padding-bottom: 140px;
+		padding-top:100px ;
+	}
+}
+// =========== Section 2 ============
+.SectionArt2{
+	padding: 20px 0;
+	&__img1{
+		background-image: url("../../assets/Articles/s2-1.png");
+		margin: 15px auto;
+		width: 70px;
+		height: 125px;
+	}
+	&__img2{
+		background-image: url("../../assets/Articles/Social.png");
+		margin: 0px auto;
+		height: 22px;
+		width: 135px;
+	}
+	&>div>div>div:nth-child(2){
+		display: flex;
+		align-items: center;
+		h5{
+			font-weight: 400;
+			color: slategrey;
+			font-size: 25px;
+			@media only screen and (max-width: 768px) {
+				font-size: 18px;
+				margin-top: 20px;
+			}
+		}
+	}
+	&__s2{
+		margin-top: 40px;
+		border-radius: 20px;
+		padding: 70px 70px !important;
+		background-image:linear-gradient(
+			to right,
+		#3922587e,
+		#39225880
+		  ), url("../../assets/Articles/bg2.jpg");
+		  @media only screen and (max-width: 768px) {
+			padding: 50px 15px !important;
+		}
+		p{
+			color: white;
+			font-size: 18px;
+			margin-bottom: 0 !important;
+			text-align: center;
+		}
+	}
+}
+// =========== Section 3 ============
+.SectionArt3{
+	padding: 30px 0;
+	&__txt{
+		border: 2px solid transparent;
+		border-radius: 20px;
+		padding: 20px;
+		&:hover{
+			border: 2px solid #86939E;
+		}
+		h2{
+			font-size: 22px;
+		}
+		p{
+			color: #86939E;
+			margin: 15px 0 !important;
+			margin-bottom: 0 !important;
+		}
+	}
+}
+// =========== Section 4 ============
+.SectionArt4{
+	padding: 70px 0;
+	background-image:linear-gradient(
+		to right,
+	#00000060,
+	#00000060
+	  ), url("../../assets/Articles/bg3.jpg");
+	  background-attachment: fixed;
+	  color: white;
+	  p{
+		margin-bottom: 0 !important;
+	  }
+}
+// =========== Section 5 ============
+.SectionArt5{
+	padding: 30px 0;
+	&__img{
+		height: 210px;
+		width: 500px;
+		background-image: url("../../assets/Articles/Table.jpg");
+		@media only screen and (max-width: 578px) {
+			width: 300px;
+			height: 130px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+	p{
+		margin: 15px 0 !important;
+		font-size: 18px;
+		@media only screen and (max-width: 578px) {
+			font-size: 15px;
+		}
+	}
+	a{
+		padding: 4px 15px;
+		background-color: #D763FA;
+		color: white;
+		font-size: 15px;
+		margin: 3px 5px;
+		border-radius: 15px;
+		transition: all 0.4s ease-in;
+		&:hover{
+			text-decoration: none;
+			transform: scale(1.05);
+			color: white;
+			box-shadow: 0px 4px 6px -5px rgba(0,0,0,0.77);
+		}
+	}
+}
+// =========== Section 6 ============
+.SectionArt6{
+	background-color: #BCAFE5;
+	padding: 40px 0;
+	border-radius: 15px;
+	&>p{
+		color: white;
+		width: 70%;
+		margin-left: auto;
+		margin-right: auto;
+		@media only screen and (max-width: 768px) {
+			width: 100%;
+		}
+	}
+	&>div:nth-child(2){
+		width: 70%;
+		display: flex;
+		justify-content: center;
+		margin-left: auto;
+		margin-right: auto;
+		border-bottom: 1px solid white;
+		padding-bottom: 20px;
+		@media only screen and (max-width: 768px) {
+			width: 100%;
+		}
+	}
+	&>div:nth-child(2){
+		p{
+			color: white;
+			margin-bottom: 10px !important;
+		}
+		span{
+			color: black;
+			margin-right: 10px;
+			font-weight: 500;
+		}
+	}
+	&>div:nth-child(3){
+		width: 70%;
+		display: flex;
+		
+		margin-left: auto;
+		margin-right: auto;
+		border-bottom: 1px solid white;
+		margin-top: 20px;
+		@media only screen and (max-width: 768px) {
+			width: 100%;
+		}
+	}
+	&>div:nth-child(3){
+		p{
+			color: white;
+			margin-bottom: 10px !important;
+			@media only screen and (max-width: 768px) {
+				font-size: 14px;
+			}
+		}
+		span{
+			color: black;
+			margin-right: 10px;
+			font-weight: 500;
+		}
+	}
+	&__img1{
+		background-image: url("../../assets/Articles/s6-1.png");
+		width: 65px ;
+		height: 50px;
+		margin-right: 20px;
+		@media only screen and (max-width: 1200px) {
+			width: 75px !important;
+		}
+		@media only screen and (max-width: 992px) {
+			width: 95px !important;
+			height: 45px;
+		}
+		@media only screen and (max-width: 471px) {
+			height: 40px;
+			margin-right: 10px;
+		}
+		@media only screen and (max-width: 400px) {
+			height: 35px;
+			width: 111px !important;
+		}
+	}
+	&__img2{
+		background-image: url("../../assets/Articles/s6-2.png");
+		width: 52px !important;
+		height: 50px;
+		margin-right: 20px;
+		@media only screen and (max-width: 1200px) {
+			width: 65px !important;
+		}
+		@media only screen and (max-width: 992px) {
+			width: 85px !important;
+			height: 45px;
+		}
+		@media only screen and (max-width: 471px) {
+			height: 43px;
+			width: 80px !important;
+			margin-right: 10px;
+		}
+		@media only screen and (max-width: 400px) {
+			height: 35px;
+			width: 85px !important;
+		}
+	}
+}
+// =========== Section 7 ============
+.SectionArt7{
+	padding: 60px 0;
+	&>div>h3{
+		text-align: center;
+	}
+	&__box{
+		width: 310px;
+		border: 1px solid #86939E;
+		margin: 15px 15px;
+		border-radius: 10px;
+		&>div:last-child{
+			padding: 20px;
+		}
+		&__img1, &__img2, &__img3{
+			height: 200px;
+			border-top-left-radius: 10px;
+			border-top-right-radius: 10px;
+			overflow: hidden;
+		}
+		&:hover &__img1, &:hover &__img2, &:hover &__img3{
+			opacity: 1;
+			animation: flash 1.5s;
+		}
+		&__img1{
+			background-image: url("../../assets/Articles/s7-1.jpg");
+		}
+		&__img2{
+			background-image: url("../../assets/Articles/s7-2.jpg");
+		}
+		&__img3{
+			background-image: url("../../assets/Articles/s7-3.jpg");
+		}
+		p{
+			margin-bottom: 0 !important;
+			color: #545d64;
+		}
+		h3{
+			font-weight: 400;
+			font-size: 25px;
+			margin: 10px 0;
+		}
+		h6{
+			color: #8878BF;
+		}
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}

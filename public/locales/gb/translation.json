@@ -136,6 +136,10 @@
           "name": "Product"
         },
         {
+          "link": "/articles",
+          "name": "Articles"
+        },
+        {
           "link": "/blog",
           "name": "Blog"
         }

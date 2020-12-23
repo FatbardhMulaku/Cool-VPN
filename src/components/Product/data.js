@@ -124,7 +124,7 @@ export const Software = [
 	{
 		title:(
 			<FormattedMessage
-				id="Product.section_5.title1"
+				id="Product.section_5.title1aa"
 				defaultMessage="Best-in-class 256-bit encryption"
 			/>
 		),
@@ -132,7 +132,7 @@ export const Software = [
 	{
 		title:(
 			<FormattedMessage
-				id="Product.section_5.title2"
+				id="Product.section_5.title2bb"
 				defaultMessage="Unlimited bandwidth"
 			/>
 		),
@@ -140,7 +140,7 @@ export const Software = [
 	{
 		title:(
 			<FormattedMessage
-				id="Product.section_5.title3"
+				id="Product.section_5.title3cc"
 				defaultMessage="5-star customer support"
 			/>
 		),
@@ -148,7 +148,7 @@ export const Software = [
 	{
 		title:(
 			<FormattedMessage
-				id="Product.section_5.title4"
+				id="Product.section_5.title4dd"
 				defaultMessage="30-day money-back guarantee"
 			/>
 		),

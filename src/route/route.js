@@ -33,6 +33,7 @@ import API from "../pages/Api";
 import YoutubeProxy from "../pages/YoutubeProxy";
 import VPNforRouters from "../pages/VPNforRouters";
 import Product from "../pages/Product";
+import Articles from "../pages/Articles";
 
 const route = () => {
   return (
@@ -65,6 +66,7 @@ const route = () => {
           <Route path="/youtube-proxy" exact render={() => <YoutubeProxy />} />
           <Route path="/vpn-routers" exact render={() => <VPNforRouters />} />
           <Route path="/product" exact render={() => <Product />} />
+          <Route path="/articles" exact render={() => <Articles />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

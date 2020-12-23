@@ -287,6 +287,42 @@
   "Api.section_2.title9c": {
     "string": "Subscription Items"
   },
+  "Article.section_5.link1a": {
+    "string": "Technology"
+  },
+  "Article.section_5.link2b": {
+    "string": "Art"
+  },
+  "Article.section_5.link3c": {
+    "string": "Birds"
+  },
+  "Article.section_7.desc1": {
+    "string": "Director J.J. Abrams aimed to use practical effects whenever possible on Star Wars: The Force Awakens"
+  },
+  "Article.section_7.desc2": {
+    "string": "Here are six tips that can help brands stir passion and deepen connections inalmost any community"
+  },
+  "Article.section_7.desc3": {
+    "string": "Downloading an iOS update is like getting a haircut or taking out life insurance; you’ll get to it eventually"
+  },
+  "Article.section_7.info1": {
+    "string": "CREATIVE"
+  },
+  "Article.section_7.info2": {
+    "string": "VIDEO"
+  },
+  "Article.section_7.info3": {
+    "string": "GADGETS"
+  },
+  "Article.section_7.title1": {
+    "string": "How They Made the Incredible Effects"
+  },
+  "Article.section_7.title2": {
+    "string": "The Super-durable And Super-versatile Tarp"
+  },
+  "Article.section_7.title3": {
+    "string": "You Shouldn’t Wait on the Latest iOS Update"
+  },
   "BecomePartner.section_1.desc1": {
     "string": "You start with a 30% discount, which increases with your sales"
   },
@@ -734,6 +770,12 @@
   "Product.section_1.title4": {
     "string": "Get set up in just five minutes."
   },
+  "Product.section_2.desc1": {
+    "string": "After dabbling in various Bitcoin-related ventures that have gone south in the past couple of years, Cameron and Tyler Winklevoss are betting on themselves by heading up the first regulated Bitcoin exchange"
+  },
+  "Product.section_2.desc2": {
+    "string": "The Coinbase exchange will allow individuals and companies to do business in about half the states in the US where the company has regulatory approval. It will take a 0.25 percent cut of most transactions and waive fees for the first two months. Coinbase currently has 2.1 million consumer wallets and 38,000 merchants processing Bitcoin payments through its platform. The company received $75 million in funding."
+  },
   "Product.section_2.title1": {
     "string": "VPN for windows"
   },
@@ -755,6 +797,15 @@
   "Product.section_3.title2": {
     "string": "VPN for FireFox"
   },
+  "Product.section_4.desc1": {
+    "string": "Bitcoin wallet service Coinbase will launch the US’ first Bitcoin exchange later today"
+  },
+  "Product.section_4.desc2": {
+    "string": "Although Coinbase’s exchange will initially do business only in the US, CEO Brian Armstrong said that he plans to expand the exchange to serve markets overseas in the future. Bitcoin is currently valued at about $280, up from $230 only three days ago. The cryptocurrency’s value is about $3.2 billion in total, with over 80,000 merchants accepting it for payments, according to currency tracker Coindesk."
+  },
+  "Product.section_4.desc3": {
+    "string": "The value of Bitcoin has passed the symbolic $500 mark for the first time in a month, suggesting that the cryptocurrency is stabilizing after a rollercoaster six months."
+  },
   "Product.section_4.title": {
     "string": "How to download a VPN app in 3 steps"
   },
@@ -767,17 +818,26 @@
   "Product.section_4.title3": {
     "string": "Download and install the app"
   },
-  "Product.section_5.title1": {
+  "Product.section_5.desc1a": {
+    "string": "With the first generation of Bitcoin businesses like Mt. Gox less influential today, the hopes of ‘mass-marketizing’ virtual currencies are held by venture capital-backed companies like BitPay, which recently raised $30 million, Coinbase, which raised a $25 million Series B round last year, and Circle. Interestingly, it looks like a significant transaction took the cyber currency over today’s landmark."
+  },
+  "Product.section_5.link1": {
+    "string": "I’ve seen people drop hints that they were Bitcoin’s creator seemingly to try to bring in investment money"
+  },
+  "Product.section_5.title1aa": {
     "string": "Best-in-class 256-bit encryption"
   },
-  "Product.section_5.title2": {
+  "Product.section_5.title2bb": {
     "string": "Unlimited bandwidth"
   },
-  "Product.section_5.title3": {
+  "Product.section_5.title3cc": {
     "string": "5-star customer support"
   },
-  "Product.section_5.title4": {
+  "Product.section_5.title4dd": {
     "string": "30-day money-back guarantee"
+  },
+  "Product.section_7.title": {
+    "string": "You might also like"
   },
   "Tutorials.section_1.desc": {
     "string": "Get simple and secure remote access from the world’s most trusted VPN brand"
