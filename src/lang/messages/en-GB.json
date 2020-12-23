@@ -614,6 +614,21 @@
   "FreeProxy.section_4.title.id3": {
     "string": "24/7 Customer Service"
   },
+  "LatestVPNprotocols.section_2.title1a": {
+    "string": "Security"
+  },
+  "LatestVPNprotocols.section_2.title2b": {
+    "string": "Stability"
+  },
+  "LatestVPNprotocols.section_2.title2d": {
+    "string": "Speed"
+  },
+  "LatestVPNprotocols.section_2.title3c": {
+    "string": "Easy of use"
+  },
+  "LatestVPNprotocols.section_2.title3e": {
+    "string": "Overall"
+  },
   "OurTeam.section_1.desc.id1": {
     "string": "Designer Web & Multimédia"
   },
@@ -898,6 +913,12 @@
   },
   "Product.section_7.title": {
     "string": "You might also like"
+  },
+  "Protocols.linux": {
+    "string": "Ubuntu"
+  },
+  "Protocols.win": {
+    "string": "Windows PC"
   },
   "Tutorials.section_1.desc": {
     "string": "Get simple and secure remote access from the world’s most trusted VPN brand"

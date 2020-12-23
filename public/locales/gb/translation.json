@@ -210,6 +210,10 @@
           "name": "Anonymous IP address"
         },
         {
+          "link": "/latest-vpn-protocols",
+          "name": "Latest VPN protocols"
+        },
+        {
           "link": "/api",
           "name": "API"
         }
