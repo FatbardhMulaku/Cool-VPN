@@ -1102,5 +1102,14 @@
   },
   "WhatIsVPN.section_8.title.id4": {
     "string": "Lighting fast speeds"
+  },
+  "WhyVPN.section_3.title1a": {
+    "string": "Advanced Security"
+  },
+  "WhyVPN.section_3.title2b": {
+    "string": "Access Any Content"
+  },
+  "WhyVPN.section_3.title3c": {
+    "string": "24/7 Customer Service"
   }
 }

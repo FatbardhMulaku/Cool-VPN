@@ -51,6 +51,9 @@ function SectionArt6() {
 					</p>
 				</div>
 			</div>
+			<div>
+				<input type="text" placeholder="Write a comment"></input>
+			</div>
 		</LayoutContainer>
 	)
 }

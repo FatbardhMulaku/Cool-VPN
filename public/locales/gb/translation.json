@@ -153,6 +153,10 @@
           "name": "What is CoolVPN?"
         },
         {
+          "link": "/why-vpn",
+          "name": "Why VPN"
+        },
+        {
           "link": "/faq",
           "name": "FAQ"
         },
