@@ -98,6 +98,66 @@
   "Affiliate.section_3.title3": {
     "string": "Get your commission"
   },
+  "AnonymousIP.section_2.desc2": {
+    "string": "You will use an intuitive reseller dashboard. This will be your place, dedicated to purchasing licenses and managing clients with ease."
+  },
+  "AnonymousIP.section_2.link1": {
+    "string": "Read more"
+  },
+  "AnonymousIP.section_2.link2": {
+    "string": "Read more"
+  },
+  "AnonymousIP.section_2.title2": {
+    "string": "You’re Being watched"
+  },
+  "AnonymousIP.section_3.desc1": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc2": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc3": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc4": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc5": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc6": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc7": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc8": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.title1": {
+    "string": "defeat isp speed"
+  },
+  "AnonymousIP.section_3.title2": {
+    "string": "unlimited data transfer"
+  },
+  "AnonymousIP.section_3.title3": {
+    "string": "unlimited server switching"
+  },
+  "AnonymousIP.section_3.title4": {
+    "string": "multiple security protocols"
+  },
+  "AnonymousIP.section_3.title5": {
+    "string": "ip leakage protection"
+  },
+  "AnonymousIP.section_3.title6": {
+    "string": "secure wi-fi"
+  },
+  "AnonymousIP.section_3.title7": {
+    "string": "complete anonymity"
+  },
+  "AnonymousIP.section_3.title8": {
+    "string": "256-bit data encryption"
+  },
   "Api.section_2.desc1": {
     "string": "API Reference"
   },

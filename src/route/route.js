@@ -35,6 +35,7 @@ import VPNforRouters from "../pages/VPNforRouters";
 import Product from "../pages/Product";
 import Articles from "../pages/Articles";
 import WhyVPN from "../pages/WhyVPN";
+import AnonymousIP from "../pages/AnonymousIP";
 
 const route = () => {
   return (
@@ -69,6 +70,7 @@ const route = () => {
           <Route path="/product" exact render={() => <Product />} />
           <Route path="/articles" exact render={() => <Articles />} />
           <Route path="/why-vpn" exact render={() => <WhyVPN />} />
+          <Route path="/anonymous-ip-address" exact render={() => <AnonymousIP />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

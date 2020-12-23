@@ -206,6 +206,10 @@
           "name": "VPN Routers"
         },
         {
+          "link": "/anonymous-ip-address",
+          "name": "Anonymous IP address"
+        },
+        {
           "link": "/api",
           "name": "API"
         }
