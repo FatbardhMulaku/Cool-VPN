@@ -1,0 +1,259 @@
+// =========== Section 1 ============
+.SectionPd1{
+	background-image: url("../../assets/Product/bg1.jpg");
+	padding:130px 0;
+	padding-bottom: 100px;
+	background-attachment: scroll;
+	background-size: 102% 100%;
+	@media only screen and (max-width: 768px) {
+		background-size: cover;
+		padding-bottom: 140px;
+		padding-top:100px ;
+	}
+	
+	&>div>div>div:first-child> div p{
+		color: white;
+		margin: 9px 0!important;
+	}
+	&>div>div>div:first-child> div:first-child{
+		color: white;
+		font-size: 25px;
+		@media only screen and (max-width: 768px) {
+			font-size: 18px;
+		}
+	}
+	&__img{
+		background-image: url("../../assets/Product/section1_img.png");
+		width: 280px;
+		height: 220px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+// =========== Section 2 ============
+.SectionPd2{
+	padding: 30px 0;
+	h3{
+		text-align: center;
+		margin-bottom: 20px;
+		@media only screen and (max-width: 768px) {
+			font-size: 22px;
+		}
+	}
+	&__box{
+		width: 230px;
+		margin: 15px 20px;
+		padding: 40px 30px;
+		border: 2px solid rgba(216, 216, 216, 0.692);
+		border-radius:30% 70% 65% 35% / 30% 45% 55% 70% ;
+		transition:all 0.5s ease-in-out;
+		margin-bottom: 60px;
+		&:hover &__img1{
+			background-image: url("../../assets/Product/section2b_icon1.svg");
+		}
+		&:hover &__img2{
+			background-image: url("../../assets/Product/section2b_icon2.svg");
+		}
+		&:hover &__img3{
+			background-image: url("../../assets/Product/section2b_icon3.svg");
+		}
+		&:hover &__img4{
+			background-image: url("../../assets/Product/section2b_icon4.svg");
+		}
+		&:hover{
+			border: 2px solid #8878BF;
+		}
+		&:hover h6{
+			color: #8878BF;
+		}
+		h6{
+			text-align: center;
+			margin: 10px 0;
+			font-weight: 700;
+			font-size: 17px;
+		}
+		&__img1, &__img2, &__img3, &__img4{
+			width: 50px;
+			height: 50px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		&__img1{
+			background-image: url("../../assets/Product/section2_icon1.svg");
+		}
+		&__img2{
+			background-image: url("../../assets/Product/section2_icon2.svg");
+			width: 46px;
+		}
+		&__img3{
+			background-image: url("../../assets/Product/section2_icon3.svg");
+			width: 43px;
+		}
+		&__img4{
+			background-image: url("../../assets/Product/section2_icon4.svg");
+			width: 43px;
+		}
+	}
+}
+// =========== Section 3 ============
+.SectionPd3{
+	background-image: url("../../assets/Product/bg2.png");
+	padding:90px 0;
+	background-attachment: scroll;
+	background-size: 150% 100%;
+	@media only screen and (max-width: 768px) {
+		background-size: cover;
+	}
+	h3{
+		text-align: center;
+		color: white;
+		margin-bottom: 25px;
+		@media only screen and (max-width: 768px) {
+			font-size: 22px;
+		}
+	}
+	&__box{
+		width: 230px;
+		margin: 15px 20px;
+		padding: 40px;
+		border: 2px solid #8878BF;
+		border-radius:50% ;
+		transition:all 0.5s ease-in-out;
+		&:hover{
+			background-color: #8878BF;
+		}
+		h6{
+			text-align: center;
+			color: white;
+			margin: 10px;
+		}
+		&__img1, &__img2{
+			width: 50px;
+			height: 50px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		&__img1{
+			background-image: url("../../assets/Product/section3_icon1.svg");
+		}
+		&__img2{
+			background-image: url("../../assets/Product/section3_icon2.svg");
+		}
+	}
+}	
+// =========== Section 4 ============
+.SectionPd4{
+	h3{
+		text-align: center;
+		margin-bottom: 25px;
+	}
+	&__box{
+		width: 320px;
+		margin: 15px 20px;
+		padding: 30px 35px;
+		border: 2px solid rgba(216, 216, 216, 0.692);
+		border-radius:30% 70% 65% 35% / 30% 45% 55% 70% ;
+		transition:all 0.5s ease-in-out;
+		@media only screen and (max-width: 768px) {
+			width: 300px;
+		}
+		&:hover{
+			box-shadow: 0px 3px 11px -3px rgba(124, 124, 124, 0.75);
+			border-color: #8878BF;
+		}
+		&:hover p{
+			font-weight: bold;
+		}
+		h2{
+			text-align: center;
+		}
+		p{
+			text-align: center;
+		}
+		&__img1, &__img2, &__img3{
+			width: 150px;
+			height: 100px;
+			margin-bottom: 10px;
+		}
+		&__img1{
+			background-image: url("../../assets/Product/section4_icon1.jpg");
+		}
+		&__img2{
+			background-image: url("../../assets/Product/section4_icon2.jpg");
+		}
+		&__img3{
+			background-image: url("../../assets/Product/section4_icon3.jpg");
+		}
+	}
+	
+}
+// =========== Section 4 ============
+.SectionPd5{
+	background-image: url("../../assets/Product/bg3.jpg");
+	padding-top: 130px;
+	padding-bottom: 100px;
+	background-attachment: scroll;
+	background-position-y: top;
+	background-size:105% 150%;
+	margin-bottom: 0;
+	@media only screen and (max-width: 1200px) {
+		padding-top: 300px;
+		padding-bottom: 100px;
+	}
+	@media only screen and (max-width: 992px) {
+		background-size:145% 150%;
+		padding-top: 300px;
+		padding-bottom: 100px;
+	}
+	@media only screen and (max-width: 492px) {
+		background-size:245% 150%;
+		padding-top: 300px;
+		padding-bottom: 50px;
+	}
+	&__txt{
+		h2{
+			font-size: 28px;
+		}
+		p{
+			margin: 0px 0 !important;
+			font-size: 15px;
+		}
+	}
+	&__box{
+		width: 230px;
+		margin: 15px 20px;
+		padding: 20px 20px;
+		border: 2px solid transparent;
+		transition:all 0.5s ease-in-out;
+		border-radius: 10px;
+		margin-top: 40px;
+		background-color: white;
+		&:hover{
+			transform: scale(1.05);
+		}	
+		h6{
+			text-align: center;
+			margin: 10px 0;
+			font-weight: 700;
+			font-size: 17px;
+		}
+		&__img1, &__img2, &__img3, &__img4{
+			width: 60px;
+			height: 60px;;
+			margin: 10px auto;
+		}
+		&__img1{
+			background-image: url("../../assets/Product/section5_icon1.jpg");
+			width: 80px;
+		}
+		&__img2{
+			background-image: url("../../assets/Product/section5_icon2.png");
+		}
+		&__img3{
+			background-image: url("../../assets/Product/section5_icon3.png");
+		}
+		&__img4{
+			background-image: url("../../assets/Product/section5_icon4.png");
+		}
+	}
+}

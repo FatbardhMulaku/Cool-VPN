@@ -31,7 +31,6 @@ function SectionVPNr8() {
 							answer={answers}
 						/>
 				))}
-
 			</div>
 		</LayoutContainer>
 	)

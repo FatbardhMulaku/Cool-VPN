@@ -719,6 +719,66 @@
   "PrivacyPolicy.section_4.title": {
     "string": "Data policy for the use of Hotjar"
   },
+  "Product.section_1.title1": {
+    "string": "Download a VPN app and protect any device"
+  },
+  "Product.section_1.title1z": {
+    "string": "Download a VPN app and protect any device"
+  },
+  "Product.section_1.title2": {
+    "string": "VPN software for computers, mobile, and more"
+  },
+  "Product.section_1.title3": {
+    "string": "CoolVPN offers a safe, easy-to-use VPN app for every major platform and solutions for all your favorite devices."
+  },
+  "Product.section_1.title4": {
+    "string": "Get set up in just five minutes."
+  },
+  "Product.section_2.title1": {
+    "string": "VPN for windows"
+  },
+  "Product.section_2.title2": {
+    "string": "VPN for android"
+  },
+  "Product.section_2.title3": {
+    "string": "VPN for Mac"
+  },
+  "Product.section_2.title4": {
+    "string": "VPN for Linux"
+  },
+  "Product.section_3.title1": {
+    "string": "VPN for Chrome"
+  },
+  "Product.section_3.title1z": {
+    "string": "VPN extensions for your favorite browsers"
+  },
+  "Product.section_3.title2": {
+    "string": "VPN for FireFox"
+  },
+  "Product.section_4.title": {
+    "string": "How to download a VPN app in 3 steps"
+  },
+  "Product.section_4.title1": {
+    "string": "Get CoolVPN"
+  },
+  "Product.section_4.title2": {
+    "string": "Visit the setup page"
+  },
+  "Product.section_4.title3": {
+    "string": "Download and install the app"
+  },
+  "Product.section_5.title1": {
+    "string": "Best-in-class 256-bit encryption"
+  },
+  "Product.section_5.title2": {
+    "string": "Unlimited bandwidth"
+  },
+  "Product.section_5.title3": {
+    "string": "5-star customer support"
+  },
+  "Product.section_5.title4": {
+    "string": "30-day money-back guarantee"
+  },
   "Tutorials.section_1.desc": {
     "string": "Get simple and secure remote access from the world’s most trusted VPN brand"
   },
