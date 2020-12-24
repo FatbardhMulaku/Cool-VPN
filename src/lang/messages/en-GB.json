@@ -431,6 +431,114 @@
   "BecomePartner.section_5.title3": {
     "string": "Earn"
   },
+  "ContactUs.section_2.desc1": {
+    "string": "Atención al cliente 24/7 Buenos Aires:"
+  },
+  "ContactUs.section_2.desc10": {
+    "string": "Basel: 8:00 - 20:00 Uhr, M-F"
+  },
+  "ContactUs.section_2.desc11": {
+    "string": "24/7 Support"
+  },
+  "ContactUs.section_2.desc12": {
+    "string": "Atención al cliente 24/7 Ciudad de México:"
+  },
+  "ContactUs.section_2.desc2": {
+    "string": "24/7 Support Countrywide:"
+  },
+  "ContactUs.section_2.desc3": {
+    "string": "8 bis 20 Uhr, Mo-Fr"
+  },
+  "ContactUs.section_2.desc4": {
+    "string": "9h à 21:30h lun-ven"
+  },
+  "ContactUs.section_2.desc5": {
+    "string": "Ülke çapında: Pzt-Cu 9:00 - 19:00 arası"
+  },
+  "ContactUs.section_2.desc6": {
+    "string": "24/7 Support:"
+  },
+  "ContactUs.section_2.desc7": {
+    "string": "24/7 Support"
+  },
+  "ContactUs.section_2.desc8": {
+    "string": "Atención al cliente 24/7 Caracas:"
+  },
+  "ContactUs.section_2.desc9": {
+    "string": "Kraków: Pomoc techn. 24/7 po ang."
+  },
+  "ContactUs.section_2.number1": {
+    "string": "+54 11 5984 0780"
+  },
+  "ContactUs.section_2.number10": {
+    "string": "+41 61 588 0224"
+  },
+  "ContactUs.section_2.number11": {
+    "string": "+65 63494240"
+  },
+  "ContactUs.section_2.number12": {
+    "string": "+52 55 4631 2410"
+  },
+  "ContactUs.section_2.number2": {
+    "string": "+61 1300 351 076"
+  },
+  "ContactUs.section_2.number3": {
+    "string": "+49 89 21 094 807"
+  },
+  "ContactUs.section_2.number4": {
+    "string": "+33 9 75 18 70 39"
+  },
+  "ContactUs.section_2.number5": {
+    "string": "850 390 75 46"
+  },
+  "ContactUs.section_2.number6": {
+    "string": "+44 20 7084 1810"
+  },
+  "ContactUs.section_2.number7": {
+    "string": "+1 4804638389"
+  },
+  "ContactUs.section_2.number8": {
+    "string": "+58 212 7719061"
+  },
+  "ContactUs.section_2.number9": {
+    "string": "+48 12 881 12 87"
+  },
+  "ContactUs.section_2.state1": {
+    "string": "Argentina"
+  },
+  "ContactUs.section_2.state10": {
+    "string": "Schweiz"
+  },
+  "ContactUs.section_2.state11": {
+    "string": "Singapore"
+  },
+  "ContactUs.section_2.state12": {
+    "string": "México"
+  },
+  "ContactUs.section_2.state2": {
+    "string": "Australia"
+  },
+  "ContactUs.section_2.state3": {
+    "string": "Deutschland"
+  },
+  "ContactUs.section_2.state4": {
+    "string": "France"
+  },
+  "ContactUs.section_2.state5": {
+    "string": "Türkiye"
+  },
+  "ContactUs.section_2.state6": {
+    "string": "United Kingdom"
+  },
+  "ContactUs.section_2.state7": {
+    "string": "United States"
+  },
+  "ContactUs.section_2.state8": {
+    "string": "Venezuela"
+  },
+  "ContactUs.section_2.state9": {
+    "string": "Polska"
+  },
   "FAQ.section_1.title": {
     "string": "Have a Question? Look here"
   },

@@ -1,7 +1,8 @@
 import React from "react";
 import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
 import SectionC1 from "./SectionC1";
-
+import SectionC2 from "./SectionC2";
+import HelpSection from "../Download/SectionD5";
 const theme = createMuiTheme({
   breakpoints: {
     values: {
@@ -19,6 +20,8 @@ const index = () => {
     <div>
       <ThemeProvider theme={theme}>
 		    <SectionC1 />
+        <SectionC2 />
+        <HelpSection />
       </ThemeProvider>
     </div>
   );
