@@ -1,5 +1,6 @@
 .SectionB4__wrapper{
 	padding: 25px;
+	padding-bottom: 40px;
 	margin-bottom: 25px;
 	display: flex;
 	border: 2px solid #8878BF;
@@ -12,6 +13,13 @@
 }
 .SectionB4{
 	padding: 20px 0;
+	padding-bottom: 40px;
+}
+.SectionB4 > div:last-child{
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: center;
 }
 .SectionB4 > h5{
 	font-weight: bold;

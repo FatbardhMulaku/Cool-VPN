@@ -37,7 +37,8 @@ import Articles from "../pages/Articles";
 import WhyVPN from "../pages/WhyVPN";
 import AnonymousIP from "../pages/AnonymousIP";
 import LatestVPNprotocols from "../pages/LatestVPNprotocols";
-
+import VPNsetupStep from "../pages/VPNsetupStep";
+ 
 const route = () => {
   return (
     <Router>
@@ -73,6 +74,7 @@ const route = () => {
           <Route path="/why-vpn" exact render={() => <WhyVPN />} />
           <Route path="/anonymous-ip-address" exact render={() => <AnonymousIP />} />
           <Route path="/latest-vpn-protocols" exact render={() => <LatestVPNprotocols />} />
+          <Route path="/VPN-setup-Step" exact render={() => <VPNsetupStep />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

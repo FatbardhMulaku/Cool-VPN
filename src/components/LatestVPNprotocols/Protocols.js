@@ -6,10 +6,11 @@ import { List } from "./data"
 const useStyles = makeStyles((theme) => ({
 	root: {
 	  backgroundColor:(props) => props.BGcolor,
-	  border: (props) => props.Radius,
+	  border: (props) => props.border,
 	  borderRadius: "15px",
 	  "&:hover": {
 		boxShadow: "0 4px 7px rgba(0,0,0,0.3)",
+		backgroundColor:(props) => props.hover,
 	  },
 	  transition: "$boxShadow 0.3s ease-in-out",
 	  "& > p": {
@@ -25,6 +26,9 @@ const useStyles = makeStyles((theme) => ({
 		  },
 	  },
 	},
+	Pcolor:{
+		color:(props) => props.color,
+	}
   }));
 
 function Protocols(props) {
@@ -52,7 +56,7 @@ function Protocols(props) {
 					/></p>
 				</div>
 			</div>
-			<p><FormattedMessage
+			<p className={classes.Pcolor}><FormattedMessage
 				id={`${props.txt}.desc`}
 				defaultMessage={props.desc}
 			/></p>
