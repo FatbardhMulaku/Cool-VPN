@@ -112,8 +112,6 @@ export default function HorizontalNonLinearAlternativeLabelStepper() {
 
   const handleSkip = () => {
     if (!isStepOptional(activeStep)) {
-      // You probably want to guard against something like this
-      // it should never occur unless someone's actively trying to break something.
       throw new Error("You can't skip a step that isn't optional.");
     }
 
@@ -144,8 +142,7 @@ export default function HorizontalNonLinearAlternativeLabelStepper() {
   const handleNext = () => {
     const newActiveStep =
       isLastStep() && !allStepsCompleted()
-        ? // It's the last step, but not all steps have been completed
-          // find the first step that has been completed
+        ?
           steps.findIndex((step, i) => !completed.has(i))
         : activeStep + 1;
 
