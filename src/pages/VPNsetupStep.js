@@ -6,7 +6,7 @@ const LazyLoaded = lazy(() => import("../components/VPNsetupStep/index"))
 const VPNsetupStep = () => {
   return (
     <WrapSupsense>
-        <Header BCs="#2D2E2D" BC="transparent" TXT="a_white" LO="white_logo" BTN="white"/>
+        <Header BCs="#3b2b72" BC="transparent" TXT="a_white" LO="white_logo" BTN="white"/>
         <LazyLoaded />
     </WrapSupsense>)   
 };
