@@ -1097,6 +1097,42 @@
   "Protocols.win": {
     "string": "Windows PC"
   },
+  "ResellerHistory.section_1.title4": {
+    "string": "Already an affiliate?"
+  },
+  "ResellerHistory.section_1.title5": {
+    "string": "Sign In"
+  },
+  "ResellerHistory.section_2.desc1": {
+    "string": "We offer the best commission rates in the industry. All balances of $100 are paid out automatically every month"
+  },
+  "ResellerHistory.section_2.desc2": {
+    "string": "CoolVPN has been providing VPN service to users globally since 2006. We are one of the longest- standing and most trusted VPN providers on the market."
+  },
+  "ResellerHistory.section_2.title1": {
+    "string": "What Does a Reseller Do?"
+  },
+  "ResellerHistory.section_2.title2": {
+    "string": "How to Get Started"
+  },
+  "ResellerHistory.section_4.title1": {
+    "string": "Review Sites"
+  },
+  "ResellerHistory.section_4.title2": {
+    "string": "Publishers"
+  },
+  "ResellerHistory.section_4.title3": {
+    "string": "Bloggers"
+  },
+  "ResellerHistory.section_4bb.desc": {
+    "string": "Christian Warner"
+  },
+  "ResellerHistory.section_4bb.desc22": {
+    "string": "Developer@ueno.co"
+  },
+  "ResellerHistory.section_4bb.title1": {
+    "string": "Great experience using @Coolvpn. Amazing customer service and an even faster solution response rate."
+  },
   "Tutorials.section_1.desc": {
     "string": "Get simple and secure remote access from the world’s most trusted VPN brand"
   },

@@ -142,6 +142,10 @@
         {
           "link": "/blog",
           "name": "Blog"
+        },
+        {
+          "link": "/VPN-setup-Step",
+          "name": "VPN Setup Step"
         }
       ]
     },
@@ -181,9 +185,10 @@
           "name": "Our Team"
         },
         {
-          "link": "/VPN-setup-Step",
-          "name": "VPN Setup Step"
+          "link": "/api",
+          "name": "API"
         }
+
       ]
     },
     {
@@ -218,12 +223,12 @@
           "name": "Latest VPN protocols"
         },
         {
-          "link": "/api",
-          "name": "API"
-        },
-        {
           "link": "/affiliate-sales",
           "name": "Affiliate Sales"
+        },
+        {
+          "link": "/reseller-history",
+          "name": "Reseller History"
         }
 
       ]
