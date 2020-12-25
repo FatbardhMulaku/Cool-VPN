@@ -98,6 +98,75 @@
   "Affiliate.section_3.title3": {
     "string": "Get your commission"
   },
+  "AffiliateSales.section_1.title1": {
+    "string": "Join the best VPN Affiliate program & Start Earning"
+  },
+  "AffiliateSales.section_1.title2": {
+    "string": "$62,488"
+  },
+  "AffiliateSales.section_1.title3": {
+    "string": "Are you ready to EARN UP TO in 7 days like one of our affilitaes?"
+  },
+  "AffiliateSales.section_2.desc1": {
+    "string": "We offer the best commission rates in the industry. All balances of $100 are paid out automatically every month"
+  },
+  "AffiliateSales.section_2.desc2": {
+    "string": "CoolVPN has been providing VPN service to users globally since 2006. We are one of the longest- standing and most trusted VPN providers on the market."
+  },
+  "AffiliateSales.section_2.desc3": {
+    "string": "Contact us anytime to discuss ideas and get feedback on how to optimize your CoolVPN affiliate campaign. We are here to help!"
+  },
+  "AffiliateSales.section_2.desc4": {
+    "string": "Our affiliate software gives you 24/7 reporting to monitor and manage your sales and commissions."
+  },
+  "AffiliateSales.section_2.title1": {
+    "string": "Price for top VPN Affiliates"
+  },
+  "AffiliateSales.section_2.title2": {
+    "string": "On-time Affiliates Payout"
+  },
+  "AffiliateSales.section_2.title3": {
+    "string": "Dedicated affiliate support"
+  },
+  "AffiliateSales.section_2.title4": {
+    "string": "Affiliates Notifications & Multiple Methods"
+  },
+  "AffiliateSales.section_3.title1": {
+    "string": "Review Sites"
+  },
+  "AffiliateSales.section_3.title2": {
+    "string": "Publishers"
+  },
+  "AffiliateSales.section_3.title3": {
+    "string": "Bloggers"
+  },
+  "AffiliateSales.section_3.title4": {
+    "string": "Youtube"
+  },
+  "AffiliateSales.section_3.title5": {
+    "string": "Coupon Sites"
+  },
+  "AffiliateSales.section_3.title6": {
+    "string": "Anyone"
+  },
+  "AffiliateSales.section_5.desc1": {
+    "string": "By submitting this form, you agree to ou"
+  },
+  "AffiliateSales.section_5.desc2": {
+    "string": "Terms of Service"
+  },
+  "AffiliateSales.section_5.desc3": {
+    "string": "and"
+  },
+  "AffiliateSales.section_5.desc4": {
+    "string": "Privacy Policy"
+  },
+  "AffiliateSales.section_5.desc5": {
+    "string": "If you do not wish to receive information about CoolVPN services, please send us an email at privacy@easyvpn.com."
+  },
+  "AffiliateSales.section_5.title1": {
+    "string": "Get Started"
+  },
   "AnonymousIP.section_2.desc2": {
     "string": "You will use an intuitive reseller dashboard. This will be your place, dedicated to purchasing licenses and managing clients with ease."
   },

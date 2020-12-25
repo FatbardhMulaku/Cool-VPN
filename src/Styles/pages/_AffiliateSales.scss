@@ -1,0 +1,191 @@
+// =========== Section 1 ============
+.SectionAS1{
+	background-image: url("../../assets/Support/section1_bg.png");
+	background-attachment: scroll;
+	padding: 150px 0;
+	padding-bottom: 240px;
+	background-size: 110% 100%;
+	@media only screen and (max-width: 768px) {
+		background-size: cover;
+	}
+	&>div>div>div>p{
+		color: white;
+		margin-bottom: 10px !important;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+	}
+	&>div>div>div>p:nth-child(1){
+		font-size: 25px;
+		font-weight: bold;
+	}
+	&>div>div>div>p:nth-child(2){
+		font-size: 20px;
+		font-weight: 400;
+	}
+	&>div>div>div>p:nth-child(3){
+		font-weight: bold;
+	}
+}
+// =========== Section 2 ============
+.SectionAS2{
+	margin-top: -50px;
+	padding-bottom: 50px;
+	&__txt{
+		h2{
+			color: #061A46;
+		}
+		p{
+			color: #778299;
+		}
+	}
+	&__box{
+		width: 330px;
+		margin: 20px 40px;
+		padding: 20px;
+		border-radius: 20px;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		&:hover{
+			box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.41);
+		}
+		h5{
+			color: #061A46;
+			font-weight: 400;
+			text-align: center;
+		}
+		p{
+			color: #778299;
+			text-align: center;
+			font-size: 15px;
+		}
+		&__img1,&__img2,&__img3,&__img4{
+			width: 160px;
+			height: 110px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 10px;
+		}
+		&__img1{
+			background-image: url("../../assets/AffiliateSales/2img1.jpg");
+			height: 108px;
+			width: 170px;
+		}
+		&__img2{
+			background-image: url("../../assets/AffiliateSales/2img2.jpg");
+			height: 107px;
+		}
+		&__img3{
+			background-image: url("../../assets/AffiliateSales/2img3.jpg");
+		}
+		&__img4{
+			background-image: url("../../assets/AffiliateSales/2img4.jpg");
+		}
+	}
+	&>div>div:last-child{
+		display: flex;
+		justify-content: center;
+	}
+}
+// =========== Section 3 ============
+.SectionAS3{
+	padding: 50px 0;
+	background-image:linear-gradient(
+		to right,
+	#00000080,
+	#00000080
+	  ), url("../../assets/VPNsetupStep/Mask\ Group\ 287.jpg");
+	&__box{
+		width: 200px;
+		margin: 20px 50px;
+		transition-duration: 0.3s;
+		&:hover &__img1,&:hover &__img2,&:hover &__img3,&:hover &__img4,&:hover &__img5,&:hover &__img6{
+			transform: scale(1.1);
+		}
+		h6{
+			color: white;
+			text-align: center;
+			margin-top: 10px;
+		}
+		&__img1,&__img2,&__img3,&__img4,&__img5,&__img6{
+			width: 70px;
+			height: 70px;
+			margin-left: auto;
+			margin-right: auto;
+			transition-duration: 0.3s;
+		}
+		&__img1{
+			background-image: url("../../assets/AffiliateSales/3img1.png");
+			width: 48px;
+		}
+		&__img2{
+			background-image: url("../../assets/AffiliateSales/3img2.png");
+			width: 63px;
+		}
+		&__img3{
+			background-image: url("../../assets/AffiliateSales/3img3.png");
+			width: 65px;
+		}
+		&__img4{
+			background-image: url("../../assets/AffiliateSales/3img4.png");
+			height: 48px;
+			margin-top: 15px;
+		}
+		&__img5{
+			background-image: url("../../assets/AffiliateSales/3img5.png");
+			height: 55px;
+			margin-top: 8px;
+		}
+		&__img6{
+			background-image: url("../../assets/AffiliateSales/3img6.png");
+			width: 60px;
+			height: 60px;
+		}
+	}
+}
+// =========== Section 4 ============
+.SectionAS4{
+	padding: 70px 0;
+	&__txt{
+		h2{
+			color: #061A46;
+			font-weight: 400;
+			font-size: 27px;
+		}
+		p{
+			color: #778299;
+		}
+	}
+	&__img{
+		background-image: url("../../assets/AffiliateSales/4img.png");
+		width: 400px;
+		height: 222px;
+		@media only screen and (max-width: 768px) {
+			width: 280px;
+			height: 155px;
+		}
+	}
+	&>div>div>div>div:last-child{
+		@media only screen and (max-width: 992px) {
+			display: flex;
+			justify-content: center;
+			margin-bottom: 30px;
+		}
+	}
+}
+// =========== Section 5 ============
+.SectionAS5{
+	padding-bottom: 70px;
+	&__box{
+		padding: 30px 40px;
+		width: 80%;
+		border: 1px solid rgb(179, 179, 179);
+		border-radius: 20px;
+		@media only screen and (max-width: 768px) {
+			width: 100%;
+			padding: 20px;
+		}
+		&>div:last-child{
+			margin-top: 40px;
+			display: flex;
+			justify-content: center;
+		}
+	}
+}

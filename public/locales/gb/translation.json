@@ -220,6 +220,10 @@
         {
           "link": "/api",
           "name": "API"
+        },
+        {
+          "link": "/affiliate-sales",
+          "name": "Affiliate Sales"
         }
 
       ]

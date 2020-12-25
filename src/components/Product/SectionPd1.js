@@ -21,12 +21,12 @@ function SectionPd1() {
 					DfBtn="Get CoolVPN "
 				/>
 				<Botton link="SectionPd2" offsetBtn={-150} txt="Product.section_1.btn2"
-				BGcolor="transparent" color="#fff" margin="10px"
-				HoverBGcolor="#fff" HoverColor="#000"
-				border="1px solid #fff"
-				HoverBorder="1px solid #000"
-				DfBtn="Learn more"
-			/>
+					BGcolor="transparent" color="#fff" margin="10px"
+					HoverBGcolor="#fff" HoverColor="#000"
+					border="1px solid #fff"
+					HoverBorder="1px solid #000"
+					DfBtn="Learn more"
+				/>
 			</div>
 			</div>
 			<div className="col-sm-12 col-lg-5 justify">

@@ -38,6 +38,7 @@ import WhyVPN from "../pages/WhyVPN";
 import AnonymousIP from "../pages/AnonymousIP";
 import LatestVPNprotocols from "../pages/LatestVPNprotocols";
 import VPNsetupStep from "../pages/VPNsetupStep";
+import AffiliateSales from "../pages/AffiliateSales";
  
 const route = () => {
   return (
@@ -75,6 +76,7 @@ const route = () => {
           <Route path="/anonymous-ip-address" exact render={() => <AnonymousIP />} />
           <Route path="/latest-vpn-protocols" exact render={() => <LatestVPNprotocols />} />
           <Route path="/VPN-setup-Step" exact render={() => <VPNsetupStep />} />
+          <Route path="/affiliate-sales" exact render={() => <AffiliateSales />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />
