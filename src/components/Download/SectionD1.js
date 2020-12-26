@@ -16,13 +16,13 @@ function SectionD1() {
 				<Fade top > 
 				<TextInfo txt="Download.section_1" textAlign="left" color="black" margin="0px" klasa="SectionD1__info"/>
 				<div className="row justify-content-center">
-					<Botton linkBtn="SectionFe1" offsetBtn={-150} txt="Download.section_1.btn1"
+					<Botton link="/pricing" offsetBtn={-150} txt="Download.section_1.btn1"
 								BGcolor="#8878BF" color="#fff" margin="10px"
 								HoverBGcolor="transparent" HoverColor="#8878BF"
 								border="1px solid #8878BF"
 								HoverBorder="1px solid #8878BF"/>
 					<p>{t("Download.section_1.or")}</p>
-					<Botton linkBtn="SectionFe1" offsetBtn={-150} txt="Download.section_1.btn2"
+					<Botton link="/pricing" offsetBtn={-150} txt="Download.section_1.btn2"
 							BGcolor="transparent" color="#8878BF" margin="10px"
 							HoverBGcolor="#8878BF" HoverColor="#fff"
 							border="2px solid #8878BF"

@@ -38,9 +38,9 @@ function SectionRH4() {
 					</h3>
 					<h5>
 					<FormattedMessage
-							id="ResellerHistory.section_4bb.desc"
-							defaultMessage="Christian Warner"
-						/>
+						id="ResellerHistory.section_4bb.desc"
+						defaultMessage="Christian Warner"
+					/>
 					</h5>
 					<div className="SectionRH4__foo__img2 bg"/>
 					<p>

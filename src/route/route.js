@@ -42,6 +42,7 @@ import AffiliateSales from "../pages/AffiliateSales";
 import ResellerHistory from "../pages/ResellerHistory";
 import RequestSupport from "../pages/RequestSupport";
 import Imprint from "../pages/Imprint";
+import BloginDepth from "../pages/BloginDepth";
  
 const route = () => {
   return (
@@ -83,6 +84,7 @@ const route = () => {
           <Route path="/reseller-history" exact render={() => <ResellerHistory />} />
           <Route path="/request-support" exact render={() => <RequestSupport />} />
           <Route path="/imprint" exact render={() => <Imprint />} />
+          <Route path="/blog-in-depth" exact render={() => <BloginDepth />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

@@ -1423,5 +1423,50 @@
   },
   "WhyVPN.section_3.title3c": {
     "string": "24/7 Customer Service"
+  },
+  "blogInDepth.section_1.desc": {
+    "string": "Search engine metrics are more than plain numbers — they can tell us a lot about the world we live in, our daily habits, and even the political situation. The CoolVPN research team picked two keywords, “access” and “unblock,” to see where they lead on Google."
+  },
+  "blogInDepth.section_1.desc1aa": {
+    "string": "Researchers found 137,000 queries in 30 days containing a keyword “unblock.” A whopping 82.7% of these users were searching for ways to unblock YouTube. It was followed by Facebook (6.2%), Google (5.7%), Instagram (1.8%), and Reddit (1.5%)."
+  },
+  "blogInDepth.section_1.desc1bb": {
+    "string": "There are two main cases when YouTube videos are not available in your country:"
+  },
+  "blogInDepth.section_1.desc2aa": {
+    "string": "IoT industries"
+  },
+  "blogInDepth.section_1.desc2bb": {
+    "string": "Video owners made the content available only in certain countries to comply with licensing agreements;"
+  },
+  "blogInDepth.section_1.desc3aa": {
+    "string": "This is not very unexpected, as YouTube is well known for restricting content depending on a user’s location. You have probably seen the “This video is not available in your country” message at some point, and many are eager to overcome this inconvenience."
+  },
+  "blogInDepth.section_1.desc3bb": {
+    "string": "YouTube chose to block videos to comply with your country’s laws."
+  },
+  "blogInDepth.section_1.desc41": {
+    "string": "Enjoy your favorite content without limits with CoolVPN."
+  },
+  "blogInDepth.section_1.desc4aa": {
+    "string": "The US, India, and Indonesia were among the countries whose residents looked to “unblock YouTube” most often."
+  },
+  "blogInDepth.section_1.desc4bb": {
+    "string": "However, YouTube is also often restricted in schools, universities, or workplaces. Streaming high-quality videos takes up a lot of bandwidth and slows down the internet speed for other users. Besides, sometimes the temptation to spend an hour watching evil cat videos is just too high — at the expense of productivity."
+  },
+  "blogInDepth.section_1.desc5aa": {
+    "string": "YouTube was also the most popular platform to “access” with 88.5% of total search queries, which goes in line with its restrictive nature."
+  },
+  "blogInDepth.section_1.desc5bb": {
+    "string": "One more reason why you may not be able to access your desired video content is traveling or living abroad. Different countries have different licensing agreements, which means different content libraries."
+  },
+  "blogInDepth.section_1.title": {
+    "string": "What search engines can tell us about internet restrictions"
+  },
+  "blogInDepth.section_1.title1aa": {
+    "string": "Video content is king"
+  },
+  "blogInDepth.section_1.title1bb": {
+    "string": "Why is YouTube a target for restrictions?"
   }
 }

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Route } from 'react-router-dom';
 import TextInfo from "../Shared/Text/TextInfo";
 import "./Styles/SectionB2.css";
 import PostInfo from "./PostInfo";
@@ -6,15 +7,17 @@ import Zoom from 'react-reveal/Zoom';
 
 function SectionB2() {
 	return (
-		<Zoom>
-		<div className="SectionB2 container">
-			<div className="SectionB2__img bg my-auto"/>
-			<div className="SectionB2__txt">
-				<TextInfo txt="Blog.section_2" textAlign="left" color="#2D2E2D" margin="0px" klasa="SectionB2__info"/>
-
-				<PostInfo margin="70px 0 0 0"/>
+		<Zoom> 
+		<Route render={({ history}) => (
+			<div className="SectionB2 container" onClick={() => { history.push('/blog-in-depth') }}>
+				<div className="SectionB2__img bg my-auto"/>
+				<div className="SectionB2__txt">
+					<TextInfo txt="Blog.section_2" textAlign="left" color="#2D2E2D" margin="0px" klasa="SectionB2__info"/>
+					
+					<PostInfo margin="70px 0 0 0"/>
+				</div>
 			</div>
-		</div>
+		  )} />
 		</Zoom>
 	)
 }
