@@ -1097,6 +1097,24 @@
   "Protocols.win": {
     "string": "Windows PC"
   },
+  "RequestSupport.section_2.desc1": {
+    "string": "Jansen Street 187, Oklahoma City USA"
+  },
+  "RequestSupport.section_2.desc2": {
+    "string": "support@Coolvpn"
+  },
+  "RequestSupport.section_2.desc3": {
+    "string": "+40 7777 9000 456"
+  },
+  "RequestSupport.section_2.title1": {
+    "string": "Location"
+  },
+  "RequestSupport.section_2.title2": {
+    "string": "Email"
+  },
+  "RequestSupport.section_2.title3": {
+    "string": "Phone"
+  },
   "ResellerHistory.section_1.title4": {
     "string": "Already an affiliate?"
   },

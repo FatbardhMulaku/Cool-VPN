@@ -187,6 +187,10 @@
         {
           "link": "/api",
           "name": "API"
+        },
+        {
+          "link": "/request-support",
+          "name": "Request Support"
         }
 
       ]

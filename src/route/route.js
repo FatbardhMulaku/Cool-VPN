@@ -40,6 +40,7 @@ import LatestVPNprotocols from "../pages/LatestVPNprotocols";
 import VPNsetupStep from "../pages/VPNsetupStep";
 import AffiliateSales from "../pages/AffiliateSales";
 import ResellerHistory from "../pages/ResellerHistory";
+import RequestSupport from "../pages/RequestSupport";
  
 const route = () => {
   return (
@@ -79,6 +80,7 @@ const route = () => {
           <Route path="/VPN-setup-Step" exact render={() => <VPNsetupStep />} />
           <Route path="/affiliate-sales" exact render={() => <AffiliateSales />} />
           <Route path="/reseller-history" exact render={() => <ResellerHistory />} />
+          <Route path="/request-support" exact render={() => <RequestSupport />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />
