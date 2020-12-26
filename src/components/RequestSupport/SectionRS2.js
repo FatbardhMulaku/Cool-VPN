@@ -32,7 +32,7 @@ function SectionRS2() {
 					/>
 				</div>
 			</div>
-			<div className="SectionRS2__img bg mx-auto"/>
+	
  		</LayoutContainer>
 	)
 }

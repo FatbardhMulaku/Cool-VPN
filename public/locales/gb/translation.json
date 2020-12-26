@@ -146,6 +146,10 @@
         {
           "link": "/VPN-setup-Step",
           "name": "VPN Setup Step"
+        },
+        {
+          "link": "/api",
+          "name": "API"
         }
       ]
     },
@@ -185,12 +189,12 @@
           "name": "Our Team"
         },
         {
-          "link": "/api",
-          "name": "API"
-        },
-        {
           "link": "/request-support",
           "name": "Request Support"
+        },
+        {
+          "link": "/imprint",
+          "name": "Imprint"
         }
 
       ]

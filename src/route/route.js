@@ -41,6 +41,7 @@ import VPNsetupStep from "../pages/VPNsetupStep";
 import AffiliateSales from "../pages/AffiliateSales";
 import ResellerHistory from "../pages/ResellerHistory";
 import RequestSupport from "../pages/RequestSupport";
+import Imprint from "../pages/Imprint";
  
 const route = () => {
   return (
@@ -81,6 +82,7 @@ const route = () => {
           <Route path="/affiliate-sales" exact render={() => <AffiliateSales />} />
           <Route path="/reseller-history" exact render={() => <ResellerHistory />} />
           <Route path="/request-support" exact render={() => <RequestSupport />} />
+          <Route path="/imprint" exact render={() => <Imprint />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

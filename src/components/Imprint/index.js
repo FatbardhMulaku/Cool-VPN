@@ -1,9 +1,8 @@
 import React from "react";
 import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
-import SectionRS1 from "./SectionRS1";
-import SectionRS2 from "./SectionRS2";
-import SectionRS3 from "./SectionRS3";
-import Section4 from "../WhyVPN/SectionWhyVpn3"
+import SectionImprint from "./SectionImprint";
+import SectionRS2 from "../RequestSupport/SectionRS2";
+import Section3 from "../WhyVPN/SectionWhyVpn3"
 
 const theme = createMuiTheme({
   breakpoints: {
@@ -21,10 +20,9 @@ const index = () => {
   return (
     <div>
       <ThemeProvider theme={theme}>
-		    <SectionRS1 />
-			  <SectionRS2 />
-        <SectionRS3 />
-			<Section4 />
+		    <SectionImprint />
+			<SectionRS2 />
+			<Section3 />
       </ThemeProvider>
     </div>
   );
