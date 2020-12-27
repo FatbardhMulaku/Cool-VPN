@@ -48,7 +48,7 @@ function index() {
 						<div className="Payment__wrapper__card-a_rreth"/>
 						<div>
 							<h6><FormattedMessage
-									id="Payment.section_2.info1"
+									id="Payment.section_2.info2a"
 									defaultMessage="Google Pay"
 								/>
 							</h6>
@@ -59,7 +59,7 @@ function index() {
 				<div className="Payment__wrapper__boody">
 					<div className="row">
 						<h6><FormattedMessage
-							id="Payment.section_2.info2"
+							id="Payment.section_2.info2c"
 							defaultMessage="Order summary"
 							/>
 						</h6>

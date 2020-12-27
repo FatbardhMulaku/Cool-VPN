@@ -237,6 +237,10 @@
         {
           "link": "/reseller-history",
           "name": "Reseller History"
+        },
+        {
+          "link": "/affiliate-reports",
+          "name": "Affiliate Reports"
         }
       ]
     }

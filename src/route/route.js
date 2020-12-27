@@ -45,6 +45,8 @@ import Imprint from "../pages/Imprint";
 import BloginDepth from "../pages/BloginDepth";
 import Checkout from "../pages/Checkout";
 import Payment from "../pages/Payment";
+import AffiliateReports from "../pages/AffiliateReports";
+import SecurityVulnerability from "../pages/SecurityVulnerability";
  
 const route = () => {
   return (
@@ -89,6 +91,8 @@ const route = () => {
           <Route path="/blog-in-depth" exact render={() => <BloginDepth />} />
           <Route path="/checkout" exact render={() => <Checkout />} />
           <Route path="/payment" exact render={() => <Payment />} />
+          <Route path="/affiliate-reports" exact render={() => <AffiliateReports />} />
+          <Route path="/security-vulnerability" exact render={() => <SecurityVulnerability />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

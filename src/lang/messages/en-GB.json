@@ -98,6 +98,21 @@
   "Affiliate.section_3.title3": {
     "string": "Get your commission"
   },
+  "AffiliateReports.section_1.desc1aa": {
+    "string": "2020 sees Awin reach a major milestone. Twenty years as one of the world’s most successful affiliate networks. That storied history is chronicled in the new edition of the Awin Report, thanks to an array of content that considers the past, present and future of the affiliate industry."
+  },
+  "AffiliateReports.section_1.desc2aa": {
+    "string": "- A series of infographics illustrating the major affiliate trends Awin’s global network has tracked over the last 20 years - A wide selection of campaign case studies, both new and old, demonstrating ‘best-in-class’ practices from around the world"
+  },
+  "AffiliateReports.section_1.desc3aa": {
+    "string": "Woven throughout this content are a selection of views from some of Awin’s alumni, past employees who have played a pivotal role in where we are now."
+  },
+  "AffiliateReports.section_1.desc4aa": {
+    "string": "With many having since gone onto prominent roles across the digital advertising space including Facebook, ASOS, Verizon, and HP, they share their thoughts on the strengths of the channel."
+  },
+  "AffiliateReports.section_1.title1aa": {
+    "string": "Report Available"
+  },
   "AffiliateSales.section_1.title1": {
     "string": "Join the best VPN Affiliate program & Start Earning"
   },
@@ -918,9 +933,12 @@
     "string": "Noah"
   },
   "Payment.section_2.info1": {
+    "string": "Credit Cards"
+  },
+  "Payment.section_2.info2a": {
     "string": "Google Pay"
   },
-  "Payment.section_2.info2": {
+  "Payment.section_2.info2c": {
     "string": "Order summary"
   },
   "Payment.section_2.info3": {
@@ -1240,6 +1258,24 @@
   },
   "ResellerHistory.section_4bb.title1": {
     "string": "Great experience using @Coolvpn. Amazing customer service and an even faster solution response rate."
+  },
+  "SecurityVulnerability.section_2.title1": {
+    "string": "request the reporter to keep the information and communication of the vulnerability confidential"
+  },
+  "SecurityVulnerability.section_2.title2": {
+    "string": "verify the existence of the vulnerability and identify which releases are affected. When confirmed, we will assign a CVE ID to the issue."
+  },
+  "SecurityVulnerability.section_2.title2as": {
+    "string": "How do i report a vulnerability"
+  },
+  "SecurityVulnerability.section_2.title3": {
+    "string": "release an updated version of the affected products resolving the issue. If it is not possible to resolve the issue within a reasonable time frame, identified workarounds might be published if that improves the situation in an acceptable way without putting users at risk."
+  },
+  "SecurityVulnerability.section_2.title4": {
+    "string": "Include a reference to the reporter and/or its organization as part of the release notes, unless the reporter wishes to remain anonymous."
+  },
+  "SecurityVulnerability.section_2.title5": {
+    "string": "do its best to keep the reporter updated on the progress of the reported vulnerability."
   },
   "Tutorials.section_1.desc": {
     "string": "Get simple and secure remote access from the world’s most trusted VPN brand"

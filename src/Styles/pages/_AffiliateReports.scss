@@ -1,0 +1,58 @@
+// =========== Section 1 ============
+.SectionAfR1{
+	background-image:linear-gradient(
+		to right,
+	#00000080,
+	#00000080
+	  ), url("../../assets//Download/Mask\ Group\ 295.png");
+	background-attachment: scroll;
+	padding-top: 130px;
+	padding-bottom: 90px;
+	&__txt{
+		p{
+			width: 30%;
+			@media only screen and (max-width: 992px) {
+				width: 100%;
+				
+			}
+		}
+	}
+}
+// =========== Section 1 ============
+.SectionAfR2{
+	padding: 50px 0;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	@media only screen and (max-width: 992px) {
+		width: 100%;
+		
+	}
+	&__txt{
+		h2{
+			font-size: 22px;
+			color: #061A46;
+			@media only screen and (max-width: 768px) {
+				font-size: 18px;
+				
+			}
+		}
+		p{
+			color: #778299;
+		}
+	}
+	&--box{
+		margin-top: 40px;
+		h5{
+			color: #061A46;
+			font-weight: bold;
+			margin-bottom: 20px;
+		}
+		p{
+			color: #778299;
+			@media only screen and (max-width: 768px) {
+				font-size: 14px;	
+			}
+		}
+	}
+}

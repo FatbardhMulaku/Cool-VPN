@@ -45,7 +45,7 @@ function SectionF2() {
 				<div className="footer-bottom text-white col-sm-12 col-lg-8">
 					<h6 className="alRight align-items-center"><i><FaCopyright /></i>{t("alRight")} </h6>
 					<div className="footer-terms">
-					|<Link to="Privacy"> Privacy Policy </Link> | <Link to="Terms"> Terms of Service</Link> |
+					|<Link to="Privacy"> Privacy Policy </Link> | <Link to="security-vulnerability"> Security Vulnerability</Link> |
 					
 					</div>
 					{/* <LangOptions /> */}
