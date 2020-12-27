@@ -21,7 +21,7 @@ function SectionH4() {
 							<ListItem txt={`Home.section_4.item${index+1}`} icon={`Home.section_4.item1.icon`}/>
 							<h2>{item.price}</h2>
 							<Buttoni 
-								link="SectionH4" offsetBtn={-150} txt={item.btn}
+								link="/checkout" offsetBtn={-150} txt={item.btn}
 								BGcolor="#2D2E2D" color="#fff"
 								HoverBGcolor="transparent" HoverColor="#2D2E2D"
 								border="1px solid black"

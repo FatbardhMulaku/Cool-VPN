@@ -500,6 +500,66 @@
   "BecomePartner.section_5.title3": {
     "string": "Earn"
   },
+  "Checkout.section_2.btn1": {
+    "string": "Save 70%"
+  },
+  "Checkout.section_2.btn2": {
+    "string": "Save 58%"
+  },
+  "Checkout.section_2.btn3": {
+    "string": "Save 41%"
+  },
+  "Checkout.section_2.btn4": {
+    "string": "Save 0%"
+  },
+  "Checkout.section_2.desc1": {
+    "string": "$420.64"
+  },
+  "Checkout.section_2.desc2": {
+    "string": "$320.64"
+  },
+  "Checkout.section_2.desc3": {
+    "string": "$220.64"
+  },
+  "Checkout.section_2.desc4": {
+    "string": "$120.64"
+  },
+  "Checkout.section_2.subdesc1": {
+    "string": "$125.64 billed every 3 years"
+  },
+  "Checkout.section_2.subdesc2": {
+    "string": "$125.64 billed every 3 years"
+  },
+  "Checkout.section_2.subdesc3": {
+    "string": "$125.64 billed every 3 years"
+  },
+  "Checkout.section_2.subdesc4": {
+    "string": "$125.64 billed every 3 years"
+  },
+  "Checkout.section_2.subtitle1": {
+    "string": "3-Year Plan"
+  },
+  "Checkout.section_2.subtitle2": {
+    "string": "2-Year Plan"
+  },
+  "Checkout.section_2.subtitle3": {
+    "string": "1-Year Plan"
+  },
+  "Checkout.section_2.subtitle4": {
+    "string": "1-month Plan"
+  },
+  "Checkout.section_2.title1": {
+    "string": "3.49/mo"
+  },
+  "Checkout.section_2.title2": {
+    "string": "4.99/mo"
+  },
+  "Checkout.section_2.title3": {
+    "string": "6.99/mo"
+  },
+  "Checkout.section_2.title4": {
+    "string": "11.95/mo"
+  },
   "ContactUs.section_2.desc1": {
     "string": "Atención al cliente 24/7 Buenos Aires:"
   },
@@ -856,6 +916,36 @@
   },
   "OurTeam.section_2.title.id4": {
     "string": "Noah"
+  },
+  "Payment.section_2.info1": {
+    "string": "Google Pay"
+  },
+  "Payment.section_2.info2": {
+    "string": "Order summary"
+  },
+  "Payment.section_2.info3": {
+    "string": "CoolVPN 3-year plan"
+  },
+  "Payment.section_2.info4": {
+    "string": "$430.20"
+  },
+  "Payment.section_2.info5": {
+    "string": "Discount -70%"
+  },
+  "Payment.section_2.info6": {
+    "string": "-$304.56"
+  },
+  "Payment.section_2.info7": {
+    "string": "Total"
+  },
+  "Payment.section_2.info8": {
+    "string": "USD $125.64"
+  },
+  "Payment.section_2.info9": {
+    "string": "Payment information"
+  },
+  "Payment.section_2.subtitle1ee": {
+    "string": "Select a payment method"
   },
   "PressArea.section_2.desc1": {
     "string": "CoolVPN maintains a strict no-logs policy, which means we do not collect and store any logs of our users’ activity. The fact was confirmed by an industry-first audit on no-logging claims."

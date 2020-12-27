@@ -12,7 +12,7 @@ function SectionSv3() {
 		<LayoutGrid section="SectionSv3 bg">
 			<div className="col-sm-12 col-lg-6 flex-column">
 			<TextInfo txt="Servers.section_3" textAlign="left" color="white" margin="0px" klasa="SectionSv2__txt"/>
-			<div><Botton linkBtn="SectionSv2" offsetBtn={-150} txt="Servers.section_3.btn"
+			<div><Botton link="/latest-vpn-protocols" offsetBtn={-150} txt="Servers.section_3.btn"
 				BGcolor="#8878BF" color="#fff" margin="10px"
 				HoverBGcolor="#fff" HoverColor="#8878BF"
 				border="1px solid #fff"

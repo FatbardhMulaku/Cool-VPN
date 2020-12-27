@@ -24,13 +24,13 @@ function SectionPr1() {
 							border="1px solid #8878BF"
 							HoverBorder="1px solid white"/>
 
-				<ButtonIcon linkBtn="SectionPr2" icon="SectionPr1__img2 bg" offsetBtn={-150} txt="Pricing.section_1.btn2"
+				<ButtonIcon link="/checkout" icon="SectionPr1__img2 bg" offsetBtn={-150} txt="Pricing.section_1.btn2"
 							BGcolor="rgba(199, 199, 199, 0.5)" color="#fff" margin="10px"
 							HoverBGcolor="rgba(199, 199, 199, 0.5)" HoverColor="white"
 							border="1px solid transparent"
 							HoverBorder="1px solid white"/>
 
-				<ButtonIcon linkBtn="SectionPr2" icon="SectionPr1__img3 bg" offsetBtn={-150} txt="Pricing.section_1.btn3"
+				<ButtonIcon link="/checkout" icon="SectionPr1__img3 bg" offsetBtn={-150} txt="Pricing.section_1.btn3"
 							BGcolor="rgba(199, 199, 199, 0.5)" color="#fff" margin="10px"
 							HoverBGcolor="rgba(199, 199, 199, 0.5)" HoverColor="white"
 							border="1px solid transparent"
@@ -45,7 +45,7 @@ function SectionPr1() {
 									<ListItem txt={`Home.section_4.item${index+1}`} icon={`Home.section_4.item1.icon`}/>
 									<h2>{item.price}</h2>
 									<Buttoni 
-										link="SectionH4" offsetBtn={-150} txt={item.btn}
+										link="/checkout" offsetBtn={-150} txt={item.btn}
 										BGcolor="#2D2E2D" color="#fff"
 										HoverBGcolor="transparent" HoverColor="#2D2E2D"
 										border="1px solid black"

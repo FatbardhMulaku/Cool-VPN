@@ -22,14 +22,14 @@ function SectionAff1() {
 				))}
 			</div>
 			<div className="row my-2">
-				<Botton link="/become-reseller" offsetBtn={-150} txt="Affiliate.section_1.btn1"
+				<Botton link="/become-partner" offsetBtn={-150} txt="Affiliate.section_1.btn1"
 					BGcolor="#fff" color="#000" margin="10px"
 					HoverBGcolor="transparent" HoverColor="#fff"
 					border="1px solid #000"
 					HoverBorder="1px solid #fff"
 					DfBtn="Become an affliate"
 				/>
-				<Botton link="/Login" offsetBtn={-150} txt="Affiliate.section_1.btn2"
+				<Botton link="/become-partner" offsetBtn={-150} txt="Affiliate.section_1.btn2"
 				BGcolor="transparent" color="#fff" margin="10px"
 				HoverBGcolor="#fff" HoverColor="#000"
 				border="1px solid #fff"

@@ -36,7 +36,7 @@ function SectionFP2() {
 			</div>
 
 			<div>
-				<Botton link="/become-partner" offsetBtn={-150} txt="FreeProxy.section_2.btn"
+				<Botton link="/anonymous-ip-address" offsetBtn={-150} txt="FreeProxy.section_2.btn"
 					BGcolor="#8878BF" color="#fff" margin="10px 0 0 0"
 					HoverBGcolor="transparent" HoverColor="#000"
 					border="1px solid #8878BF"

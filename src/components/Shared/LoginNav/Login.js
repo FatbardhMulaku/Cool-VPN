@@ -7,6 +7,8 @@ import {HiOutlineMail} from "react-icons/hi"
 import ButonIcon  from "../../UI/Button/ButtonIcon";
 import InputLogin from "../../UI/Input/InputLogin";
 import { IoMdLock } from "react-icons/io";
+import Fade from 'react-reveal/Fade';
+import "../../Home/Styles/SectionH1.css"
 
 const useStyles = makeStyles((theme) => ({
 	content: {
@@ -79,7 +81,19 @@ function Login() {
 					<p className="Login__Already">{t("SignUp.Already")}<span>{t("SignUp.Signin")}</span></p>
 				</div>
 				<div className="Login__right">
-					<h5>Working...</h5>
+				<Fade>
+					<div className="col-sm-12 col-lg-6 sectionH1__right">
+						<div className="sectionH1__box1 text-dark">
+							<div  className="sectionH1__right--icon bg"/>
+							<div><p>100%</p><p>{t("Home.section_1.info1")}</p></div>
+						</div>
+						<div className="sectionH1__img1 bg"/>
+						<div className="sectionH1__img2 bg"/>
+						<div className="sectionH1__box2 text-dark">
+							<div  className="sectionH1__right--icon2 bg"/>
+							<div><p>{t("Home.section_1.info2a")}</p><p>{t("Home.section_1.info2b")}</p></div>
+						</div>
+					</div></Fade>
 				</div>
 			</div>
 		</div>

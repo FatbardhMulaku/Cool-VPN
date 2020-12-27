@@ -43,6 +43,8 @@ import ResellerHistory from "../pages/ResellerHistory";
 import RequestSupport from "../pages/RequestSupport";
 import Imprint from "../pages/Imprint";
 import BloginDepth from "../pages/BloginDepth";
+import Checkout from "../pages/Checkout";
+import Payment from "../pages/Payment";
  
 const route = () => {
   return (
@@ -85,6 +87,8 @@ const route = () => {
           <Route path="/request-support" exact render={() => <RequestSupport />} />
           <Route path="/imprint" exact render={() => <Imprint />} />
           <Route path="/blog-in-depth" exact render={() => <BloginDepth />} />
+          <Route path="/checkout" exact render={() => <Checkout />} />
+          <Route path="/payment" exact render={() => <Payment />} />
 
           <Route path="/404" render={() => <PageNotFound />} />
           <Redirect to="/404" />

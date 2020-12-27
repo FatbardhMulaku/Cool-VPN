@@ -52,7 +52,7 @@ function SectionSv2() {
 			  arrowIcon="SectionSv2__leftIconBlack"
 			  listIcon="SectionSv2__iconBlack"
 			/>
-			<div><Botton linkBtn="SectionSv2" offsetBtn={-150} txt="Servers.section_2.btn"
+			<div><Botton link="/latest-vpn-protocols" offsetBtn={-150} txt="Servers.section_2.btn"
 				BGcolor="#8878BF" color="#fff" margin="10px"
 				HoverBGcolor="#fff" HoverColor="#8878BF"
 				border="1px solid #8878BF"

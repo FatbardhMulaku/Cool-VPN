@@ -185,8 +185,13 @@
 .SectionSv4{
 	padding: 60px 0;
 	&__box{
-		width:280px;
-		margin:15px;
+		width:290px;
+		margin:8px;
+		padding: 20px;
+		border-radius: 20px;
+		&:hover{
+			box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.41);
+		}
 		&--icon1, &--icon2, &--icon3, &--icon4, &--icon5, &--icon6{
 			width: 40px;
 			height: 40px;
