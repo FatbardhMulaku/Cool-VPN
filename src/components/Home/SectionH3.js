@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Styles/SectionH3.css";
 import { useTranslation } from "react-i18next";
 import TextGrid from "./../Shared/Text/TextGrid"
 

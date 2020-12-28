@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Style/index.scss";
 import { useTranslation } from "react-i18next";
 import TextInfo from "../Shared/Text/TextInfo";
 

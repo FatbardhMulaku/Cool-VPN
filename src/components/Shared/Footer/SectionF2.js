@@ -4,7 +4,6 @@ import { useTranslation } from "react-i18next";
 import { FaCopyright , FaMobileAlt} from "react-icons/fa";
 import {AiOutlineMail} from "react-icons/ai";
 import MenuListFooter from "./MenuList";
-import "./Styles/SectionF2.css";
 import { Link } from 'react-router-dom';
 /* import LangOptions from "../../UI/LangOptions"; */
 import Fade from 'react-reveal/Fade';

@@ -3,7 +3,6 @@ import { useTranslation } from "react-i18next";
 import LayoutContainer from "./../Shared/LayoutContainer";
 import TextInfo from "../Shared/Text/TextInfo";
 import Card from "../UI/Card/Card";
-import "./Styles/SectionFe1.css";
 
 function SectionFe1() {
 	const { t } = useTranslation();

@@ -1,0 +1,219 @@
+// =========== Section 1 ============
+.SectionFe1{
+	padding-top: 150px;
+	padding-bottom: 0px;
+}
+.SectionFe1__txt{
+	width: 50%;
+}
+.SectionFe1__txt > p{
+	font-size: 14px;
+}
+.SectionFe1__txt > h2,.SectionFe1__txt2 > h2{
+	font-weight: bold;
+}
+.SectionFe1__txt2{
+	margin-top: 30px;
+	width: 40%;
+}
+.SectionFe1__txt2 > p{
+	font-size: 14px;
+}
+.SectionFe1__box{
+	width: 260px;
+	height: 300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/* align-items: center; */
+	margin-top: 20px;
+}
+.SectionFe1_icon_box {
+	padding: 1rem;
+	border-radius: 15px;
+	margin: 1rem 0;
+  }
+  
+.SectionFe1_icon1{
+	background-image: url("../../assets/Features/Section1_img1.svg");
+	width: 60px;
+	height: 60px;
+}
+.SectionFe1_icon2{
+	background-image: url("../../assets/Features/Section1_img2.svg");
+	width: 60px;
+	height: 60px;
+}
+.SectionFe1_icon3{
+	background-image: url("../../assets/Features/Section1_img3.svg");
+	width: 60px;
+	height: 60px;
+}
+@media only screen and (max-width: 992px) {
+	.SectionFe1__txt{
+		width: 99%;
+	}
+	.SectionFe1__txt2{
+		width: 99%;
+	}
+}
+// =========== Section 2 ============
+.Purple__bg{
+	background-image: linear-gradient(to right, #6210e6, #C3A1FC);
+	clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+}
+.SectionFe2{
+	padding: 25px 0;
+	background-image: linear-gradient(#2D2E2D, #383838);
+	clip-path: polygon(0 10%, 100% 0, 100% 83%, 0 99%);
+}
+.ImgC{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.SectionFe2__img{
+	background-image: url("../../assets/Features/Section_2.svg");
+	width: 160px;
+	height: 160px;
+}
+@media only screen and (max-width: 992px) {
+	.SectionFe2{
+		padding: 50px 0;
+	}
+	.SectionFe2__img{
+		width: 120px;
+		height: 120px;
+	}
+}
+// =========== Section 3 ============
+.ImgC{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.SectionFe3__img{
+	background-image: url("../../assets/Features/Section3.svg");
+	width: 160px;
+	height: 160px;
+}
+@media only screen and (max-width: 992px) {
+	.SectionFe3{
+		padding: 50px 0;
+	}
+	.SectionFe3__img{
+		width: 120px;
+		height: 120px;
+	}
+}
+// =========== Section 4 ============
+.Purple__bg{
+	background-image: linear-gradient(to right, #6210e6, #C3A1FC);
+	clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+}
+.SectionFe4{
+	padding: 25px 0;
+	background-image: linear-gradient(#2D2E2D, #383838);
+	clip-path: polygon(0 10%, 100% 0, 100% 83%, 0 99%);
+}
+.ImgC{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.SectionFe4__img{
+	background-image: url("../../assets/Features/Section_4.svg");
+	width: 160px;
+	height: 160px;
+}
+@media only screen and (max-width: 992px) {
+	.SectionFe4{
+		padding: 50px 0;
+	}
+	.SectionFe2__img{
+		width: 120px;
+		height: 120px;
+	}
+}
+// =========== Section 5 ============
+.ImgC{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.SectionFe5__img{
+	background-image: url("../../assets/Features/Section5.svg");
+	width: 200px;
+	height: 200px;
+}
+.SectionFe5_text h2{
+	font-weight: bold;
+}
+.SectionFe5_text p{
+	font-size: 15px;
+}
+@media only screen and (max-width: 992px) {
+	.SectionFe5{
+		padding: 50px 0;
+	}
+	.SectionFe5__img{
+		width: 120px;
+		height: 120px;
+	}
+}
+// =========== Section 6 ============
+.SectionFe6{
+	padding-top: 30px;
+	padding-bottom: 60px;
+	display: flex;
+	justify-content: center;
+}
+.contaFe6__box{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border: 2px solid #8878BF;
+	margin-left: 25% !important;
+	margin-right: 25% !important;
+	padding: 25px !important;
+	border-radius: 20px;
+}
+.contaFe6__box > div:first-child{
+	width: 82%;
+}
+.SectionFe6__img{
+	background-image: url("../../assets/Features/Section6.svg");
+	width: 195px;
+	height: 170px;
+	margin-left: 8px;
+}
+@media only screen and (max-width: 1100px) {
+	.contaFe6__box{
+		margin-left: 3% !important;
+		margin-right: 3% !important;
+	}
+}
+@media only screen and (max-width: 992px) {
+	.contaFe6__box > div:first-child{
+		width: 76%;
+	}
+}
+@media only screen and (max-width: 768px) {
+	.contaFe6__box{
+		flex-direction: column;
+	}
+	.contaFe6__box > div:first-child{
+		width: 99%;
+	}
+	.SectionFe6__img{
+		margin-top: 15px;
+		width: 155px;
+		height: 140px;
+	}
+	.SectionFe6__txt p{
+		font-size: 25px;
+	}
+	.SectionFe6__txt h2{
+		font-size: 16px;
+	}
+}

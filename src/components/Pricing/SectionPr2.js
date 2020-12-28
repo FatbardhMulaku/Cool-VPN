@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Styles/index.scss";
 import TextInfo from "../Shared/Text/TextInfo";
 import Zoom from 'react-reveal/Zoom';
 

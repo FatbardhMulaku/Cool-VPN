@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "../Home/Styles/SectionH7.css";
 import LayoutContainer from "../Shared/LayoutContainer";
 import UserFeedbacks from "../Home/UserFeedbacks";
 import { FormattedMessage } from "react-intl";

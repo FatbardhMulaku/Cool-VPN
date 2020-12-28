@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Style/index.scss";
 import { useTranslation } from "react-i18next";
 import LayoutGrid from "../Shared/LayoutGrid";
 import TextInfo from "../Shared/Text/TextInfo";

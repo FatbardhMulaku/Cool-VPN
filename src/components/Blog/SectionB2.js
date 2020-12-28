@@ -1,7 +1,6 @@
 import React from 'react';
 import { Route } from 'react-router-dom';
 import TextInfo from "../Shared/Text/TextInfo";
-import "./Styles/SectionB2.css";
 import PostInfo from "./PostInfo";
 import Zoom from 'react-reveal/Zoom';
 

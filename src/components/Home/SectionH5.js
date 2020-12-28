@@ -1,7 +1,6 @@
 import React from 'react';
 import Textinfo from "./../Shared/Text/TextInfo";
 import Butoni from "./../UI/Button/Button"
-import "./Styles/SectionH5.css";
 import Zoom from 'react-reveal/Zoom';
 
 function SectionH5() { 

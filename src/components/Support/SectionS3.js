@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Styles/SectionS3.css"
 import { useTranslation } from "react-i18next";
 import LayoutContainer from "./../Shared/LayoutContainer";
 import Button from "../UI/Button/Button"

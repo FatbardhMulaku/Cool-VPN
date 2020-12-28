@@ -1,7 +1,6 @@
 import React from "react";
 import Button from "../../UI/Button/Button";
 import { useTranslation } from "react-i18next";
-import "./TextGrid.css";
 import Fade from 'react-reveal/Fade';
 
 const TextGridWhite = (props) => {

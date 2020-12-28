@@ -7,7 +7,6 @@ import ButonIcon  from "../../UI/Button/ButtonIcon";
 import InputLogin from "../../UI/Input/InputLogin";
 import { IoMdLock } from "react-icons/io";
 import Fade from 'react-reveal/Fade';
-import "../../Home/Styles/SectionH1.css"
 
 const useStyles = makeStyles((theme) => ({
 	content: {

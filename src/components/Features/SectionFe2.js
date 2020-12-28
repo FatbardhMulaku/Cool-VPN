@@ -2,7 +2,6 @@ import React from 'react';
 import LayoutGrid from "./../Shared/LayoutGrid";
 import TextGrid from "../Shared/Text/TextGridWhite";
 import ImageGrid from "../UI/Img/ImgCard";
-import "./Styles/SectionFe2.css";
 
 function SectionFe2() {
 	return (

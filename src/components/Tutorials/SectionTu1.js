@@ -2,7 +2,6 @@ import React from 'react';
 import LayoutContainer from "../Shared/LayoutContainer";
 import Fade from 'react-reveal/Fade';
 import { FormattedMessage } from "react-intl";
-import "../Support/Styles/SectionS1.css"
 
 function SectionTu1() {
 	return (

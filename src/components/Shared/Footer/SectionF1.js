@@ -1,7 +1,6 @@
 import React from 'react';
 import LayoutGrid from "../LayoutGrid";
 import { useTranslation } from "react-i18next";
-import "./Styles/SectionF1.css";
 
 function SectionF1() {
 	const { t } = useTranslation();

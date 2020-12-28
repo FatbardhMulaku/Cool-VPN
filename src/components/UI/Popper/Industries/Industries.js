@@ -1,8 +1,6 @@
 import React from "react";
 import PopperBox from "../PopperBox";
 import { useTranslation } from "react-i18next";
-import "./Industries.css";
-import "../index.css";
 import { paramCase } from "change-case";
 import { Link } from "react-router-dom";
 

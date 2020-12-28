@@ -1,6 +1,6 @@
 .SectionPr1{
 	padding-top: 120px;
-	background-image: url("../../../assets/Pricing/Background.png");
+	background-image: url("../../assets/Pricing/Background.png");
 	background-size: 100% 100%;
 	@media only screen and (max-width: 992px) {
 		background-size: 300%;
@@ -24,16 +24,16 @@
 		margin-right: 10px;
 	}
 	&__img1{
-		background-image: url("../../../assets/Pricing/img1.jpg");
+		background-image: url("../../assets/Pricing/img1.jpg");
 	}
 	&__img2{
-		background-image: url("../../../assets/Pricing/img2.jpg");
+		background-image: url("../../assets/Pricing/img2.jpg");
 	}
 	&__img3{
-		background-image: url("../../../assets/Pricing/img3.jpg");
+		background-image: url("../../assets/Pricing/img3.jpg");
 	}
 	&__img{
-		background-image: url("../../../assets/Pricing/NoPath.png");
+		background-image: url("../../assets/Pricing/NoPath.png");
 		width: 100%;
 		height: 50px;
 		margin-top: 50px;
@@ -52,13 +52,13 @@
 		}
 	}
 	&__img1{
-		background-image:linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../../assets/Pricing/section2_img1.jpg");
+		background-image:linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../assets/Pricing/section2_img1.jpg");
 	}
 	&__img2{
-		background-image:linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../../assets/Pricing/section2_img2.jpg");
+		background-image:linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../assets/Pricing/section2_img2.jpg");
 	}
 	&__img3{
-		background-image:linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../../assets/Pricing/section2_img3.jpg");
+		background-image:linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../assets/Pricing/section2_img3.jpg");
 	}
 	&__icon1,&__icon2,&__icon3{
 		width: 50px;
@@ -69,13 +69,13 @@
 		}
 	}
 	&__icon1{
-		background-image: url("../../../assets/Pricing/section2_icon1.svg");
+		background-image: url("../../assets/Pricing/section2_icon1.svg");
 	}
 	&__icon2{
-		background-image: url("../../../assets/Pricing/section2_icon2.svg");
+		background-image: url("../../assets/Pricing/section2_icon2.svg");
 	}
 	&__icon3{
-		background-image: url("../../../assets/Pricing/section2_icon3.svg");
+		background-image: url("../../assets/Pricing/section2_icon3.svg");
 	}
 	&__info{
 		h2 {

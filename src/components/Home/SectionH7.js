@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-import "./Styles/SectionH7.css";
 import LayoutGrid from "../Shared/LayoutGrid"
-/* import TextGrid from "../Shared/Text/TextGrid" */
 import UserFeedbacks from './UserFeedbacks';
 import { useTranslation } from "react-i18next";
 import TextInfo from "../Shared/Text/TextInfo";

@@ -1,6 +1,5 @@
 import React from 'react';
 import LayoutGrid from "../Shared/LayoutGrid";
-import "./Styles/SectionS1.css"
 import { useTranslation } from "react-i18next";
 import Fade from 'react-reveal/Fade';
 

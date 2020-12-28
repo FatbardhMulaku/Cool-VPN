@@ -1,7 +1,6 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { FormattedMessage } from "react-intl";
-import "./TextInfo.css"; 
 
 const useStyles = makeStyles((theme) => ({
 	root: {

@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Styles/SectionS4.css"
 import { useTranslation } from "react-i18next";
 import LayoutContainer from "./../Shared/LayoutContainer";
 import Bounce from 'react-reveal/Bounce';

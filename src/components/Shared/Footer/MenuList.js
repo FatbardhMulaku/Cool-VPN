@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./Styles/SectionF2.css";
 import Flip from 'react-reveal/Flip';
 
 const MenuList = (props) => {

@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Style/index.scss";
 import TextInfo from "../Shared/Text/TextInfo";
 import BoxServer from "./ServerBox";
 import Botton from "../UI/Button/Button";

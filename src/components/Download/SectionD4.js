@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import "./Style/index.scss";
 import { useTranslation } from "react-i18next";
 import Faq from "./../Pricing/faq";
 

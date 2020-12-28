@@ -2,7 +2,7 @@
 .SectionSv1{
 	padding-top: 120px;
 	padding-bottom: 80px;
-	background-image: url("../../../assets/Servers/section1.png");
+	background-image: url("../../assets/Servers/section1.png");
 	background-size: cover;
 	&__txt{
 		width: 60%;
@@ -71,19 +71,19 @@
 		height: 15px;
 	}
 	&__iconWhite{
-		background-image: url("../../../assets/Servers/iconWhite.svg");
+		background-image: url("../../assets/Servers/iconWhite.svg");
 		border-radius: 50%;
 	}
 	&__iconBlack{
-		background-image: url("../../../assets/Servers/iconBlack.svg");
+		background-image: url("../../assets/Servers/iconBlack.svg");
 		border-radius: 50%;
 	}
 	&__leftIconWhite{
-		background-image: url("../../../assets/Servers/leftArrowWhite.svg");
+		background-image: url("../../assets/Servers/leftArrowWhite.svg");
 		margin-top:6px;
 	}
 	&__leftIconBlack{
-		background-image: url("../../../assets/Servers/leftArrow.svg");
+		background-image: url("../../assets/Servers/leftArrow.svg");
 		margin-top:6px;
 	}
 	&__iconCountry1, &__iconCountry2, &__iconCountry3, &__iconCountry4{
@@ -93,26 +93,26 @@
 		margin: 4px 2px 0 7px;
 	}
 	&__iconCountry1{
-		background-image: url("../../../assets/ContactUs/state_icon7.svg");
+		background-image: url("../../assets/ContactUs/state_icon7.svg");
 	}
 	&__iconCountry2{
-		background-image: url("../../../assets/Servers/Mask\ Group\ 152.svg");
+		background-image: url("../../assets/Servers/Mask\ Group\ 152.svg");
 	}
 	&__iconCountry3{
-		background-image: url("../../../assets/ContactUs/state_icon12.svg");
+		background-image: url("../../assets/ContactUs/state_icon12.svg");
 	}
 	&__iconCountry4{
-		background-image: url("../../../assets/ContactUs/state_icon1.svg");
+		background-image: url("../../assets/ContactUs/state_icon1.svg");
 	}
 }
 // Section 3
 .SectionSv3{
 	margin-top: 20px;
 	padding: 60px 0;
-	background-image: url("../../../assets/Servers/section2.png");
+	background-image: url("../../assets/Servers/section2.png");
 	background-attachment: scroll;
 	&__BGimg{
-		background-image: url("../../../assets/Servers/section3.jpg");
+		background-image: url("../../assets/Servers/section3.jpg");
 		width: 220px;
 		height: 250px;
 		border-radius: 15px;
@@ -200,23 +200,23 @@
 			margin-bottom: 15px;
 		}
 		&--icon1{
-			background-image: url("../../../assets/Servers/icon1.svg");
+			background-image: url("../../assets/Servers/icon1.svg");
 			width: 34px;
 		}
 		&--icon2{
-			background-image: url("../../../assets/Servers/icon2.svg");
+			background-image: url("../../assets/Servers/icon2.svg");
 		}
 		&--icon3{
-			background-image: url("../../../assets/Servers/icon3.svg");
+			background-image: url("../../assets/Servers/icon3.svg");
 		}
 		&--icon4{
-			background-image: url("../../../assets/Servers/icon4.svg");
+			background-image: url("../../assets/Servers/icon4.svg");
 		}
 		&--icon5{
-			background-image: url("../../../assets/Servers/icon5.svg");
+			background-image: url("../../assets/Servers/icon5.svg");
 		}
 		&--icon6{
-			background-image: url("../../../assets/Servers/icon6.svg");
+			background-image: url("../../assets/Servers/icon6.svg");
 		}
 		h5{
 			text-align: center;

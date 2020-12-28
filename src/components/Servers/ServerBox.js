@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Style/index.scss";
 import { useTranslation } from "react-i18next";
 import ListItem from "../Shared/Text/TextList";
 import { makeStyles } from "@material-ui/core/styles";

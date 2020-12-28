@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Styles/SectionH4.css";
 import { useTranslation } from "react-i18next";
 import Textinfo from "./../Shared/Text/TextInfo";
 import Buttoni from "./../UI/Button/Button";

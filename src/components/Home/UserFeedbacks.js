@@ -9,7 +9,6 @@ import Rating from '@material-ui/lab/Rating';
 import Box from '@material-ui/core/Box';
 import { makeStyles } from "@material-ui/core/styles";
 import { MdExpandMore } from "react-icons/md";
-import "./Styles/UserFeedbacks.css";
 import Fade from 'react-reveal/Fade';
 
 const useStyles = makeStyles((theme) => ({

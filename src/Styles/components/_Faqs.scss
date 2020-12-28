@@ -1,0 +1,28 @@
+// faqs
+.faqs__box{
+	display: flex;
+	background-color: #8878BF;
+	color: #fff;
+	border-radius: 10px;
+	display: flex;
+	justify-content: flex-start;
+	h5{
+		margin-bottom: 0px !important;
+		@media only screen and (max-width: 768px) {
+			font-size: 15px;
+		}
+	}
+}
+.answerFaqs{
+	font-weight: bold;
+	font-size: 16px;
+	@media only screen and (max-width: 768px) {
+		font-size: 14px !important;
+	}
+}
+.more__icon{
+background-color: #fff;
+border-radius: 11px;
+color: #8878BF;
+text-align: left !important;
+}

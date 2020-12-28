@@ -2,7 +2,6 @@ import React from 'react';
 import { Route } from 'react-router-dom';
 import { useTranslation } from "react-i18next";
 import PostInfo from "./PostInfo";
-import "./Styles/SectionB3.css";
 import Zoom from 'react-reveal/Zoom';
 
 function SectionB3() {

@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Styles/SectionH6.css";
 import LayoutContainer from "../Shared/LayoutContainer";
 import Textinfo from "../Shared/Text/TextInfo";
 import ListItem from "../Shared/Text/TextList";

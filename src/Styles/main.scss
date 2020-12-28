@@ -1,15 +1,28 @@
 // Components
+@import "./components/Footer";
+@import "./components/Logo";
+@import "./components/Faqs";
+@import "./components/Industries";
+@import "./components/Popper";
+@import "./components/UserFeedbacks";
+@import "./components/About";
 @import "./components/spinner";
 @import "./components/Protocols";
+@import "./components/Postinfo";
+@import "./components/TextGrid";
+@import "./components/TextInfo";
 
 //Shared
 @import "../components/Shared/LoginNav/index";
-// Pages
-@import "../components/Pricing/Styles/index.scss";
-@import "../components//Download/Style/index.scss";
-@import "../components/ContactUs/Style/index.scss";
-@import "../components/Servers/Style/index.scss"; 
 
+// Pages
+@import "./pages/Home";
+@import "./pages/Features";
+@import "./pages/Blog";
+@import "./pages/Pricing";
+@import "./pages/Download";
+@import "./pages/Servers";
+@import "./pages/Support";
 @import "./pages/VPNbussines";
 @import "./pages/WhatIsVPN";
 @import "./pages/Faq";

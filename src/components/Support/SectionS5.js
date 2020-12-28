@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Styles/SectionS5.css";
 import { useTranslation } from "react-i18next";
 import LayoutContainer from "../Shared/LayoutContainer"
 import ListItem from "../Shared/Text/TextList";

@@ -1,6 +1,4 @@
 import React from 'react';
-import "./Styles/index.scss"
-import "../Home/Styles/SectionH4.css";
 import TextInfo from "../Shared/Text/TextInfo";
 import ButtonIcon from "../UI/Button/ButtonIcon";
 import Buttoni from "./../UI/Button/Button";

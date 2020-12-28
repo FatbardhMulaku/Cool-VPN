@@ -3,7 +3,6 @@ import { Route } from 'react-router-dom';
 import { useTranslation } from "react-i18next";
 import PostInfo from "./PostInfo";
 import TextInfo from "../Shared/Text/TextInfo";
-import "./Styles/SectionB4.css";
 import Fade from 'react-reveal/Fade';
 import { makeStyles } from '@material-ui/core/styles';
 import Pagination from '@material-ui/lab/Pagination';

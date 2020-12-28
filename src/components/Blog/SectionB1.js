@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Styles/SectionB1.css"
 import { useTranslation } from "react-i18next";
 import Fade from 'react-reveal/Fade';
 

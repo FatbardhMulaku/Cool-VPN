@@ -1,10 +1,9 @@
 import React from 'react';
 import LayoutGrid from "../Shared/LayoutGrid";
-import "./Styles/SectionH1.css"
 import Buttoni from "../UI/Button/Button";
 import { useTranslation } from "react-i18next";
 import SectionTwo from "./SectionH2";
-import SectionTree from "./SectionH3";
+import SectionTree from "./SectionH3"; 
 import Fade from 'react-reveal/Fade';
 
 function SectionH1() {

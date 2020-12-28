@@ -20,7 +20,7 @@ function SectionTu2() {
 			/>
 			<div className="row">
 			<div className="col-sm-12 col-lg-3 SectionTu2__btnBox">
-				<Botton link="/" offsetBtn={-150} txt="Tutorials.section_2.btn"
+				<Botton link="/tutorials/#" offsetBtn={-150} txt="Tutorials.section_2.btn"
 					BGcolor="#D57FAD" color="#fff" margin="10px"
 					HoverBGcolor="#8878BF" HoverColor="#fff"
 					border="1px solid #D57FAD"
@@ -31,7 +31,7 @@ function SectionTu2() {
 				{BtbGroup.map(({ btn }, idx) => (
 					<Botton 
 						key={idx}
-						link="/" offsetBtn={-150} txt={`Tutorials.section_2.btn${idx+2}`}
+						link="/tutorials/#" offsetBtn={-150} txt={`Tutorials.section_2.btn${idx+2}`}
 						BGcolor="#fff" color="#000" margin="10px"
 						HoverBGcolor="#D57FAD" HoverColor="#fff"
 						border="1px solid #fff"

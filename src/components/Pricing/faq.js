@@ -7,7 +7,6 @@ import {
 } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import { MdExpandMore } from "react-icons/md";
-import "./Styles/index.scss";
 import Fade from 'react-reveal/Fade';
 
 const useStyles = makeStyles((theme) => ({
