@@ -20,7 +20,7 @@ const index = () => {
     <div>
       <ThemeProvider theme={theme}>
         <SectionPP1 />
-		<SectionPP2 />
+        <SectionPP2 />
       </ThemeProvider>
     </div>
   );

@@ -25,12 +25,12 @@ const index = () => {
     <div>
       <ThemeProvider theme={theme}>
         <SectionArt1 />
-		<SectionArt2 />
-		<SectionArt3 />
-		<SectionArt4 />
-		<SectionArt5 />
-		<SectionArt6 />
-		<SectionArt7 />
+        <SectionArt2 />
+        <SectionArt3 />
+        <SectionArt4 />
+        <SectionArt5 />
+        <SectionArt6 />
+        <SectionArt7 />
       </ThemeProvider>
     </div>
   );

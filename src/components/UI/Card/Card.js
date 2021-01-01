@@ -45,7 +45,10 @@ const Card = (props) => {
   let propsClass = classes[props.card];
 
   return (
-    <Paper elevation={1} className={`${classes.paper}  ${propsClass} ${props.Class}`}>
+    <Paper
+      elevation={1}
+      className={`${classes.paper}  ${propsClass} ${props.Class}`}
+    >
       <div className={props.cardCss}>
         <div className={`img_css ${props.img}`}> </div>
       </div>

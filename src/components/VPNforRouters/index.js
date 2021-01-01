@@ -27,14 +27,14 @@ const index = () => {
     <div>
       <ThemeProvider theme={theme}>
         <SectionVPNr1 />
-		<SectionVPNr2 />
-		<SectionVPNr3 />
-		<SectionVPNr4 />
-		<SectionVPNr5 />
-		<SectionVPNr6 />
-		<SectionVPNr7 />
-		<SectionVPNr8 />
-		<SectionVPNr9 />
+        <SectionVPNr2 />
+        <SectionVPNr3 />
+        <SectionVPNr4 />
+        <SectionVPNr5 />
+        <SectionVPNr6 />
+        <SectionVPNr7 />
+        <SectionVPNr8 />
+        <SectionVPNr9 />
       </ThemeProvider>
     </div>
   );

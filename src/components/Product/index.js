@@ -23,10 +23,10 @@ const index = () => {
     <div>
       <ThemeProvider theme={theme}>
         <SectionPd1 />
-      <SectionPd2 />
-      <SectionPd3 />
-      <SectionPd4 />
-      <SectionPd5 />
+        <SectionPd2 />
+        <SectionPd3 />
+        <SectionPd4 />
+        <SectionPd5 />
       </ThemeProvider>
     </div>
   );

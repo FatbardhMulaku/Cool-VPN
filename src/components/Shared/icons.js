@@ -5,11 +5,4 @@ import { ReactComponent as Gaming } from "../../assets/WhatIsVPN/section6_img4.p
 import { ReactComponent as Torrenting } from "../../assets/WhatIsVPN/section6_img5.png";
 import { ReactComponent as Shopping } from "../../assets/WhatIsVPN/section6_img6.png";
 
-export {
-	Traveling,
-	Streaming,
-	WiFi,
-	Gaming,
-	Torrenting,
-	Shopping
-}
+export { Traveling, Streaming, WiFi, Gaming, Torrenting, Shopping };

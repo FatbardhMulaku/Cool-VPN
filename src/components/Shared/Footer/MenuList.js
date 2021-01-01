@@ -1,4 +1,5 @@
 import React from "react";
+import { FormattedMessage } from "react-intl";
 import { Link } from "react-router-dom";
 import Flip from 'react-reveal/Flip';
 
@@ -23,7 +24,10 @@ const MenuList = (props) => {
         {props.list.map((item, index) => (
           <li key={index}>
             <Link onClick={scrollToTop} to={item.link}>
-              {item.name}
+              <FormattedMessage
+              id={`footer.links${index+1}`}
+              defaultMessage={item.name}
+              />
             </Link>
           </li>
         ))}

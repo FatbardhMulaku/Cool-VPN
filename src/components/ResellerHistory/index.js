@@ -21,10 +21,10 @@ const index = () => {
   return (
     <div>
       <ThemeProvider theme={theme}>
-		    <SectionRH1 />
-			<SectionRH2 />
-			<Sec3 />
-			<SectionRH4 />
+        <SectionRH1 />
+        <SectionRH2 />
+        <Sec3 />
+        <SectionRH4 />
       </ThemeProvider>
     </div>
   );

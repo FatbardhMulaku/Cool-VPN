@@ -6,18 +6,18 @@ import { useInput } from "../../../Hooks/useInput";
 const useStyles = makeStyles({
   formControl2: {
     margin: "10px 0px",
-	width: "100%",
-	padding:"2px 0 !important",
+    width: "100%",
+    padding: "2px 0 !important",
   },
 
-inputOutline2: {
-	color:"white",
-	"& .MuiOutlinedInput-input" :{
-		padding: "12px 5px !important",
-	},
+  inputOutline2: {
+    color: "white",
+    "& .MuiOutlinedInput-input": {
+      padding: "12px 5px !important",
+    },
     "&:hover .MuiOutlinedInput-notchedOutline": {
-	  borderColor: "white",
-	},
+      borderColor: "white",
+    },
     borderColor: "#fff !important",
     borderRadius: "10px",
 

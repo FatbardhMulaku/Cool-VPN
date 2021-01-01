@@ -19,7 +19,7 @@ const index = () => {
   return (
     <div>
       <ThemeProvider theme={theme}>
-		    <SectionC1 />
+        <SectionC1 />
         <SectionC2 />
         <HelpSection />
       </ThemeProvider>

@@ -11,10 +11,10 @@ const useStyles = makeStyles((theme) => ({
   },
   svg: {
     fontSize: "2.1rem",
-    color:(props) => props.ColorButon,
+    color: (props) => props.ColorButon,
   },
   colorBTN: {
-    color:(props) => props.ColorButon,
+    color: (props) => props.ColorButon,
   },
   [theme.breakpoints.down("xs")]: {
     svg: {
@@ -27,9 +27,7 @@ const DrawerToggle = (props) => {
 
   return (
     <IconButton className={classes.button} onClick={props.clicked}>
-      <DehazeIcon
-        className={classes.svg}
-      />
+      <DehazeIcon className={classes.svg} />
     </IconButton>
   );
 };

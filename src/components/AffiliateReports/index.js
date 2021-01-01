@@ -19,9 +19,8 @@ const index = () => {
   return (
     <div>
       <ThemeProvider theme={theme}>
-		<SectionAfR1 />
-		<SectionAfR2 />
-
+        <SectionAfR1 />
+        <SectionAfR2 />
       </ThemeProvider>
     </div>
   );

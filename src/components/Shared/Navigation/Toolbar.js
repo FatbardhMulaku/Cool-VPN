@@ -15,18 +15,18 @@ const useStyles = makeStyles((theme) => ({
     padding: "5px",
     alignItems: "center",
     paddingTop: "20px",
-    color:'black'
+    color: "black",
   },
   box1: {
     boxShadow: "none ",
-    backgroundColor:(props) => props.Bcolor,
+    backgroundColor: (props) => props.Bcolor,
     transition: "all 0.3s ease-out",
     padding: "0 0 10px",
     top: "auto",
-    color:"black"
+    color: "black",
   },
   box2: {
-    backgroundColor:(props) => props.BcolorScroll,
+    backgroundColor: (props) => props.BcolorScroll,
     transition: "all 0.2s ease-in",
     padding: "0 0 8px",
     top: "auto",
@@ -62,7 +62,7 @@ const Toolbar = (props) => {
           text={props.ColorTxt} // "col_black" : "col_white"
         />
         <div className={`DesktopOnly ${props.ColorTxt}`}>
-          <NavList ColorTXT={props.ColorT}/>
+          <NavList ColorTXT={props.ColorT} />
         </div>
         <div className="searchIcon">
           <div className="d-login">
@@ -70,7 +70,10 @@ const Toolbar = (props) => {
           </div>
         </div>
         <div className="DrawerToggle">
-          <DrawerToggle clicked={props.drawerToggle} ColorButon={props.ColorBTN} />
+          <DrawerToggle
+            clicked={props.drawerToggle}
+            ColorButon={props.ColorBTN}
+          />
         </div>
       </Container>
     </AppBar>

@@ -7,6 +7,7 @@ import "./MobileMenu.css";
 import MobileMenuItem from "./MobileMenuItem";
 import Item1 from "../MobileMenu/item1";
 import Item2 from "../MobileMenu/Item2";
+import { mainMenu } from "../Navigation/data";
 
 const useStyles = makeStyles((theme) => ({
   drawer: {
@@ -17,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
   drawerHeader: {
     display: "flex",
     alignItems: "center",
-    backgroundColor:"#696869",
+    backgroundColor: "#696869",
     padding: theme.spacing(0, 1),
     ...theme.mixins.toolbar,
     justifyContent: "flex-start",
@@ -28,7 +29,7 @@ const useStyles = makeStyles((theme) => ({
   list: {
     display: "flex",
     flexFlow: "column",
-    backgroundColor:"#696869",
+    backgroundColor: "#696869",
     "& >div:nth-child(2)": {
       order: "1 !important",
     },
@@ -61,7 +62,7 @@ const MobileMenu = (props) => {
       </div>
       <Divider />
       <List className={classes.list}>
-        {t("mainMenu").map(({ link, name }, index) => (
+        {mainMenu.map(({ link, name }, index) => (
           <MobileMenuItem
             key={index}
             link={link}
@@ -69,22 +70,22 @@ const MobileMenu = (props) => {
             drawerToggle={props.drawerToggle}
           />
         ))}
-        <Item1 
-              key={1}
-              name={t("whatIsVPN.name")}
-              drawerToggle={props.drawerToggle} 
-              panel="whatIsVPN"
-              expanded={expanded}
-              handleChange={handleChange}
-              />
-        <Item2 
-              key={2}
-              name={t("Product.name")}  
-              drawerToggle={props.drawerToggle} 
-              panel="Product"
-              expanded={expanded}
-              handleChange={handleChange}
-              />
+        <Item1
+          key={1}
+          name={t("whatIsVPN.name")}
+          drawerToggle={props.drawerToggle}
+          panel="whatIsVPN"
+          expanded={expanded}
+          handleChange={handleChange}
+        />
+        <Item2
+          key={2}
+          name={t("Product.name")}
+          drawerToggle={props.drawerToggle}
+          panel="Product"
+          expanded={expanded}
+          handleChange={handleChange}
+        />
       </List>
       <Divider />
     </Drawer>

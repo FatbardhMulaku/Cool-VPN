@@ -21,8 +21,8 @@ const index = () => {
     <div>
       <ThemeProvider theme={theme}>
         <SectionWhyVpn1 />
-		<SectionWhyVpn2 />
-		<SectionWhyVpn3 />
+        <SectionWhyVpn2 />
+        <SectionWhyVpn3 />
       </ThemeProvider>
     </div>
   );

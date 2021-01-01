@@ -1,1 +1,2174 @@
-{}
+{
+  "AboutUs.section_2.desc1": {
+    "string": "Our international team, made up of a diverse group of artists, athletes, and tech enthusiasts, is united by our common goal to make cybersecurity easy, accessible, and user-friendly for all. Fundamental to that goal are the principles of innovation, collaboration, and trust."
+  },
+  "AboutUs.section_2.link1": {
+    "string": "Read more"
+  },
+  "AboutUs.section_2.link2": {
+    "string": "Read more"
+  },
+  "AboutUs.section_2.link3": {
+    "string": "Read more"
+  },
+  "AboutUs.section_2.title2": {
+    "string": "What makes us special"
+  },
+  "AboutUs.section_4.desc2": {
+    "string": "You will use an intuitive reseller dashboard. This will be your place, dedicated to purchasing licenses and managing clients with ease."
+  },
+  "AboutUs.section_4.link1": {
+    "string": "Read more"
+  },
+  "AboutUs.section_4.link2": {
+    "string": "Read more"
+  },
+  "AboutUs.section_4.title2": {
+    "string": "Easy-to-use platform"
+  },
+  "Affiliate.section_1.title1": {
+    "string": "Get paid to promote the world’s leading VPN provider."
+  },
+  "Affiliate.section_1.title2": {
+    "string": "Get competitive commissions—with fast payouts."
+  },
+  "Affiliate.section_1.title3": {
+    "string": "We’re focused on building long-term relationships."
+  },
+  "Affiliate.section_1.title4": {
+    "string": "We’ll work with you to drive marketing success."
+  },
+  "Affiliate.section_2.desc.id1": {
+    "string": "Our trusted brand & effective promo material means the traffic you send to CoolVPN will convert!"
+  },
+  "Affiliate.section_2.desc.id2": {
+    "string": "Our trusted brand & effective promo material means the traffic you send to CoolVPN will convert!"
+  },
+  "Affiliate.section_2.desc.id3": {
+    "string": "We take it all and convert into revenue for you. We offer global campaigns, so the world is your customer base"
+  },
+  "Affiliate.section_2.desc1": {
+    "string": "Create an account for free using your email address"
+  },
+  "Affiliate.section_2.desc2": {
+    "string": "See what it’s like to invest without putting your money at risk"
+  },
+  "Affiliate.section_2.desc3": {
+    "string": "Select an asset and make your money work for you"
+  },
+  "Affiliate.section_2.title.id1": {
+    "string": "High conversion rate"
+  },
+  "Affiliate.section_2.title.id2": {
+    "string": "Dedicated account manager"
+  },
+  "Affiliate.section_2.title.id3": {
+    "string": "We convert all geos & types of traffic"
+  },
+  "Affiliate.section_2.title1": {
+    "string": "1-month offer"
+  },
+  "Affiliate.section_2.title1a": {
+    "string": "Why join the CoolVPN affiliate program?"
+  },
+  "Affiliate.section_2.title2": {
+    "string": "6-month offer"
+  },
+  "Affiliate.section_2.title2a": {
+    "string": "Your commission with our payout models"
+  },
+  "Affiliate.section_2.title3": {
+    "string": "1-year offer"
+  },
+  "Affiliate.section_3.desc1": {
+    "string": "Sign up for the CoolVPN affiliate program"
+  },
+  "Affiliate.section_3.desc2": {
+    "string": "Get the links, promo material and promote CoolVPN"
+  },
+  "Affiliate.section_3.desc3": {
+    "string": "Get your commission for every purchase"
+  },
+  "Affiliate.section_3.title1": {
+    "string": "Sign up"
+  },
+  "Affiliate.section_3.title2": {
+    "string": "Get links and material"
+  },
+  "Affiliate.section_3.title3": {
+    "string": "Get your commission"
+  },
+  "AffiliateReports.section_1.desc1aa": {
+    "string": "2020 sees Awin reach a major milestone. Twenty years as one of the world’s most successful affiliate networks. That storied history is chronicled in the new edition of the Awin Report, thanks to an array of content that considers the past, present and future of the affiliate industry."
+  },
+  "AffiliateReports.section_1.desc2aa": {
+    "string": "- A series of infographics illustrating the major affiliate trends Awin’s global network has tracked over the last 20 years - A wide selection of campaign case studies, both new and old, demonstrating ‘best-in-class’ practices from around the world"
+  },
+  "AffiliateReports.section_1.desc3aa": {
+    "string": "Woven throughout this content are a selection of views from some of Awin’s alumni, past employees who have played a pivotal role in where we are now."
+  },
+  "AffiliateReports.section_1.desc4aa": {
+    "string": "With many having since gone onto prominent roles across the digital advertising space including Facebook, ASOS, Verizon, and HP, they share their thoughts on the strengths of the channel."
+  },
+  "AffiliateReports.section_1.title1aa": {
+    "string": "Report Available"
+  },
+  "AffiliateSales.section_1.title1": {
+    "string": "Join the best VPN Affiliate program & Start Earning"
+  },
+  "AffiliateSales.section_1.title2": {
+    "string": "$62,488"
+  },
+  "AffiliateSales.section_1.title3": {
+    "string": "Are you ready to EARN UP TO in 7 days like one of our affilitaes?"
+  },
+  "AffiliateSales.section_2.desc1": {
+    "string": "We offer the best commission rates in the industry. All balances of $100 are paid out automatically every month"
+  },
+  "AffiliateSales.section_2.desc2": {
+    "string": "CoolVPN has been providing VPN service to users globally since 2006. We are one of the longest- standing and most trusted VPN providers on the market."
+  },
+  "AffiliateSales.section_2.desc3": {
+    "string": "Contact us anytime to discuss ideas and get feedback on how to optimize your CoolVPN affiliate campaign. We are here to help!"
+  },
+  "AffiliateSales.section_2.desc4": {
+    "string": "Our affiliate software gives you 24/7 reporting to monitor and manage your sales and commissions."
+  },
+  "AffiliateSales.section_2.title1": {
+    "string": "Price for top VPN Affiliates"
+  },
+  "AffiliateSales.section_2.title2": {
+    "string": "On-time Affiliates Payout"
+  },
+  "AffiliateSales.section_2.title3": {
+    "string": "Dedicated affiliate support"
+  },
+  "AffiliateSales.section_2.title4": {
+    "string": "Affiliates Notifications & Multiple Methods"
+  },
+  "AffiliateSales.section_3.title1": {
+    "string": "Review Sites"
+  },
+  "AffiliateSales.section_3.title2": {
+    "string": "Publishers"
+  },
+  "AffiliateSales.section_3.title3": {
+    "string": "Bloggers"
+  },
+  "AffiliateSales.section_3.title4": {
+    "string": "Youtube"
+  },
+  "AffiliateSales.section_3.title5": {
+    "string": "Coupon Sites"
+  },
+  "AffiliateSales.section_3.title6": {
+    "string": "Anyone"
+  },
+  "AffiliateSales.section_5.desc1": {
+    "string": "By submitting this form, you agree to ou"
+  },
+  "AffiliateSales.section_5.desc2": {
+    "string": "Terms of Service"
+  },
+  "AffiliateSales.section_5.desc3": {
+    "string": "and"
+  },
+  "AffiliateSales.section_5.desc4": {
+    "string": "Privacy Policy"
+  },
+  "AffiliateSales.section_5.desc5": {
+    "string": "If you do not wish to receive information about CoolVPN services, please send us an email at privacy@easyvpn.com."
+  },
+  "AffiliateSales.section_5.title1": {
+    "string": "Get Started"
+  },
+  "AnonymousIP.section_2.desc2": {
+    "string": "You will use an intuitive reseller dashboard. This will be your place, dedicated to purchasing licenses and managing clients with ease."
+  },
+  "AnonymousIP.section_2.link1": {
+    "string": "Read more"
+  },
+  "AnonymousIP.section_2.link2": {
+    "string": "Read more"
+  },
+  "AnonymousIP.section_2.title2": {
+    "string": "You’re Being watched"
+  },
+  "AnonymousIP.section_3.desc1": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc2": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc3": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc4": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc5": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc6": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc7": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.desc8": {
+    "string": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore"
+  },
+  "AnonymousIP.section_3.title1": {
+    "string": "defeat isp speed"
+  },
+  "AnonymousIP.section_3.title2": {
+    "string": "unlimited data transfer"
+  },
+  "AnonymousIP.section_3.title3": {
+    "string": "unlimited server switching"
+  },
+  "AnonymousIP.section_3.title4": {
+    "string": "multiple security protocols"
+  },
+  "AnonymousIP.section_3.title5": {
+    "string": "ip leakage protection"
+  },
+  "AnonymousIP.section_3.title6": {
+    "string": "secure wi-fi"
+  },
+  "AnonymousIP.section_3.title7": {
+    "string": "complete anonymity"
+  },
+  "AnonymousIP.section_3.title8": {
+    "string": "256-bit data encryption"
+  },
+  "Api.section_2.desc1": {
+    "string": "API Reference"
+  },
+  "Api.section_2.desc10c": {
+    "string": "/ code string For some errors that could be handled programmatically, a short string indicating the error code reported."
+  },
+  "Api.section_2.desc11c": {
+    "string": "/ decline_code string For card errors resulting from a card issuer decline, a short string indicating the card issuer’s reason for the decline if they provide one."
+  },
+  "Api.section_2.desc12c": {
+    "string": "/ doc_url string A URL to more information about the error code reported."
+  },
+  "Api.section_2.desc1b": {
+    "string": "Authentication"
+  },
+  "Api.section_2.desc1c": {
+    "string": "Errors"
+  },
+  "Api.section_2.desc2": {
+    "string": "The Stripe API is organized around REST. Our API has predictable resource-oriented URLs, accepts form- encoded request bodies, returns JSON-encoded responses, and uses standard HTTP response codes, authentication, and verbs."
+  },
+  "Api.section_2.desc2b": {
+    "string": "TThe Stripe API uses API keys to authenticate requests. You can view and manage your API keys in the Stripe Dashboard."
+  },
+  "Api.section_2.desc2c": {
+    "string": "Stripe uses conventional HTTP response codes to indicate the success or failure of an API request. In general: Codes in the 2xx range indicate success. Codes in the 4xx range indicate an error that failed given the information provided (e.g., a required parameter was omitted, a charge failed, etc.). Codes in the 5xx range indicate an error with Stripe's servers (these are rare)."
+  },
+  "Api.section_2.desc3": {
+    "string": "You can use the Stripe API in test mode, which does not affect your live data or interact with the banking networks. The API key you use to authenticate the request determines whether the request is live mode or test mode."
+  },
+  "Api.section_2.desc3b": {
+    "string": "Test mode secret keys have the prefix sk_test_ and live mode secret keys have the prefix sk_live_. Alternatively, you can use restricted API keys for granular permissions."
+  },
+  "Api.section_2.desc3c": {
+    "string": "Some 4xx errors that could be handled programmatically (e.g., a card is declined) include an error code that briefly explains the error reported."
+  },
+  "Api.section_2.desc4": {
+    "string": "Subscribe to API announce mailing list for updates."
+  },
+  "Api.section_2.desc4b": {
+    "string": "Your API keys carry many privileges, so be sure to keep them secure! Do not share your secret API keys in publicly accessible areas such as GitHub, client-side code, and so forth."
+  },
+  "Api.section_2.desc4c": {
+    "string": "Was this section helpful?YesNo"
+  },
+  "Api.section_2.desc5": {
+    "string": "Was this section helpful? Yes No"
+  },
+  "Api.section_2.desc5b": {
+    "string": "Authentication to the API is performed via HTTP Basic Auth. Provide your API key as the basic auth username value. You do not need to provide a password."
+  },
+  "Api.section_2.desc5c": {
+    "string": "ATTRIBUTES"
+  },
+  "Api.section_2.desc6": {
+    "string": "SAPI libraries"
+  },
+  "Api.section_2.desc6b": {
+    "string": "If you need to authenticate via bearer auth (e.g., for a cross-origin request), use -H `Authorization: Bearer sk_test_4eC39HqLyjWDarjtT1zdp7dc` instead of -u sk_test_4eC39HqLyjWDarjtT1zdp7dc."
+  },
+  "Api.section_2.desc6c": {
+    "string": "type string The type of error returned. One of api_connection_error, api_error, authentication_error, card_error, idempotency_error, invalid_request_error, or rate_limit_error"
+  },
+  "Api.section_2.desc7": {
+    "string": "Official libraries for the Stripe API are available in several languages. Community-supported libraries are"
+  },
+  "Api.section_2.desc7b": {
+    "string": "All API requests must be made over HTTPS. Calls made over plain HTTP will fail. API requests without authentication will also fail."
+  },
+  "Api.section_2.desc8": {
+    "string": "also available for additional languages."
+  },
+  "Api.section_2.desc8b": {
+    "string": "Was this section helpful?YesNo curl https://api.stripe.com/v1/charges \\ -u sk_test_4eC39HqLyjWDarjtT1zdp7dc: # The colon prevents curl from asking for a password. A sample test API key is included in all the examples here, so you can test any example right away. To test requests using your account, replace the sample API key with your actual API key."
+  },
+  "Api.section_2.desc9c": {
+    "string": "/ charge string For card errors, the ID of the failed charge."
+  },
+  "Api.section_2.title1": {
+    "string": "TOPICS"
+  },
+  "Api.section_2.title10": {
+    "string": "Versioning"
+  },
+  "Api.section_2.title10a": {
+    "string": "PaymentIntents"
+  },
+  "Api.section_2.title10c": {
+    "string": "Usage Records"
+  },
+  "Api.section_2.title11a": {
+    "string": "Payouts"
+  },
+  "Api.section_2.title12a": {
+    "string": "Products"
+  },
+  "Api.section_2.title13a": {
+    "string": "Refunds"
+  },
+  "Api.section_2.title1a": {
+    "string": "CORE RESOURCES"
+  },
+  "Api.section_2.title1b": {
+    "string": "PAYMENT METHODS"
+  },
+  "Api.section_2.title1c": {
+    "string": "BILLING"
+  },
+  "Api.section_2.title2": {
+    "string": "Introduction"
+  },
+  "Api.section_2.title2a": {
+    "string": "Balance"
+  },
+  "Api.section_2.title2b": {
+    "string": "Bank Accounts"
+  },
+  "Api.section_2.title2c": {
+    "string": "Coupons"
+  },
+  "Api.section_2.title3": {
+    "string": "Authentication"
+  },
+  "Api.section_2.title3a": {
+    "string": "Charges"
+  },
+  "Api.section_2.title3b": {
+    "string": "Cards"
+  },
+  "Api.section_2.title3c": {
+    "string": "Discounts"
+  },
+  "Api.section_2.title4": {
+    "string": "Errors"
+  },
+  "Api.section_2.title4a": {
+    "string": "CheckoutSessions"
+  },
+  "Api.section_2.title4b": {
+    "string": "Sources"
+  },
+  "Api.section_2.title4c": {
+    "string": "Invoices"
+  },
+  "Api.section_2.title5": {
+    "string": "Expanding Objects"
+  },
+  "Api.section_2.title5a": {
+    "string": "Customers"
+  },
+  "Api.section_2.title5c": {
+    "string": "Invoice Items"
+  },
+  "Api.section_2.title6": {
+    "string": "Idempotent Requests"
+  },
+  "Api.section_2.title6a": {
+    "string": "Disputes"
+  },
+  "Api.section_2.title6c": {
+    "string": "Products"
+  },
+  "Api.section_2.title7": {
+    "string": "Metadata"
+  },
+  "Api.section_2.title7a": {
+    "string": "Events"
+  },
+  "Api.section_2.title7c": {
+    "string": "Plans"
+  },
+  "Api.section_2.title8": {
+    "string": "Pagination"
+  },
+  "Api.section_2.title8a": {
+    "string": "Files"
+  },
+  "Api.section_2.title8c": {
+    "string": "Subscriptions"
+  },
+  "Api.section_2.title9": {
+    "string": "Request IDs"
+  },
+  "Api.section_2.title9a": {
+    "string": "File Links"
+  },
+  "Api.section_2.title9c": {
+    "string": "Subscription Items"
+  },
+  "Article.section_5.link1a": {
+    "string": "Technology"
+  },
+  "Article.section_5.link2b": {
+    "string": "Art"
+  },
+  "Article.section_5.link3c": {
+    "string": "Birds"
+  },
+  "Article.section_7.desc1": {
+    "string": "Director J.J. Abrams aimed to use practical effects whenever possible on Star Wars: The Force Awakens"
+  },
+  "Article.section_7.desc2": {
+    "string": "Here are six tips that can help brands stir passion and deepen connections inalmost any community"
+  },
+  "Article.section_7.desc3": {
+    "string": "Downloading an iOS update is like getting a haircut or taking out life insurance; you’ll get to it eventually"
+  },
+  "Article.section_7.info1": {
+    "string": "CREATIVE"
+  },
+  "Article.section_7.info2": {
+    "string": "VIDEO"
+  },
+  "Article.section_7.info3": {
+    "string": "GADGETS"
+  },
+  "Article.section_7.title1": {
+    "string": "How They Made the Incredible Effects"
+  },
+  "Article.section_7.title2": {
+    "string": "The Super-durable And Super-versatile Tarp"
+  },
+  "Article.section_7.title3": {
+    "string": "You Shouldn’t Wait on the Latest iOS Update"
+  },
+  "BecomePartner.section_1.desc1": {
+    "string": "You start with a 30% discount, which increases with your sales"
+  },
+  "BecomePartner.section_1.desc2": {
+    "string": "With 14 million users and growing, CoolVPN is one of the most popular VPN brands in the world. It provides an essential product for users who value their privacy and security. You can become a VPN reseller within a day – it’s all in your hands."
+  },
+  "BecomePartner.section_1.title": {
+    "string": "The easiest way to grow your business – the CoolVPN reseller program"
+  },
+  "BecomePartner.section_2.desc1": {
+    "string": "1-month license"
+  },
+  "BecomePartner.section_2.desc2": {
+    "string": "1-year license"
+  },
+  "BecomePartner.section_2.desc3": {
+    "string": "3-year license"
+  },
+  "BecomePartner.section_2.title": {
+    "string": "How much will you earn?"
+  },
+  "BecomePartner.section_2.title1": {
+    "string": "$ 395"
+  },
+  "BecomePartner.section_2.title2": {
+    "string": "$ 2588"
+  },
+  "BecomePartner.section_2.title3": {
+    "string": "$ 3860"
+  },
+  "BecomePartner.section_3.title": {
+    "string": "Complement your product or service offering with CoolVPN. A personal VPN has become a necessity for every security-conscious user. CoolVPN will be a great addition to your product bundle offering."
+  },
+  "BecomePartner.section_4.title": {
+    "string": "All you need to get started"
+  },
+  "BecomePartner.section_4.title0": {
+    "string": "What makes us special"
+  },
+  "BecomePartner.section_5.title1": {
+    "string": "Sign up"
+  },
+  "BecomePartner.section_5.title2": {
+    "string": "Top up"
+  },
+  "BecomePartner.section_5.title3": {
+    "string": "Earn"
+  },
+  "Blog.section_1.title1": {
+    "string": "Discover our blog"
+  },
+  "Blog.section_2.desc.id1": {
+    "string": "Aug 07, 2020 · 3 min read"
+  },
+  "Blog.section_2.desc.id2": {
+    "string": "Aug 07, 2020 · 3 min read"
+  },
+  "Blog.section_2.desc.id3": {
+    "string": "Aug 07, 2020 · 3 min read"
+  },
+  "Blog.section_2.title.id1": {
+    "string": "Will you still be able to use TikTok?"
+  },
+  "Blog.section_2.title.id2": {
+    "string": "“Untouchable” Russian hacker’s ransomware squeezes Garmin for $10m"
+  },
+  "Blog.section_2.title.id3": {
+    "string": "Social media and cyberbullying: a dangerous mix"
+  },
+  "Blog.section_3.title": {
+    "string": "Popular articles"
+  },
+  "Blog.section_4.title": {
+    "string": "Recent articles"
+  },
+  "Checkout.section_2.btn1": {
+    "string": "Save 70%"
+  },
+  "Checkout.section_2.btn2": {
+    "string": "Save 58%"
+  },
+  "Checkout.section_2.btn3": {
+    "string": "Save 41%"
+  },
+  "Checkout.section_2.btn4": {
+    "string": "Save 0%"
+  },
+  "Checkout.section_2.desc1": {
+    "string": "$420.64"
+  },
+  "Checkout.section_2.desc2": {
+    "string": "$320.64"
+  },
+  "Checkout.section_2.desc3": {
+    "string": "$220.64"
+  },
+  "Checkout.section_2.desc4": {
+    "string": "$120.64"
+  },
+  "Checkout.section_2.subdesc1": {
+    "string": "$125.64 billed every 3 years"
+  },
+  "Checkout.section_2.subdesc2": {
+    "string": "$125.64 billed every 3 years"
+  },
+  "Checkout.section_2.subdesc3": {
+    "string": "$125.64 billed every 3 years"
+  },
+  "Checkout.section_2.subdesc4": {
+    "string": "$125.64 billed every 3 years"
+  },
+  "Checkout.section_2.subtitle1": {
+    "string": "3-Year Plan"
+  },
+  "Checkout.section_2.subtitle2": {
+    "string": "2-Year Plan"
+  },
+  "Checkout.section_2.subtitle3": {
+    "string": "1-Year Plan"
+  },
+  "Checkout.section_2.subtitle4": {
+    "string": "1-month Plan"
+  },
+  "Checkout.section_2.title1": {
+    "string": "3.49/mo"
+  },
+  "Checkout.section_2.title2": {
+    "string": "4.99/mo"
+  },
+  "Checkout.section_2.title3": {
+    "string": "6.99/mo"
+  },
+  "Checkout.section_2.title4": {
+    "string": "11.95/mo"
+  },
+  "ContactUs.section_2.desc1": {
+    "string": "Atención al cliente 24/7 Buenos Aires:"
+  },
+  "ContactUs.section_2.desc10": {
+    "string": "Basel: 8:00 - 20:00 Uhr, M-F"
+  },
+  "ContactUs.section_2.desc11": {
+    "string": "24/7 Support"
+  },
+  "ContactUs.section_2.desc12": {
+    "string": "Atención al cliente 24/7 Ciudad de México:"
+  },
+  "ContactUs.section_2.desc2": {
+    "string": "24/7 Support Countrywide:"
+  },
+  "ContactUs.section_2.desc3": {
+    "string": "8 bis 20 Uhr, Mo-Fr"
+  },
+  "ContactUs.section_2.desc4": {
+    "string": "9h à 21:30h lun-ven"
+  },
+  "ContactUs.section_2.desc5": {
+    "string": "Ülke çapında: Pzt-Cu 9:00 - 19:00 arası"
+  },
+  "ContactUs.section_2.desc6": {
+    "string": "24/7 Support:"
+  },
+  "ContactUs.section_2.desc7": {
+    "string": "24/7 Support"
+  },
+  "ContactUs.section_2.desc8": {
+    "string": "Atención al cliente 24/7 Caracas:"
+  },
+  "ContactUs.section_2.desc9": {
+    "string": "Kraków: Pomoc techn. 24/7 po ang."
+  },
+  "ContactUs.section_2.number1": {
+    "string": "+54 11 5984 0780"
+  },
+  "ContactUs.section_2.number10": {
+    "string": "+41 61 588 0224"
+  },
+  "ContactUs.section_2.number11": {
+    "string": "+65 63494240"
+  },
+  "ContactUs.section_2.number12": {
+    "string": "+52 55 4631 2410"
+  },
+  "ContactUs.section_2.number2": {
+    "string": "+61 1300 351 076"
+  },
+  "ContactUs.section_2.number3": {
+    "string": "+49 89 21 094 807"
+  },
+  "ContactUs.section_2.number4": {
+    "string": "+33 9 75 18 70 39"
+  },
+  "ContactUs.section_2.number5": {
+    "string": "850 390 75 46"
+  },
+  "ContactUs.section_2.number6": {
+    "string": "+44 20 7084 1810"
+  },
+  "ContactUs.section_2.number7": {
+    "string": "+1 4804638389"
+  },
+  "ContactUs.section_2.number8": {
+    "string": "+58 212 7719061"
+  },
+  "ContactUs.section_2.number9": {
+    "string": "+48 12 881 12 87"
+  },
+  "ContactUs.section_2.state1": {
+    "string": "Argentina"
+  },
+  "ContactUs.section_2.state10": {
+    "string": "Schweiz"
+  },
+  "ContactUs.section_2.state11": {
+    "string": "Singapore"
+  },
+  "ContactUs.section_2.state12": {
+    "string": "México"
+  },
+  "ContactUs.section_2.state2": {
+    "string": "Australia"
+  },
+  "ContactUs.section_2.state3": {
+    "string": "Deutschland"
+  },
+  "ContactUs.section_2.state4": {
+    "string": "France"
+  },
+  "ContactUs.section_2.state5": {
+    "string": "Türkiye"
+  },
+  "ContactUs.section_2.state6": {
+    "string": "United Kingdom"
+  },
+  "ContactUs.section_2.state7": {
+    "string": "United States"
+  },
+  "ContactUs.section_2.state8": {
+    "string": "Venezuela"
+  },
+  "ContactUs.section_2.state9": {
+    "string": "Polska"
+  },
+  "Download.section_1.or": {
+    "string": "or"
+  },
+  "Download.section_2.desc.id1": {
+    "string": "Double-click the new CoolVPN icon and follow the on-screen instructions."
+  },
+  "Download.section_2.desc.id2": {
+    "string": "Log in button2 Sign up or log in Follow the on-screen instructions to log in or create an account."
+  },
+  "Download.section_2.desc.id3": {
+    "string": "Pick a country or select Fastest for the fastest speeds, then toggle the switch ON!"
+  },
+  "Download.section_2.title": {
+    "string": "Easy as 1-2-3"
+  },
+  "Download.section_2.title.id1": {
+    "string": "Install the app"
+  },
+  "Download.section_2.title.id2": {
+    "string": "Email input, Password input"
+  },
+  "Download.section_2.title.id3": {
+    "string": "Toggle switch3 Start tunneling"
+  },
+  "Download.section_3.desc.id1": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Download.section_3.desc.id2": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Download.section_3.title": {
+    "string": "Frequently asked questions"
+  },
+  "Download.section_3.title.id1": {
+    "string": "How to get a VPN on Mac?"
+  },
+  "Download.section_3.title.id2": {
+    "string": "How to set up a VPN on Mac?"
+  },
+  "Download.section_3.title.id3": {
+    "string": "How to use a VPN on Mac?"
+  },
+  "Download.section_3.titleID": {
+    "string": "Easy as 1-2-3"
+  },
+  "FAQ.section_1.title": {
+    "string": "Have a Question? Look here"
+  },
+  "FAQ.section_2.desc.id1": {
+    "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
+  },
+  "FAQ.section_2.desc.id2": {
+    "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article.."
+  },
+  "FAQ.section_2.desc.id3": {
+    "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
+  },
+  "FAQ.section_2.desc.id4": {
+    "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
+  },
+  "FAQ.section_2.desc.id5": {
+    "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
+  },
+  "FAQ.section_2.desc.id6": {
+    "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
+  },
+  "FAQ.section_2.desc.id7": {
+    "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
+  },
+  "FAQ.section_2.desc.id8": {
+    "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
+  },
+  "FAQ.section_2.desc.id9": {
+    "string": "The CoolVPN native application is the recommended option for connecting to CoolVPN servers on your Windows PC. , see our article."
+  },
+  "FAQ.section_2.desc1": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc10": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc11": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc12": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc2": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc3": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc4": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc5": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc6": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc7": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc8": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.desc9": {
+    "string": "Yes, you can. For more information about the servers compatible with P2P, see our article."
+  },
+  "FAQ.section_2.title.id1": {
+    "string": "Installing and using CoolVPN on Windows 10?"
+  },
+  "FAQ.section_2.title.id2": {
+    "string": "Installing and using CoolVPN on Linux?"
+  },
+  "FAQ.section_2.title.id3": {
+    "string": "Installing and using CoolVPN on macOS?"
+  },
+  "FAQ.section_2.title.id4": {
+    "string": "Installing and using CoolVPN on Android?"
+  },
+  "FAQ.section_2.title.id5": {
+    "string": "Installing and using CoolVPN on Amazon fire device"
+  },
+  "FAQ.section_2.title.id6": {
+    "string": "How to configure Rasberry Pi?"
+  },
+  "FAQ.section_2.title.id7": {
+    "string": "Installing the CoolVPN OpenVPN app on macOS?"
+  },
+  "FAQ.section_2.title.id8": {
+    "string": "Installing the CoolVPN app on iPhone or iPad?"
+  },
+  "FAQ.section_2.title.id9": {
+    "string": "Installing the CoolVPN IKEv2 application on macOS?"
+  },
+  "FAQ.section_2.title1": {
+    "string": "Can I use P2P applications with CoolVPN?"
+  },
+  "FAQ.section_2.title10": {
+    "string": "Do you support IPv6?"
+  },
+  "FAQ.section_2.title11": {
+    "string": "What information do you store?"
+  },
+  "FAQ.section_2.title12": {
+    "string": "Can I change my VPN username?"
+  },
+  "FAQ.section_2.title2": {
+    "string": "How do I set up CoolVPN?"
+  },
+  "FAQ.section_2.title3": {
+    "string": "How do i link multiple accounts with my profile?"
+  },
+  "FAQ.section_2.title4": {
+    "string": "Will I experience a DNS leak with CoolVPN?"
+  },
+  "FAQ.section_2.title5": {
+    "string": "What is a Kill Switch and how does it work?"
+  },
+  "FAQ.section_2.title6": {
+    "string": "What is Double VPN and how does it work?"
+  },
+  "FAQ.section_2.title7": {
+    "string": "Where are your servers located?"
+  },
+  "FAQ.section_2.title8": {
+    "string": "What bandwidth can I expect from your service?"
+  },
+  "FAQ.section_2.title9": {
+    "string": "Do you offer any open ports?"
+  },
+  "Features.section_1.desc.id1": {
+    "string": "Deployed by VPN Provider at different locations"
+  },
+  "Features.section_1.desc.id2": {
+    "string": "To create the Tunnel"
+  },
+  "Features.section_1.desc.id3": {
+    "string": "To Secure the communication by making it unreadable for everyone except the receiver"
+  },
+  "Features.section_1.title.id1": {
+    "string": "VPN Server"
+  },
+  "Features.section_1.title.id2": {
+    "string": "VPN Protocols"
+  },
+  "Features.section_1.title.id3": {
+    "string": "VPN Encryption"
+  },
+  "FreeProxy.section_2.desc1": {
+    "string": "Enter Web address"
+  },
+  "FreeProxy.section_3.desc1": {
+    "string": "Cool VPN"
+  },
+  "FreeProxy.section_3.desc2": {
+    "string": "Free VPN"
+  },
+  "FreeProxy.section_3.title1": {
+    "string": "Hides IP address"
+  },
+  "FreeProxy.section_3.title2": {
+    "string": "Unblocks restricted content"
+  },
+  "FreeProxy.section_3.title3": {
+    "string": "TLS v1.2 encryption"
+  },
+  "FreeProxy.section_3.title4": {
+    "string": "Ultimate connection privacy"
+  },
+  "FreeProxy.section_3.title5": {
+    "string": "Unthrottled speed"
+  },
+  "FreeProxy.section_3.title6": {
+    "string": "High connection stability"
+  },
+  "FreeProxy.section_3.title7": {
+    "string": "No logs"
+  },
+  "FreeProxy.section_3.title8": {
+    "string": "Bypasses ISP firewalls"
+  },
+  "FreeProxy.section_3.title9": {
+    "string": "24/7 support"
+  },
+  "FreeProxy.section_4.desc.id1": {
+    "string": "Using a VPN lets you watch movies and TV on streaming services like Netflix, Hulu, Amazon, and HBO with freedom from ISP throttling or blocking by your ISP"
+  },
+  "FreeProxy.section_4.desc.id2": {
+    "string": "Exploring the world doesn’t mean you have to change the way you use the internet. A VPN lets you use the internet no matter how far you travel."
+  },
+  "FreeProxy.section_4.desc.id3": {
+    "string": "Changing your IP address with a VPN helps hide your identity from websites, apps, and services that want to track you."
+  },
+  "FreeProxy.section_4.title.id1": {
+    "string": "Best VPN for streaming"
+  },
+  "FreeProxy.section_4.title.id2": {
+    "string": "P2P servers"
+  },
+  "FreeProxy.section_4.title.id3": {
+    "string": "24/7 Customer Service"
+  },
+  "Home.section_1.desc": {
+    "string": "High speed, ultra secure, and easy to use. Instant setup."
+  },
+  "Home.section_1.info1": {
+    "string": "SAFE ONLINE"
+  },
+  "Home.section_1.info1b": {
+    "string": "SAFE ONLINE"
+  },
+  "Home.section_1.info2a": {
+    "string": "Disappear"
+  },
+  "Home.section_1.info2a1": {
+    "string": "Disappear"
+  },
+  "Home.section_1.info2b": {
+    "string": "Be cool. Be invisible and secure"
+  },
+  "Home.section_1.info2b2": {
+    "string": "Be cool. Be invisible and secure"
+  },
+  "Home.section_1.title": {
+    "string": "Feel safe online, anytime, anywhere."
+  },
+  "Home.section_2.desc.id1": {
+    "string": "Unleash your digital world and unblock restricted content."
+  },
+  "Home.section_2.desc.id2": {
+    "string": "Stream your favourite shows from anywhere in the world."
+  },
+  "Home.section_2.desc.id3": {
+    "string": "Keep your private information secure at all times."
+  },
+  "Home.section_2.title.id1": {
+    "string": "Unblock"
+  },
+  "Home.section_2.title.id2": {
+    "string": "Stream"
+  },
+  "Home.section_2.title.id3": {
+    "string": "Secure"
+  },
+  "Home.section_3.txt.id1": {
+    "string": "Ad blocker"
+  },
+  "Home.section_3.txt.id2": {
+    "string": "Sync data"
+  },
+  "Home.section_3.txt.id3": {
+    "string": "Sync data"
+  },
+  "Home.section_4.subtitle": {
+    "string": "The best deal of the year!"
+  },
+  "Home.section_4a.text.id1": {
+    "string": "Your IP address is publicy visible"
+  },
+  "Home.section_4a.text.id2": {
+    "string": "Your data is stored by your ISP"
+  },
+  "Home.section_4a.text.id3": {
+    "string": "Websites gather your data"
+  },
+  "Home.section_4a.text.id4": {
+    "string": "Marketers keep tracking you"
+  },
+  "Home.section_4a.text.id5": {
+    "string": "Spies and hackers target you easily"
+  },
+  "Home.section_4b.text.id1": {
+    "string": "We hide your IP address"
+  },
+  "Home.section_4b.text.id2": {
+    "string": "We make you 100% anonymous"
+  },
+  "Home.section_4b.text.id3": {
+    "string": "Your browsing data becomes invisible"
+  },
+  "Home.section_4b.text.id4": {
+    "string": "You can access all content online"
+  },
+  "Home.section_4b.text.id5": {
+    "string": "You get full encryption for your safety"
+  },
+  "Home.section_6.desc.id1": {
+    "string": "Your IP is: 192.168.0.1"
+  },
+  "Home.section_6.desc.id2": {
+    "string": "Your IP is: Secured by CoolVPN"
+  },
+  "Home.section_6.title.id1": {
+    "string": "Your connection is not secured!"
+  },
+  "Home.section_6.title.id2": {
+    "string": "With Coolvpn your IP is hidden"
+  },
+  "Home.section_7.answer10": {
+    "string": "VPN works like a bullet-proof sedan, allowing you to cross the busy streets of urban internet with ease , comfort and security."
+  },
+  "Home.section_7.answer11": {
+    "string": "VPN works like a bullet-proof sedan, allowing you to cross the busy streets of urban internet with ease , comfort and security."
+  },
+  "Home.section_7.answer12": {
+    "string": "VPN works like a bullet-proof sedan, allowing you to cross the busy streets of urban internet with ease , comfort and security."
+  },
+  "Home.section_7.name10": {
+    "string": "Violet Sanford"
+  },
+  "Home.section_7.name11": {
+    "string": "Marshall Mccormack"
+  },
+  "Home.section_7.name12": {
+    "string": "Daisie Oconnell"
+  },
+  "Home.section_7.subtitle": {
+    "string": "User Feedbacks"
+  },
+  "Home.section_7.title10": {
+    "string": "Good app works well"
+  },
+  "Home.section_7.title11": {
+    "string": "Nice app works well"
+  },
+  "Home.section_7.title12": {
+    "string": "Great app works well"
+  },
+  "LatestVPNprotocols.section_2.title1a": {
+    "string": "Security"
+  },
+  "LatestVPNprotocols.section_2.title2b": {
+    "string": "Stability"
+  },
+  "LatestVPNprotocols.section_2.title2d": {
+    "string": "Speed"
+  },
+  "LatestVPNprotocols.section_2.title3c": {
+    "string": "Easy of use"
+  },
+  "LatestVPNprotocols.section_2.title3e": {
+    "string": "Overall"
+  },
+  "Login.Already": {
+    "string": "Don't have an account?"
+  },
+  "Login.Signin": {
+    "string": "Sign up now."
+  },
+  "Login.forgot": {
+    "string": "Forgot Password?"
+  },
+  "Login.id": {
+    "string": "log in"
+  },
+  "Login.or2": {
+    "string": "or"
+  },
+  "Login.title": {
+    "string": "Login to Cool VPN"
+  },
+  "OurTeam.section_1.desc.id1": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_1.desc.id2": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_1.desc.id3": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_1.desc.id4": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_1.title": {
+    "string": "Meet our Team"
+  },
+  "OurTeam.section_1.title.id1": {
+    "string": "Emma"
+  },
+  "OurTeam.section_1.title.id2": {
+    "string": "Monica"
+  },
+  "OurTeam.section_1.title.id3": {
+    "string": "Evan"
+  },
+  "OurTeam.section_1.title.id4": {
+    "string": "Sarah"
+  },
+  "OurTeam.section_2.desc.id1": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_2.desc.id2": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_2.desc.id3": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_2.desc.id4": {
+    "string": "Designer Web & Multimédia"
+  },
+  "OurTeam.section_2.title.id1": {
+    "string": "Antonio"
+  },
+  "OurTeam.section_2.title.id2": {
+    "string": "Violet"
+  },
+  "OurTeam.section_2.title.id3": {
+    "string": "Jake"
+  },
+  "OurTeam.section_2.title.id4": {
+    "string": "Noah"
+  },
+  "Payment.section_2.info1": {
+    "string": "Credit Cards"
+  },
+  "Payment.section_2.info2a": {
+    "string": "Google Pay"
+  },
+  "Payment.section_2.info2c": {
+    "string": "Order summary"
+  },
+  "Payment.section_2.info3": {
+    "string": "CoolVPN 3-year plan"
+  },
+  "Payment.section_2.info4": {
+    "string": "$430.20"
+  },
+  "Payment.section_2.info5": {
+    "string": "Discount -70%"
+  },
+  "Payment.section_2.info6": {
+    "string": "-$304.56"
+  },
+  "Payment.section_2.info7": {
+    "string": "Total"
+  },
+  "Payment.section_2.info8": {
+    "string": "USD $125.64"
+  },
+  "Payment.section_2.info9": {
+    "string": "Payment information"
+  },
+  "Payment.section_2.subtitle1ee": {
+    "string": "Select a payment method"
+  },
+  "PressArea.section_2.desc1": {
+    "string": "CoolVPN maintains a strict no-logs policy, which means we do not collect and store any logs of our users’ activity. The fact was confirmed by an industry-first audit on no-logging claims."
+  },
+  "PressArea.section_2.desc2": {
+    "string": "Our users get a lot more than just a VPN solution. CyberSec, DoubleVPN, SmartPlay, and Onion Over VPN are just some of the extra features that our customers enjoy."
+  },
+  "PressArea.section_2.link1": {
+    "string": "Read more"
+  },
+  "PressArea.section_2.link2": {
+    "string": "Read more"
+  },
+  "PressArea.section_2.title2": {
+    "string": "What makes us special"
+  },
+  "PressArea.section_3.desc.id1": {
+    "string": "One of the most reliable VPN services in the world that encrypts internet traffic and protects online identity."
+  },
+  "PressArea.section_3.desc.id2": {
+    "string": "Advanced VPN solution that helps businesses and teams access company resources and work remotely in full security."
+  },
+  "PressArea.section_3.desc.id3": {
+    "string": "A password manager with top security, simplicity, and intuitive design"
+  },
+  "PressArea.section_3.desc.id4": {
+    "string": "Powerful end-to-end encryption tool for storing, syncing, and sharing files securely."
+  },
+  "PressArea.section_3.title": {
+    "string": "Our product family"
+  },
+  "PressArea.section_3.title.id1": {
+    "string": "CoolVPN"
+  },
+  "PressArea.section_3.title.id2": {
+    "string": "CoolVPN Team"
+  },
+  "PressArea.section_3.title.id3": {
+    "string": "CoolPass"
+  },
+  "PressArea.section_3.title.id4": {
+    "string": "Cool Locker"
+  },
+  "PressArea.section_3.title1": {
+    "string": "The original CoolVPN logo should be used whenever possible."
+  },
+  "PressArea.section_3.title2": {
+    "string": "The white logo version should only be used on dark or busy backgrounds."
+  },
+  "PressArea.section_3.title3": {
+    "string": "Screenshots and mock-ups are for non-commercial use."
+  },
+  "PressArea.section_4.desc1": {
+    "string": "CoolVPN has dedicated experts who are ready to comment on the following topics: internet privacy, cybersecurity, data breaches, hacks, digital literacy, online services and products, VPN market, etc."
+  },
+  "PressArea.section_4.desc2": {
+    "string": "You can find a great variety of our experts’ advice and opinions on the CoolVPN blog."
+  },
+  "PressArea.section_4.title": {
+    "string": "Our scope of expertise"
+  },
+  "PressArea.section_5.desc1": {
+    "string": "We are always working hard to make sure you are protected online. Our efforts are led by a team of 170+ tech experts, including programmers, security specialists, and IT architects."
+  },
+  "PressArea.section_5.desc2": {
+    "string": "Here’s what we’re doing to give you the most secure VPN experience."
+  },
+  "PressArea.section_5.title": {
+    "string": "Security efforts"
+  },
+  "PressArea.section_6.title": {
+    "string": "Screenshots and mock-ups"
+  },
+  "PressArea.section_7.desc1": {
+    "string": "For media inquiries, please email us at"
+  },
+  "PressArea.section_7.desc2": {
+    "string": "You can also reach us on Twitter or Facebook."
+  },
+  "PressArea.section_7.email": {
+    "string": "press@coolvpnpr.com"
+  },
+  "PressArea.section_7.title": {
+    "string": "Media contacts"
+  },
+  "PressArea.section_8.download": {
+    "string": "Download"
+  },
+  "PressArea.section_8.title": {
+    "string": "Latest press releases from CoolVPN"
+  },
+  "PressArea.section_8.title.id1": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id2": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id3": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id4": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id5": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id6": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id7": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "PressArea.section_8.title.id8": {
+    "string": "1 7 2020_CoolVPN’s no-log policy confirmed for the second time"
+  },
+  "Pricing.section_1.price.id1": {
+    "string": "$9.99"
+  },
+  "Pricing.section_1.price.id2": {
+    "string": "$15.99"
+  },
+  "Pricing.section_1.price.id3": {
+    "string": "$19.99"
+  },
+  "Pricing.section_1.save.id1": {
+    "string": "You save: 2.40 $"
+  },
+  "Pricing.section_1.save.id2": {
+    "string": "You save: 4.40 $"
+  },
+  "Pricing.section_1.save.id3": {
+    "string": "You save: 6.40 $"
+  },
+  "Pricing.section_1.title1.id1a": {
+    "string": "Free is free"
+  },
+  "Pricing.section_1.title2.id2b": {
+    "string": "Intermediate"
+  },
+  "Pricing.section_1.title3.id3c": {
+    "string": "Advanced"
+  },
+  "Pricing.section_1a.title1.id1": {
+    "string": "4 Places"
+  },
+  "Pricing.section_1a.title2.id2": {
+    "string": "Best effort Bandwith"
+  },
+  "Pricing.section_1a.title3.id3": {
+    "string": "2GB Data Transfer"
+  },
+  "Pricing.section_1a.title4.id4": {
+    "string": "Limited Protocol Support"
+  },
+  "Pricing.section_1a.title5.id5": {
+    "string": "1 Simultaneous Connection"
+  },
+  "Pricing.section_1a.title6.id3": {
+    "string": "0 No Port Forwarding"
+  },
+  "Pricing.section_1b.title1.id1": {
+    "string": "8 Places"
+  },
+  "Pricing.section_1b.title2.id2": {
+    "string": "Best effort Bandwith"
+  },
+  "Pricing.section_1b.title3.id3": {
+    "string": "4GB Data Transfer"
+  },
+  "Pricing.section_1b.title4.id4": {
+    "string": "Limited Protocol Support"
+  },
+  "Pricing.section_1b.title5.id5": {
+    "string": "2 Simultaneous Connection"
+  },
+  "Pricing.section_1b.title6.id6": {
+    "string": "0 No Port Forwarding"
+  },
+  "Pricing.section_1c.title.id1": {
+    "string": "12 Places"
+  },
+  "Pricing.section_1c.title.id2": {
+    "string": "Best effort Bandwith"
+  },
+  "Pricing.section_1c.title.id3": {
+    "string": "6GB Data Transfer"
+  },
+  "Pricing.section_1c.title.id4": {
+    "string": "Limited Protocol Support"
+  },
+  "Pricing.section_1c.title.id5": {
+    "string": "3 Simultaneous Connection"
+  },
+  "Pricing.section_1c.title.id6": {
+    "string": "0 No Port Forwarding"
+  },
+  "Pricing.section_3.desc.id1": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Pricing.section_3.desc.id2": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Pricing.section_3.desc.id3": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Pricing.section_3.desc.id4": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Pricing.section_3.desc.id5": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Pricing.section_3.desc.id6": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Pricing.section_3.desc.id7": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Pricing.section_3.desc.id8": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "Pricing.section_3.title": {
+    "string": "FAQ"
+  },
+  "Pricing.section_3.title.id1": {
+    "string": "How do I set up CoolVPN?"
+  },
+  "Pricing.section_3.title.id2": {
+    "string": "Do you offer a free trial?"
+  },
+  "Pricing.section_3.title.id3": {
+    "string": "Where are your servers located?"
+  },
+  "Pricing.section_3.title.id4": {
+    "string": "Do you offer any open ports?"
+  },
+  "Pricing.section_3.title.id5": {
+    "string": "Do you support IPv6?"
+  },
+  "Pricing.section_3.title.id6": {
+    "string": "What information do you store?"
+  },
+  "Pricing.section_3.title.id7": {
+    "string": "How is my privacy maintained?"
+  },
+  "Pricing.section_3.title.id8": {
+    "string": "Can I change my VPN username?"
+  },
+  "PrivacyPolicy.section_1.desc1": {
+    "string": "Our website uses social plugins (“plugins”) provided by the social network facebook (Facebook Inc., 1601 Willow Road, Menlo Park, California, 94025, USA). The plugins are identifiable by the Facebook logo or the “Like” button on our site. For a full list of all Facebook plugins go to: http://developers.facebook.com/docs/plugins/."
+  },
+  "PrivacyPolicy.section_1.desc2": {
+    "string": "When you visit one of our pages the plugin establishes a direct connection between your browser and the Facebook server. Thus, Facebook receives the information that you (your IP address) visited our website. If you click the Facebook “Like” button while logged in to your facebook account you can link content from our pages to your Facebook profile. This enables Facebook to associate your visit to our pages with your user account. Please note that we as provider of the pages have no knowledge as to the contents of the submitted data or its use by Facebook. For further information please see Facebook’s privacy policy at http://de-de.facebook.com/policy.php."
+  },
+  "PrivacyPolicy.section_1.desc3": {
+    "string": "If you do not want Facebook to associate the data concerning your visit to our website with your member data, please log off Facebook before entering our website."
+  },
+  "PrivacyPolicy.section_1.title": {
+    "string": "Privacy Policy Google Analytics, Twitter Privacy Policy"
+  },
+  "PrivacyPolicy.section_2.desc1": {
+    "string": "This website uses Google Analytics, a web analysis service of Google Inc. (“Google”). Google Analytics uses so called “cookies,” text files stored on your computer, to facilitate analysis of your website usage. Information generated by the cookie about your use of this website is usually transmitted to and stored on a Google server in the United States. However, prior to that, when IP anonymisation is activated on this website, your IP address will be truncated by Google (within member states of the European Union or in other states that are party to the agreement on the European Economic Area)."
+  },
+  "PrivacyPolicy.section_2.desc2": {
+    "string": "Only in exceptional cases a full IP address will be transmitted to a Google server in the United States and truncated there. On behalf this website’s operator, Google will use this information to evaluate your use of the website, compile reports about website activities, and provide the website’s operator with further services related to website activity and Internet usage. The IP address sent from your browser as part of Google Analytics will not be brought in association with other data held by Google."
+  },
+  "PrivacyPolicy.section_2.desc3": {
+    "string": "You can prevent storage of cookies by adjusting your browser software. In this case, however, please note that you might not be able to fully use all features offered by this website. In addition, you can prevent data generated by the cookie and relating to your use of the website (including your IP address) from being collected and processed by Google by downloading and installing a browser plugin available via this link http:// tools.google.com/dlpage/gaoptout?hl=de."
+  },
+  "PrivacyPolicy.section_2.title": {
+    "string": "Data policy for the use of Google Analytics"
+  },
+  "PrivacyPolicy.section_3.desc1": {
+    "string": "Use of Intercom Services: We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as sign-up date and some personal information like your email address) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. As a data processor acting on our behalf, Intercom analyzes your use of our website and/or product and tracks our relationship by way of cookies and similar technologies so that we can improve our service to you. For more information on Intercom's use of cookies, please visit https://www.intercom.com/terms-and-policies#cookie-policy. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit https://www.intercom.com/terms-and-policies#privacy. Intercom’s services are governed by Intercom’s terms of use which can be found at https://www.intercom.com/terms-and-policies#terms. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us."
+  },
+  "PrivacyPolicy.section_3.title": {
+    "string": "Privacy policy for the use of Intercom"
+  },
+  "PrivacyPolicy.section_4.desc1": {
+    "string": "We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on this link You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this opt-out link."
+  },
+  "PrivacyPolicy.section_4.title": {
+    "string": "Data policy for the use of Hotjar"
+  },
+  "Product.section_1.title1": {
+    "string": "Download a VPN app and protect any device"
+  },
+  "Product.section_1.title1z": {
+    "string": "Download a VPN app and protect any device"
+  },
+  "Product.section_1.title2": {
+    "string": "VPN software for computers, mobile, and more"
+  },
+  "Product.section_1.title3": {
+    "string": "CoolVPN offers a safe, easy-to-use VPN app for every major platform and solutions for all your favorite devices."
+  },
+  "Product.section_1.title4": {
+    "string": "Get set up in just five minutes."
+  },
+  "Product.section_2.desc1": {
+    "string": "After dabbling in various Bitcoin-related ventures that have gone south in the past couple of years, Cameron and Tyler Winklevoss are betting on themselves by heading up the first regulated Bitcoin exchange"
+  },
+  "Product.section_2.desc2": {
+    "string": "The Coinbase exchange will allow individuals and companies to do business in about half the states in the US where the company has regulatory approval. It will take a 0.25 percent cut of most transactions and waive fees for the first two months. Coinbase currently has 2.1 million consumer wallets and 38,000 merchants processing Bitcoin payments through its platform. The company received $75 million in funding."
+  },
+  "Product.section_2.title1": {
+    "string": "VPN for windows"
+  },
+  "Product.section_2.title2": {
+    "string": "VPN for android"
+  },
+  "Product.section_2.title3": {
+    "string": "VPN for Mac"
+  },
+  "Product.section_2.title4": {
+    "string": "VPN for Linux"
+  },
+  "Product.section_3.title1": {
+    "string": "VPN for Chrome"
+  },
+  "Product.section_3.title1z": {
+    "string": "VPN extensions for your favorite browsers"
+  },
+  "Product.section_3.title2": {
+    "string": "VPN for FireFox"
+  },
+  "Product.section_4.desc1": {
+    "string": "Bitcoin wallet service Coinbase will launch the US’ first Bitcoin exchange later today"
+  },
+  "Product.section_4.desc2": {
+    "string": "Although Coinbase’s exchange will initially do business only in the US, CEO Brian Armstrong said that he plans to expand the exchange to serve markets overseas in the future. Bitcoin is currently valued at about $280, up from $230 only three days ago. The cryptocurrency’s value is about $3.2 billion in total, with over 80,000 merchants accepting it for payments, according to currency tracker Coindesk."
+  },
+  "Product.section_4.desc3": {
+    "string": "The value of Bitcoin has passed the symbolic $500 mark for the first time in a month, suggesting that the cryptocurrency is stabilizing after a rollercoaster six months."
+  },
+  "Product.section_4.title": {
+    "string": "How to download a VPN app in 3 steps"
+  },
+  "Product.section_4.title1": {
+    "string": "Get CoolVPN"
+  },
+  "Product.section_4.title2": {
+    "string": "Visit the setup page"
+  },
+  "Product.section_4.title3": {
+    "string": "Download and install the app"
+  },
+  "Product.section_5.desc1a": {
+    "string": "With the first generation of Bitcoin businesses like Mt. Gox less influential today, the hopes of ‘mass-marketizing’ virtual currencies are held by venture capital-backed companies like BitPay, which recently raised $30 million, Coinbase, which raised a $25 million Series B round last year, and Circle. Interestingly, it looks like a significant transaction took the cyber currency over today’s landmark."
+  },
+  "Product.section_5.link1": {
+    "string": "I’ve seen people drop hints that they were Bitcoin’s creator seemingly to try to bring in investment money"
+  },
+  "Product.section_5a.title1aa": {
+    "string": "Best-in-class 256-bit encryption"
+  },
+  "Product.section_5b.title2bb": {
+    "string": "Unlimited bandwidth"
+  },
+  "Product.section_5c.title3cc": {
+    "string": "5-star customer support"
+  },
+  "Product.section_5d.title4dd": {
+    "string": "30-day money-back guarantee"
+  },
+  "Product.section_7.title": {
+    "string": "You might also like"
+  },
+  "Protocols.linux": {
+    "string": "Ubuntu"
+  },
+  "Protocols.win": {
+    "string": "Windows PC"
+  },
+  "RequestSupport.section_2.desc1": {
+    "string": "Jansen Street 187, Oklahoma City USA"
+  },
+  "RequestSupport.section_2.desc2": {
+    "string": "support@Coolvpn"
+  },
+  "RequestSupport.section_2.desc3": {
+    "string": "+40 7777 9000 456"
+  },
+  "RequestSupport.section_2.title1": {
+    "string": "Location"
+  },
+  "RequestSupport.section_2.title2": {
+    "string": "Email"
+  },
+  "RequestSupport.section_2.title3": {
+    "string": "Phone"
+  },
+  "ResellerHistory.section_1.title4": {
+    "string": "Already an affiliate?"
+  },
+  "ResellerHistory.section_1.title5": {
+    "string": "Sign In"
+  },
+  "ResellerHistory.section_2.desc1": {
+    "string": "We offer the best commission rates in the industry. All balances of $100 are paid out automatically every month"
+  },
+  "ResellerHistory.section_2.desc2": {
+    "string": "CoolVPN has been providing VPN service to users globally since 2006. We are one of the longest- standing and most trusted VPN providers on the market."
+  },
+  "ResellerHistory.section_2.title1": {
+    "string": "What Does a Reseller Do?"
+  },
+  "ResellerHistory.section_2.title2": {
+    "string": "How to Get Started"
+  },
+  "ResellerHistory.section_4.title1": {
+    "string": "Review Sites"
+  },
+  "ResellerHistory.section_4.title2": {
+    "string": "Publishers"
+  },
+  "ResellerHistory.section_4.title3": {
+    "string": "Bloggers"
+  },
+  "ResellerHistory.section_4bb.desc": {
+    "string": "Christian Warner"
+  },
+  "ResellerHistory.section_4bb.desc22": {
+    "string": "Developer@ueno.co"
+  },
+  "ResellerHistory.section_4bb.title1": {
+    "string": "Great experience using @Coolvpn. Amazing customer service and an even faster solution response rate."
+  },
+  "SecurityVulnerability.section_2.title1": {
+    "string": "request the reporter to keep the information and communication of the vulnerability confidential"
+  },
+  "SecurityVulnerability.section_2.title2": {
+    "string": "verify the existence of the vulnerability and identify which releases are affected. When confirmed, we will assign a CVE ID to the issue."
+  },
+  "SecurityVulnerability.section_2.title2as": {
+    "string": "How do i report a vulnerability"
+  },
+  "SecurityVulnerability.section_2.title3": {
+    "string": "release an updated version of the affected products resolving the issue. If it is not possible to resolve the issue within a reasonable time frame, identified workarounds might be published if that improves the situation in an acceptable way without putting users at risk."
+  },
+  "SecurityVulnerability.section_2.title4": {
+    "string": "Include a reference to the reporter and/or its organization as part of the release notes, unless the reporter wishes to remain anonymous."
+  },
+  "SecurityVulnerability.section_2.title5": {
+    "string": "do its best to keep the reporter updated on the progress of the reported vulnerability."
+  },
+  "Servers.section_2a.title.id1": {
+    "string": "P2P"
+  },
+  "Servers.section_2a.title.id2": {
+    "string": "Dedicated IP"
+  },
+  "Servers.section_2a.title.id3": {
+    "string": "Double VPN"
+  },
+  "Servers.section_2a.title.id4": {
+    "string": "Obfuscated"
+  },
+  "Servers.section_2b.title.id1": {
+    "string": "P2P"
+  },
+  "Servers.section_2b.title.id2": {
+    "string": "Double VPN"
+  },
+  "Servers.section_2b.title.id3": {
+    "string": "Obfuscated"
+  },
+  "Servers.section_2b.title.id4": {
+    "string": "P2P"
+  },
+  "Servers.section_2b.title.id5": {
+    "string": "Obfuscated"
+  },
+  "Servers.section_2c.title.id1": {
+    "string": "P2P"
+  },
+  "Servers.section_2c.title.id2": {
+    "string": "Obfuscated"
+  },
+  "Servers.section_2d.title.id1": {
+    "string": "P2P"
+  },
+  "Servers.section_2d.title.id2": {
+    "string": "Obfuscated"
+  },
+  "Servers.section_2e.title.id1": {
+    "string": "America · 2430 servers"
+  },
+  "Servers.section_2e.title.id2": {
+    "string": "Europe · 2151 servers"
+  },
+  "Servers.section_2e.title.id3": {
+    "string": "Asia Pacific · 702 servers"
+  },
+  "Servers.section_2e.title.id4": {
+    "string": "Africa, the Middle East and India · 122 servers"
+  },
+  "Servers.section_2e.title1.id1": {
+    "string": "United States"
+  },
+  "Servers.section_2e.title2.id2": {
+    "string": "Canada"
+  },
+  "Servers.section_2e.title3.id3": {
+    "string": "México"
+  },
+  "Servers.section_2e.title4.id4": {
+    "string": "Argentina"
+  },
+  "Servers.section_3.btn1a": {
+    "string": "UDPS & TCP configs"
+  },
+  "Servers.section_3.btn1b": {
+    "string": "See tutorials"
+  },
+  "Servers.section_4.desc.id1": {
+    "string": "Order a dedicated IP address, which can only be used by you and will not be shared with any other CoolVPN users"
+  },
+  "Servers.section_4.desc.id2": {
+    "string": "Send your Internet traffic through two different VPN servers for double encryption. Recommended for the most security-focused"
+  },
+  "Servers.section_4.desc.id3": {
+    "string": "If you’re located in a country with heavy restrictions on Internet access, connect to one of our obfuscated servers."
+  },
+  "Servers.section_4.desc.id4": {
+    "string": "For maximum online security and privacy, combine the benefits of CoolVPN with the anonymizing powers of the Onion Router."
+  },
+  "Servers.section_4.desc.id5": {
+    "string": "Choose from hundreds of servers optimized for P2P sharing. CoolVPN has no bandwidth limits and doesn’t log any of your activity."
+  },
+  "Servers.section_4.desc.id6": {
+    "string": "Get connected to ultra-fast VPN servers anywhere around the globe to change your IP address and protect your browsing activities."
+  },
+  "Servers.section_4.title.id1": {
+    "string": "Dedicated IP servers"
+  },
+  "Servers.section_4.title.id2": {
+    "string": "Double VPN servers"
+  },
+  "Servers.section_4.title.id3": {
+    "string": "Obfuscated servers"
+  },
+  "Servers.section_4.title.id4": {
+    "string": "Onion Over VPN servers"
+  },
+  "Servers.section_4.title.id5": {
+    "string": "P2P Servers"
+  },
+  "Servers.section_4.title.id6": {
+    "string": "Standard VPN servers"
+  },
+  "SignUp.Already": {
+    "string": "Already have an account?"
+  },
+  "SignUp.Signin": {
+    "string": "Sign in."
+  },
+  "SignUp.and": {
+    "string": "and"
+  },
+  "SignUp.id": {
+    "string": "sign up"
+  },
+  "SignUp.lab1": {
+    "string": "Terms of Service"
+  },
+  "SignUp.lab2": {
+    "string": "Privacy Policy"
+  },
+  "SignUp.label": {
+    "string": "Creating an account means you’re okay with our"
+  },
+  "SignUp.or": {
+    "string": "or"
+  },
+  "SignUp.title": {
+    "string": "Sign in to Cool VPN"
+  },
+  "Support.section_1.title": {
+    "string": "Search CoolVPN Support"
+  },
+  "Support.section_3.desc.id1": {
+    "string": "Where to download CoolVPN?"
+  },
+  "Support.section_3.desc.id3": {
+    "string": "Where to download CoolVPN?"
+  },
+  "Support.section_3.title": {
+    "string": "CoolVPN video tutorials"
+  },
+  "Support.section_3.title.id1": {
+    "string": "VPN setup"
+  },
+  "Support.section_3.title.id2": {
+    "string": "Download the ExpressVPN app for Windows, Mac, Android, iOS, and Linux devices"
+  },
+  "Support.section_3.title.id3": {
+    "string": "VPN setup"
+  },
+  "Support.section_4.title": {
+    "string": "Can’t find what you are looking for?"
+  },
+  "Support.section_4.title.id1": {
+    "string": "Send an Email"
+  },
+  "Support.section_4.title.id2": {
+    "string": "File a support ticket"
+  },
+  "Support.section_5.title": {
+    "string": "Popular Support Topics"
+  },
+  "Support.section_5.title.id1": {
+    "string": "• Get or update CoolVPN if it’s not in your App Store"
+  },
+  "Support.section_5.title.id2": {
+    "string": "• Windows 7, 8, 10, and higher (app setup)"
+  },
+  "Support.section_5.title.id3": {
+    "string": "• Asus (OpenVPN)"
+  },
+  "Support.section_5.title.id4": {
+    "string": "• Frequently Asked Questions"
+  },
+  "Support.section_5b.title.id1": {
+    "string": "• Find your CoolVPN activation code"
+  },
+  "Support.section_5b.title.id2": {
+    "string": "• Disable proxy for Chrome"
+  },
+  "Support.section_5b.title.id3": {
+    "string": "• How many devices can I connect simultaneously?"
+  },
+  "Support.section_5b.title.id4": {
+    "string": "• Android 5.0 and higher (app setup)"
+  },
+  "Tutorials.section_1.desc": {
+    "string": "Get simple and secure remote access from the world’s most trusted VPN brand"
+  },
+  "Tutorials.section_1.title": {
+    "string": "How can we help you?"
+  },
+  "VPNbussines.section_2.desc": {
+    "string": "Cutting-edge digital protection with a VPN for business"
+  },
+  "VPNbussines.section_2.title": {
+    "string": "Access corporate data securely — wherever you are"
+  },
+  "VPNbussines.section_3.title": {
+    "string": "Onboard easily with user friendly apps"
+  },
+  "VPNbussines.section_4.desc": {
+    "string": "You won’t ever have to go at it alone — our professional dedicated support team will be there every step of the way to answer all inquiries you might have. Contact us through any communication channel and we will assist you in up to 3 hours."
+  },
+  "VPNbussines.section_4.title": {
+    "string": "Get priority support any time from our website"
+  },
+  "VPNbussines.section_5.title": {
+    "string": "Start securing your business today"
+  },
+  "VPNforRouters.section_1.title1": {
+    "string": "Set up a home VPN over Wi-Fi and Ethernet"
+  },
+  "VPNforRouters.section_1.title1z": {
+    "string": "With the CoolVPN app for routers, you can…"
+  },
+  "VPNforRouters.section_1.title2": {
+    "string": "Save time with always-on protection"
+  },
+  "VPNforRouters.section_1.title3": {
+    "string": "Cover all your devices with one subscription"
+  },
+  "VPNforRouters.section_1.title4": {
+    "string": "Share your VPN connection with family and guests"
+  },
+  "VPNforRouters.section_2.title": {
+    "string": "Why set up a home VPN router?"
+  },
+  "VPNforRouters.section_2.title1": {
+    "string": "The CoolVPN app for routers secures all devices on your Wi-Fi or wired network"
+  },
+  "VPNforRouters.section_2.title2": {
+    "string": "Install the app on any compatible router or buy a router preconfigured with ExpressVPN"
+  },
+  "VPNforRouters.section_2.title2a": {
+    "string": "Protect your entire Wi-Fi network easily"
+  },
+  "VPNforRouters.section_2.title3": {
+    "string": "With a single VPN router, you no longer need to install a separate VPN app on each device"
+  },
+  "VPNforRouters.section_3.title": {
+    "string": "How to protect your home Wi-Fi with a VPN router in 3 easy steps"
+  },
+  "VPNforRouters.section_3.title1": {
+    "string": "The CoolVPN app for routers secures all devices on your Wi-Fi or wired network"
+  },
+  "VPNforRouters.section_3.title2": {
+    "string": "Install the app on any compatible router or buy a router preconfigured with ExpressVPN"
+  },
+  "VPNforRouters.section_3.title3": {
+    "string": "With a single VPN router, you no longer need to install a separate VPN app on each device"
+  },
+  "VPNforRouters.section_4.title1": {
+    "string": "3 reasons to get a VPN router"
+  },
+  "VPNforRouters.section_8.answer1": {
+    "string": "I got it preconfigured. It was plug-and-play. The interface is amazingly simple compared to setting up a router manually. I tried to help a neighbor set up their VPN with a different provider, very complicated and unsuccessful. A very convenient router interface and a huge bonus for me is that it has its own firmware without any complicated settings."
+  },
+  "VPNforRouters.section_8.answer2": {
+    "string": "I got it preconfigured. It was plug-and-play. The interface is amazingly simple compared to setting up a router manually. I tried to help a neighbor set up their VPN with a different provider, very complicated and unsuccessful. A very convenient router interface and a huge bonus for me is that it has its own firmware without any complicated settings."
+  },
+  "VPNforRouters.section_8.answer3": {
+    "string": "I got it preconfigured. It was plug-and-play. The interface is amazingly simple compared to setting up a router manually. I tried to help a neighbor set up their VPN with a different provider, very complicated and unsuccessful. A very convenient router interface and a huge bonus for me is that it has its own firmware without any complicated settings."
+  },
+  "VPNforRouters.section_8.title1": {
+    "string": "Violet Sanford"
+  },
+  "VPNforRouters.section_8.title1a": {
+    "string": "People love ExpressVPN for routers"
+  },
+  "VPNforRouters.section_8.title2": {
+    "string": "Marshall Mccormack"
+  },
+  "VPNforRouters.section_8.title3": {
+    "string": "Daisie Oconnell"
+  },
+  "VPNforRouters.section_9.desc1": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc1b": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc2": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc2b": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc3": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc3b": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc4": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.desc4b": {
+    "string": "We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+  },
+  "VPNforRouters.section_9.title1": {
+    "string": "How do I set up CoolVPN?"
+  },
+  "VPNforRouters.section_9.title1b": {
+    "string": "Do you support IPv6?"
+  },
+  "VPNforRouters.section_9.title1x": {
+    "string": "FAQ"
+  },
+  "VPNforRouters.section_9.title2": {
+    "string": "Do you offer a free trial?"
+  },
+  "VPNforRouters.section_9.title2b": {
+    "string": "What information do you store?"
+  },
+  "VPNforRouters.section_9.title3": {
+    "string": "Where are your servers located?"
+  },
+  "VPNforRouters.section_9.title3b": {
+    "string": "How is my privacy maintained?"
+  },
+  "VPNforRouters.section_9.title4": {
+    "string": "Do you offer any open ports?"
+  },
+  "VPNforRouters.section_9.title4b": {
+    "string": "Can I change my VPN username?"
+  },
+  "WhatIsVPN.section_2.desc1": {
+    "string": "A VPN (virtual private network) is the easiest and most effective way for people to protect their internet traffic and hide their identities online. As you connect to a secure VPN server, your internet traffic goes through an encrypted tunnel that nobody can see into, including hackers, governments, and your internet service provider"
+  },
+  "WhatIsVPN.section_2.desc2a": {
+    "string": "Companies use VPNs to connect far-flung employees as if they were all using the same local network at a central office, but with fewer benefits for individuals than a personal VPN."
+  },
+  "WhatIsVPN.section_2.desc2b": {
+    "string": "Consumers use VPNs to keep their online activity private and ensure access to sites and services that might otherwise be restricted."
+  },
+  "WhatIsVPN.section_2.title1": {
+    "string": "VPN explained in 90 seconds"
+  },
+  "WhatIsVPN.section_2.title2": {
+    "string": "VPN explained in 90 seconds II"
+  },
+  "WhatIsVPN.section_3.desc": {
+    "string": "Using a VPN changes your IP address, the unique number that identifies you and your location in the world. With a new IP address, you can browse the internet as if you were in the UK, Germany, Canada, Japan, or virtually any country, if the VPN service has servers there"
+  },
+  "WhatIsVPN.section_3.title1": {
+    "string": "Benefits and advantages of VPN"
+  },
+  "WhatIsVPN.section_3.title2": {
+    "string": "Change your location"
+  },
+  "WhatIsVPN.section_4.desc": {
+    "string": "Using a VPN changes your IP address, the unique number that identifies you and your location in the world. With a new IP address, you can browse the internet as if you were in the UK, Germany, Canada, Japan, or virtually any country, if the VPN service has servers there"
+  },
+  "WhatIsVPN.section_4.title": {
+    "string": "Change your location"
+  },
+  "WhatIsVPN.section_5.desc": {
+    "string": "Using a VPN changes your IP address, the unique number that identifies you and your location in the world. With a new IP address, you can browse the internet as if you were in the UK, Germany, Canada, Japan, or virtually any country, if the VPN service has servers there"
+  },
+  "WhatIsVPN.section_5.title1": {
+    "string": "Increase your security"
+  },
+  "WhatIsVPN.section_6.desc.id1": {
+    "string": "Exploring the world doesn’t mean you have to change the way you use the internet. A VPN lets you use the internet as if you were still in your home country, no matter how far you travel."
+  },
+  "WhatIsVPN.section_6.desc.id2": {
+    "string": "Using a VPN lets you watch movies and TV on streaming services like Netflix, Hulu, Amazon, and HBO with freedom from ISP throttling or blocking by your ISP or local Wi-Fi network"
+  },
+  "WhatIsVPN.section_6.desc.id3": {
+    "string": "Using a VPN lets you watch movies and TV on streaming services like Netflix, Hulu, Amazon, and HBO with freedom from ISP throttling or blocking by your ISP or local Wi-Fi network"
+  },
+  "WhatIsVPN.section_6.desc.id4": {
+    "string": "Exploring the world doesn’t mean you have to change the way you use the internet. A VPN lets you use the internet as if you were still in your home country, no matter how far you travel."
+  },
+  "WhatIsVPN.section_6.desc.id5": {
+    "string": "Using a VPN lets you watch movies and TV on streaming services like Netflix, Hulu, Amazon, and HBO with freedom from ISP throttling or blocking by your ISP or local Wi-Fi network"
+  },
+  "WhatIsVPN.section_6.desc.id6": {
+    "string": "Using a VPN lets you watch movies and TV on streaming services like Netflix, Hulu, Amazon, and HBO with freedom from ISP throttling or blocking by your ISP or local Wi-Fi network"
+  },
+  "WhatIsVPN.section_6.title": {
+    "string": "When should I use a VPN?"
+  },
+  "WhatIsVPN.section_6.title.id1": {
+    "string": "While traveling"
+  },
+  "WhatIsVPN.section_6.title.id2": {
+    "string": "While streaming"
+  },
+  "WhatIsVPN.section_6.title.id3": {
+    "string": "While on public Wi-Fi"
+  },
+  "WhatIsVPN.section_6.title.id4": {
+    "string": "While gaming"
+  },
+  "WhatIsVPN.section_6.title.id5": {
+    "string": "While torrenting"
+  },
+  "WhatIsVPN.section_6.title.id6": {
+    "string": "While shopping"
+  },
+  "WhatIsVPN.section_7.desc.id1": {
+    "string": "A commercial VPN, also called a personal VPN or a consumer VPN, is a private service offered directly to individuals, usually for a fee."
+  },
+  "WhatIsVPN.section_7.desc.id2": {
+    "string": "A corporate VPN, also called a business VPN, allows an organization’s remote employees to connect securely to the internet as if they were physically present in the office"
+  },
+  "WhatIsVPN.section_7.desc.id3": {
+    "string": "Some tech experts and DIY hobbyists choose to set up their own VPN using their own equipment. Self-setup VPNs, however, do not provide the protection of shared IP addresses"
+  },
+  "WhatIsVPN.section_7.title": {
+    "string": "Types of VPN"
+  },
+  "WhatIsVPN.section_7.title.id1": {
+    "string": "Commercial VPN"
+  },
+  "WhatIsVPN.section_7.title.id2": {
+    "string": "Corporate VPN"
+  },
+  "WhatIsVPN.section_7.title.id3": {
+    "string": "Self-setup VPN"
+  },
+  "WhatIsVPN.section_8.desc.id1": {
+    "string": "Choose from 160 VPN server locations in 94 countries all over the world."
+  },
+  "WhatIsVPN.section_8.desc.id2": {
+    "string": "Real humans are available 24h to help you with setup and troubleshooting."
+  },
+  "WhatIsVPN.section_8.desc.id3": {
+    "string": "Real humans are available 24h to help you with setup and troubleshooting."
+  },
+  "WhatIsVPN.section_8.desc.id4": {
+    "string": "Real humans are available 24h to help you with setup and troubleshooting."
+  },
+  "WhatIsVPN.section_8.title": {
+    "string": "Why CoolVPN?"
+  },
+  "WhatIsVPN.section_8.title.id1": {
+    "string": "160 server locations"
+  },
+  "WhatIsVPN.section_8.title.id2": {
+    "string": "24h live chat support"
+  },
+  "WhatIsVPN.section_8.title.id3": {
+    "string": "Best in class encryption"
+  },
+  "WhatIsVPN.section_8.title.id4": {
+    "string": "Lighting fast speeds"
+  },
+  "WhyVPN.section_3.title1a": {
+    "string": "Advanced Security"
+  },
+  "WhyVPN.section_3.title2b": {
+    "string": "Access Any Content"
+  },
+  "WhyVPN.section_3.title3c": {
+    "string": "24/7 Customer Service"
+  },
+  "blogInDepth.section_1.desc": {
+    "string": "Search engine metrics are more than plain numbers — they can tell us a lot about the world we live in, our daily habits, and even the political situation. The CoolVPN research team picked two keywords, “access” and “unblock,” to see where they lead on Google."
+  },
+  "blogInDepth.section_1.desc1aa": {
+    "string": "Researchers found 137,000 queries in 30 days containing a keyword “unblock.” A whopping 82.7% of these users were searching for ways to unblock YouTube. It was followed by Facebook (6.2%), Google (5.7%), Instagram (1.8%), and Reddit (1.5%)."
+  },
+  "blogInDepth.section_1.desc1bb": {
+    "string": "There are two main cases when YouTube videos are not available in your country:"
+  },
+  "blogInDepth.section_1.desc2aa": {
+    "string": "IoT industries"
+  },
+  "blogInDepth.section_1.desc2bb": {
+    "string": "Video owners made the content available only in certain countries to comply with licensing agreements;"
+  },
+  "blogInDepth.section_1.desc3aa": {
+    "string": "This is not very unexpected, as YouTube is well known for restricting content depending on a user’s location. You have probably seen the “This video is not available in your country” message at some point, and many are eager to overcome this inconvenience."
+  },
+  "blogInDepth.section_1.desc3bb": {
+    "string": "YouTube chose to block videos to comply with your country’s laws."
+  },
+  "blogInDepth.section_1.desc41": {
+    "string": "Enjoy your favorite content without limits with CoolVPN."
+  },
+  "blogInDepth.section_1.desc4aa": {
+    "string": "The US, India, and Indonesia were among the countries whose residents looked to “unblock YouTube” most often."
+  },
+  "blogInDepth.section_1.desc4bb": {
+    "string": "However, YouTube is also often restricted in schools, universities, or workplaces. Streaming high-quality videos takes up a lot of bandwidth and slows down the internet speed for other users. Besides, sometimes the temptation to spend an hour watching evil cat videos is just too high — at the expense of productivity."
+  },
+  "blogInDepth.section_1.desc5aa": {
+    "string": "YouTube was also the most popular platform to “access” with 88.5% of total search queries, which goes in line with its restrictive nature."
+  },
+  "blogInDepth.section_1.desc5bb": {
+    "string": "One more reason why you may not be able to access your desired video content is traveling or living abroad. Different countries have different licensing agreements, which means different content libraries."
+  },
+  "blogInDepth.section_1.title": {
+    "string": "What search engines can tell us about internet restrictions"
+  },
+  "blogInDepth.section_1.title1aa": {
+    "string": "Video content is king"
+  },
+  "blogInDepth.section_1.title1bb": {
+    "string": "Why is YouTube a target for restrictions?"
+  },
+  "footer.alRight": {
+    "string": "2019 CoolVPN.com. All rights reserved"
+  },
+  "footer.location": {
+    "string": "4544 Hardman Road, South Burlington, VT 05403"
+  },
+  "footer.subscribe.appStore": {
+    "string": "Download on the"
+  },
+  "footer.subscribe.download": {
+    "string": "Download CoolVPN"
+  },
+  "footer.subscribe.googlePlay": {
+    "string": "Get it on"
+  },
+  "footer.subscribe.name": {
+    "string": "subscribe"
+  },
+  "footer.subscribe.title": {
+    "string": "Join over 30k users, who use our service"
+  }
+}

@@ -1,40 +1,45 @@
-import React, { useState } from 'react';
-import { useTranslation } from "react-i18next";
+import React, { useState } from "react";
+import { FormattedMessage } from "react-intl";
 import Faq from "./../Pricing/faq";
-
+import { Faqs } from "./data";
 
 function SectionD4() {
-	const { t } = useTranslation();
-	const [expanded, setExpanded] = useState(false);
+  const [expanded, setExpanded] = useState(false);
 
-	const handleChange = (panel) => (event, isExpanded) => {
-	  setExpanded(isExpanded ? panel : false);
-	};
-	return (
-		<div className="SectionPr3__full">
-		<div className="SectionPr3 container">
-			<h3 className="text-center">{t("Download.section_3.title")}</h3>
+  const handleChange = (panel) => (event, isExpanded) => {
+    setExpanded(isExpanded ? panel : false);
+  };
+  return (
+    <div className="SectionPr3__full">
+      <div className="SectionPr3 container">
+        <h3 className="text-center">
+          <FormattedMessage
+            id="Download.section_3.title"
+            defaultMessage="Frequently asked questions"
+          />
+        </h3>
 
-			<div className="row justify-content-center">
-				{t("Download.section_3.items").map((item, index) => {
-					return(
-						<div key={index} className="SectionPr3__line col-12 col-md-7 justify-content-center">
-							<Faq 
-								key={index}
-								index={index}
-								expanded={expanded}
-								handleChange={handleChange}
-								icon="SectionPr3__icon"
-								name={item.name}
-								answer={item.answer}
-							/>
-						</div>
-					)
-				})}
-			</div>
-		</div>
-		</div>
-	)
+        <div className="row justify-content-center">
+          {Faqs.map(({ title, desc }, index) => (
+            <div
+              key={index}
+              className="SectionPr3__line col-12 col-md-7 justify-content-center"
+            >
+              <Faq
+                key={index}
+                index={index}
+                expanded={expanded}
+                handleChange={handleChange}
+                icon="SectionPr3__icon"
+                name={title}
+                answer={desc}
+              />
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
 }
 
-export default SectionD4
+export default SectionD4;

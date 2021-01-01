@@ -21,7 +21,7 @@ const index = () => {
   return (
     <div>
       <ThemeProvider theme={theme}>
-		    <SectionPr1 />
+        <SectionPr1 />
         <SectionPr2 />
         <SectionPr3 />
         <UserFeedbacks />

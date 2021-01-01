@@ -24,7 +24,7 @@ const index = () => {
     <div>
       <ThemeProvider theme={theme}>
         <SectionVPNb1 />
-		    <SectionVPNb2 />
+        <SectionVPNb2 />
         <SectionVPNb3 />
         <SectionVPNb4 />
         <Faqs />

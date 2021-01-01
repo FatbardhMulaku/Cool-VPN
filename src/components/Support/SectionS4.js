@@ -1,27 +1,30 @@
-import React from 'react';
-import { useTranslation } from "react-i18next";
+import React from "react";
+import { FormattedMessage } from "react-intl";
 import LayoutContainer from "./../Shared/LayoutContainer";
-import Bounce from 'react-reveal/Bounce';
+import Bounce from "react-reveal/Bounce";
+import { TxtList } from "./data";
 
 function SectionS4() {
-	const { t } = useTranslation();
-	return (
-		<LayoutContainer section="SectionS4">
-			<h3>{t("Support.section_4.title") }</h3>
-			<Bounce cascade>
-			<div className="row justify-content-center">
-				{t("Support.section_4.items").map((item, index) => {
-					return(
-						<div key={index} className={`SectionS4_box${index+1}`}>
-							<div className={`SectionS4_img${index+1} bg`}/>
-							<p>{item.title}</p>
-						</div>
-					)
-				})}
-			</div>
-			</Bounce>
-		</LayoutContainer>
-	)
+  return (
+    <LayoutContainer section="SectionS4">
+      <h3>
+        <FormattedMessage
+          id="Support.section_4.title"
+          defaultMessage="Can’t find what you are looking for?"
+        />
+      </h3>
+      <Bounce cascade>
+        <div className="row justify-content-center">
+          {TxtList.map(({ title }, index) => (
+            <div key={index} className={`SectionS4_box${index + 1}`}>
+              <div className={`SectionS4_img${index + 1} bg`} />
+              <p>{title}</p>
+            </div>
+          ))}
+        </div>
+      </Bounce>
+    </LayoutContainer>
+  );
 }
 
 export default SectionS4;
