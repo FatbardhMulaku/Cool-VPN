@@ -1,173 +1,174 @@
 //Section 1
-.SectionVPNb1{
-	background-image: url("../../assets/VPNbussines/section1_bg.png");
-	background-attachment: scroll;
-	background-size: 100% 100%;
-	@media only screen and (max-width: 768px) {
-		background-size: cover;
-	}
-	&__txt{
-		h2{
-			font-weight: bold;
-		}
-		p{
-			margin: 0px !important;
-		}
-	}
-	&__img{
-		background-image: url("../../assets/VPNbussines/section1_img.png");
-		height: 220px;
-		@media only screen and (max-width: 768px) {
-			margin-top: 50px !important;
-		}
-	}
+.SectionVPNb1 {
+  background-image: url("../../assets/VPNbussines/section1_bg.png");
+  background-attachment: scroll;
+  background-size: 100% 100%;
+  @media only screen and (max-width: 768px) {
+    background-size: cover;
+  }
+  &__txt {
+    h2 {
+      font-weight: bold;
+    }
+    p {
+      margin: 0px !important;
+    }
+  }
+  &__img {
+    background-image: url("../../assets/VPNbussines/section1_img.png");
+    height: 220px;
+    @media only screen and (max-width: 768px) {
+      margin-top: 50px !important;
+    }
+  }
 }
 .SectionVPNb1 > div:first-child {
-	padding: 150px 0;
-	padding-bottom: 250px;
-	@media only screen and (max-width: 992px) {
-		padding: 150px 0;
-	}
+  padding: 150px 0;
+  padding-bottom: 250px;
+  @media only screen and (max-width: 992px) {
+    padding: 150px 0;
+  }
 }
-.SectionVPNb1 > div > div > div > div:last-child{
-	@media only screen and (max-width: 992px) {
-		display: flex;
-		justify-content: center;
-		margin-top: 20px;
-	}
+.SectionVPNb1 > div > div > div > div:last-child {
+  @media only screen and (max-width: 992px) {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
 }
 // section 2
-.ImgTxt{
-	padding: 25px 0;
-	&__box{
-		width: 75%;
-		display: flex;
-		border-radius: 15px;
-		padding: 10px 50px;
-		@media only screen and (max-width: 1100px) {
-			width: 99%;
-		}
-		@media only screen and (max-width: 992px) {
-			display: flex;
-			flex-direction: column-reverse;
-			justify-content: center;
-			margin-top: 20px;
-		}
-		&__img{
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			&1, &2, &3{
-				width: 250px; height: 200px;
-			}
-			&1{
-				background-image: url("../../assets/VPNbussines/section2_img1.png");
-			}
-			&2{
-				background-image: url("../../assets/VPNbussines/section2_img2.png");
-			}
-			&3{
-				background-image: url("../../assets/VPNbussines/section2_img3.png");
-			}
-		}
-		&__txt{
-			display: flex;
-			justify-content: center;
-			align-items: center;
-		}
-	}
-	&__box1{
-		width: 25%;
-		height: 100px;
-		@media only screen and (max-width: 1100px) {
-			display: none !important;
-		}
-	}
+.ImgTxt {
+  padding: 25px 0;
+  &__box {
+    width: 75%;
+    display: flex;
+    border-radius: 15px;
+    padding: 10px 50px;
+    @media only screen and (max-width: 1100px) {
+      width: 99%;
+    }
+    @media only screen and (max-width: 992px) {
+      display: flex;
+      flex-direction: column-reverse;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    &__img {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      &1,
+      &2,
+      &3 {
+        width: 250px;
+        height: 200px;
+      }
+      &1 {
+        background-image: url("../../assets/VPNbussines/section2_img1.png");
+      }
+      &2 {
+        background-image: url("../../assets/VPNbussines/section2_img2.png");
+      }
+      &3 {
+        background-image: url("../../assets/VPNbussines/section2_img3.png");
+      }
+    }
+    &__txt {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  &__box1 {
+    width: 25%;
+    height: 100px;
+    @media only screen and (max-width: 1100px) {
+      display: none !important;
+    }
+  }
 }
-.SectionVPNb2{
-	padding-bottom: 50px;
-	margin-top: -100px;
-	&__txt{
-		h2{
-			font-weight: bold;
-			font-size: 30px;
-		}
-		p{
-			margin: 0 !important;
-		}
-	}
-
+.SectionVPNb2 {
+  padding-bottom: 50px;
+  margin-top: -100px;
+  &__txt {
+    h2 {
+      font-weight: bold;
+      font-size: 30px;
+    }
+    p {
+      margin: 0 !important;
+    }
+  }
 }
-.SectionVPNb2 > div:last-child{
-	display: flex;
-	justify-content: center;
-
+.SectionVPNb2 > div:last-child {
+  display: flex;
+  justify-content: center;
 }
 // section 3
-.SectionVPNb3{
-	background-color: #1C1F26;
-	padding: 50px 0;
-	&__wrapper{
-		h3{
-			color: white;
-			margin-bottom: 40px;
-			font-weight: bold;
-			text-align: center;
-		}
-	}
-	&__wrapper > div > div:last-child{
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-	&__txt{
-		h2{
-			font-size: 24px;
-			margin-bottom: 10px;
-		}
-		p{
-			margin: 0 !important;
-			font-size: 14px;
-		}
-	}
-	&__img{
-		background-image: url("../../assets/VPNbussines/section3_img.png");
-		height: 220px;
-		width: 240px;
-	}
+.SectionVPNb3 {
+  background-color: #1c1f26;
+  padding: 50px 0;
+  &__wrapper {
+    h3 {
+      color: white;
+      margin-bottom: 40px;
+      font-weight: bold;
+      text-align: center;
+    }
+  }
+  &__wrapper > div > div:last-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  &__txt {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    p {
+      margin: 0 !important;
+      font-size: 14px;
+    }
+  }
+  &__img {
+    background-image: url("../../assets/VPNbussines/section3_img.png");
+    height: 220px;
+    width: 240px;
+  }
 }
 //section 4
-.SectionVPNb4{
-	padding: 60px 0;
-	h4{
-		text-align: center;
-		margin-bottom: 30px;
-		font-weight: bold;
-	}
-	&__img{
-		background-image: url("../../assets/VPNbussines/section4_img.jpg");
-		height: 200px;
-		width: 300px;
-		border-radius: 20px;
-	}
+.SectionVPNb4 {
+  padding: 60px 0;
+  h4 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+  }
+  &__img {
+    background-image: url("../../assets/VPNbussines/section4_img.jpg");
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+  }
 }
-.SectionVPNb4 > div > div:first-child{
-	display: flex;
-	justify-content: flex-end;
-	@media only screen and (max-width: 992px) {
-		justify-content: center;
-	}
+.SectionVPNb4 > div > div:first-child {
+  display: flex;
+  justify-content: flex-end;
+  @media only screen and (max-width: 992px) {
+    justify-content: center;
+  }
 }
 // section 5
-.SectionVPNb5{
-	padding: 40px 0;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	h4{
-		font-weight: bold;
-		text-align: center;
-		margin-bottom: 10px;
-	}
+.SectionVPNb5 {
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  h4 {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+  }
 }

@@ -16,10 +16,7 @@ function GroupList(props) {
         {props.list.map((item, index) => (
           <li key={index}>
             <Link to={`/${paramCase(item.link)}`}>
-              <FormattedMessage
-                id={`whatIsVPN.ItemNameD${props.id + 1}`}
-                defaultMessage={item.name}
-              />
+              {item.name}
             </Link>
           </li>
         ))}

@@ -24,10 +24,7 @@ const MenuList = (props) => {
         {props.list.map((item, index) => (
           <li key={index}>
             <Link onClick={scrollToTop} to={item.link}>
-              <FormattedMessage
-              id={`footer.links${index+1}`}
-              defaultMessage={item.name}
-              />
+              {item.name}
             </Link>
           </li>
         ))}

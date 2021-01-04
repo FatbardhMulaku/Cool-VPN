@@ -9,7 +9,7 @@ function SectionLvpn2() {
       {ProtocolList.map(({ title, desc }, idx) => (
         <Protocols
           key={idx + 1}
-          txt={`LatestVPNprotocols.section_2_${idx + 1}`}
+          txt={`LatestVPNprotocols.section_2${idx + 1}`}
           title={title}
           desc={desc}
           BGcolor={`Protocols__color${idx + 1}`}

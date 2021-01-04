@@ -1,413 +1,421 @@
 // Sedtion 1
-.SectionPA1{
-	background-image:linear-gradient(rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.644)),  url("../../assets/PressArea/section1_bg.jpg");
-	padding: 120px 0 60px 0;
-	background-attachment: scroll;
-	&__txt{
-		h2{
-			font-weight: bold;
-		}
-		p{
-			margin: 0px !important;
-		}
-	}
-	&>div >div:last-child{
-		@media only screen and (max-width: 768px) {
-			display: flex;
-			justify-content: center;
-		}
-	}
+.SectionPA1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.644)),
+    url("../../assets/PressArea/section1_bg.jpg");
+  padding: 120px 0 60px 0;
+  background-attachment: scroll;
+  &__txt {
+    h2 {
+      font-weight: bold;
+    }
+    p {
+      margin: 0px !important;
+    }
+  }
+  & > div > div:last-child {
+    @media only screen and (max-width: 768px) {
+      display: flex;
+      justify-content: center;
+    }
+  }
 }
 // Sedtion 2
-.SectionPA2{
-	padding: 50px 0;
-	&__box1{
-		background-color: #BCAFE5;
-		border-radius: 20px;
-		padding: 40px 100px !important;
-		margin-top: 100px;
-		@media only screen and (max-width: 992px) {
-			margin-top: 20px;
-		}
-		@media only screen and (max-width: 768px) {
-			padding: 20px 20px !important;
-		}
-		h2{
-			font-size: 25px;
-			font-weight: 600;
-		}
-		p{
-			color: rgb(39, 39, 39);
-			font-family: Arial, Helvetica, sans-serif;
-			@media only screen and (max-width: 768px) {
-				text-align: left !important;
-				font-size: 14px;
-			}
-		}
-		a{
-			color: #000;
-			text-decoration: underline;
-			font-weight: bold;
-			display: flex;
-			justify-content: flex-end;
-		}
-	}
-	&__img1{
-		background-image: url("../../assets/PressArea/section2_img1.png");
-		height: 240px;
-		width: 240px;
-		position: absolute;
-		transform: translate(50%,0%);
-		z-index: 100;
-		@media only screen and (max-width: 992px) {
-			position: relative;
-			transform: translate(0%,0%);
-			margin-left: auto;
-			margin-right: auto;
-		}
-	}
-	&__box2{
-		border-radius: 20px;
-		padding: 40px 100px !important;
-		margin: 50px 0;
-		border: 2px solid rgb(196, 196, 196);
-		margin-bottom: 80px;
-		@media only screen and (max-width: 992px) {
-			margin-bottom: 20px;
-		}
-		@media only screen and (max-width: 768px) {
-			padding: 20px 20px !important;
-		}
-		h3{
-			margin-bottom: 20px;
-			font-size: 25px;
-			font-weight: 600;
-		}
-		> ul > li:first-child{
-			margin-bottom: 10px;
-			font-family: Arial, Helvetica, sans-serif;
-			@media only screen and (max-width: 768px) {
-				font-size: 14px;
-			}
-		}
-		a{
-			color: #000;
-			text-decoration: underline;
-			font-weight: bold;
-			display: flex;
-			justify-content: flex-end;
-		}
-	}
-	&__img2{
-		background-image: url("../../assets/PressArea/section2_img2.png");
-		height: 240px;
-		width: 240px;
-		transform: translate(-25%,90%);
-		@media only screen and (max-width: 992px) {
-			transform: translate(0,0);
-			margin-left: auto;
-			margin-right: auto;
-		}
-	}
+.SectionPA2 {
+  padding: 50px 0;
+  &__box1 {
+    background-color: #bcafe5;
+    border-radius: 20px;
+    padding: 40px 100px !important;
+    margin-top: 100px;
+    @media only screen and (max-width: 992px) {
+      margin-top: 20px;
+    }
+    @media only screen and (max-width: 768px) {
+      padding: 20px 20px !important;
+    }
+    h2 {
+      font-size: 25px;
+      font-weight: 600;
+    }
+    p {
+      color: rgb(39, 39, 39);
+      font-family: Arial, Helvetica, sans-serif;
+      @media only screen and (max-width: 768px) {
+        text-align: left !important;
+        font-size: 14px;
+      }
+    }
+    a {
+      color: #000;
+      text-decoration: underline;
+      font-weight: bold;
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+  &__img1 {
+    background-image: url("../../assets/PressArea/section2_img1.png");
+    height: 240px;
+    width: 240px;
+    position: absolute;
+    transform: translate(50%, 0%);
+    z-index: 100;
+    @media only screen and (max-width: 992px) {
+      position: relative;
+      transform: translate(0%, 0%);
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  &__box2 {
+    border-radius: 20px;
+    padding: 40px 100px !important;
+    margin: 50px 0;
+    border: 2px solid rgb(196, 196, 196);
+    margin-bottom: 80px;
+    @media only screen and (max-width: 992px) {
+      margin-bottom: 20px;
+    }
+    @media only screen and (max-width: 768px) {
+      padding: 20px 20px !important;
+    }
+    h3 {
+      margin-bottom: 20px;
+      font-size: 25px;
+      font-weight: 600;
+    }
+    > ul > li:first-child {
+      margin-bottom: 10px;
+      font-family: Arial, Helvetica, sans-serif;
+      @media only screen and (max-width: 768px) {
+        font-size: 14px;
+      }
+    }
+    a {
+      color: #000;
+      text-decoration: underline;
+      font-weight: bold;
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+  &__img2 {
+    background-image: url("../../assets/PressArea/section2_img2.png");
+    height: 240px;
+    width: 240px;
+    transform: translate(-25%, 90%);
+    @media only screen and (max-width: 992px) {
+      transform: translate(0, 0);
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
 }
 // Section 3
-.SectionPA3{
-	padding: 90px 0;
-	background-image: url("../../assets/PressArea/section3_bg.png");
-	background-attachment: scroll;
-	@media only screen and (max-width: 768px) {
-		padding: 150px 0;
-	}
-	h3{
-		text-align: center;
-		color: white;
-		font-weight: bold;
-		margin-bottom: 20px;
-	}
-	&--box{
-		width: 265px;
-		margin: 15px 10px;
-		padding: 20px;
-		border: 2px solid rgba(216, 216, 216, 0.164);
-		border-radius:20px;
-		transition:all 0.5s ease-in-out;
-		&:hover &__img1, &:hover &__img2, &:hover &__img3, &:hover &__img4{
-			transform: scale(1.15	);
-		}
-		&:hover{
-			border: 2px solid rgba(216, 216, 216, 0.589);
-		}
-		h5{
-			text-align: center;
-			margin: 10px 0;
-			font-weight: 700;
-			color: white;
-		}
-		p{
-			text-align: center;	
-			font-weight: 500;
-			font-size: 14px;
-			margin-bottom: 0px !important;
-			color: white;
-		}
-	}
-	&--box__img1, &--box__img2, &--box__img3, &--box__img4{
-		width: 35px;
-		height: 35px;
-		margin-left: auto;
-		margin-right: auto;
-	}
-	&--box__img1{
-		background-image: url("../../assets/PressArea/section2_icon1.jpg");
-		&:hover{
-			transform: scale(1.05);
-		}
-	}
-	&--box__img2{
-		background-image: url("../../assets/PressArea/section2_icon2.jpg");
-	}
-	&--box__img3{
-		background-image: url("../../assets/PressArea/section2_icon3.jpg");
-	}
-	&--box__img4{
-		background-image: url("../../assets/PressArea/section2_icon4.jpg");
-	}
+.SectionPA3 {
+  padding: 90px 0;
+  background-image: url("../../assets/PressArea/section3_bg.png");
+  background-attachment: scroll;
+  @media only screen and (max-width: 768px) {
+    padding: 150px 0;
+  }
+  h3 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  &--box {
+    width: 265px;
+    margin: 15px 10px;
+    padding: 20px;
+    border: 2px solid rgba(216, 216, 216, 0.164);
+    border-radius: 20px;
+    transition: all 0.5s ease-in-out;
+    &:hover &__img1,
+    &:hover &__img2,
+    &:hover &__img3,
+    &:hover &__img4 {
+      transform: scale(1.15);
+    }
+    &:hover {
+      border: 2px solid rgba(216, 216, 216, 0.589);
+    }
+    h5 {
+      text-align: center;
+      margin: 10px 0;
+      font-weight: 700;
+      color: white;
+    }
+    p {
+      text-align: center;
+      font-weight: 500;
+      font-size: 14px;
+      margin-bottom: 0px !important;
+      color: white;
+    }
+  }
+  &--box__img1,
+  &--box__img2,
+  &--box__img3,
+  &--box__img4 {
+    width: 35px;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  &--box__img1 {
+    background-image: url("../../assets/PressArea/section2_icon1.jpg");
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+  &--box__img2 {
+    background-image: url("../../assets/PressArea/section2_icon2.jpg");
+  }
+  &--box__img3 {
+    background-image: url("../../assets/PressArea/section2_icon3.jpg");
+  }
+  &--box__img4 {
+    background-image: url("../../assets/PressArea/section2_icon4.jpg");
+  }
 }
 // Section 4
-.SectionPA4{
-	padding: 30px 0;
-	&>div>div{
-		display: flex;
-		justify-content: center;
+.SectionPA4 {
+  padding: 30px 0;
+  & > div > div {
+    display: flex;
+    justify-content: center;
 
-		&>div:first-child{
-			h3{
-				text-align: left;
-				font-weight: bold;
-				margin-bottom: 20px;
-				@media only screen and (max-width: 768px) {
-					font-size: 18px;
-					text-align: center;
-				}
-			}
-			p{
-				font-size: 15px;
-				font-weight: 500;
-			}
-		}
-		@media only screen and (max-width: 992px) {
-			display: flex;
-			justify-content: center;
-			align-items: center;
-		}
-		&>div:last-child{
-			display: flex;
-			justify-content: center;
-			align-items: center;
-		}
-	}
-	&__img1{
-		background-image: url("../../assets/PressArea/section4_img.png");
-		height: 130px;
-		width: 250px;
-		@media only screen and (max-width: 500px) {
-			height: 80px;
-			width: 130px;
-			margin: 10px 0;
-		}
-	}
+    & > div:first-child {
+      h3 {
+        text-align: left;
+        font-weight: bold;
+        margin-bottom: 20px;
+        @media only screen and (max-width: 768px) {
+          font-size: 18px;
+          text-align: center;
+        }
+      }
+      p {
+        font-size: 15px;
+        font-weight: 500;
+      }
+    }
+    @media only screen and (max-width: 992px) {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    & > div:last-child {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  &__img1 {
+    background-image: url("../../assets/PressArea/section4_img.png");
+    height: 130px;
+    width: 250px;
+    @media only screen and (max-width: 500px) {
+      height: 80px;
+      width: 130px;
+      margin: 10px 0;
+    }
+  }
 }
 // Secton 5
-.SectionPA5{
-	padding: 110px 0;
-	background-image:linear-gradient(rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.445)), url("../../assets/PressArea/section5_bg.png");
-	background-attachment: scroll;
-	background-size: 108% 108%;
-	clip-path: polygon(0 17%, 100% 0%, 100% 83%, 0% 100%);
-	@media only screen and (max-width: 992px) {
-		clip-path: polygon(0 10%, 100% 0%, 100% 90%, 0% 100%);
-		background-size: 320%;
-	}
-	@media only screen and (max-width: 770px) {
-		clip-path: polygon(0 5%, 100% 0%, 100% 95%, 0% 100%);
-		background-size: 650%;
-	}
-	@media only screen and (max-width: 470px) {
-		background-size: 950%;
-	}
-	&>div>div{
-		display: flex;
-		justify-content: center;
+.SectionPA5 {
+  padding: 110px 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.445)),
+    url("../../assets/PressArea/section5_bg.png");
+  background-attachment: scroll;
+  background-size: 108% 108%;
+  clip-path: polygon(0 17%, 100% 0%, 100% 83%, 0% 100%);
+  @media only screen and (max-width: 992px) {
+    clip-path: polygon(0 10%, 100% 0%, 100% 90%, 0% 100%);
+    background-size: 320%;
+  }
+  @media only screen and (max-width: 770px) {
+    clip-path: polygon(0 5%, 100% 0%, 100% 95%, 0% 100%);
+    background-size: 650%;
+  }
+  @media only screen and (max-width: 470px) {
+    background-size: 950%;
+  }
+  & > div > div {
+    display: flex;
+    justify-content: center;
 
-		&>div:last-child{
-			h3{
-				text-align: left;
-				font-weight: bold;
-				margin-bottom: 40px;
-				color: white;
-				font-size: 35px;
-				@media only screen and (max-width: 768px) {
-					font-size: 18px;
-					text-align: center;
-				}
-			}
-			p{
-				font-size: 16px;
-				font-weight: 500;
-				color: white;
-			}
-		}
-		@media only screen and (max-width: 992px) {
-			display: flex;
-			justify-content: center;
-			align-items: center;
-		}
-		&>div:first-child{
-			display: flex;
-			justify-content: center;
-			align-items: center;
-		}
-	}
+    & > div:last-child {
+      h3 {
+        text-align: left;
+        font-weight: bold;
+        margin-bottom: 40px;
+        color: white;
+        font-size: 35px;
+        @media only screen and (max-width: 768px) {
+          font-size: 18px;
+          text-align: center;
+        }
+      }
+      p {
+        font-size: 16px;
+        font-weight: 500;
+        color: white;
+      }
+    }
+    @media only screen and (max-width: 992px) {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    & > div:first-child {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
 
-	&__img1{
-		background-image: url("../../assets/PressArea/section5_img.png");
-		height: 130px;
-		width: 150px;
-		@media only screen and (max-width: 500px) {
-			height: 80px;
-			width: 70px;
-			margin: 10px 0;
-		}
-	}
+  &__img1 {
+    background-image: url("../../assets/PressArea/section5_img.png");
+    height: 130px;
+    width: 150px;
+    @media only screen and (max-width: 500px) {
+      height: 80px;
+      width: 70px;
+      margin: 10px 0;
+    }
+  }
 }
 // ============= Section 6 =============
-.SectionPA6{
-	padding: 40px 0;
-	&__line{
-		display: flex;
-		justify-content: center;
-		&> div:first-child{
-			border:2px solid #8978bfc4;
-			padding: 30px 40px;
-			border-radius: 15px;
-			margin: 10px;
-			&:hover{
-				border:2px solid #D763FA;
-			}
-		}
-		&>div:last-child{
-			margin: 10px;
-			border:2px solid transparent;
-			h6{
-				font-weight: bold;
-				text-align: center;
-				font-size: 18px;
-				color: rgba(0, 0, 0, 0.705);
-				margin-top: 20px;
-			}
-			&:hover{
-				border:2px solid #8978bfc4;
-				border-radius: 15px;
-			}
-		}
-		&--img{
-			background-image: url("../../assets/PressArea/section6_icon1.jpg");
-			width: 180px;
-			height: 100px;
-		}
-		&--img2{
-			background-image: url("../../assets/PressArea/section6_icon2.jpg");
-			height: 100px;
-			width: 290px;
-			border-radius: 15px;
-		}
-	}
-	.SectionPA6__txt{
-		p{
-			margin: 5px 0 !important;
-			text-align: center;
-			@media only screen and (max-width: 768px) {
-				font-size: 14px;
-			}
-		}
-	}
+.SectionPA6 {
+  padding: 40px 0;
+  &__line {
+    display: flex;
+    justify-content: center;
+    & > div:first-child {
+      border: 2px solid #8978bfc4;
+      padding: 30px 40px;
+      border-radius: 15px;
+      margin: 10px;
+      &:hover {
+        border: 2px solid #d763fa;
+      }
+    }
+    & > div:last-child {
+      margin: 10px;
+      border: 2px solid transparent;
+      h6 {
+        font-weight: bold;
+        text-align: center;
+        font-size: 18px;
+        color: rgba(0, 0, 0, 0.705);
+        margin-top: 20px;
+      }
+      &:hover {
+        border: 2px solid #8978bfc4;
+        border-radius: 15px;
+      }
+    }
+    &--img {
+      background-image: url("../../assets/PressArea/section6_icon1.jpg");
+      width: 180px;
+      height: 100px;
+    }
+    &--img2 {
+      background-image: url("../../assets/PressArea/section6_icon2.jpg");
+      height: 100px;
+      width: 290px;
+      border-radius: 15px;
+    }
+  }
+  .SectionPA6__txt {
+    p {
+      margin: 5px 0 !important;
+      text-align: center;
+      @media only screen and (max-width: 768px) {
+        font-size: 14px;
+      }
+    }
+  }
 }
 // ======== Section 7 =============
-.SectionPA7{
-	padding: 40px 0;
-	background-image:linear-gradient(rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.445)), url("../../assets/PressArea/section7_bg.jpg");
-	background-attachment: scroll;
-	display: flex;
-	justify-content: center;
-	h3{
-		text-align: center;
-		font-weight: bold;
-		color: white;
-		margin-bottom: 30px;
-	}
-	p{
-		color: white;
-		text-align: center;
-		font-size: 18px;
-		font-weight: 500;
-	}
-	a{
-		color: #8878BF;
-	}
+.SectionPA7 {
+  padding: 40px 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.445)),
+    url("../../assets/PressArea/section7_bg.jpg");
+  background-attachment: scroll;
+  display: flex;
+  justify-content: center;
+  h3 {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 30px;
+  }
+  p {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  a {
+    color: #8878bf;
+  }
 }
 // ======== Section 8 =============
-.SectionPA8{
-	padding: 40px 0;
-	h3{
-		text-align: center;
-		font-weight: bold;
-		margin-bottom: 25px;
-		
-	}
-	&__box{
-		padding: 25px 20px;
-		border: 2px solid rgba(202, 202, 202, 0.582);
-		border-radius: 10px;
-		margin: 10px 0;
-		transition: all 0.5s ease-in-out;
-		&:hover{
-			border: 2px solid #8878BF;
-		}
-		&:hover >div >p{
-			font-weight: 500;
-			color: #000;
-		}
-		&:hover >div >h6{
-			font-weight: bold;
-		}
-		&>div{
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			/* @media only screen and (max-width: 768px) {
+.SectionPA8 {
+  padding: 40px 0;
+  h3 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 25px;
+  }
+  &__box {
+    padding: 25px 20px;
+    border: 2px solid rgba(202, 202, 202, 0.582);
+    border-radius: 10px;
+    margin: 10px 0;
+    transition: all 0.5s ease-in-out;
+    &:hover {
+      border: 2px solid #8878bf;
+    }
+    &:hover > div > p {
+      font-weight: 500;
+      color: #000;
+    }
+    &:hover > div > h6 {
+      font-weight: bold;
+    }
+    & > div {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      /* @media only screen and (max-width: 768px) {
 				flex-direction: column;
 			} */
-		}
-		&>div>p{
-			margin: 0px !important;
-			color: rgb(136, 136, 136);
-			@media only screen and (max-width: 768px) {
-				font-size: 14px;
-				margin: 10px 0 !important;
-			}
-		}
-		&>div>h6{
-			color:#8878BF;
-			cursor: pointer;
-			&:hover{
-				text-decoration: underline;
-				color: #8840FF;
-			}
-		}
-		&--img{
-			background-image: url("../../assets/PressArea/pdf.jpg");
-			width: 60px;
-			height: 60px;
-		}
-	}
+    }
+    & > div > p {
+      margin: 0px !important;
+      color: rgb(136, 136, 136);
+      @media only screen and (max-width: 768px) {
+        font-size: 14px;
+        margin: 10px 0 !important;
+      }
+    }
+    & > div > h6 {
+      color: #8878bf;
+      cursor: pointer;
+      &:hover {
+        text-decoration: underline;
+        color: #8840ff;
+      }
+    }
+    &--img {
+      background-image: url("../../assets/PressArea/pdf.jpg");
+      width: 60px;
+      height: 60px;
+    }
+  }
 }

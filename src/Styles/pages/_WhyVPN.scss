@@ -1,91 +1,93 @@
 // =========== Section 1 ============
-.SectionWhyVpn1{
-	background-image: url("../../assets/WhyVPN/bg1.png");
-	padding:150px 0;
-	padding-bottom: 100px;
-	background-attachment: scroll;
+.SectionWhyVpn1 {
+  background-image: url("../../assets/WhyVPN/bg1.png");
+  padding: 150px 0;
+  padding-bottom: 100px;
+  background-attachment: scroll;
 
-	@media only screen and (max-width: 1200px) {
-		background-size: cover;
-		padding-bottom: 140px;
-		padding-top:100px ;
-	}
+  @media only screen and (max-width: 1200px) {
+    background-size: cover;
+    padding-bottom: 140px;
+    padding-top: 100px;
+  }
 }
 // =========== Section 2 ============
-.SectionWhyVpn2{
-	padding: 30px 0;
-	&__txt{
-		h2{
-			font-weight: 400;
-		}
-		p{
-			color: #677683;
-			line-height: 1.7;
-		}
-	}
-	&__imgA1, &__imgA2, &__imgB1, &__imgB2{
-		width: 300px;
-		height: 200px;
-	}
-	&__imgA1{
-		background-image: url("../../assets/WhyVPN/s2-1.png");
-	}
-	&__imgB1{
-		background-image: url("../../assets/WhyVPN/s2-2.jpg");
-		height: 210px;
-	}
-	&__imgA2{
-		background-image: url("../../assets/WhyVPN/s2-3.jpg");
-		height: 215px;
-	}
-	&__imgB2{
-		background-image: url("../../assets/WhyVPN/s2-4.jpg");
-		height: 210px;
-	}
+.SectionWhyVpn2 {
+  padding: 30px 0;
+  &__txt {
+    h2 {
+      font-weight: 400;
+    }
+    p {
+      color: #677683;
+      line-height: 1.7;
+    }
+  }
+  &__imgA1,
+  &__imgA2,
+  &__imgB1,
+  &__imgB2 {
+    width: 300px;
+    height: 200px;
+  }
+  &__imgA1 {
+    background-image: url("../../assets/WhyVPN/s2-1.png");
+  }
+  &__imgB1 {
+    background-image: url("../../assets/WhyVPN/s2-2.jpg");
+    height: 210px;
+  }
+  &__imgA2 {
+    background-image: url("../../assets/WhyVPN/s2-3.jpg");
+    height: 215px;
+  }
+  &__imgB2 {
+    background-image: url("../../assets/WhyVPN/s2-4.jpg");
+    height: 210px;
+  }
 }
 // =========== Section 3 ============
-.SectionWhyVpn3{
-	padding: 50px 0;
-	border-radius: 15px ;
-	margin-bottom: 80px;
-	background-image:linear-gradient(
-		to right,
-	#00000060,
-	#00000060
-	  ), url("../../assets/Articles/bg3.jpg");
-	  background-attachment: scroll;
-	  color: white;
-	&__box{
-		width: 300px;
-		margin: 15px ;
-		border-radius: 15px;
-		padding: 32px 20px;
-		border: 1px solid transparent;
-		&:hover{
-			box-shadow: 0px 6px 10px -5px rgba(255,255,255,1);
-			border: 1px solid rgba(255, 255, 255, 0.363);
-		}
-		h6{
-			text-align: center;
-			font-size: 22px;
-			font-weight: 400;
-			margin-top: 10px;
-		}
-		&__img1, &__img2, &__img3{
-			width: 90px;
-			height: 90px;
-			margin-left: auto;
-			margin-right: auto;
-		}
-		&__img1{
-			background-image: url("../../assets/WhyVPN/s31.png");
-			width: 75px;
-		}
-		&__img2{
-			background-image: url("../../assets/WhyVPN/s32.png");
-		}
-		&__img3{
-			background-image: url("../../assets/WhyVPN/s33.png");
-		}
-	}
+.SectionWhyVpn3 {
+  padding: 50px 0;
+  border-radius: 15px;
+  margin-bottom: 80px;
+  background-image: linear-gradient(to right, #00000060, #00000060),
+    url("../../assets/Articles/bg3.jpg");
+  background-attachment: scroll;
+  color: white;
+  &__box {
+    width: 300px;
+    margin: 15px;
+    border-radius: 15px;
+    padding: 32px 20px;
+    border: 1px solid transparent;
+    &:hover {
+      box-shadow: 0px 6px 10px -5px rgba(255, 255, 255, 1);
+      border: 1px solid rgba(255, 255, 255, 0.363);
+    }
+    h6 {
+      text-align: center;
+      font-size: 22px;
+      font-weight: 400;
+      margin-top: 10px;
+    }
+    &__img1,
+    &__img2,
+    &__img3 {
+      width: 90px;
+      height: 90px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    &__img1 {
+      background-image: url("../../assets/WhyVPN/s31.png");
+      width: 75px;
+    }
+    &__img2 {
+      background-image: url("../../assets/WhyVPN/s32.png");
+    }
+    &__img3 {
+      background-image: url("../../assets/WhyVPN/s33.png");
+    }
+  }
 }

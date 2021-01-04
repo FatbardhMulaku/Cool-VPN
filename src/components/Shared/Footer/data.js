@@ -1,47 +1,72 @@
+import React from "react";
+import { FormattedMessage } from "react-intl";
+
 export const FooterLinks = [
   {
     title: "CoolVPN",
     items: [
       {
         link: "/download",
-        name: "Download",
+        name: (
+          <FormattedMessage id="footer.CoolVPN1" defaultMessage="Download" />
+        ),
       },
       {
         link: "/pricing",
-        name: "Pricing",
+        name: (
+          <FormattedMessage id="footer.CoolVPN2" defaultMessage="Pricing" />
+        ),
       },
 
       {
         link: "/features",
-        name: "Features",
+        name: (
+          <FormattedMessage id="footer.CoolVPN3" defaultMessage="Features" />
+        ),
       },
       {
         link: "/servers",
-        name: "Servers",
+        name: (
+          <FormattedMessage id="footer.CoolVPN4" defaultMessage="Servers" />
+        ),
       },
       {
         link: "/vpn-for-bussines",
-        name: "VPN for bussines",
+        name: (
+          <FormattedMessage
+            id="footer.CoolVPN5"
+            defaultMessage="VPN for bussines"
+          />
+        ),
       },
       {
         link: "/product",
-        name: "Product",
+        name: (
+          <FormattedMessage id="footer.CoolVPN6" defaultMessage="Product" />
+        ),
       },
       {
         link: "/articles",
-        name: "Articles",
+        name: (
+          <FormattedMessage id="footer.CoolVPN7" defaultMessage="Articles" />
+        ),
       },
       {
         link: "/blog",
-        name: "Blog",
+        name: <FormattedMessage id="footer.CoolVPN8" defaultMessage="Blog" />,
       },
       {
         link: "/VPN-setup-Step",
-        name: "VPN Setup Step",
+        name: (
+          <FormattedMessage
+            id="footer.CoolVPN9"
+            defaultMessage="VPN Setup Step"
+          />
+        ),
       },
       {
         link: "/api",
-        name: "API",
+        name: <FormattedMessage id="footer.CoolVPN10" defaultMessage="API" />,
       },
     ],
   },
@@ -50,43 +75,67 @@ export const FooterLinks = [
     items: [
       {
         link: "/what-is-CoolVPN",
-        name: "What is CoolVPN?",
+        name: (
+          <FormattedMessage
+            id="footer.AboutUS1"
+            defaultMessage="What is CoolVPN?"
+          />
+        ),
       },
       {
         link: "/why-vpn",
-        name: "Why VPN?",
+        name: (
+          <FormattedMessage id="footer.AboutUS2" defaultMessage="Why VPN?" />
+        ),
       },
       {
         link: "/faq",
-        name: "FAQ",
+        name: <FormattedMessage id="footer.AboutUS3" defaultMessage="FAQ" />,
       },
       {
         link: "/tutorials",
-        name: "Tutorials",
+        name: (
+          <FormattedMessage id="footer.AboutUS4" defaultMessage="Tutorials" />
+        ),
       },
       {
         link: "/press-area",
-        name: "Press Area",
+        name: (
+          <FormattedMessage id="footer.AboutUS5" defaultMessage="Press Area" />
+        ),
       },
       {
         link: "/ContactUs",
-        name: "Contact Us",
+        name: (
+          <FormattedMessage id="footer.AboutUS6" defaultMessage="Contact Us" />
+        ),
       },
       {
         link: "/about",
-        name: "About Us",
+        name: (
+          <FormattedMessage id="footer.AboutUS7" defaultMessage="About Us" />
+        ),
       },
       {
         link: "/our-team",
-        name: "Our Team",
+        name: (
+          <FormattedMessage id="footer.AboutUS8" defaultMessage="Our Team" />
+        ),
       },
       {
         link: "/request-support",
-        name: "Request Support",
+        name: (
+          <FormattedMessage
+            id="footer.AboutUS9"
+            defaultMessage="Request Support"
+          />
+        ),
       },
       {
         link: "/imprint",
-        name: "Imprint",
+        name: (
+          <FormattedMessage id="footer.AboutUS10" defaultMessage="Imprint" />
+        ),
       },
     ],
   },
@@ -95,43 +144,90 @@ export const FooterLinks = [
     items: [
       {
         link: "/affiliate",
-        name: "Affiliate",
+        name: (
+          <FormattedMessage id="footer.EarnMoney1" defaultMessage="Affiliate" />
+        ),
       },
       {
         link: "/become-partner",
-        name: "Become a partner",
+        name: (
+          <FormattedMessage
+            id="footer.EarnMoney2"
+            defaultMessage="Become a partner"
+          />
+        ),
       },
       {
         link: "/free-proxy-list",
-        name: "Free Proxy list",
+        name: (
+          <FormattedMessage
+            id="footer.EarnMoney3"
+            defaultMessage="Free Proxy list"
+          />
+        ),
       },
       {
         link: "/youtube-proxy",
-        name: "YouTube Proxy",
+        name: (
+          <FormattedMessage
+            id="footer.EarnMoney4"
+            defaultMessage="YouTube Proxy"
+          />
+        ),
       },
       {
         link: "/vpn-routers",
-        name: "VPN Routers",
+        name: (
+          <FormattedMessage
+            id="footer.EarnMoney5"
+            defaultMessage="VPN Routers"
+          />
+        ),
       },
       {
         link: "/anonymous-ip-address",
-        name: "Anonymous IP address",
+        name: (
+          <FormattedMessage
+            id="footer.EarnMoney6"
+            defaultMessage="Anonymous IP address"
+          />
+        ),
       },
       {
         link: "/latest-vpn-protocols",
-        name: "Latest VPN protocols",
+        name: (
+          <FormattedMessage
+            id="footer.EarnMoney7"
+            defaultMessage="Latest VPN protocols"
+          />
+        ),
       },
       {
         link: "/affiliate-sales",
-        name: "Affiliate Sales",
+        name: (
+          <FormattedMessage
+            id="footer.EarnMoney8"
+            defaultMessage="Affiliate Sales"
+          />
+        ),
       },
       {
         link: "/reseller-history",
-        name: "Reseller History",
+        name: (
+          <FormattedMessage
+            id="footer.EarnMoney9"
+            defaultMessage="Reseller History"
+          />
+        ),
       },
       {
         link: "/affiliate-reports",
-        name: "Affiliate Reports",
+        name: (
+          <FormattedMessage
+            id="footer.EarnMoney10"
+            defaultMessage="Affiliate Reports"
+          />
+        ),
       },
     ],
   },

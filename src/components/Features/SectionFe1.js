@@ -31,7 +31,7 @@ function SectionFe1() {
         ))}
       </div>
       <TextInfo
-        txt="Features.section_1.info"
+        txt="Features.section_1b"
         textAlign="left"
         color="#2D2E2D"
         margin="0px"

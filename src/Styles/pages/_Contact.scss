@@ -1,127 +1,139 @@
 // =========== Section 1 ============
 .SectionC1 {
-	padding-top: 150px;
-	padding-bottom: 270px;
-	background-image: url("../../assets/Support/section1_bg.png");
-	background-size: 100% 100%;
+  padding-top: 150px;
+  padding-bottom: 270px;
+  background-image: url("../../assets/Support/section1_bg.png");
+  background-size: 100% 100%;
+}
+
+@media only screen and (max-width: 578px) {
+  .SectionC1 {
+    background-size: cover;
   }
-  
-  @media only screen and (max-width: 578px) {
-	.SectionC1 {
-	  background-size: cover;
-	}
-  }
-  
+}
+
+.SectionC1__info {
+  width: 70%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media only screen and (max-width: 992px) {
   .SectionC1__info {
-	width: 70%;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
   }
-  
-  @media only screen and (max-width: 992px) {
-	.SectionC1__info {
-	  width: 100%;
-	}
-  }
-  
-  .SectionC1__info p {
-	margin: 0px;
-	margin-top: 40px;
-  }
+}
+
+.SectionC1__info p {
+  margin: 0px;
+  margin-top: 40px;
+}
 // =========== Section 2 ============
-.SectionC2{
-	margin-top: -50px;
-	padding-bottom: 40px;
-	&__box1{
-		width: 15%;
-		height: 100px;
-		@media only screen and (max-width: 1100px) {
-			display: none !important;
-		}
-	}
-	&>div{
-		display: flex;
-		flex-direction: row;
-	}
-	&__boxMain{
-		background-color: #BCAFE5;
-	}
-	&__boxMain2{
-		background-color: #3B3B3B;
-	}
-	&__boxMain, &__boxMain2{
-		margin: 30px 0;
-		width: 85%;
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: space-evenly;
-		border-radius: 15px;
-		padding: 20px;
-		@media only screen and (max-width: 1100px) {
-			width: 99%;
-		}	
-	}
-	&__box{
-		width: 240px;
-		margin: 15px 10px;
-		background-color: white;
-		border-radius: 15px;
-		padding: 20px;
-		transition: all 0.3s ease-in;
-		&:hover{
-			transform: scale(1.1);
-		}
-		&>div:first-child{
-			display: flex;
-			justify-content: space-between;
-			p{
-				font-weight: bold;
-			}
-		}
-		h6{
-			color: #734AF2;
-			display: flex;
-			align-items: flex-end;
-		}
-		&__flag1, &__flag2, &__flag3, &__flag4, &__flag5, &__flag6, &__flag7, &__flag8, &__flag9, &__flag10, &__flag11, &__flag12{
-			width: 25px;
-			height: 25px;
-			margin-right: 40px;
-		}
-		&__flag1{
-			background-image: url("../../assets/ContactUs/state_icon1.svg");
-		}
-		&__flag2{
-			background-image: url("../../assets/ContactUs/state_icon2.svg");
-		}
-		&__flag3{
-			background-image: url("../../assets/ContactUs/state_icon3.svg");
-		}
-		&__flag4{
-			background-image: url("../../assets/ContactUs/state_icon4.svg");
-		}
-		&__flag5{
-			background-image: url("../../assets/ContactUs/state_icon5.svg");
-		}
-		&__flag6{
-			background-image: url("../../assets/ContactUs/state_icon6.svg");
-		}
-		&__flag7{
-			background-image: url("../../assets/ContactUs/state_icon7.svg");
-		}
-		&__flag8{
-			background-image: url("../../assets/ContactUs/state_icon8.svg");
-		}
-		&__flag9{
-			background-image: url("../../assets/ContactUs/state_icon9.svg");
-		}
-		&__flag10{
-			background-image: url("../../assets/ContactUs/state_icon10.svg");
-		}
-		&__flag11{
-			background-image: url("../../assets/ContactUs/state_icon11.svg");
-		}
-		&__flag12{
-			background-image: url("../../assets/ContactUs/state_icon12.svg");
-		}
-	}
+.SectionC2 {
+  margin-top: -50px;
+  padding-bottom: 40px;
+  &__box1 {
+    width: 15%;
+    height: 100px;
+    @media only screen and (max-width: 1100px) {
+      display: none !important;
+    }
+  }
+  & > div {
+    display: flex;
+    flex-direction: row;
+  }
+  &__boxMain {
+    background-color: #bcafe5;
+  }
+  &__boxMain2 {
+    background-color: #3b3b3b;
+  }
+  &__boxMain,
+  &__boxMain2 {
+    margin: 30px 0;
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-radius: 15px;
+    padding: 20px;
+    @media only screen and (max-width: 1100px) {
+      width: 99%;
+    }
+  }
+  &__box {
+    width: 240px;
+    margin: 15px 10px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    transition: all 0.3s ease-in;
+    &:hover {
+      transform: scale(1.1);
+    }
+    & > div:first-child {
+      display: flex;
+      justify-content: space-between;
+      p {
+        font-weight: bold;
+      }
+    }
+    h6 {
+      color: #734af2;
+      display: flex;
+      align-items: flex-end;
+    }
+    &__flag1,
+    &__flag2,
+    &__flag3,
+    &__flag4,
+    &__flag5,
+    &__flag6,
+    &__flag7,
+    &__flag8,
+    &__flag9,
+    &__flag10,
+    &__flag11,
+    &__flag12 {
+      width: 25px;
+      height: 25px;
+      margin-right: 40px;
+    }
+    &__flag1 {
+      background-image: url("../../assets/ContactUs/state_icon1.svg");
+    }
+    &__flag2 {
+      background-image: url("../../assets/ContactUs/state_icon2.svg");
+    }
+    &__flag3 {
+      background-image: url("../../assets/ContactUs/state_icon3.svg");
+    }
+    &__flag4 {
+      background-image: url("../../assets/ContactUs/state_icon4.svg");
+    }
+    &__flag5 {
+      background-image: url("../../assets/ContactUs/state_icon5.svg");
+    }
+    &__flag6 {
+      background-image: url("../../assets/ContactUs/state_icon6.svg");
+    }
+    &__flag7 {
+      background-image: url("../../assets/ContactUs/state_icon7.svg");
+    }
+    &__flag8 {
+      background-image: url("../../assets/ContactUs/state_icon8.svg");
+    }
+    &__flag9 {
+      background-image: url("../../assets/ContactUs/state_icon9.svg");
+    }
+    &__flag10 {
+      background-image: url("../../assets/ContactUs/state_icon10.svg");
+    }
+    &__flag11 {
+      background-image: url("../../assets/ContactUs/state_icon11.svg");
+    }
+    &__flag12 {
+      background-image: url("../../assets/ContactUs/state_icon12.svg");
+    }
+  }
 }

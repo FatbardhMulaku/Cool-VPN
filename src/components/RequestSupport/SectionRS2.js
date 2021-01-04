@@ -26,7 +26,7 @@ function SectionRS2() {
           <Botton
             link="/contact"
             offsetBtn={-150}
-            txt="RequestSupport.section_1.btn"
+            txt="RequestSupport.section_1.btn1"
             BGcolor="#8878BF"
             color="#fff"
             margin="20px 0 0 0"

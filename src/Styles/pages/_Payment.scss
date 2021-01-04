@@ -1,82 +1,86 @@
-.Payment{
-	padding: 150px 0;
-	color: rgb(138, 138, 138);
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	&>div>h4{
-		color: #000;
-		margin-top: 50px;
-	}
-	&__wrapper{
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: flex-start;
-		&__card{
-			width: 300px;
-			margin: 15px;
-			display: flex;
-			flex-direction: column;
-			&-a{
-				border: 2px solid rgb(182, 182, 182);
-				padding: 15px;
-				display: flex;
-				border-radius: 16px;
-				&:hover{
-					text-decoration: none;
-				}
-				&:hover, &:active, &:focus	{
-					border: 2px solid  #8878BF;
-				}
-				&:hover &_rreth,&:focus &_rreth, &:active &_rreth{
-					background-color: #8878BF;
-				}
-				&>div:last-child{
-					margin-left: 15px;
-				}
-				&_rreth{
-					background-color: white;
-					border: 2px solid #8878BF;
-					width: 20px;
-					height: 20px;
-					border-radius: 50%;
-				}
-				&_img1{
-					background-image: url("../../assets/Checkout/card.jpg");
-					width: 140px;
-					height: 20px;
-				}
-				&_img2{
-					background-image: url("../../assets/Checkout/google.png");
-					height: 20px;
-					width: 32px;
-				}
-				h6{
-					color: #000;
-					font-weight: bold;
-				}
-			}
-			&>a:first-child{
-				margin-bottom: 20px;
-			}
-		}
-		&__boody{
-			width: 600px;
-			margin: 15px;
-			border: 2px solid rgb(182, 182, 182);
-			padding: 20px 40px !important;
-			border-radius: 16px;
-			color: #000;
-			&>div:last-child{
-				display: flex;
-				justify-content: flex-end;
-			}
-			&>div:nth-child(3) > p:last-child{
-				color: red;
-				text-decoration: line-through;
-			}
-			&>div:first-child h6{
-				margin-bottom: 20px;
-				font-weight: bold;
-			}
-		}
-	}
+.Payment {
+  padding: 150px 0;
+  color: rgb(138, 138, 138);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  & > div > h4 {
+    color: #000;
+    margin-top: 50px;
+  }
+  &__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    &__card {
+      width: 300px;
+      margin: 15px;
+      display: flex;
+      flex-direction: column;
+      &-a {
+        border: 2px solid rgb(182, 182, 182);
+        padding: 15px;
+        display: flex;
+        border-radius: 16px;
+        &:hover {
+          text-decoration: none;
+        }
+        &:hover,
+        &:active,
+        &:focus {
+          border: 2px solid #8878bf;
+        }
+        &:hover &_rreth,
+        &:focus &_rreth,
+        &:active &_rreth {
+          background-color: #8878bf;
+        }
+        & > div:last-child {
+          margin-left: 15px;
+        }
+        &_rreth {
+          background-color: white;
+          border: 2px solid #8878bf;
+          width: 20px;
+          height: 20px;
+          border-radius: 50%;
+        }
+        &_img1 {
+          background-image: url("../../assets/Checkout/card.jpg");
+          width: 140px;
+          height: 20px;
+        }
+        &_img2 {
+          background-image: url("../../assets/Checkout/google.png");
+          height: 20px;
+          width: 32px;
+        }
+        h6 {
+          color: #000;
+          font-weight: bold;
+        }
+      }
+      & > a:first-child {
+        margin-bottom: 20px;
+      }
+    }
+    &__boody {
+      width: 600px;
+      margin: 15px;
+      border: 2px solid rgb(182, 182, 182);
+      padding: 20px 40px !important;
+      border-radius: 16px;
+      color: #000;
+      & > div:last-child {
+        display: flex;
+        justify-content: flex-end;
+      }
+      & > div:nth-child(3) > p:last-child {
+        color: red;
+        text-decoration: line-through;
+      }
+      & > div:first-child h6 {
+        margin-bottom: 20px;
+        font-weight: bold;
+      }
+    }
+  }
 }

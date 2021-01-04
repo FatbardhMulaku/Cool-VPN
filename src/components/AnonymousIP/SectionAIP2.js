@@ -56,7 +56,7 @@ function SectionAIP2() {
       <div className="col-lg-3" />
       <div className="col-sm-12 col-lg-9 SectionAIP2__box3">
         <InfoTxt
-          txt="AnonymousIP.section_2c"
+          txt="AnonymousIP.section_2b"
           textAlign="left"
           color="black"
           margin="0px"

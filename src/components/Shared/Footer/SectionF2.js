@@ -75,13 +75,14 @@ function SectionF2() {
           </h6>
           <div className="footer-terms">
             |<Link to="Privacy"> Privacy Policy </Link> |{" "}
-            <Link to="security-vulnerability"> Security Vulnerability</Link> |
+            <Link to="security-vulnerability"> Security Vulnerability</Link> | 
           </div>
-          <LangOptions />
+         
         </div>
 
         <Fade top big cascade>
           <div className="social__icons col-sm-12 col-lg-4">
+          <LangOptions />
             {SocialLinks.map((item, index) => {
               return (
                 <a key={index} target="_blank" rel="noreferrer" href={item}>

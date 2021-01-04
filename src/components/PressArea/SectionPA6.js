@@ -24,7 +24,7 @@ function SectionPA6() {
           <div className="SectionPA6__line--img2 bg" />
           <h6>
             <FormattedMessage
-              id="PressArea.section_6.title"
+              id="PressArea.section_6.title2"
               defaultMessage="Screenshots and mock-ups"
             />
           </h6>

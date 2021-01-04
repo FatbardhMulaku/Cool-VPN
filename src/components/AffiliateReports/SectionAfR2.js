@@ -17,7 +17,7 @@ function SectionAfR2() {
       ))}
 
       <InfoTxt
-        txt="AffiliateReports.section_1"
+        txt="AffiliateReports.section_2a"
         textAlign="left"
         color="black"
         margin="40px 0 0 0"
@@ -27,7 +27,7 @@ function SectionAfR2() {
       />
 
       <InfoTxt
-        txt="AffiliateReports.section_3"
+        txt="AffiliateReports.section_2b"
         textAlign="left"
         color="black"
         margin="40px 0 0 0"

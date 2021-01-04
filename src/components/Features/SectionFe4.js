@@ -13,7 +13,7 @@ function SectionFe4() {
           tr="Features.section_4"
           btnId="Features.section_4.btn"
           btnTxt="Read More"
-          linkBtn="SectionFe5"
+          link="SectionFe5"
           DfTitle="Avoid Censorship"
           DfDesc="Government and law enforcement agencies love to monitor social media websites like Facebook, Twitter YouTube etc. If you live in a country where social media sites are censored, all you need to do is connect to hide.me server and should able to visit social media websites without someone monitoring your activities"
         />

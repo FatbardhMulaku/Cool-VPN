@@ -11,9 +11,9 @@ function SectionSv1() {
         textAlign="left"
         color="white"
         margin="0px"
-		klasa="SectionSv1__txt"
-		DfTitle="CoolVPN Servers" 
-		DfDesc="5408 servers · 59 countries"
+        klasa="SectionSv1__txt"
+        DfTitle="CoolVPN Servers"
+        DfDesc="5408 servers · 59 countries"
       />
       <div className="row justify-content-start">
         <Botton
@@ -26,8 +26,8 @@ function SectionSv1() {
           HoverBGcolor="transparent"
           HoverColor="#fff"
           border="1px solid #8878BF"
-		  HoverBorder="1px solid #8878BF"
-		  DfBtn="Get CoolVPN"
+          HoverBorder="1px solid #8878BF"
+          DfBtn="Get CoolVPN"
         />
         <Botton
           link="/latest-vpn-protocols"
@@ -39,8 +39,8 @@ function SectionSv1() {
           HoverBGcolor="#8878BF"
           HoverColor="#fff"
           border="2px solid #8878BF"
-		  HoverBorder="2px solid #8878BF"
-		  DfBtn="Recommended server"
+          HoverBorder="2px solid #8878BF"
+          DfBtn="Recommended server"
         />
       </div>
     </LayoutContainer>

@@ -15,7 +15,7 @@ function SectionVPNb3() {
         <div className="row justify-content-center align-items-center">
           <div className="col-sm-11 col-lg-4 my-4 my-lg-0">
             <TextInfo
-              id="VPNbussines.section_3"
+              id="VPNbussines.section_3a"
               textAlign="center"
               color="white"
               margin="0"
@@ -26,7 +26,7 @@ function SectionVPNb3() {
           </div>
           <div className="col-sm-11 col-lg-4 my-4 my-lg-0">
             <TextInfo
-              id="VPNbussines.section_3a"
+              id="VPNbussines.section_3b"
               textAlign="center"
               color="white"
               margin="0"

@@ -51,7 +51,7 @@ function SectionYP2() {
         <Botton
           link="/become-partner"
           offsetBtn={-150}
-          txt="FreeProxy.section_2.btn"
+          txt="FreeProxy.section_2.btn1"
           BGcolor="#8878BF"
           color="#fff"
           margin="30px 0 0 0"

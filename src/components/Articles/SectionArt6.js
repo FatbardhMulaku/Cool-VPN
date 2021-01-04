@@ -7,7 +7,7 @@ function SectionArt6() {
     <LayoutContainer container="SectionArt6">
       <p>
         <FormattedMessage
-          id="Product.section_5.link1"
+          id="Article.section_6.link1a"
           defaultMessage="32 comments"
         />{" "}
         &#11206;
@@ -19,18 +19,18 @@ function SectionArt6() {
           <p>
             <span>
               <FormattedMessage
-                id="Product.section_5.link1"
+                id="Article.section_6.link1b"
                 defaultMessage="Yuliya Petrova"
               />
             </span>
             <FormattedMessage
-              id="Product.section_5.link1"
+              id="Article.section_6.link1c"
               defaultMessage="3:32 pm"
             />
           </p>
           <p>
             <FormattedMessage
-              id="Product.section_5.link1"
+              id="Article.section_6.link1d"
               defaultMessage="Play the hits! Some of our favorite editorial features of the last few years with Miguel, Kindness, Toro y Moi, Future Islands, Lee Fields."
             />
           </p>
@@ -43,18 +43,18 @@ function SectionArt6() {
           <p>
             <span>
               <FormattedMessage
-                id="Product.section_5.link1"
+                id="Article.section_6.link1e"
                 defaultMessage="Artyom Tarasov"
               />
             </span>
             <FormattedMessage
-              id="Product.section_5.link1"
+              id="Article.section_6.link1f"
               defaultMessage="3:32 pm"
             />
           </p>
           <p>
             <FormattedMessage
-              id="Product.section_5.link1"
+              id="Article.section_6.link1g"
               defaultMessage="I’ve seen people drop hints that they were Bitcoin’s creator seemingly to try to bring in investment money"
             />
           </p>

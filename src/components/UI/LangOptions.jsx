@@ -14,12 +14,27 @@ const LangOptions = () => {
   };
 
   return (
-    <div  >
-      {localesCode.map((item, index) => ( 
-        <a key={index} onClick={() => handleChange(item.code)} >
-          {item.name} 
-        </a>
-      ))}
+    <div className="LangOptions">
+      <div className="LangOptions__img bg">
+          <div>
+          {localesCode.map((item, index) => ( 
+            <a key={index} onClick={() => handleChange(item.code)} >
+              {item.name} 
+            </a>
+          ))}
+          </div>
+         
+      </div>
+      
+
+      {/* <div className="select-lang">
+        <select name="slct" id="slct">
+          {localesCode.map((item, index) => ( 
+           <option key={index} onClick={() => handleChange(item.code)} value={item.code}> {item.name} </option>
+            ))}
+        </select>
+      </div> */}
+
     </div>
   );
 };

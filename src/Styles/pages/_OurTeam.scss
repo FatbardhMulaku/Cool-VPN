@@ -1,123 +1,132 @@
 // =========== Section 1 ============
-.SectionOT1{
-	background-image: url("../../assets/FAQ/section1_bg.png");
-	padding-top: 170px;
-	padding-bottom: 340px;
-	background-attachment: scroll;
-	background-size: 101% 100%;
-	@media only screen and (max-width: 768px) {
-		background-size: cover;
-	}
-	h2{
-		@media only screen and (max-width: 768px) {
-			text-align: center;
-			font-size: 22px;
-		}
-	}
+.SectionOT1 {
+  background-image: url("../../assets/FAQ/section1_bg.png");
+  padding-top: 170px;
+  padding-bottom: 340px;
+  background-attachment: scroll;
+  background-size: 101% 100%;
+  @media only screen and (max-width: 768px) {
+    background-size: cover;
+  }
+  h2 {
+    @media only screen and (max-width: 768px) {
+      text-align: center;
+      font-size: 22px;
+    }
+  }
 }
 // =========== Section 2 ============
-.SectionOT2{
-	padding-top: 10px;
-	padding-bottom: 60px;
-	margin-top: -50px;
-	&>div>div{
-		display: flex;
-		justify-content: center;
-		flex-wrap: wrap;
-	}
-	&--box{
-		width: 260px;
-		text-align: center;
-		padding: 25px 0 15px 0;
-		border-radius: 10px;
-		margin: 15px 8px;
-		border: 1px solid transparent;
-		transition: all 0.5s ease-in;
-		&:hover{
-			border: 1px solid rgba(128, 128, 128, 0.432);
-		}
-		&__img1,&__img2,&__img3,&__img4{
-			border-radius: 50%;
-			margin-left: auto;
-			margin-right: auto;
-			height: 80px;
-			width: 80px;
-			margin-bottom: 10px;
-		}
-		&__img1{
-			background-image: url("../../assets/OurTeam/section2_img1.jpg");
-		}
-		&__img2{
-			background-image: url("../../assets/OurTeam/section2_img2.jpg");
-		}
-		&__img3{
-			background-image: url("../../assets/OurTeam/section2_img3.jpg");
-		}
-		&__img4{
-			background-image: url("../../assets/OurTeam/section2_img4.jpg");
-		}
-		&__FBicon,&__TWicon,&__INicon{
-			border-radius: 50%;
-			width: 25px;
-			height: 25px;
-			margin: 0 3px;
-			cursor: pointer;
-			transition: all 0.4s ease-in;
-			&:hover{
-				transform: scale(1.15);
-			}
-		}
-		&__FBicon{
-			background-image: url("../../assets/OurTeam/facebook.png");
-		}
-		&__TWicon{
-			background-image: url("../../assets/OurTeam/twitter.png");			
-		}
-		&__INicon{
-			background-image: url("../../assets/OurTeam/linkedin.png");
-		}
-	}
+.SectionOT2 {
+  padding-top: 10px;
+  padding-bottom: 60px;
+  margin-top: -50px;
+  & > div > div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  &--box {
+    width: 260px;
+    text-align: center;
+    padding: 25px 0 15px 0;
+    border-radius: 10px;
+    margin: 15px 8px;
+    border: 1px solid transparent;
+    transition: all 0.5s ease-in;
+    &:hover {
+      border: 1px solid rgba(128, 128, 128, 0.432);
+    }
+    &__img1,
+    &__img2,
+    &__img3,
+    &__img4 {
+      border-radius: 50%;
+      margin-left: auto;
+      margin-right: auto;
+      height: 80px;
+      width: 80px;
+      margin-bottom: 10px;
+    }
+    &__img1 {
+      background-image: url("../../assets/OurTeam/section2_img1.jpg");
+    }
+    &__img2 {
+      background-image: url("../../assets/OurTeam/section2_img2.jpg");
+    }
+    &__img3 {
+      background-image: url("../../assets/OurTeam/section2_img3.jpg");
+    }
+    &__img4 {
+      background-image: url("../../assets/OurTeam/section2_img4.jpg");
+    }
+    &__FBicon,
+    &__TWicon,
+    &__INicon {
+      border-radius: 50%;
+      width: 25px;
+      height: 25px;
+      margin: 0 3px;
+      cursor: pointer;
+      transition: all 0.4s ease-in;
+      &:hover {
+        transform: scale(1.15);
+      }
+    }
+    &__FBicon {
+      background-image: url("../../assets/OurTeam/facebook.png");
+    }
+    &__TWicon {
+      background-image: url("../../assets/OurTeam/twitter.png");
+    }
+    &__INicon {
+      background-image: url("../../assets/OurTeam/linkedin.png");
+    }
+  }
 }
 // =========== Section 3 ============
-.SectionOT3{
-	background-image:linear-gradient(rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.644)),  url("../../assets/OurTeam/bg.jpg");
-	padding: 60px 0;
-	&>div>div{
-		display: flex;
-		justify-content: center;
-		flex-wrap: wrap;
-	}
-	&--box{
-		width: 260px;
-		text-align: center;
-		padding: 25px 0 15px 0;
-		border-radius: 10px;
-		margin: 15px 8px;
-		border: 1px solid transparent;
-		color: white;
-		transition: all 0.5s ease-in;
-		&:hover{
-			border: 1px solid rgba(128, 128, 128, 0.432);
-		}
-		&__img1,&__img2,&__img3,&__img4{
-			border-radius: 50%;
-			margin-left: auto;
-			margin-right: auto;
-			height: 80px;
-			width: 80px;
-			margin-bottom: 10px;
-		}
-		&__img1{
-			background-image: url("../../assets/OurTeam/section3_img1.png");
-		}
-		&__img2{
-			background-image: url("../../assets/OurTeam/section3_img2.png");
-		}
-		&__img3{
-			background-image: url("../../assets/OurTeam/section3_img3.png");
-		}
-		&__img4{
-			background-image: url("../../assets/OurTeam/section3_img4.png");
-		}
-	}
+.SectionOT3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.644)),
+    url("../../assets/OurTeam/bg.jpg");
+  padding: 60px 0;
+  & > div > div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  &--box {
+    width: 260px;
+    text-align: center;
+    padding: 25px 0 15px 0;
+    border-radius: 10px;
+    margin: 15px 8px;
+    border: 1px solid transparent;
+    color: white;
+    transition: all 0.5s ease-in;
+    &:hover {
+      border: 1px solid rgba(128, 128, 128, 0.432);
+    }
+    &__img1,
+    &__img2,
+    &__img3,
+    &__img4 {
+      border-radius: 50%;
+      margin-left: auto;
+      margin-right: auto;
+      height: 80px;
+      width: 80px;
+      margin-bottom: 10px;
+    }
+    &__img1 {
+      background-image: url("../../assets/OurTeam/section3_img1.png");
+    }
+    &__img2 {
+      background-image: url("../../assets/OurTeam/section3_img2.png");
+    }
+    &__img3 {
+      background-image: url("../../assets/OurTeam/section3_img3.png");
+    }
+    &__img4 {
+      background-image: url("../../assets/OurTeam/section3_img4.png");
+    }
+  }
 }

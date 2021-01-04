@@ -1,256 +1,282 @@
-.SectionD1{
-	padding: 150px 0;
-	padding-bottom: 80px;
-	&__info{
-		p{
-			margin:10px 0px !important;
-		}
-	}
-	&__left > div:nth-child(2){
-		p{
-			margin-top: 20px;
-			margin-left: 10px;
-			margin-right: 10px;
-			color: #8878BF;
-			font-weight: bold;
-			font-size: 18px;
-		}
-	}
-	&__left {
-		&--box{
-			display: flex;
-			flex-direction: column;
-			justify-content: center	;
-			align-items: center;
-			width: 100px;
-			height: 100px;
-			border-bottom: 3px solid rgba(0, 0, 0, 0.507);
-			margin: 8px;
-			cursor: pointer;
-			&:hover{
-				border-bottom: 3px solid black;
-				p{
-					font-weight: bold;
-				}
-			}
-			p{
-				margin-top: 10px;
-			}
-			&__icon1, &__icon2, &__icon3, &__icon4, &__icon5, &__icon6, &__icon7, &__icon8{
-				width: 40px;
-				height: 40px;
-				filter: opacity(0.8);
-			}
-			&__icon1{
-				background-image: url("../../assets/Download/section1_icon1.svg");
-			}
-			&__icon2{
-				background-image: url("../../assets/Download/section1_icon2.svg");
-			}
-			&__icon3{
-				background-image: url("../../assets/Download/section1_icon3.svg");
-				width: 37
-			}
-			&__icon4{
-				background-image: url("../../assets/Download/section1_icon4.svg");
-				width: 33px;
-			}
-			&__icon5{
-				background-image: url("../../assets/Download/section1_icon5.svg");
-			}
-			&__icon6{
-				background-image: url("../../assets/Download/section1_icon6.svg");
-			}
-			&__icon7{
-				background-image: url("../../assets/Download/section1_icon7.svg");
-				width: 35px;
-			}
-			&__icon8{
-				background-image: url("../../assets/Download/section1_icon8.svg");
-				width: 32px;
-			}
-		}
-	}
-	&__right{
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		&--img{
-			background-image:linear-gradient(to right,rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url("../../assets/Download/section1_img.jpg");
-			width: 450px;
-			height: 255px;
-			border-radius: 20px;
-		}
-	}
+.SectionD1 {
+  padding: 150px 0;
+  padding-bottom: 80px;
+  &__info {
+    p {
+      margin: 10px 0px !important;
+    }
+  }
+  &__left > div:nth-child(2) {
+    p {
+      margin-top: 20px;
+      margin-left: 10px;
+      margin-right: 10px;
+      color: #8878bf;
+      font-weight: bold;
+      font-size: 18px;
+    }
+  }
+  &__left {
+    &--box {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 100px;
+      height: 100px;
+      border-bottom: 3px solid rgba(0, 0, 0, 0.507);
+      margin: 8px;
+      cursor: pointer;
+      &:hover {
+        border-bottom: 3px solid black;
+        p {
+          font-weight: bold;
+        }
+      }
+      p {
+        margin-top: 10px;
+      }
+      &__icon1,
+      &__icon2,
+      &__icon3,
+      &__icon4,
+      &__icon5,
+      &__icon6,
+      &__icon7,
+      &__icon8 {
+        width: 40px;
+        height: 40px;
+        filter: opacity(0.8);
+      }
+      &__icon1 {
+        background-image: url("../../assets/Download/section1_icon1.svg");
+      }
+      &__icon2 {
+        background-image: url("../../assets/Download/section1_icon2.svg");
+      }
+      &__icon3 {
+        background-image: url("../../assets/Download/section1_icon3.svg");
+        width: 37;
+      }
+      &__icon4 {
+        background-image: url("../../assets/Download/section1_icon4.svg");
+        width: 33px;
+      }
+      &__icon5 {
+        background-image: url("../../assets/Download/section1_icon5.svg");
+      }
+      &__icon6 {
+        background-image: url("../../assets/Download/section1_icon6.svg");
+      }
+      &__icon7 {
+        background-image: url("../../assets/Download/section1_icon7.svg");
+        width: 35px;
+      }
+      &__icon8 {
+        background-image: url("../../assets/Download/section1_icon8.svg");
+        width: 32px;
+      }
+    }
+  }
+  &__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &--img {
+      background-image: linear-gradient(
+          to right,
+          rgba(0, 0, 0, 0.3),
+          rgba(0, 0, 0, 0.3)
+        ),
+        url("../../assets/Download/section1_img.jpg");
+      width: 450px;
+      height: 255px;
+      border-radius: 20px;
+    }
+  }
 }
 //section 2
-.SectionD2{
-	padding-bottom: 50px;
-	&__left{
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		&--img{
-			background-image:linear-gradient(to right,rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url("../../assets/Download/section2_img.jpg");
-			width: 450px;
-			height: 255px;
-			border-radius: 20px;
-			@media only screen and (max-width: 420px) {
-				height: 180px;
-			}
-		}
-	}
-	&__right{
-		@media only screen and (max-width: 992px) {
-			margin-top: 30px;
-		}
-		&--box{
-			display: flex;
-			align-items: center;
-			margin: 15px 0;
-			&__img1, &__img2, &__img3{
-				width: 55px;
-				height: 50px;
-				border-radius: 50px;
-				margin-right: 10px;
-			}
-			&__img1{
-				background-image: url("../../assets/Download/section2_icon1.jpg");
-				@media only screen and (max-width: 576px) {
-					width: 45px;
-					height: 25px;
-				}
-			}
-			&__img2{
-				background-image: url("../../assets/Download/section2_icon2.jpg");
-				width: 70px;
-				@media only screen and (max-width: 576px) {
-					width: 50px;
-					height: 25px;
-				}
-			}
-			&__img3{
-				background-image: url("../../assets/Download/section2_icon3.jpg");
-				width: 60px;
-				@media only screen and (max-width: 576px) {
-					width: 45px;
-					height: 25px;
-				}
-			}
-		}
-		&--box > div:last-child{
-			h6{
-				font-weight: bold;
-				margin-bottom: 4px !important;
-				@media only screen and (max-width: 576px) {
-					font-size: 16px;
-				}
-			}
-			p{
-				margin-bottom: 2px;
-				@media only screen and (max-width: 576px) {
-					font-size: 14px;
-				}
-			}
-		}
-	}
+.SectionD2 {
+  padding-bottom: 50px;
+  &__left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &--img {
+      background-image: linear-gradient(
+          to right,
+          rgba(0, 0, 0, 0.3),
+          rgba(0, 0, 0, 0.3)
+        ),
+        url("../../assets/Download/section2_img.jpg");
+      width: 450px;
+      height: 255px;
+      border-radius: 20px;
+      @media only screen and (max-width: 420px) {
+        height: 180px;
+      }
+    }
+  }
+  &__right {
+    @media only screen and (max-width: 992px) {
+      margin-top: 30px;
+    }
+    &--box {
+      display: flex;
+      align-items: center;
+      margin: 15px 0;
+      &__img1,
+      &__img2,
+      &__img3 {
+        width: 55px;
+        height: 50px;
+        border-radius: 50px;
+        margin-right: 10px;
+      }
+      &__img1 {
+        background-image: url("../../assets/Download/section2_icon1.jpg");
+        @media only screen and (max-width: 576px) {
+          width: 45px;
+          height: 25px;
+        }
+      }
+      &__img2 {
+        background-image: url("../../assets/Download/section2_icon2.jpg");
+        width: 70px;
+        @media only screen and (max-width: 576px) {
+          width: 50px;
+          height: 25px;
+        }
+      }
+      &__img3 {
+        background-image: url("../../assets/Download/section2_icon3.jpg");
+        width: 60px;
+        @media only screen and (max-width: 576px) {
+          width: 45px;
+          height: 25px;
+        }
+      }
+    }
+    &--box > div:last-child {
+      h6 {
+        font-weight: bold;
+        margin-bottom: 4px !important;
+        @media only screen and (max-width: 576px) {
+          font-size: 16px;
+        }
+      }
+      p {
+        margin-bottom: 2px;
+        @media only screen and (max-width: 576px) {
+          font-size: 14px;
+        }
+      }
+    }
+  }
 }
 //section3
-.SectionD3{
-	padding: 40px 0;
-	&__left{
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		&--img{
-			background-image:linear-gradient(to right,rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url("../../assets/Download/section3_img.jpg");
-			width: 450px;
-			height: 255px;
-			border-radius: 20px;
-			@media only screen and (max-width: 420px) {
-				height: 180px;
-			}
-		}
-	}
-	&__right{
-		@media only screen and (max-width: 992px) {
-			margin-top: 30px;
-		}
-		&--box{
-			display: flex;
-			align-items: center;
-			margin: 15px 0;
-			&__img1, &__img2, &__img3{
-				width: 55px;
-				height: 40px;
-				margin-right: 10px;
-			}
-			&__img1{
-				background-image: url("../../assets/Download/section3_icon1.jpg");
-				height: 50px;
-				@media only screen and (max-width: 576px) {
-					width: 50px !important;
-					height: 20px !important;
-				}
-			}
-			&__img2{
-				background-image: url("../../assets/Download/section3_icon2.jpg");
-				@media only screen and (max-width: 576px) {
-					width: 50px !important;
-					height: 20px !important;
-				}
-			}
-			&__img3{
-				background-image: url("../../assets/Download/section3_icon3.jpg");
-				@media only screen and (max-width: 576px) {
-					width: 50px !important;
-					height: 20px !important;
-				}
-			}
-		}
-	}
+.SectionD3 {
+  padding: 40px 0;
+  &__left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &--img {
+      background-image: linear-gradient(
+          to right,
+          rgba(0, 0, 0, 0.3),
+          rgba(0, 0, 0, 0.3)
+        ),
+        url("../../assets/Download/section3_img.jpg");
+      width: 450px;
+      height: 255px;
+      border-radius: 20px;
+      @media only screen and (max-width: 420px) {
+        height: 180px;
+      }
+    }
+  }
+  &__right {
+    @media only screen and (max-width: 992px) {
+      margin-top: 30px;
+    }
+    &--box {
+      display: flex;
+      align-items: center;
+      margin: 15px 0;
+      &__img1,
+      &__img2,
+      &__img3 {
+        width: 55px;
+        height: 40px;
+        margin-right: 10px;
+      }
+      &__img1 {
+        background-image: url("../../assets/Download/section3_icon1.jpg");
+        height: 50px;
+        @media only screen and (max-width: 576px) {
+          width: 50px !important;
+          height: 20px !important;
+        }
+      }
+      &__img2 {
+        background-image: url("../../assets/Download/section3_icon2.jpg");
+        @media only screen and (max-width: 576px) {
+          width: 50px !important;
+          height: 20px !important;
+        }
+      }
+      &__img3 {
+        background-image: url("../../assets/Download/section3_icon3.jpg");
+        @media only screen and (max-width: 576px) {
+          width: 50px !important;
+          height: 20px !important;
+        }
+      }
+    }
+  }
 }
 //section 5
-.SectionD5{
-	padding: 70px 0;
-	display: flex;
-	justify-content: center;
-	&>div>div>div:first-child>div:last-child{
-		@media only screen and (max-width: 768px) {
-			display: flex;
-			justify-content: center;
-		}
-	}
-	&__box{
-		display: flex;
-		flex-direction: row;
-		justify-content: center;
-		border: 2px solid #8878BF;
-		margin-left: 25% !important;
-		margin-right: 25% !important;
-		padding: 35px !important;
-		border-radius: 20px;
-		@media only screen and (max-width: 1110px) {
-			margin-left: 3% !important;
-			margin-right: 3% !important;
-		}
-		@media only screen and (max-width: 768px) {
-			flex-direction: column;
-			padding: 25px 15px;
-		}
-	}
-	&__box > div:first-child{
-		width: 70%;
-		@media only screen and (max-width: 768px) {
-			width: 99%;
-		}
-	}
-	&__img{
-		background-image: url("../../assets/ContactUs/img.jpg");
-		width: 255px;
-		height: 170px;
-		@media only screen and (max-width: 768px) {
-			margin-top: 25px;
-		}
-	}
+.SectionD5 {
+  padding: 70px 0;
+  display: flex;
+  justify-content: center;
+  & > div > div > div:first-child > div:last-child {
+    @media only screen and (max-width: 768px) {
+      display: flex;
+      justify-content: center;
+    }
+  }
+  &__box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 2px solid #8878bf;
+    margin-left: 25% !important;
+    margin-right: 25% !important;
+    padding: 35px !important;
+    border-radius: 20px;
+    @media only screen and (max-width: 1110px) {
+      margin-left: 3% !important;
+      margin-right: 3% !important;
+    }
+    @media only screen and (max-width: 768px) {
+      flex-direction: column;
+      padding: 25px 15px;
+    }
+  }
+  &__box > div:first-child {
+    width: 70%;
+    @media only screen and (max-width: 768px) {
+      width: 99%;
+    }
+  }
+  &__img {
+    background-image: url("../../assets/ContactUs/img.jpg");
+    width: 255px;
+    height: 170px;
+    @media only screen and (max-width: 768px) {
+      margin-top: 25px;
+    }
+  }
 }

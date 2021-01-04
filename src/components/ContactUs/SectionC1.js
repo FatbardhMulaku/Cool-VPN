@@ -1,5 +1,6 @@
 import React from "react";
 import TextInfo from "../Shared/Text/TextInfoNew";
+import translate from "../../lang/translate";
 
 function SectionC1() {
   return (

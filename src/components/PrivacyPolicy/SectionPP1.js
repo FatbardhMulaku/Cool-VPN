@@ -6,7 +6,7 @@ function SectionPP1() {
   return (
     <LayoutContainer section="SectionPP1 bg">
       <InfoTxt
-        txt="PrivacyPolicy.section_1"
+        txt="PrivacyPolicy.section_1a"
         textAlign="left"
         color="white"
         margin="0px"

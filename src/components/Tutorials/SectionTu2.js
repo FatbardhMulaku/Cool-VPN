@@ -14,7 +14,7 @@ function SectionTu2() {
   return (
     <LayoutContainer section="SectionTu2">
       <InfoTxt
-        txt="Tutorials.section_1"
+        txt="Tutorials.section_1a"
         textAlign="center"
         color="black"
         margin="5px"
@@ -43,7 +43,7 @@ function SectionTu2() {
               key={idx}
               link="/tutorials/#"
               offsetBtn={-150}
-              txt={`Tutorials.section_2.btn${idx + 2}`}
+              txt={`Tutorials.section_2.btn${idx + 1}`}
               BGcolor="#fff"
               color="#000"
               margin="10px"

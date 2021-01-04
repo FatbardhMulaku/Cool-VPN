@@ -7,7 +7,7 @@ function SectionVPNb2() {
   return (
     <div className="SectionVPNb2 container">
       <TextInfo
-        txt="VPNbussines.section_2"
+        txt="VPNbussines.section_2i"
         textAlign="center"
         color="black"
         margin="0px 0px 20px 0px"

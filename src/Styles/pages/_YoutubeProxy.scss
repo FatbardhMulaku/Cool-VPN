@@ -1,204 +1,207 @@
 // =========== Section 1 ============
-.SectionYP1{
-	background-image: url("../../assets/YoutubeProxy/bg.jpg");
-	background-attachment: scroll;
-	padding: 210px 0;
-	background-size: 100% 100%;
-	@media only screen and (max-width: 992px) {
-		background-size: cover;
-	}
+.SectionYP1 {
+  background-image: url("../../assets/YoutubeProxy/bg.jpg");
+  background-attachment: scroll;
+  padding: 210px 0;
+  background-size: 100% 100%;
+  @media only screen and (max-width: 992px) {
+    background-size: cover;
+  }
 }
 // =========== Section 2 ============
-.SectionYP2{
-	padding: 30px 0;
-	p{
-		margin-bottom: 10px !important;
-		margin-left: 15px;
-	}
-	&>div>div:nth-child(2){
-		margin:0 5px 0 5px;
-		@media only screen and (max-width: 992px) {
-			margin:0 0 0 5px;
-		}
-	}
-	&>div>div:nth-child(4){
-		display: flex;
-		justify-content: center;
-	}
-	&>div>div:nth-child(2) input{
-		width: 100%;
-		padding: 11px 20px;
-		border-radius: 25px;
-		border:2px solid #9c90c5d2;
-		box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
-		margin-bottom: 10px;
-		&:hover{
-			border:2px solid #5035ac;
-		}
-		&:focus{
-			border:2px solid #5035ac;
-		}
-	}
-	&__control {
-		font-family: arial;
-		display: block;
-		position: relative;
-		padding-left: 30px;
-		margin-bottom: 5px;
-		padding-top: 3px;
-		margin: 5px 15px;
-		cursor: pointer;
-		font-size: 16px;
-	}
-		&__control input {
-			position: absolute;
-			z-index: -1;
-			opacity: 0;
-		}
-	&__control_indicator {
-		position: absolute;
-		top: 2px;
-		left: 0;
-		height: 20px;
-		width: 20px;
-		background: #e6e6e6;
-		border: 0px solid #000000;
-		border-radius: undefinedpx;
-	}
-	&__control:hover input ~ &__control_indicator,
-	&__control input:focus ~ &__control_indicator {
-		background: #cccccc;
-	}
+.SectionYP2 {
+  padding: 30px 0;
+  p {
+    margin-bottom: 10px !important;
+    margin-left: 15px;
+  }
+  & > div > div:nth-child(2) {
+    margin: 0 5px 0 5px;
+    @media only screen and (max-width: 992px) {
+      margin: 0 0 0 5px;
+    }
+  }
+  & > div > div:nth-child(4) {
+    display: flex;
+    justify-content: center;
+  }
+  & > div > div:nth-child(2) input {
+    width: 100%;
+    padding: 11px 20px;
+    border-radius: 25px;
+    border: 2px solid #9c90c5d2;
+    box-shadow: 0 1px 0 1px rgba(0, 0, 0, 0.04);
+    margin-bottom: 10px;
+    &:hover {
+      border: 2px solid #5035ac;
+    }
+    &:focus {
+      border: 2px solid #5035ac;
+    }
+  }
+  &__control {
+    font-family: arial;
+    display: block;
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    margin: 5px 15px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  &__control input {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+  }
+  &__control_indicator {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background: #e6e6e6;
+    border: 0px solid #000000;
+    border-radius: undefinedpx;
+  }
+  &__control:hover input ~ &__control_indicator,
+  &__control input:focus ~ &__control_indicator {
+    background: #cccccc;
+  }
 
-	&__control input:checked ~ &__control_indicator {
-		background: #8878BF;
-	}
-	&__control:hover input:not([disabled]):checked ~ &__control_indicator,
-	&__control input:checked:focus ~ &__control_indicator {
-		background-color: #8878BF;
-	}
-	&__control input:disabled ~ &__control_indicator {
-		background: #e6e6e6;
-		opacity: 0.6;
-		pointer-events: none;
-	}
-	&__control_indicator:after {
-		box-sizing: unset;
-		content: '';
-		position: absolute;
-		display: none;
-	}
-	&__control input:checked ~ &__control_indicator:after {
-		display: block;
-	}
-	&__control-radio &__control_indicator {
-		border-radius: 50%;
-	}
-	
-	&__control-radio &__control_indicator:after {
-		left: 7px;
-		top: 7px;
-		height: 6px;
-		width: 6px;
-		border-radius: 50%;
-		background: #ffffff;
-		transition: background 250ms;
-	}
-	&__control-radio input:disabled ~ &__control_indicator:after {
-		background: #7b7b7b;
-	}&__control-radio &__control_indicator::before {
-		content: '';
-		display: block;
-		position: absolute;
-		left: 0;
-		top: 0;
-		width: 4.5rem;
-		height: 4.5rem;
-		margin-left: -1.3rem;
-		margin-top: -1.3rem;
-		background: #2aa1c0;
-		border-radius: 3rem;
-		opacity: 0.6;
-		z-index: 99999;
-		transform: scale(0);
-	}
-	&__control-radio input + &__control_indicator::before {
-		animation: s-ripple 250ms ease-out;
-	}
-	&__control-radio input:checked + &__control_indicator::before {
-		animation-name: s-ripple-dup;
-	}
+  &__control input:checked ~ &__control_indicator {
+    background: #8878bf;
+  }
+  &__control:hover input:not([disabled]):checked ~ &__control_indicator,
+  &__control input:checked:focus ~ &__control_indicator {
+    background-color: #8878bf;
+  }
+  &__control input:disabled ~ &__control_indicator {
+    background: #e6e6e6;
+    opacity: 0.6;
+    pointer-events: none;
+  }
+  &__control_indicator:after {
+    box-sizing: unset;
+    content: "";
+    position: absolute;
+    display: none;
+  }
+  &__control input:checked ~ &__control_indicator:after {
+    display: block;
+  }
+  &__control-radio &__control_indicator {
+    border-radius: 50%;
+  }
+
+  &__control-radio &__control_indicator:after {
+    left: 7px;
+    top: 7px;
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+    background: #ffffff;
+    transition: background 250ms;
+  }
+  &__control-radio input:disabled ~ &__control_indicator:after {
+    background: #7b7b7b;
+  }
+  &__control-radio &__control_indicator::before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 4.5rem;
+    height: 4.5rem;
+    margin-left: -1.3rem;
+    margin-top: -1.3rem;
+    background: #2aa1c0;
+    border-radius: 3rem;
+    opacity: 0.6;
+    z-index: 99999;
+    transform: scale(0);
+  }
+  &__control-radio input + &__control_indicator::before {
+    animation: s-ripple 250ms ease-out;
+  }
+  &__control-radio input:checked + &__control_indicator::before {
+    animation-name: s-ripple-dup;
+  }
 }
 @keyframes s-ripple {
-    0% {
-        opacity: 0;
-        transform: scale(0);
-    }
-    20% {
-        transform: scale(1);
-    }
-    100% {
-        opacity: 0.01;
-        transform: scale(1);
-    }
+  0% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  20% {
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0.01;
+    transform: scale(1);
+  }
 }
 @keyframes s-ripple-dup {
-   0% {
-       transform: scale(0);
-    }
-   30% {
-        transform: scale(1);
-    }
-    60% {
-        transform: scale(1);
-    }
-    100% {
-        opacity: 0;
-        transform: scale(1);
-    }
+  0% {
+    transform: scale(0);
+  }
+  30% {
+    transform: scale(1);
+  }
+  60% {
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1);
+  }
 }
 
 // =========== Section 3 ============
-.SectionYP3{
-	padding: 50px 0;
-	&__txt{
-		h2{
-			font-weight: 400;
-		}
-		p{
-			line-height: 1.9	;
-			font-size: 15px;
-		}
-	}
-	&>div>div>div:first-child{
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-	&>div>div>div:nth-child(2),&>div>div>div:nth-child(3){
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		margin: 40px 0;
-		@media only screen and (max-width: 992px) {
-			margin: 10px 0;
-		}
-	}
-	&__img1, &__img2{
-		width: 300px;
-		height: 230px;
-	}
-	&__img1{
-		background-image: url("../../assets/YoutubeProxy/s2_img1.jpg");
-	}
-	&__img2{
-		background-image: url("../../assets/YoutubeProxy/s2_img2.jpg");
-		height: 220px;
-		width: 240px;
-	}
-	&>div>div>div:last-child{
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
+.SectionYP3 {
+  padding: 50px 0;
+  &__txt {
+    h2 {
+      font-weight: 400;
+    }
+    p {
+      line-height: 1.9;
+      font-size: 15px;
+    }
+  }
+  & > div > div > div:first-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  & > div > div > div:nth-child(2),
+  & > div > div > div:nth-child(3) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+    @media only screen and (max-width: 992px) {
+      margin: 10px 0;
+    }
+  }
+  &__img1,
+  &__img2 {
+    width: 300px;
+    height: 230px;
+  }
+  &__img1 {
+    background-image: url("../../assets/YoutubeProxy/s2_img1.jpg");
+  }
+  &__img2 {
+    background-image: url("../../assets/YoutubeProxy/s2_img2.jpg");
+    height: 220px;
+    width: 240px;
+  }
+  & > div > div > div:last-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }

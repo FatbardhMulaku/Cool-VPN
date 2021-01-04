@@ -1,18 +1,21 @@
+import React from "react";
+import { FormattedMessage } from "react-intl";
+
 export const mainMenu = [
   {
     link: "support",
-    name: "Support",
+    name: <FormattedMessage id="Nav.mainMenu1" defaultMessage="Support" />,
   },
   {
     link: "blog",
-    name: "blog",
+    name: <FormattedMessage id="Nav.mainMenu2" defaultMessage="blog" />,
   },
   {
     link: "features",
-    name: "Features",
+    name: <FormattedMessage id="Nav.mainMenu3" defaultMessage="Features" />,
   },
   {
     link: "pricing",
-    name: "Pricing",
+    name: <FormattedMessage id="Nav.mainMenu4" defaultMessage="Pricing" />,
   },
 ];

@@ -8,7 +8,7 @@ function SectionRH4() {
   return (
     <LayoutContainer section="SectionRH4">
       <InfoTxt
-        txt="AffiliateSales.section_2"
+        txt="ResellerHistory.section_4"
         textAlign="center"
         color="black"
         margin="0px"
@@ -27,7 +27,7 @@ function SectionRH4() {
       </div>
 
       <InfoTxt
-        txt="AffiliateSales.section_2b"
+        txt="ResellerHistory.section_4b"
         textAlign="center"
         color="black"
         margin="20px 0 0 0"

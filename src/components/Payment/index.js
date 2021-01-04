@@ -11,7 +11,7 @@ function index() {
         <Botton
           link="/checkout/#"
           offsetBtn={-150}
-          txt="Payment.section_1.btn2"
+          txt="Payment.section_1.btn1"
           BGcolor="#fff"
           color="rgb(138, 138, 138)"
           margin="10px"
@@ -24,7 +24,7 @@ function index() {
         <Botton
           link="/checkout/#"
           offsetBtn={-150}
-          txt="Payment.section_1.btn1"
+          txt="Payment.section_1.btn2"
           BGcolor="#fff"
           color="#000"
           margin="10px"
@@ -163,7 +163,7 @@ function index() {
             <Botton
               link="/payment"
               offsetBtn={-150}
-              txt="RequestSupport.section_1.btn"
+              txt="Payment.section_1.btn3"
               BGcolor="#8878BF"
               color="#fff"
               margin="20px 0 0 0"

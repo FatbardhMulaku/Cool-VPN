@@ -11,7 +11,7 @@ function SectionFe5() {
         tr="Features.section_5"
         btnId="Features.section_5.btn"
         btnTxt="Read More"
-        linkBtn="SectionFe6"
+        link="SectionFe6"
         DfTitle="Protect & secure your WiFi connection"
         DfDesc="When you use a public WiFi hotspot, your entire browsing activity while connected to that hotspot could be monitored and spied on. It is very much possible that the next person sitting beside you can read your communication easily. Do you know, how easy it is for bad people to create devil twin WiFi Hotspots. Devil twin is like a mirror copy of the original WiFi, which confuses you, but in real it is a trap. When connected to public, unsecured WiFi network, most of your data - can be logged and monitored by almost anyone on the same network. With strong encryption and secure tunnelling, a VPN can help you improve your online security and make your IP invisible."
       />

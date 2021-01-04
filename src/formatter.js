@@ -2,10 +2,12 @@ exports.format = function (msgs) {
   const results = {};
   for (const [id, msg] of Object.entries(msgs)) {
     // const idr = id.replace(".string", "");
-    results[id] = {
+    /* results[id] = {
       string: msg.defaultMessage,
       comment: msg.description,
-    };
+    }; */
+    results[id] = msg.defaultMessage;
+
   }
   return results;
 };

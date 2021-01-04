@@ -16,7 +16,7 @@ function SectionFAQ2() {
         <Botton
           link="/faq/#"
           offsetBtn={-150}
-          txt="FAQ.section_2.btn1"
+          txt="FAQ.section_2.btn1a"
           BGcolor="#D57FAD"
           color="#fff"
           margin="10px"

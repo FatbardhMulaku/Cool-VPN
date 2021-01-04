@@ -1,39 +1,39 @@
 // Section 1
-.SectionFAQ1{
-	background-image: url("../../assets/FAQ/section1_bg.png");
-	background-size: 101% 100%;
-	background-attachment: scroll;
-	padding: 180px 0;
-	padding-bottom: 400px;
-	@media only screen and (max-width: 768px) {
-		background-size: cover;
-		padding-top: 130px;
-		padding-bottom: 250px;
-	}
-	&>div{
-		display: flex;
-		justify-content: flex-start;
-	}
+.SectionFAQ1 {
+  background-image: url("../../assets/FAQ/section1_bg.png");
+  background-size: 101% 100%;
+  background-attachment: scroll;
+  padding: 180px 0;
+  padding-bottom: 400px;
+  @media only screen and (max-width: 768px) {
+    background-size: cover;
+    padding-top: 130px;
+    padding-bottom: 250px;
+  }
+  & > div {
+    display: flex;
+    justify-content: flex-start;
+  }
 }
 // Section 2
-.SectionFAQ2{
-	margin-top: -70px;
-	padding-bottom: 20px;
-	&__btnBox{
-		padding: 20px;
-		display: flex;
-		flex-direction: column;
-		justify-content: flex-start;
-		align-items: center;
-		border: 1px solid #D57FAD;
-		border-radius: 15px;
-		height: 320px;
-		@media only screen and (max-width: 992px) {
-			flex-direction: row;
-			height: auto;
-			flex-wrap: wrap;
-			padding: 10px;
-			margin-bottom: 20px;
-		}
-	}
+.SectionFAQ2 {
+  margin-top: -70px;
+  padding-bottom: 20px;
+  &__btnBox {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid #d57fad;
+    border-radius: 15px;
+    height: 320px;
+    @media only screen and (max-width: 992px) {
+      flex-direction: row;
+      height: auto;
+      flex-wrap: wrap;
+      padding: 10px;
+      margin-bottom: 20px;
+    }
+  }
 }
