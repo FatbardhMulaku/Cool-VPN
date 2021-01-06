@@ -1,5 +1,5 @@
 import React from "react";
-import { FormattedMessage } from "react-intl";
+import { FormattedMessage, useIntl } from "react-intl";
 import "./_index.scss";
 import { makeStyles } from "@material-ui/core/styles";
 import { IoMdPerson } from "react-icons/io";
@@ -22,10 +22,21 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 function Login() {
+  const intl = useIntl();
   const classes = useStyles();
   const email = <HiOutlineMail className={classes.icon} />;
   const username = <IoMdPerson className={classes.icon} />;
   const password = <IoMdLock className={classes.icon} />;
+
+  const UsernamePlaceholder = intl.formatMessage({
+    id: "login.UsernamePlaceholder",
+    defaultMessage: "Username",
+  });
+  const PasswordPlaceholder = intl.formatMessage({
+    id: "login.PasswordPlaceholder",
+    defaultMessage: "Password",
+  });
+
   return (
     <div className="Login bg">
       <div className="login_wrapper container">
@@ -77,7 +88,7 @@ function Login() {
               <div className="col-12 col-sm-6">
                 <InputLogin
                   type="text"
-                  placeholder="Username"
+                  placeholder={UsernamePlaceholder}
                   icon={username}
                 />
               </div>
@@ -87,7 +98,7 @@ function Login() {
             </div>
             <InputLogin
               type="password"
-              placeholder="Password"
+              placeholder={PasswordPlaceholder}
               icon={password}
             />
           </div>

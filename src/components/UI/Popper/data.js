@@ -3,7 +3,9 @@ import { FormattedMessage } from "react-intl";
 
 export const whatIsVPN = [
   {
-    title: "Benefits",
+    title: (
+      <FormattedMessage id="Nav.whatIsVPN.title1" defaultMessage="Benefits" />
+    ),
     items: [
       {
         link: "browse-anonymously",
@@ -41,7 +43,9 @@ export const whatIsVPN = [
     ],
   },
   {
-    title: "Features",
+    title: (
+      <FormattedMessage id="Nav.whatIsVPN.title2" defaultMessage="Features" />
+    ),
     items: [
       {
         link: "our-network",
@@ -118,7 +122,12 @@ export const whatIsVPN = [
 
 export const Product = [
   {
-    title: "Desktops & Laptops",
+    title: (
+      <FormattedMessage
+        id="Nav.Product.title1"
+        defaultMessage="Desktops & Laptops"
+      />
+    ),
     items: [
       {
         link: "/download",
@@ -135,7 +144,12 @@ export const Product = [
     ],
   },
   {
-    title: "Simartphones & Tablets",
+    title: (
+      <FormattedMessage
+        id="Nav.Product.title2"
+        defaultMessage="Smartphones & Tablets"
+      />
+    ),
     items: [
       {
         link: "/download",
@@ -148,7 +162,12 @@ export const Product = [
     ],
   },
   {
-    title: "Home & Office Networking",
+    title: (
+      <FormattedMessage
+        id="Nav.Product.title3"
+        defaultMessage="Home & Office Networking"
+      />
+    ),
     items: [
       {
         link: "vpn-setup-fedora",
@@ -157,7 +176,12 @@ export const Product = [
     ],
   },
   {
-    title: "Browser Extensions",
+    title: (
+      <FormattedMessage
+        id="Nav.Product.title4"
+        defaultMessage="Browser Extensions"
+      />
+    ),
     items: [
       {
         link: "/download",
@@ -170,7 +194,7 @@ export const Product = [
     ],
   },
   {
-    title: "Tools",
+    title: <FormattedMessage id="Nav.Product.title5" defaultMessage="Tools" />,
     items: [
       {
         link: "hide-my-location",
@@ -205,3 +229,11 @@ export const Product = [
     ],
   },
 ];
+
+export const DropDown1 = (
+  <FormattedMessage id="Nav.DropDown1" defaultMessage="What Is VPN?" />
+);
+
+export const DropDown2 = (
+  <FormattedMessage id="Nav.DropDown2" defaultMessage="Products" />
+);

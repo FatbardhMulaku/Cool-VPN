@@ -1,9 +1,9 @@
 .activeMobile {
-  color: #000 !important;
+  color: rgb(255, 255, 255) !important;
 }
 .link {
   text-transform: capitalize;
-  color: #757575;
+  color: #cecece;
   font-size: 1.2rem !important;
   line-height: 1.3rem !important;
   font-family: "Source Sans Pro", sans-serif;
@@ -12,11 +12,11 @@
 }
 .link:hover,
 .link:focus {
-  color: #8d8d8d;
+  color: #ffffff;
 }
 
 .subMenu_text {
-  background-color: #fff;
+  background-color: rgb(179, 59, 59);
   color: white;
   padding: 5px 9px;
   margin: 1px 0;
@@ -28,7 +28,7 @@
 }
 .activeMobile_2 {
   /* color: cornflowerblue !important; */
-  background-color: #000000;
+  background-color: #fff;
 }
 @media only screen and (max-width: 992px) {
   

@@ -1,15 +1,12 @@
 import React from "react";
 import PopperBox from "../PopperBox";
-import { useTranslation } from "react-i18next";
 import GroupList from "../GroupList";
-import { whatIsVPN } from "../data";
+import { whatIsVPN, DropDown1 } from "../data";
 
 const Industries = (props) => {
-  const { t } = useTranslation();
-
   return (
     <PopperBox
-      name={t("whatIsVPN.name")}
+      name={DropDown1}
       trigger={props.trigger}
       width="570px"
       className="DesctopFull_pannel"

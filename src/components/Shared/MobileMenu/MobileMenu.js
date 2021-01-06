@@ -2,26 +2,38 @@ import React, { useState } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { Drawer, List, Divider, IconButton } from "@material-ui/core";
 import ChevronRightIcon from "@material-ui/icons/ChevronRight";
-import { useTranslation } from "react-i18next";
 import "./MobileMenu.css";
 import MobileMenuItem from "./MobileMenuItem";
 import Item1 from "../MobileMenu/item1";
 import Item2 from "../MobileMenu/Item2";
 import { mainMenu } from "../Navigation/data";
+import {DropDown1,DropDown2} from "../../UI/Popper/data";
 
 const useStyles = makeStyles((theme) => ({
   drawer: {
+    padding:"100px 0",
     "& > .MuiDrawer-paper": {
-      width: "225px !important",
+      width: "285px !important",
+      backgroundColor: "#2D2E2D",
     },
+    "& > .makeStyles-drawer-122 ":{
+      backgroundColor: "#2D2E2D",
+    }
   },
   drawerHeader: {
     display: "flex",
     alignItems: "center",
-    backgroundColor: "#696869",
+    backgroundColor: "#2D2E2D",
     padding: theme.spacing(0, 1),
     ...theme.mixins.toolbar,
     justifyContent: "flex-start",
+    color:"white",
+    "& >.MuiIconButton-label":{
+      color:"white"
+   },
+   "& > .MuiIconButton-root":{
+    color:"white"
+ },
     "& > button": {
       outline: "none",
     },
@@ -29,7 +41,8 @@ const useStyles = makeStyles((theme) => ({
   list: {
     display: "flex",
     flexFlow: "column",
-    backgroundColor: "#696869",
+    backgroundColor: "#2D2E2D",
+    padding:"20px 0",
     "& >div:nth-child(2)": {
       order: "1 !important",
     },
@@ -37,10 +50,14 @@ const useStyles = makeStyles((theme) => ({
       order: "2 !important",
     },
   },
+  ddivider:{
+    backgroundColor:"white",
+    color:"white",
+    height:"2px"
+  }
 }));
 const MobileMenu = (props) => {
-  const classes = useStyles();
-  const { t } = useTranslation();
+  const classes = useStyles(props);
   const [expanded, setExpanded] = useState(false);
 
   const handleChange = (panel) => (event, isExpanded) => {
@@ -56,11 +73,11 @@ const MobileMenu = (props) => {
       transitionDuration={1200}
     >
       <div className={classes.drawerHeader}>
-        <IconButton onClick={props.drawerToggle}>
-          <ChevronRightIcon />
+        <IconButton onClick={props.drawerToggle} className={classes.headIcon}>
+          <ChevronRightIcon className={classes.headIcon}/>
         </IconButton>
       </div>
-      <Divider />
+      <Divider className={classes.ddivider}/>
       <List className={classes.list}>
         {mainMenu.map(({ link, name }, index) => (
           <MobileMenuItem
@@ -72,7 +89,7 @@ const MobileMenu = (props) => {
         ))}
         <Item1
           key={1}
-          name={t("whatIsVPN.name")}
+          name={DropDown1}
           drawerToggle={props.drawerToggle}
           panel="whatIsVPN"
           expanded={expanded}
@@ -80,7 +97,7 @@ const MobileMenu = (props) => {
         />
         <Item2
           key={2}
-          name={t("Product.name")}
+          name={DropDown2}
           drawerToggle={props.drawerToggle}
           panel="Product"
           expanded={expanded}

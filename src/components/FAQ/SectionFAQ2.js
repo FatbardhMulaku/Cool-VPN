@@ -32,7 +32,7 @@ function SectionFAQ2() {
             key={idx}
             link="/faq/#"
             offsetBtn={-150}
-            txt={`FAQ.section_2.btn${idx + 2}`}
+            txt={`FAQ.section_2.btn${idx + 1}`}
             BGcolor="#fff"
             color="#000"
             margin="10px"

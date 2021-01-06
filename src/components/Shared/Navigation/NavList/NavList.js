@@ -3,8 +3,8 @@ import "./styles/NavList.css";
 import "./styles/NavigationLink.css";
 import NavigationLink from "./NavigationLink";
 /* import useScrollTrigger from "@material-ui/core/useScrollTrigger"; */
-import IndustriesDropdown from "../../../UI/Popper/Industries/Industries";
-import AboutDropdown from "../../../UI/Popper/About/About";
+import DropDown1 from "../../../UI/Popper/Industries/Industries";
+import DropDown2 from "../../../UI/Popper/About/About";
 import { mainMenu } from "./../data";
 
 function NavList(props) {
@@ -20,8 +20,8 @@ function NavList(props) {
       <ul>
       {/* <IndustriesDropdown trigger={trigger} />
         <AboutDropdown trigger={trigger} /> */}
-        <IndustriesDropdown  />
-        <AboutDropdown />
+        <DropDown1  />
+        <DropDown2 />
         {mainMenu.map(({ link, name }, index) => (
           <NavigationLink link={`/${link}`} key={index}  CTXT={props.ColorTXT}>
             {name}

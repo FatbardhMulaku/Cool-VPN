@@ -17,7 +17,7 @@ function SectionVPNb2() {
       />
 
       <ImgTxt
-        id="VPNbussines.section2a"
+        txt="VPNbussines.section2a"
         textAlign="center"
         box="ImgTxt__box"
         box2="ImgTxt__box1"
@@ -29,7 +29,7 @@ function SectionVPNb2() {
       />
 
       <ImgTxt
-        id="VPNbussines.section2b"
+        txt="VPNbussines.section2b"
         textAlign="center"
         box1="ImgTxt__box1"
         box="ImgTxt__box"
@@ -41,7 +41,7 @@ function SectionVPNb2() {
       />
 
       <ImgTxt
-        id="VPNbussines.section2c"
+        txt="VPNbussines.section2c"
         textAlign="center"
         box="ImgTxt__box"
         box2="ImgTxt__box1"

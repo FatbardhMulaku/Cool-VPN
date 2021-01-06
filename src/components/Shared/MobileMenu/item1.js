@@ -17,7 +17,7 @@ const useStyles = makeStyles((theme) => ({
     width: "100%",
     boxShadow: "none",
     margin: "0 !important",
-    backgroundColor: "#696869",
+    backgroundColor: "#2D2E2D",
     "&:before": {
       height: "0",
     },
@@ -31,7 +31,8 @@ const useStyles = makeStyles((theme) => ({
   },
   accSummary: {
     padding: "4px 10px",
-    backgroundColor: "#fff",
+    backgroundColor: "#2D2E2D",
+    borderBottom:"1px solid #fff",
     "& > .MuiAccordionSummary-content": {
       margin: "0",
     },
@@ -56,16 +57,19 @@ const useStyles = makeStyles((theme) => ({
     padding: "5px 10px",
   },
   listText: {
-    backgroundColor: "#fff !important",
+    backgroundColor: "#000 !important",
   },
   subpanel: {
-    backgroundColor: "#fff",
-    color: "black",
+    backgroundColor: "#000",
+    color: "white",
   },
   subtitle: {
     fontWeight: "Bold",
     marginLeft: "2px",
   },
+  headIcon:{
+    color:"white"
+  }
 }));
 
 const Item1 = (props) => {
@@ -80,7 +84,7 @@ const Item1 = (props) => {
         <ListItemText className={classes.listText}>
           <AccordionSummary
             className={classes.accSummary}
-            expandIcon={<ExpandMoreIcon />}
+            expandIcon={<ExpandMoreIcon className={classes.headIcon}/>}
             aria-controls={props.name}
             id={props.name}
           >
