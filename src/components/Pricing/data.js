@@ -258,7 +258,7 @@ export const Faqs = [
     desc: (
       <FormattedMessage
         id="Pricing.section_3.desc.id1"
-        defaultMessage="We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+        defaultMessage=" We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
       />
     ),
   },
@@ -272,7 +272,7 @@ export const Faqs = [
     desc: (
       <FormattedMessage
         id="Pricing.section_3.desc.id2"
-        defaultMessage="We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+        defaultMessage=" We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
       />
     ),
   },
@@ -286,7 +286,7 @@ export const Faqs = [
     desc: (
       <FormattedMessage
         id="Pricing.section_3.desc.id3"
-        defaultMessage="We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+        defaultMessage=" We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
       />
     ),
   },
@@ -300,7 +300,7 @@ export const Faqs = [
     desc: (
       <FormattedMessage
         id="Pricing.section_3.desc.id4"
-        defaultMessage="We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+        defaultMessage=" We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
       />
     ),
   },
@@ -314,7 +314,7 @@ export const Faqs = [
     desc: (
       <FormattedMessage
         id="Pricing.section_3.desc.id5"
-        defaultMessage="We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
+        defaultMessage=" We offer a risk-free way to try CoolVPN for 30 days. Sign up for CoolVPN and enjoy the full-featured service with no restrictions. Within 30 days, choose whether to stay secure or contact our support for a full refund. For guidelines, visit our Help Center."
       />
     ),
   },

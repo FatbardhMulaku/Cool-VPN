@@ -55,19 +55,6 @@ export const FooterLinks = [
         link: "/blog",
         name: <FormattedMessage id="footer.CoolVPN8" defaultMessage="Blog" />,
       },
-      {
-        link: "/VPN-setup-Step",
-        name: (
-          <FormattedMessage
-            id="footer.CoolVPN9"
-            defaultMessage="VPN Setup Step"
-          />
-        ),
-      },
-      {
-        link: "/api",
-        name: <FormattedMessage id="footer.CoolVPN10" defaultMessage="API" />,
-      },
     ],
   },
   {
@@ -122,21 +109,7 @@ export const FooterLinks = [
           <FormattedMessage id="footer.AboutUS8" defaultMessage="Our Team" />
         ),
       },
-      {
-        link: "/request-support",
-        name: (
-          <FormattedMessage
-            id="footer.AboutUS9"
-            defaultMessage="Request Support"
-          />
-        ),
-      },
-      {
-        link: "/imprint",
-        name: (
-          <FormattedMessage id="footer.AboutUS10" defaultMessage="Imprint" />
-        ),
-      },
+
     ],
   },
   {
@@ -185,24 +158,6 @@ export const FooterLinks = [
         ),
       },
       {
-        link: "/anonymous-ip-address",
-        name: (
-          <FormattedMessage
-            id="footer.EarnMoney6"
-            defaultMessage="Anonymous IP address"
-          />
-        ),
-      },
-      {
-        link: "/latest-vpn-protocols",
-        name: (
-          <FormattedMessage
-            id="footer.EarnMoney7"
-            defaultMessage="Latest VPN protocols"
-          />
-        ),
-      },
-      {
         link: "/affiliate-sales",
         name: (
           <FormattedMessage
@@ -229,6 +184,58 @@ export const FooterLinks = [
           />
         ),
       },
+    ],
+  },
+  {
+    title: "Infos",
+    items: [
+      {
+        link: "/request-support",
+        name: (
+          <FormattedMessage
+            id="footer.Infos1"
+            defaultMessage="Request Support"
+          />  
+        ),
+      },
+      {
+        link: "/VPN-setup-Step",
+        name: (
+          <FormattedMessage
+            id="footer.Infos2"
+            defaultMessage="VPN Setup Step"
+          />
+        ),
+      },
+      {
+        link: "/anonymous-ip-address",
+        name: (
+          <FormattedMessage
+            id="footer.Infos3"
+            defaultMessage="Anonymous IP address"
+          />
+        ),
+      },
+      {
+        link: "/latest-vpn-protocols",
+        name: (
+          <FormattedMessage
+            id="footer.Infos4"
+            defaultMessage="Latest VPN protocols"
+          />
+        ),
+      },
+      {
+        link: "/imprint",
+        name: (
+          <FormattedMessage id="footer.Infos5" defaultMessage="Imprint" />
+        ),
+      },
+      {
+        link: "/api",
+        name: <FormattedMessage id="footer.Infos6" defaultMessage="API" />,
+      },
+
     ],
   },
 ];

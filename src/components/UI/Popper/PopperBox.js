@@ -57,7 +57,7 @@ const PopperBox = (props) => {
         >
           {props.name}
           <span className="icon_dropdown">
-            {open ? <RiArrowDropUpLine /> : <RiArrowDropDownLine />}
+            {open ? <RiArrowDropUpLine size="35"/> : <RiArrowDropDownLine size="35"/>}
           </span>
         </button>
       </li>

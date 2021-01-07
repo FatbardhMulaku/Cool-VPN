@@ -1,8 +1,13 @@
 import React from "react";
 import LayoutGrid from "../LayoutGrid";
-import { FormattedMessage } from "react-intl";
+import { FormattedMessage, useIntl } from "react-intl";
 
 function SectionF1() {
+  const intl = useIntl();
+  const Placeholder = intl.formatMessage({
+    id: "footer.Placeholder",
+    defaultMessage: "Enter your email address",
+  });
   return (
     <LayoutGrid section="SectionF1" row="justify-content-around">
       <div className="subscribe_container">
@@ -13,7 +18,7 @@ function SectionF1() {
           />
         </h3>
         <form className="subscribe justify-content-center">
-          <input type="email" placeholder="Enter your email address" required />
+          <input type="email" placeholder={Placeholder} required />
           <button type="submit">
             <FormattedMessage
               id="footer.subscribe.name"

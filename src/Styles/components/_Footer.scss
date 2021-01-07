@@ -168,7 +168,7 @@
 
 // =========== Section 2 ============
 .SectionF2{
-	padding: 60px 0 20px 0;
+	padding: 100px 0 20px 0 !important;
 	background-color: #2D2E2D;
 }
 .SectionF2 .row{
@@ -182,7 +182,7 @@
 	padding: 0 100px;
 }
 .SectionF2 > div > div:last-child{
-	padding: 0 50px;
+	padding: 0px;
 }
 .footer-list {
 	padding: 0;
@@ -302,7 +302,9 @@
 	
 	.SectionF2 > div > div:nth-child(1),
 	.SectionF2 > div > div:nth-child(2),
-	.SectionF2 > div > div:nth-child(3){
+	.SectionF2 > div > div:nth-child(3),
+	.SectionF2 > div > div:nth-child(4),
+	.SectionF2 > div > div:nth-child(5){
 		text-align: center !important;
 	}
 	.footer-logo {

@@ -1,9 +1,14 @@
 import React from "react";
 import LayoutGrid from "../Shared/LayoutGrid";
-import { FormattedMessage } from "react-intl";
+import { FormattedMessage, useIntl } from "react-intl";
 import Fade from "react-reveal/Fade";
 
 function SectionS1() {
+  const intl = useIntl();
+  const Placeholder = intl.formatMessage({
+    id: "Support.section_1.Placeholder",
+    defaultMessage: "Type your question here..",
+  });
   return (
     <LayoutGrid section="SectionS1" id="sectionS-1">
       <Fade top big>
@@ -17,7 +22,7 @@ function SectionS1() {
           <form className="SectionS1_box justify-content-center">
             <input
               type="text"
-              placeholder="Type your question here.."
+              placeholder={Placeholder}
               required
             />
             <button type="submit">

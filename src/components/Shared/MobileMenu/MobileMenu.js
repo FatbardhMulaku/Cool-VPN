@@ -54,6 +54,10 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor:"white",
     color:"white",
     height:"2px"
+  },
+  title:{
+    textAlign:"center !important",
+    color:"white"
   }
 }));
 const MobileMenu = (props) => {
@@ -75,8 +79,10 @@ const MobileMenu = (props) => {
       <div className={classes.drawerHeader}>
         <IconButton onClick={props.drawerToggle} className={classes.headIcon}>
           <ChevronRightIcon className={classes.headIcon}/>
+          
         </IconButton>
       </div>
+      <h4 className={classes.title}>CoolVPN</h4>
       <Divider className={classes.ddivider}/>
       <List className={classes.list}>
         {mainMenu.map(({ link, name }, index) => (

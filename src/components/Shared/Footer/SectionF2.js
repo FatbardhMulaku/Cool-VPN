@@ -24,7 +24,7 @@ function SectionF2() {
           <MenuListFooter key={index} title={item.title} list={item.items} />
         ))}
 
-        <div className="col-sm-12 col-md-6 col-lg-3 footer-logo">
+        <div className="col-sm-12 col-md-6 col-lg-2 footer-logo">
           <Logo logo="white_logo" text="col_white" />
 
           <ul className="footer-list ">
@@ -62,7 +62,7 @@ function SectionF2() {
 			</h2>
 			<SocialMedia />
 			</div> */}
-      <div className="row mt-5 mt-sm-3">
+      <div className="row mt-5">
         <div className="footer-bottom text-white col-sm-12 col-lg-8">
           <h6 className="alRight align-items-center">
             <i>

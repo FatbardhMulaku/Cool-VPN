@@ -61,7 +61,7 @@ function Faq(props) {
           <Typography className={classes.question}>{props.question}</Typography>
           <div className="Faq__box">
             <div className={`${props.icon} bg ${classes.img}`}></div>
-            <h5>&#9679;{props.name}</h5>
+            <h5>&#9679; {props.name}</h5>
           </div>
         </AccordionSummary>
         <AccordionDetails className={classes.detalShow}>
