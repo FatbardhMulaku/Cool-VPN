@@ -93,13 +93,13 @@ function SectionH4() {
                 link="/checkout"
                 offsetBtn={-150}
                 txt={`Pricing.section_1.btn.id${index + 1}`}
-                BGcolor="#2D2E2D"
+                BGcolor="#E2217F"
                 color="#fff"
                 HoverBGcolor="transparent"
-                HoverColor="#2D2E2D"
-                border="1px solid black"
+                HoverColor="#E2217F"
+                border="1px solid #E2217F"
                 DfBtn={btnTxt}
-                HoverBorder="1px solid #2D2E2D"
+                HoverBorder="1px solid #E2217F"
               />
               <p>{save}</p>
             </div>

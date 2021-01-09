@@ -415,11 +415,14 @@
 .SectionH4__box {
   background-color: white;
   width: 320px;
-  border: 1px solid black;
+  border: 1px solid #2D2E2D;
   margin: 20px;
   padding: 20px 30px 5px 30px;
   border-radius: 20px;
   transition-duration: 0.5s;
+}
+.Price_icon{
+  fill:"red"
 }
 .SectionH4__box:hover {
   transform: scale(1.05);
@@ -478,6 +481,9 @@
 .SectionH4__box > h2 {
   text-align: center;
   margin: 30px 0;
+}
+.SectionH4__box > h4 {
+ color: #E2217F;
 }
 .SectionH4__box > a {
   text-align: center;

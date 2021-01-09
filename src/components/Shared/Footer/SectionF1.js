@@ -17,7 +17,7 @@ function SectionF1() {
             defaultMessage="Join over 30k users, who use our service"
           />
         </h3>
-        <form className="subscribe justify-content-center">
+        <form className="subscribe">
           <input type="email" placeholder={Placeholder} required />
           <button type="submit">
             <FormattedMessage
