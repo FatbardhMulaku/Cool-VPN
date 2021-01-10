@@ -8,7 +8,7 @@ export const whatIsVPN = [
     ),
     items: [
       {
-        link: "browse-anonymously",
+        link: "anonymous-ip-address",
         name: (
           <FormattedMessage
             id="Nav.whatIsVPN1"
@@ -17,7 +17,7 @@ export const whatIsVPN = [
         ),
       },
       {
-        link: "unblock-websites",
+        link: "free-proxy-list",
         name: (
           <FormattedMessage
             id="Nav.mainMenu2a"
@@ -26,7 +26,7 @@ export const whatIsVPN = [
         ),
       },
       {
-        link: "unlimited-streaming",
+        link: "servers",
         name: (
           <FormattedMessage
             id="Nav.mainMenu3b"
