@@ -6,11 +6,8 @@ import { Link } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
   subpanel: {
-    backgroundColor: "#2D2E2D",
+    backgroundColor: "#222222",
     color: "#fff",
-    borderBottom:"1px solid rgb(80, 80, 80)",
-    borderRight:"1px solid rgb(80, 80, 80)",
-    borderLeft:"1px solid rgb(80, 80, 80)",
   },
   subtitle: {
     fontWeight: "Bold",

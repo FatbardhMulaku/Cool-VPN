@@ -32,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
   accSummary: {
     padding: "4px 10px",
     backgroundColor: "#2D2E2D",
-    borderBottom:"1px solid #fff",
+    borderBottom:"1px solid rgba(255, 255, 255, 0.455)",
     "& > .MuiAccordionSummary-content": {
       margin: "0",
     },

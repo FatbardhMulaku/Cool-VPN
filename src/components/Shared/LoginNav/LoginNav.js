@@ -6,6 +6,11 @@ import { FormattedMessage } from "react-intl";
 import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles((theme) => ({
+/*   root:{
+    [theme.breakpoints.down("lg")]: {
+      display:"none"
+    },
+  }, */
   klasa1: {
     backgroundColor: "transparent",
     padding: "8px 15px",
@@ -83,7 +88,7 @@ const LoginNav = (props) => {
   });
 
   return (
-    <div>
+    <div className="LoginNav">
       <ul className="nav-login p-0 my-auto">
         <li className={trigger ? classes.klasa1a : classes.klasa1}>
           <Route

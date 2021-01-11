@@ -44,7 +44,11 @@
   background: white;
   color: black;
 }
-
+@media (max-width: 1200px) {
+  .LoginNav{
+    display: none !important;
+  }
+}
 @media (max-width: 576px) {
   .nav-login {
     width: 100%;

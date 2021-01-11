@@ -9,7 +9,7 @@ const useStyles = makeStyles({
     padding: "5px 10px",
   },
   listText: {
-    borderBottom:"1px solid #fff",
+    borderBottom:"1px solid rgba(255, 255, 255, 0.455)",
     color:"white",
     padding: "5px 10px",
   },
