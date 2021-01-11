@@ -19,7 +19,6 @@
 .industries_popper_container > div > h6 {
   color: black;
   font-weight: 600;
-  background-color: #222222;
 }
 
 .industries_popper_infoMobile, .industries_popper_infoDesktop{
@@ -29,7 +28,7 @@
   padding: 0;
 }
 .industries_popper_infoMobile{
-  padding-bottom: 5px;
+  padding-bottom: 5xpx;
 }
 .industries_popper_infoMobile li, .industries_popper_infoDesktop li{
   list-style: none;

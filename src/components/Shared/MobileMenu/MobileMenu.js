@@ -10,7 +10,6 @@ import Item1 from "../MobileMenu/item1";
 import Item2 from "../MobileMenu/Item2";
 import { mainMenu } from "../Navigation/data";
 import { DropDown1, DropDown2 } from "../../UI/Popper/data";
-import LinkNav from "../LoginNav/LoginNav";
 
 const useStyles = makeStyles((theme) => ({
   drawer: {
