@@ -1,6 +1,7 @@
 import React from "react";
 import TextInfo from "../Shared/Text/TextInfoNew";
 import { ServerTypes } from "./data";
+import Fade from "react-reveal/Fade";
 
 function SectionSv4() {
   return (
@@ -14,16 +15,17 @@ function SectionSv4() {
         DfTitle="Specialty Server Types"
         DfDesc="Choose servers optimized for your individual needs "
       />
-
-      <div className="row justify-content-center">
-        {ServerTypes.map(({ title, desc }, index) => (
-          <div key={index} className="SectionSv4__box">
-            <div className={`SectionSv4__box--icon${index + 1} bg`} />
-            <h5>{title}</h5>
-            <p>{desc}</p>
-          </div>
-        ))}
-      </div>
+      <Fade bottom cascade>
+        <div className="row justify-content-center">
+          {ServerTypes.map(({ title, desc }, index) => (
+            <div key={index} className="SectionSv4__box">
+              <div className={`SectionSv4__box--icon${index + 1} bg`} />
+              <h5>{title}</h5>
+              <p>{desc}</p>
+            </div>
+          ))}
+        </div>
+      </Fade>
     </div>
   );
 }

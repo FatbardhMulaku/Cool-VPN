@@ -18,10 +18,10 @@ function SectionPd5() {
 
       <div className="row justify-content-center">
         {Software.map(({ title }, idx) => (
-          <div className="SectionPd5__box shadow" key={idx}>
-            <div className={`SectionPd5__box__img${idx + 1} bg`} />
-            <h6>{title}</h6>
-          </div>
+            <div className="SectionPd5__box shadow" key={idx}>
+              <div className={`SectionPd5__box__img${idx + 1} bg`} />
+              <h6>{title}</h6>
+            </div>
         ))}
       </div>
     </LayoutContainer>

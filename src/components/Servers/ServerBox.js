@@ -1,6 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { BoxTitles, Item1, Item2, Item3, Item4 } from "./data";
+import Fade from 'react-reveal/Fade';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -88,6 +89,7 @@ function ServerBox(props) {
   ];
 
   return (
+    <Fade bottom cascade>
     <div className="SectionSv2">
       <h4 className={classes.title}>{subTitles[props.NrBox]}</h4>
       <div className="row">
@@ -119,6 +121,7 @@ function ServerBox(props) {
         <div className={`${classes.box1} ${props.box2}`}></div>
       </div>
     </div>
+    </Fade>
   );
 }
 

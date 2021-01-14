@@ -1,4 +1,5 @@
 import React from "react";
+import Roll from 'react-reveal/Roll';
 import { FormattedMessage } from "react-intl";
 import LayoutContainer from "../Shared/LayoutContainer";
 import { Steps } from "./data";
@@ -12,6 +13,7 @@ function SectionPd4() {
           defaultMessage="How to download a VPN app in 3 steps"
         />
       </h3>
+      <Roll cascade>
       <div className="row justify-content-center">
         {Steps.map(({ title }, idx) => (
           <div className="SectionPd4__box " key={idx}>
@@ -25,6 +27,7 @@ function SectionPd4() {
           </div>
         ))}
       </div>
+      </Roll>
     </LayoutContainer>
   );
 }

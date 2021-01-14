@@ -1,9 +1,11 @@
 import React from "react";
+import Zoom from "react-reveal/Zoom";
 import { FormattedMessage } from "react-intl";
 
 function SectionWV5() {
   return (
     <div className="SectionWV5 bg">
+      <Zoom>
       <div className="SectionWV5__wrapper container">
         <h3>
           <FormattedMessage
@@ -26,6 +28,7 @@ function SectionWV5() {
           </div>
         </div>
       </div>
+      </Zoom>
     </div>
   );
 }

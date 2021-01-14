@@ -2743,6 +2743,7 @@
   height: 300px;
   padding: 25px;
   margin: 2px;
+  transition: all 0.3s ease-in;
 }
 
 @media only screen and (max-width: 400px) {
@@ -2765,7 +2766,9 @@
   background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../assets/Pricing/section2_img3.jpg");
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../assets/Pricing/section2_img3.jpg");
 }
-
+.SectionPr2__img1:hover, .SectionPr2__img2:hover, .SectionPr2__img3:hover{
+  transform: translateY(-10px);
+}
 .SectionPr2__icon1, .SectionPr2__icon2, .SectionPr2__icon3 {
   width: 50px;
   height: 50px;
@@ -4404,6 +4407,13 @@
   cursor: pointer;
   -webkit-transition-duration: 0.5s;
           transition-duration: 0.5s;
+}
+@media only screen and (max-width: 768px) {
+  .SectionWV2__img1, .SectionWV2__img2{
+    width: 300px;
+    height: 180px;
+  }
+  
 }
 
 .SectionWV2__img2:hover {

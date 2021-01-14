@@ -1,6 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { FormattedMessage } from "react-intl";
+import Fade from 'react-reveal/Fade';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -32,6 +33,7 @@ const useStyles = makeStyles((theme) => ({
 function ImgTxt(props) {
   const classes = useStyles(props);
   return (
+    <Fade bottom big cascade>
     <div className={`ImgTxt row`}>
       <div className={`${classes.box1} ${props.box1}`}></div>
       {/* ImgTxt__box1 */}
@@ -60,6 +62,7 @@ function ImgTxt(props) {
       </div>
       <div className={`${classes.box1} ${props.box2}`}></div>
     </div>
+    </Fade>
   );
 }
 

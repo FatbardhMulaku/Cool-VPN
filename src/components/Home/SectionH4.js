@@ -82,7 +82,7 @@ function SectionH4() {
           defaultMessage="The best deal of the year!"
         />
       </h2>
-      <Zoom cascade>
+      <Zoom >
         <div className="row justify-content-center">
           {Pricing.map(({ title, price, btnTxt, save }, index) => (
             <div key={index} className="SectionH4__box">

@@ -1,4 +1,5 @@
 import React from "react";
+import Fade from "react-reveal/Fade";
 import { FormattedMessage } from "react-intl";
 import { forCards } from "./data";
 import LayoutContainer from "../Shared/LayoutContainer";
@@ -13,17 +14,19 @@ function SectionWV8() {
           defaultMessage="Why CoolVPN?"
         />
       </h3>
-      <div className="row">
-        {forCards.map(({ title, desc }, idx) => (
-          <div className="SectionWV8--box shadow" key={idx}>
-            <div className={`SectionWV8--box__img${idx + 1} bg`} />
-            <div>
-              <h5>{title}</h5>
-              <p>{desc}</p>
+      <Fade bottom big cascade>
+        <div className="row justify-content-center">
+          {forCards.map(({ title, desc }, idx) => (
+            <div className="SectionWV8--box shadow" key={idx}>
+              <div className={`SectionWV8--box__img${idx + 1} bg`} />
+              <div>
+                <h5>{title}</h5>
+                <p>{desc}</p>
+              </div>
             </div>
-          </div>
-        ))}
-      </div>
+          ))}
+        </div>
+      </Fade>
       <div>
         <Botton
           link="/"

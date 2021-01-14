@@ -119,7 +119,7 @@ function SectionPr1(props) {
             ))}
           </div>
         </Fade>
-        <Zoom cascade>
+        <Zoom >
           <div className="row justify-content-center">
 			  
             {Pricing.map(({ title, price, btnTxt, save }, index) => (

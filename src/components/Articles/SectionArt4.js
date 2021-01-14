@@ -1,10 +1,12 @@
 import React from "react";
+import Zoom from 'react-reveal/Zoom';
 import LayoutGrid from "../Shared/LayoutGrid";
 import { FormattedMessage } from "react-intl";
 
 function SectionArt4() {
   return (
     <LayoutGrid section="SectionArt4 bg" row="justify-content-center">
+       <Zoom cascade>
       <div className="col-sm-12 col-lg-4 my-3">
         <h3>
           <FormattedMessage
@@ -29,6 +31,7 @@ function SectionArt4() {
           />
         </p>
       </div>
+      </Zoom>
     </LayoutGrid>
   );
 }

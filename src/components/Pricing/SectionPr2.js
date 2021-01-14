@@ -16,7 +16,7 @@ function SectionPr2() {
         DfDesc="Encrypts your internet connection, and allows you to browse the internet anonymously. Unblock popular websites where you live"
       />
 
-      <Zoom cascade>
+      <Zoom >
         <div className="row justify-content-center mt-5">
           {CardList.map(({ title, desc }, index) => (
             <div key={index} className={`SectionPr2__img${index + 1} bg`}>

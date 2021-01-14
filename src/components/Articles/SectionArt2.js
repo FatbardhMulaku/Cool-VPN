@@ -1,4 +1,5 @@
 import React from "react";
+import Zoom from "react-reveal/Zoom";
 import LayoutGrid from "../Shared/LayoutGrid";
 import { FormattedMessage } from "react-intl";
 
@@ -17,19 +18,21 @@ function SectionArt2() {
           />
         </h5>
       </div>
-      <div className="col-12 SectionArt2__s2">
-        <p>
-          <FormattedMessage
-            id="Product.section_2.desc2"
-            defaultMessage="The Coinbase exchange will allow individuals and companies to do business in about 
+      <Zoom >
+        <div className="col-12 SectionArt2__s2">
+          <p>
+            <FormattedMessage
+              id="Product.section_2.desc2"
+              defaultMessage="The Coinbase exchange will allow individuals and companies to do business in about 
 					half the states in the US where the company has regulatory approval. It will take a 
 					0.25 percent cut of most transactions and waive fees for the first two months.
 					Coinbase currently has 2.1 million consumer wallets and 38,000 merchants 
 					processing Bitcoin payments through its platform. The company received $75 
 					million in funding."
-          />
-        </p>
-      </div>
+            />
+          </p>
+        </div>
+      </Zoom>
     </LayoutGrid>
   );
 }
